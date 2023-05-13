@@ -1,0 +1,57 @@
+158
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+H
+Horror-out-the-Box
+“The motley-clad creature’s spindly arms and legs flail 
+wildly as it dashes toward the shrieking child.”
+Fey Oddity
+. A fey creature of mischief rather than 
+menace, the horror-out-the-box is so named because of its 
+oddly shaped and distended legs and arms, the colors of 
+its garments along its limbs resembling pleating like a 
+child’s toy, as well as its face, colored like a jester wearing 
+a domino mask.
+A horror-out-the-box prefers to remain in areas with 
+a strong fey presence, but outside of such environs it can 
+be found in urban areas, where it might easily find its 
+chaotic amusement.
+Merry Pranksters
+. Though the horror-out-the-box is 
+more a prankster than a villain, it shares the cruel sense 
+of humor of many fey. It delights in havoc and chaos, 
+whether by picking a pocket, hitting someone in the back 
+from afar to start a fight, or insulting passersby.
+Adroit Tricksters
+. Because of its incredible jumping 
+abilities and reach, a horror-out-the-box is well-suited to 
+leaping or clambering over any obstacle in its path. Its arms 
+can reach from a distant hiding place to cause trouble.
+Treasure Hoarders
+. A horror-out-the-box enjoys col-
+lecting shiny objects, and treasure is no exception. If suf-
+ficiently threatened or somehow bested, a horror can be 
+convinced to reveal the location of its prized valuables, 
+though this hoard could be comprised of nearly anything.
+salvage
+The corrupting influence of a horror-out-the-box spreads 
+to its treasure. Mixing the coins from a horror’s collection 
+with other coins can cause gold to turn to lead or gems to 
+turn to glass. Use your favorite trinket table to randomly 
+create a horror’s “hoard.” There’s a 50% chance that the 
+hoard contains a common or uncommon magic item
+lore
+DC 10 Intelligence (History):
+ This creature looks like 
+a perversion of a child’s toy, but it’s a fey creature that 
+poses a threat to the peace in the area.
+DC 15 Intelligence (Nature):
+ A horror-out-the-box 
+has an incredible reach and quick enough reactions to 
+strike those who move carelessly around it.

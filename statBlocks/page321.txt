@@ -1,0 +1,139 @@
+321
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+S
+===
+Spythronar Web
+Large aberration, neutral evil
+Armor Class 13
+Hit Points 65 (10d10 + 10)
+Speed 30 ft., climb 30 ft.
+str dex con int wis cha
+ 17 (+3) 16 (+3) 13 (+1) 3 (–4) 8 (–1) 1(–5)
+Damage Vulnerabilities
+fire
+Damage Immunities lightning
+Damage Resistances
+bludgeoning, piercing
+Condition Immunities blinded, charmed, deafened,
+exhaustion, frightened, paralyzed, petrified, poisoned,
+prone, unconscious
+Senses tremorsense 60 ft. (blind beyond this radius),
+passive Perception 9
+Languages —
+Challenge 2 (450 XP)
+Proficiency Bonus +2
+Adhesive.
+The spythronar web adheres to anything that
+touches it. To avoid adhering when touching the web, a
+creature must succeed on a DC 13 Strength saving throw,
+but a creature hit by the web’s crush attack doesn’t receive
+a saving throw. A Huge or smaller creature adhered to the
+web is also grappled by it (escape DC 13). If adhered to a
+target larger than it can grapple, the web can release the
+adhesive or remain adhered and be dragged along as the
+target moves. Neither choice requires an action from the
+web. Removing an object adhered to the web or the web
+from anything it’s adhered to requires a successful DC 13
+Strength (Athletics) check as an action.
+Amorphous.
+The spythronar web can move through a
+space as narrow as 1 inch wide without squeezing.
+False Appearance.
+While the spythronar web remains
+motionless and takes no action, it is indistinguishable
+from a large, thick spider web.
+Spider Climb.
+A spythronar web can climb difficult
+surfaces, including upside down on ceilings, without
+needing to make an ability check.
+Web Sense.
+While in contact with a web, the
+spythronar web knows the exact location of any other
+creature in contact with the same web.
+Web Walker.
+The spythronar web ignores movement
+restrictions caused by webbing.
+actions
+Crush.
+Melee Weapon Attack: +5 to hit, reach 5 ft., one
+creature.
+Hit: 10 (2d6 + 3) bludgeoning damage and
+Adhesive. The target is also restrained while grappled in this
+way, and the spythronar web can’t crush another target.
+Lightning Surge.
+Melee Weapon Attack: +5 to hit,
+reach 30 ft., one target.
+Hit: 9 (2d8) lightning damage.
+If the spythronar web has a creature grappled and
+attacks another target, the grappled creature also takes
+this damage.
+===
+Spythronar Swarm
+Medium swarm of Tiny aberrations, neutral evil
+Armor Class 13
+Hit Points 45 (10d8)
+Speed 30 ft., climb 30 ft.
+str dex con int wis cha
+ 5 (–3) 17 (+3) 10 (+0) 3 (–4) 11 (+0) 3 (–4)
+Skills
+Stealth +5
+Damage Immunities lightning
+Damage Resistances
+bludgeoning, piercing, slashing
+Condition Immunities charmed, frightened, grappled,
+paralyzed, prone, restrained, stunned
+Senses darkvision 60 ft., tremorsense 30 ft., passive Perception 10
+Languages —
+Challenge 2 (450 XP)
+Proficiency Bonus +2
+Furtive.
+The spythronar swarm can use a bonus action
+to take the Hide action.
+Spider Climb.
+The spythronar swarm can climb
+difficult surfaces, including upside down on ceilings,
+without needing to make an ability check.
+Swarm.
+The spythronar swarm can occupy another
+creature’s space and vice versa, and the swarm can move
+through any opening large enough for a Tiny arachnid. The
+swarm can’t regain hit points or gain temporary hit points.
+Web Sense.
+While in contact with a web, the
+spythronar swarm knows the exact location of any other
+creature in contact with the same web.
+Web Walker.
+The spythronar swarm ignores
+movement restrictions caused by webbing.
+actions
+Bites.
+Melee Weapon Attack: +5 to hit, reach 0 ft., one
+creature in the swarm’s space.
+Hit: 10 (4d4) piercing
+damage and 9 (2d8) lightning damage, or 5 (2d4)
+piercing damage and 4 (1d8) lightning damage if the
+swarm has half of its hit points or fewer.
+Weave (4/Day).
+The spythronar swarm weaves
+webbing, covering a 5-foot square. The swarm can then
+give up 1 hit point to create a spythronar sac in that
+space. If the swarm’s webbing covers a 10-foot square,
+it can give up 23 hit points as part of the same action,
+creating a spythronar web with the same number of hit
+points. The swarm can’t drop to 0 hit points to create a
+sac or web.
+If the swarm weaves an incomplete web, that web
+is a normal web rather than a sentient, monstrous one.
+A creature that enters this normal web’s space must
+succeed on a DC 10 Strength saving throw or become
+grappled (escape DC 10) and restrained while grappled
+in this way. Each 5-foot square of this web has AC 10; the
+damage vulnerabilities, immunities, and resistances of a
+spythronar web; and 5 hit points.

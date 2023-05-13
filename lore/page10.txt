@@ -1,0 +1,45 @@
+10
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+A
+salvage
+The Angel of Empyreus wields a 
+holy avenger
+. Upon its 
+death, its intelligence inhabits the sword. To attune to 
+it, a paladin character must agree to carry on the angel’s 
+mission to cleanse the land of immorality.
+A cup of its blood can be made into a 
+potion of supreme 
+healing
+ with a DC 10 Intelligence (Religion) check from 
+someone proficient with alchemist’s supplies. Six cups of 
+blood can be taken from the Angel of Empyreus.
+Its bones can be used in place of diamonds for use 
+in 
+raise dead
+ and similar magic, up to the equivalent of 
+10,000 gp worth.
+lore
+DC 10 Intelligence (Religion)
+: The Arch Seraphs are 
+attended by mighty angels who act as their lieutenants 
+and execute the divine remnants’ orders.
+DC 15 Intelligence (History)
+: Empyreus went into 
+battle surrounded by an honor guard of fearsome 
+celestials honed by aeons of divine war. Many of them 
+remained at Empyreus’ side at the end of the Four 
+Divines’ War, but not all remained loyal.
+DC 20 Intelligence (History)
+: Peasant revolts and reli-
+gious zealotry are on the rise in the Altenheim hinterland. 
+Most say it’s the usual grievances, but some whisper that 
+a commander of the celestial hosts leads the revolt, and 
+its ranks swell by the day.

@@ -1,0 +1,141 @@
+220
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+M
+===
+Mjork Burner
+Large elemental, chaotic neutral
+Armor Class 14 (natural armor)
+Hit Points 95 (10d10 + 40)
+Speed 40 ft.
+str dex con int wis cha
+ 15 (+2) 15 (+2) 18 (+4) 7 (–2) 12 (+1) 7 (–2)
+Damage Vulnerabilities
+thunder
+Damage Immunities fire, poison
+Damage Resistances
+bludgeoning, piercing, and
+slashing from nonmagical attacks
+Condition Immunities exhaustion, paralyzed,
+petrified, poisoned, unconscious
+Senses darkvision 60 ft., passive Perception 11
+Languages Ignan, Terran
+Challenge 6 (2,300 XP)
+Proficiency Bonus +3
+Fiery Body.
+A creature that touches the mjork burner
+or hits it with a melee attack while within 5 feet of it
+takes 7 (2d6) fire damage.
+Fire Path.
+The mjork burner leaves fire behind in any
+space it moves through. Until the start of the mjork’s
+next turn, any creature that enters this area for the
+first time on a turn or ends its turn there takes 5 (2d4)
+fire damage. The fire can ignite flammable objects (not
+creatures), causing the mjork’s Fire Path to last longer.
+Ignite.
+A creature or flammable object ignites if it takes
+fire damage from the mjork burner’s attacks. Until a
+creature takes an action to douse this fire, the target takes
+5 (2d4) fire damage at the start of each of its turns.
+Illumination.
+The mjork burner sheds bright light in a
+10-foot radius and dim light for another 10 feet.
+Smoke Sense.
+A mjork burner in contact with smoke has
+blindsight in that smoke’s area in a radius of up to 120 feet.
+Water Susceptibility.
+For every 5 feet the mjork
+burner moves in water, or for every gallon of water
+splashed on it, it takes 1 cold damage.
+actions
+Multiattack.
+The mjork burner makes two attacks.
+Slam.
+Melee Weapon Attack: +5 to hit, reach 5 ft., one
+target.
+Hit: 9 (2d6 + 2) bludgeoning damage, 7 (2d6) fire
+damage, and Ignite.
+Hurl Fire.
+Ranged Spell Attack
+: +5 to hit, ranged 30/60 ft., one target.
+Hit
+: 13 (3d6 + 3) fire damage and Ignite. ===
+Mjork Asher
+Large elemental, chaotic neutral
+Armor Class 14 (natural armor)
+Hit Points 85 (10d10 + 30)
+Speed 30 ft.
+str dex con int wis cha
+ 15 (+2) 15 (+2) 16 (+3) 7 (–2) 13 (+1) 7 (–2)
+Damage Vulnerabilities
+thunder
+Damage Immunities fire, poison
+Damage Resistances
+bludgeoning, piercing, and
+slashing from nonmagical attacks
+Condition Immunities exhaustion, paralyzed,
+petrified, poisoned, unconscious
+Senses darkvision 60 ft., passive Perception 11
+Languages Ignan, Terran
+Challenge 6 (2,300 XP)
+Proficiency Bonus +3
+Blinding Soot.
+A creature that takes fire damage from
+a mjork asher’s attacks must make a DC 14 Constitution
+saving throw or be blinded until the end of the mjork’s
+next turn.
+Fiery Body.
+A creature that touches the mjork asher or
+hits it with a melee attack while within 5 feet of it takes 7
+(2d6) fire damage.
+Smoke Sense.
+A mjork asher in contact with smoke has
+blindsight in that smoke’s area in a radius of up to 120 feet.
+Smoke Shroud.
+While the mjork asher has 41 or more
+hit points, smoke renders a sphere within 20 feet of it
+heavily obscured. This smoke goes around corners. Even
+while the mjork has 40 or fewer hit points, tendrils of this
+smoke extend to 60 feet from the mjork, providing smoke
+for the Smoke Sense of all mjorks. However, the whole
+shroud dissipates during any round the mjork is exposed
+to moderate (at least 10 miles per hour) or stronger wind.
+Water Susceptibility.
+For every 5 feet the mjork asher
+moves in water, or for every gallon of water splashed on
+it, it takes 1 cold damage.
+actions
+Multiattack.
+The mjork asher makes two attacks.
+Slam.
+Melee Weapon Attack: +5 to hit, reach 5 ft., one
+target.
+Hit: 9 (2d6 + 2) bludgeoning damage and 7 (2d6)
+fire damage and Blinding Soot.
+Hurl Soot.
+Ranged Spell Attack
+: +5 to hit, ranged 30/60 ft., one target.
+Hit
+: 12 (3d6 + 2) fire damage and Blinding Soot. Create Sootlings (1/Day).
+The mjork asher chooses
+a point within 60 feet of it that it can sense. Smoke fills a
+20-foot radius sphere centered on that point. The sphere
+spreads around corners, and its area is heavily obscured.
+This smoke lasts until the start of the mjork’s next turn
+or until a wind of moderate or greater speed (at least
+10 miles per hour) disperses it. Unless dispersed before
+the start of the mjork’s next turn, a sootling swarm forms
+in a space in the area, favoring a space a creature hostile
+to the mjork occupies. The swarm takes its turn just
+after the mjork and obeys the mjork’s verbal commands
+(no action for the mjork). If issued no commands, the
+swarm acts independently, often attacking a creature
+that isn’t its ally. The swarm can survive indefinitely
+after being created.

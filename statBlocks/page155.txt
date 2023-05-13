@@ -1,0 +1,83 @@
+155
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+H
+===
+Hivewolf Matriarch
+Large monstrosity, unaligned
+Armor Class 14 (natural armor)
+Hit Points 75 (10d10 + 20)
+Speed 20 ft.
+str dex con int wis cha
+ 16 (+3) 9 (–1) 15 (+2) 3 (–4) 15 (+2) 7 (–2)
+Skills
+Perception +4
+Senses blindsight 30 ft., darkvision 120 ft., passive Perception 14
+Languages —
+Challenge 2 (450 XP)
+Proficiency Bonus +2
+Hive Connection.
+The hivewolf matriarch is connected
+to other hivewolves within 300 feet via a hivemind, which
+they use to share information. This connection means that
+if the hivewolf matriarch is aware of a threat, all hivewolves
+within 300 feet are also aware of the threat. This effect can
+penetrate barriers, but 2 feet of rock, 2 inches of any
+metal other than lead, a thin sheet of lead, or barrier of
+force blocks it.
+Pack Tactics.
+The hivewolf matriarch has advantage
+on an attack roll against a creature if at least one of the
+matriarch’s allies is within 5 feet of the creature and the
+ally isn’t incapacitated.
+actions
+Bite.
+Melee Weapon Attack: +5 to hit, reach 5 ft., one
+target.
+Hit: 12 (2d8 + 3) slashing damage and 3 (1d6)
+acid damage.
+Acid Spray (Recharge 5–6).
+The hivewolf matriarch
+sprays acid in a 15-foot cone. Each creature in that area
+must make a DC 12 Dexterity saving throw, taking 14
+(4d6) acid damage on a failed save, or half as much
+damage on a successful one.
+===
+Hivewolf
+Medium monstrosity, unaligned
+Armor Class 14 (natural armor)
+Hit Points 16 (3d8 + 3)
+Speed 40 ft., climb 40 ft.
+str dex con int wis cha
+ 11 (+0) 15 (+2) 13 (+1) 2 (–4) 14 (+2) 4 (–3)
+Skills
+Perception +4
+Senses blindsight 10 ft., darkvision 60 ft., passive Perception 14
+Languages —
+Challenge 1/4 (50 XP)
+Proficiency Bonus +2
+Hive Connection.
+The hivewolf is connected to other
+hivewolves within 120 feet via a hivemind, which they
+use to share information. This connection means that if
+the hivewolf is aware of a threat, all hivewolves within
+120 feet are also aware of the threat. This effect can pen-
+etrate barriers, but 2 feet of rock, 2 inches of any metal
+other than lead, or a thin sheet of lead or barrier of force
+blocks it.
+Pack Tactics.
+The hivewolf has advantage on an
+attack roll against a creature if at least one of the hive-
+wolf’s allies is within 5 feet of the creature and the ally
+isn’t incapacitated.
+actions
+Bite.
+Melee Weapon Attack: +4 to hit, reach 5 ft., one
+target.
+Hit: 7 (2d4 + 2) slashing damage.

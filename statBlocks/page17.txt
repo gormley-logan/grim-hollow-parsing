@@ -1,0 +1,64 @@
+===
+Inquisitor Hunter
+Medium humanoid (any race), any alignment
+Armor Class 15 (chain shirt)
+Hit Points 26 (4d8 + 8)
+Speed 30 ft.
+str dex con int wis cha
+	13	(+1)	15	(+2)	14	(+2)	12	(+1)	13	(+1)	10	(+0)
+Skills
+Investigation +3, Perception +3, Religion +3,
+Survival +3
+Senses passive Perception 13
+Languages any two languages
+Challenge 1 (200 XP)
+Proficiency Bonus +2
+Inquisitor’s Awareness.
+The inquisitor hunter can
+expend a 1st-level ranger spell slot to sense for 1 minute
+whether arcane or innate spellcasters, aberrations, fey,
+and fiends are within 1 mile. This trait doesn’t reveal the
+creatures’ locations or numbers.
+Spellcasting.
+The inquisitor hunter is a 3rd-level
+spellcaster. Its spellcasting ability is Wisdom. The hunter
+knows the following ranger spells: 1st level (3 slots): detect magic
+,
+hunter’s mark
+,
+protection
+from evil and good
+actions
+Multiattack.
+The inquisitor hunter makes two
+shortsword attacks, provided it has a shortsword in
+each hand.
+Shortsword
+.
+Melee Weapon Attack: +4 to hit, reach 5 ft.,
+one target.
+Hit: 5 (1d6 + 2) piercing damage and 2 (1d4)
+psychic damage, or 5 (2d4) psychic damage if the target
+is concentrating on a spell.
+Longbow.
+Ranged Weapon Attack: +4 to hit, ranged
+150/600 ft., one target.
+Hit: 6 (1d8 + 2) piercing damage
+and 2 (1d4) psychic damage, or 5 (2d4) psychic damage
+if the target is concentrating on a spell.
+detachment of inquisitors, some highly honorable and
+bound to their duty. The inquisition includes paladins and
+priests, but many members are soldiers or hunters with
+divine talents.
+Lord Inquisitor Crevax.
+Lord Inquisitor Crevax is
+the master of the Cathedral of Embers, the headquarters
+of the Arcanist Inquisition and the largest prison in
+Etharis. She is an imposing dragonborn, covered in
+golden scales and rarely seen without her flaming
+longsword, Heretic’s End. She has a stern demeanor
+and an unflinching faith in the ideology and goals of the
+Arcanist Inquisition. Once an accused has come under
+her authority as warden of the cathedral, she considers
+it her personal duty to ensure they never threaten others
+with their corruption again.

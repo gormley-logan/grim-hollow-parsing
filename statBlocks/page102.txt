@@ -1,0 +1,65 @@
+===
+Eagal Sithe
+Tiny fey, chaotic evil
+Armor Class 15
+Hit Points 110 (20d4 + 60)
+Speed 30 ft., fly 30 ft.
+str dex con int wis cha
+ 6 (–2) 20 (+5) 17 (+3) 10 (+0) 14 (+2) 17 (+3)
+Saving Throws
+Cha +6
+Skills
+Deception +6, Insight +5, Perception +5,
+Persuasion +6, Stealth +8
+Condition Immunities charmed
+Senses darkvision 60 ft., passive Perception 15
+Languages One national language, Sylvan, telepathy 60 ft.
+Challenge 5 (1,800 XP)
+Proficiency Bonus +3
+Emotional Manipulation.
+As a bonus action, the eagal
+sithe targets one charmed creature within 60 feet. The
+target must succeed on a DC 14 Wisdom saving throw or
+use its reaction to make a weapon attack or spell attack
+with a cantrip against a target of the eagal sithe’s choice.
+Innate Spellcasting.
+The eagal sithe’s spellcasting
+ability is Charisma (spell save DC 14). It can innately cast
+the following spells, requiring no material components: At will: vicious mockery
+(17th level, can be telepathic)
+3/day each: detect thoughts
+,
+disguise self
+1/day: invisibility
+(self only)
+Psychic Feed.
+The eagal sithe regains hit points equal
+to the psychic damage a target takes from its attacks and
+powers, gaining excess as temporary hit points.
+Shadow Stealth.
+While in dim light or darkness, the
+eagal sithe can take the Hide action as a bonus action.
+actions
+Bite.
+Melee Weapon Attack: +8 to hit, reach 5 ft., one
+creature.
+Hit: 3 (1d6) piercing damage plus 7 (3d4)
+psychic damage, and a humanoid target must succeed
+on a DC 14 Wisdom saving throw or be charmed by
+the eagal sithe for 24 hours. The charmed target regards
+the eagal sithe as a trusted friend to be heeded and
+protected, taking the eagal sithe’s requests or actions
+in the most favorable way.
+If the eagal sithe or its allies harm the target, it can
+repeat the saving throw, ending the effect on a success.
+Otherwise, the effect lasts 24 hours or until the eagal
+sithe dies, is on a different plane than the target, or takes
+a bonus action to end the effect.
+Emotional Torment.
+One charmed creature within
+60 feet of the eagal sithe must make a DC 14 Charisma
+saving throw, taking 18 (4d8) psychic damage on a
+failed save, or half as much damage on a successful one.
+A target that fails the saving throw feels despair and has
+disadvantage on ability checks and attack rolls until the
+end of the eagal sithe’s next turn.

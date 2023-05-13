@@ -1,0 +1,22 @@
+388
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+dragonborn vampirecustomization
+A dragonborn vampire retains an edge in Strength
+compared to their peers. Also, the vampire has the
+resistance and breath weapon their draconic ancestry
+grants. Use the vampire’s Hit Dice as their level for
+the damage the breath deals. However, the breath also
+deals necrotic damage equal to that the vampire’s bite
+deals. This necrotic damage neither reduces a target’s
+hit point maximum nor causes the vampire to regain hit
+points. Vampirism accentuates the predator aspects of
+a dragonborn’s draconic ancestry, and so their breath
+recharges more quickly their of living counterparts. A
+dragonborn vampire also has the Brutal Attacks trait.

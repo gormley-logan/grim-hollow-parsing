@@ -1,0 +1,63 @@
+Bloodbonded
+“Those who’ve turned their back on both the Seraphs 
+and the Daemons? That way lies madness.”
+Disheveled Priests.
+ A bloodbonded, at first glance, 
+appears as an acolyte of an Arch Seraph whose vestments 
+and robes are in disrepair. A closer look reveals a maimed 
+body covered in pulsing red markings, generally missing 
+an arm or even a leg. Angelic markings on the skin are 
+replaced with nonsensical runes and patterns, meticulously 
+scrawled in overlapping ways.
+Justice Misled.
+ Bloodbonded are the unique consequence 
+of one of the Arch Daemon Venin’s more elegant deceptions. 
+Sometimes, when a particularly prayerful penitent 
+beseeches Arch Seraph Solyma for guidance, Venin 
+answers. The penitent, believing they hear the call of 
+their angelic lady, drinks deeply of the cup of pride 
+that they alone can hear the words of Solyma.
+Irredeemable Apostates. 
+Inevitably, Venin’s twisted 
+words demand horrible deeds: dark murder under the 
+guise of justice, humanoid sacrifice under the veil of 
+restoring balance, or self-mutilation as a penance for sins. 
+Venin then reveals his lies to seal the fate of the deceived. 
+Sometimes, these cheated creatures become devotees 
+of Venin, seeing in his tricks the power they sought in 
+justice. Others are torn by their misplaced devotion, 
+renouncing the dark acts and terrible deeds too late. 
+They lose their humanity and the divine powers they 
+were once the sacred (or profane) keepers of.
+Manipulative Leaders.
+ The bloodbonded are mad, 
+twisted, and hungry for the power and direction. To regain 
+that power, they promise other desperate souls happiness, 
+power, or vengeance. They gather a cult of the gullible, 
+desperate, or weak, dominating the common folk and 
+making ever-greater demands on their lives and sanities.
+Running on Empty. 
+The power of the bloodbonded 
+comes from their own lifeblood and the residue of power 
+left there by the enchantments they willingly bore and so 
+suddenly renounced. 
+salvage
+Bloodbonded still possess the damaged and scarred 
+remnants of their past devotions. When a bloodbonded 
+dies, its blood still pulses and gives off light as it did when 
+it was alive. One vial of this blood can be harvested from 
+a single bloodbonded with a successful DC 10 Wisdom 
+(Medicine) check. Drinking it within one day causes the 
+user to be under the effect of a 
+bless
+ spell. When the spell 
+ends, the user suffers one level of exhaustion.
+lore
+DC 10 Intelligence (History): 
+Bloodbonded are 
+victims of their own foolish choices, worshipping false 
+gods and then being driven mad by the ruse.
+DC 15 Intelligence (Arcana): 
+Bloodbonded use their 
+followers as weapons, even causing them to explode in a 
+wave of fiery blood, which damages nearby creatures.

@@ -1,0 +1,59 @@
+===
+Hurrock
+Medium monstrosity, neutral evil
+Armor Class 15 (natural armor, shield arm)
+Hit Points 60 (8d8 + 24)
+Speed 25 ft., burrow 20 ft.
+str dex con int wis cha
+ 16 (+3) 8 (–1) 17 (+3) 7 (–2) 12 (+1) 9 (–1)
+Saving Throws
+Con +5
+Damage Resistances
+poison; bludgeoning, piercing
+and slashing damage from nonmagical attacks that aren’t
+adamantine
+Condition Immunities exhaustion, petrified
+Senses darkvision 60 ft., passive Perception 11
+Languages one national language, Dwarvish
+Challenge 3 (700 XP)
+Proficiency Bonus +2
+Harrowed Tunneler.
+The hurrock can burrow through
+solid rock at half its burrow speed and leaves a 6-foot-
+diameter tunnel in its wake. The tunnel is difficult terrain.
+Rubble Walker.
+Difficult terrain composed of rock,
+rubble, or similar debris doesn’t cost the hurrock
+extra movement.
+actions
+Multiattack
+. The hurrock makes one axe arm attack
+and one beard attack.
+Axe Arm.
+Melee Weapon Attack
+: +5 to hit, reach 5 ft., one target.
+Hit
+: 10 (2d6 + 3) slashing damage. Beard.
+Melee Weapon Attack
+: +5 to hit, reach 5 ft., one target.
+Hit
+: 6 (1d6 + 3) piercing damage. reactions
+Parry.
+The hurrock adds 2 to its AC against one melee
+attack that would hit it. To do so, the hurrock must see
+the attacker and have its shield arm free.
+to nubs, and the creature can travel quickly on all four
+limbs. Cursed rock makes up three-quarters of its body
+mass, and grows larger. Where the hurrock’s metal-in-
+fused beard once was, there is now a tangle of iron blades
+and spikes bristling from its jaw. The rock comprising
+most of its head now covers its eyes, obscuring its vision,
+so the hurrock relies upon its tremorsense. In its final
+form, the hurrock no longer sleeps or enters a trance and
+can’t be rendered unconscious.
+gm advice: Hurrocks lack a ranged attack, but their
+burrow ability more than compensates. Since they
+are mostly encountered deep underground in tight
+passageways, hurrocks can simply burrow through solid
+stone above, beneath, or around enemies until they are in
+a good position to attack softer targets with melee attacks.

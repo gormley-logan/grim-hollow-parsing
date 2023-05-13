@@ -1,0 +1,34 @@
+===
+Ghost Mustang
+Large undead, neutral evil
+Armor Class 13 (natural armor)
+Hit Points 75 (10d10 + 20)
+Speed 60 ft.
+str dex con int wis cha
+ 18 (+4) 13 (+1) 14 (+2) 5 (–3) 12 (+1) 7 (–2)
+Damage Vulnerabilities
+radiant
+Damage Immunities necrotic, poison
+Damage Resistances
+bludgeoning, piercing, and
+slashing from nonmagical attacks
+Condition Immunities charmed, exhaustion,
+frightened, paralyzed, poisoned
+Senses darkvision 60 ft., passive Perception 11
+Languages understands one language its creator speaks
+but can’t speak
+Challenge 3 (700 XP)
+Proficiency Bonus +2
+Undead Fortitude
+. If damage reduces the ghost mustang
+to 0 hit points, it must make a Constitution saving throw
+with a DC of 5 + the damage taken, unless the damage
+is radiant or from a critical hit. On a success, the ghost
+mustang drops to 1 hit point instead.
+actions
+Hooves
+.
+Melee Weapon Attack
+: +6 to hit, reach 5 ft., one target.
+Hit
+: 9 (2d4 + 4) bludgeoning damage and 10 (3d6) necrotic damage.

@@ -1,0 +1,106 @@
+===
+Soman Vampire Sangromancer
+Medium undead, any alignment
+Armor Class 13 (16 with
+mage armor
+)
+Hit Points 97 (15d8 + 30)
+Speed 40 ft.
+str dex con int wis cha
+ 12 (+1) 16 (+3) 14 (+2) 12 (+1) 13 (+1) 18 (+4)
+Saving Throws
+Wis +4
+Skills
+Arcana +4, Deception +7, Perception +4,
+Persuasion +7
+Damage Vulnerabilities
+radiant
+Damage Resistances
+necrotic
+Senses darkvision 60 ft., passive Perception 14
+Languages Soman and two other languages
+Challenge 8 (3,900 XP)
+Proficiency Bonus +3
+Borrowed Blood.
+The vampire has six d12s it can use
+in place of Hit Dice to cast sangromancy spells. When the
+vampire regains hit points due to using its bite, it regains
+one of these d12s that it has used.
+Evasion.
+If the vampire is subjected to an effect that
+allows it to make a Dexterity saving throw to take only half
+damage, the vampire instead takes no damage if it succeeds
+on the saving throw, and only half damage if it fails.
+Forbiddance.
+The vampire can enter a residence only
+with an invitation from one of that home’s residents. If
+the vampire enters a house uninvited and involuntarily,
+it takes 1d10 psychic damage at the end of each of its
+turns while it remains there.
+Misty Step (Recharge 5–6).
+As a bonus action, the
+vampire disappears in shadowy mist and teleports up
+to 30 feet to an unoccupied space it can see.
+Relentless Blood (1/Day).
+If damage reduces the
+vampire to 0 hit points, it can make a Charisma saving
+throw (DC 5 + the damage taken), unless the damage is
+radiant or from a critical hit. On a success, the vampire
+drops to 1 hit point instead.
+Spellcasting.
+The vampire is an 11th-level spellcaster. Its
+spellcasting ability is Charisma (spell save DC 16, +8 to hit
+with spell attacks). It knows the following sorcerer spells: Cantrips (at will): chill touch
+,
+mage hand
+,
+minor illusion
+,
+prestidigitation
+,
+ray of frost
+1st level (4 slots): charm person
+,
+consumption
+,
+mage armor
+2nd level (3 slots): darkness
+,
+sanguine shield
+,
+suggestion
+3rd level (3 slots): fly, vampiric touch
+4th level (3 slots): circle of scarlet, stoneskin
+5th level (2 slots): insect plague
+6th level (1 slot): heartseeker
+Sunlight Inability.
+The vampire has disadvantage on
+attack rolls and ability checks while in direct sunlight.
+actions
+Multiattack.
+The vampire attacks once with its bite
+and once with its dagger.
+Bite.
+Melee Weapon Attack: +6 to hit, reach 5 ft., one
+creature.
+Hit: 5 (1d4 + 3) piercing damage, and the target
+must succeed on a DC 15 Constitution saving throw or
+take 10 (3d6) necrotic damage. The vampire regains hit
+points equal to the necrotic damage the target takes.
+Dagger.
+Melee or Ranged Weapon Attack: +6 to hit,
+reach 5 ft. or range 20/60 ft., one target.
+Hit: 5 (1d4 + 3)
+piercing damage.
+reactions
+Horrifying Revelation.
+When a creature within
+30 feet of the vampire harms it, the vampire reveals a
+ghastly distortion of its true form to the attacker. The
+target must succeed on a DC 16 Wisdom saving throw
+or become frightened of the vampire for 1 minute. A
+creature can repeat the saving throw at the end of each
+of its turns, ending the effect on itself on a success. If a
+target’s saving throw is successful or the effect ends for
+it, it is immune to this vampire’s Horrifying Revelation
+for 24 hours.

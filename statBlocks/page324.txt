@@ -1,0 +1,41 @@
+324
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+S
+===
+Crimson Stallion
+Large fiend, lawful evil
+Armor Class 13 (natural armor)
+Hit Points 75 (10d10 + 20)
+Speed 60 ft.
+str dex con int wis cha
+ 18 (+4) 13 (+1) 14 (+2) 7 (–2) 12 (+1) 7 (–2)
+Damage Immunities fire, poison
+Damage Resistances
+cold; bludgeoning, piercing, and
+slashing from nonmagical attacks that aren’t silvered
+Condition Immunities charmed, poisoned
+Senses darkvision 120 ft., passive Perception 11
+Languages understands Infernal but can’t speak
+Challenge 3 (700 XP)
+Proficiency Bonus +2
+Devil’s Sight.
+Magical darkness doesn’t impede the
+crimson stallion’s darkvision.
+actions
+Hooves
+.
+Melee Weapon Attack
+: +6 to hit, reach 5 ft., one target.
+Hit
+: 9 (2d4 + 4) bludgeoning damage and 10 (3d6) fire damage.
+Bite
+.
+Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+Hit: 9 (2d4 + 4) piercing damage plus 10 (3d6) fire damage.

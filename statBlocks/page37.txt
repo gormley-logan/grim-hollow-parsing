@@ -1,0 +1,70 @@
+37
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+B
+bloodbonded
+Medium monstrosity, chaotic evil
+Armor Class 16 (studded leather, shield)
+Hit Points 66 (12d8+12) (or +24 if missing a leg)
+Speed 30 ft. (or 10 ft. if missing a leg)
+str dex con int wis cha
+	12	(+1)	15	(+2)	13	(+1)	15	(+2)	7	(-2)	18	(+4)
+Saving Throws
+Con +3, Wis +0
+Skills Deception
++6, Persuasion, +6, Insight +0
+Damage Resistances
+necrotic, radiant
+Damage Vulnerability
+psychic
+Condition Immunities charmed, frightened
+Senses passive Perception 8
+Languages Celestial, Infernal, one national language
+Challenge 4 (1,100 XP)
+Proficiency Bonus +2
+Bloody Inspiration.
+As a bonus action, the blood-
+bonded can inspire an ally within 30 feet to an enraged
+state of bloodlust for one minute. These followers gain
+5 temporary hp, resistance to bludgeoning, piercing, and
+slashing damage, and vulnerability to psychic damage.
+All attacks made by the bloodbonded followers are
+reckless, gaining advantage to hit enemies but granting
+enemies advantage to hit them in turn.
+Resolute Followers
+. Allies of the bloodbonded within
+60 feet of it have advantage on Charisma and Wisdom
+saving throws.
+actions
+Mace.
+Melee Weapon Attack
+: +3 to hit, reach 5 ft., one target.
+Hit
+: 4 (1d6 + 1) bludgeoning damage. Rage Bomb (2/Day).
+As a bonus action, the bloodbonded
+can infuse one of its bloodbonded followers who is under
+the effects of Bloody Inspiration with a fatal fury. This magic
+causes the follower to foam bloodily at the mouth. If the
+follower is not slain before the start of the bloodbonded’s
+next turn, the follower dies and explodes in a shower
+of superheated blood. Creatures within 10 ft. must make
+a DC 14 Dexterity saving throw, taking 12 (2d8+3) fire
+damage on a failure and taking half damage on a success.
+Blood Boil.
+The bloodbonded targets a creature it can
+see within 60 feet and utters words of madness. The target
+must succeed on a DC 14 Constitution saving throw or
+take 9 (2d8) fire damage as its blood superheats. The
+bloodbonded must be able to speak to use this ability.
+reactions
+Loyal Followers.
+When a bloodbonded would take
+damage from a melee or ranged attack it can see that targets
+only the bloodbonded, it can use its reaction to call on one
+of its followers within 5 feet to take the damage instead.

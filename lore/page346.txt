@@ -1,0 +1,21 @@
+salvage
+The glowing bristles from a goldmane boar can be 
+harvested. Someone who has proficiency with weaver’s 
+tools or jeweler’s tools can braid the bristles into a 
+gold 
+boar ring
+ (see chapter 4). Doing so takes 8 hours of work, 
+other materials worth 20 gp, and a successful DC 10 
+Intelligence (Nature) check.
+lore
+DC 10 Wisdom (Nature):
+ Goldmane boars can be 
+tamed and used as mounts.
+salvage
+Someone who has proficiency with leatherworker’s tools 
+can create cold-weather clothing from the pelts of five 
+frostbite foxes. Doing so takes 8 hours of work.
+lore
+DC 10 Wisdom (Nature):
+ The chilled fangs of a 
+frostbite fox can overwhelm the senses.

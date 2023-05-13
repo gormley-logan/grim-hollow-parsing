@@ -1,0 +1,37 @@
+Maskenmagier
+“A mask can hide who you are. 
+Careful lest you forget who you are.”
+Feline Fiend.
+ The maskenmagier can alter its appearance 
+to take any humanoid form, but it is a cat-headed fiend 
+with a humanoid body. Driven by a desire to grow 
+more powerful, the maskenmagier makes masks and 
+consumes souls.
+Magical Masks.
+ Carved from wood and painted with 
+natural pigments on a neutral base of glue and crushed 
+seashell, the masks a maskenmagier offers portray a 
+beast. Each mask allows the wearer to transform into 
+that animal.
+A maskenmagier is a clever spellcaster artful at 
+negotiation and hungry for power. It offers people the 
+opportunity to escape life’s troubles through mask 
+magic. A deal consists of a proposal that covers the 
+terms each party expects. Accepting the mask seals the 
+agreement and makes the contract binding.
+salvage
+Those who defeat a maskenmagier discover a 
+mask of the 
+maestro
+ (see chapter 4).
+lore
+DC 10 Intelligence (Arcana):
+ The maskenmagier is 
+immune to being poisoned or charmed.
+DC 15 Intelligence (History:
+ The masks that the 
+maskenmagier offers are cursed.
+DC 20 Intelligence (Religion):
+ A maskenmagier can 
+devour a humanoid’s soul, allowing the fiend to take on 
+an uncanny copy of the person’s form.

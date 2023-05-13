@@ -1,0 +1,46 @@
+U
+343
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+Unfinished
+“The unfinished are angry ghosts akin to poltergeists, but 
+partially solid, and throwing much bigger objects.”
+Not Fully Manifested
+. A creature known as an “unfin-
+ished” looks as it did at the moment of their death, but 
+with parts of their body fading in and out of corporeality.
+Unfinished Business
+. An unfinished is held on the 
+mortal plane by its guilt over unfinished business.
+Strong Will
+. An unfinished exerts its will, allowing it 
+to move heavy objects, often using them as weapons.
+salvage
+If an unfinished’s unfinished business can be completed 
+in the presence of the unfinished, it is bound to serve the 
+one who aided it for 24 hours.
+lore
+DC 10 Intelligence (Religion)
+: Like many undead, 
+unfinished are immune to necrotic and poison. They are 
+also resistant to acid, cold, fire, lightning, thunder, and 
+nonmagical attacks.
+DC 15 Intelligence (History)
+: An unfinished is 
+animated by guilt over unfinished business, but it 
+promises to serve anyone for one day that it witnesses 
+complete its undone task.
+DC 20 Intelligence (Arcana)
+: Unfinished can cast 
+arcane hand
+, 
+mage hand
+, and 
+telekinesis
+.

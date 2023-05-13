@@ -1,0 +1,115 @@
+===
+Oblivion Leaper
+Small undead, neutral evil
+Armor Class 13
+Hit Points 14 (4d6)
+Speed 30 ft.
+str dex con int wis cha
+	10	(+0)	16	(+3)	11	(+0)	10	(+0)	10	(+0)	8	(−1)
+Skills
+Stealth +5 (+7 in dim light or darkness)
+Damage Vulnerabilities
+radiant
+Damage Immunities necrotic, poison
+Damage Resistances
+cold; bludgeoning, piercing,
+and slashing from nonmagical attacks
+Condition Immunities exhaustion, frightened,
+grappled, paralyzed, petrified, poisoned, prone, restrained
+Senses darkvision 60 ft., passive Perception 10
+Languages —
+Challenge 1 (200 XP)
+Proficiency Bonus +2
+Shadow Leap.
+Starting in an area of dim light or
+darkness, an oblivion leaper can teleport to an unoccupied
+space also in dim light or darkness. Every foot of teleporta-
+tion costs the oblivion leaper 1 foot of movement.
+Shadow Stealth.
+While in dim light or darkness, the
+oblivion leaper can take the Hide action as a bonus action.
+Sunlight Weakness.
+While in sunlight, the oblivion
+leaper has disadvantage on attack rolls, ability checks,
+and saving throws.
+actions
+Soul Drain
+.
+Melee Weapon Attack: +5 to hit, reach 5 ft.,
+one creature.
+Hit: 7 (2d4 + 3) necrotic damage, and the
+target must make a DC 11 Constitution saving throw.
+On a failure, the target’s available Hit Dice are reduced
+by 1. If this effect reduces the target’s Hit Dice to 0, the
+target falls unconscious. The target can repeat the
+saving throw at the end of each of its turns, regaining
+consciousness on a success. Hit Dice lost this way return
+at the end of a short rest, in time to spend them to
+regain hit points.
+If an oblivion leaper kills a living creature with this
+attack when the creature is at 0 Hit Dice, the target’s soul
+is lost to the realm of shadow. This lost soul can be raised
+from the dead only with mighty magic, such as
+wish
+or
+divine intervention.
+===
+Oblivion Whistler
+Medium undead, neutral evil
+Armor Class 13
+Hit Points 33 (6d8 + 6)
+Speed 40 ft.
+str dex con int wis cha
+	12	(+1)	16	(+3)	13	(+1)	10	(+0)	10	(+0)	8	(−1)
+Skills
+Stealth +5 (+7 in dim light or darkness)
+Damage Vulnerabilities
+radiant
+Damage Immunities necrotic, poison
+Damage Resistances
+cold; bludgeoning, piercing,
+and slashing from nonmagical attacks
+Condition Immunities exhaustion, frightened,
+grappled, paralyzed, petrified, poisoned, prone, restrained
+Senses darkvision 60 ft., passive Perception 10
+Languages —
+Challenge 2 (450 XP)
+Proficiency Bonus +2
+Shadow Stealth.
+While in dim light or darkness, the
+oblivion whistler can take the Hide action as a bonus action.
+Sunlight Weakness.
+While in sunlight, the oblivion
+whistler has disadvantage on attack rolls, ability checks,
+and saving throws.
+Unbearable Whistling.
+Creatures of the oblivion
+whistler’s choice that aren’t deafened and start their turn
+within 30 feet of the oblivion whistler must make a DC
+11 Wisdom saving throw. A target that fails is frightened
+until the start of its next turn and unable to hide the
+distress of hearing the whistling, which is the source
+of the fear and considered to be within line of sight
+while the target can hear and is within 30 feet of it. On a
+successful saving throw, the creature is immune to any
+oblivion whistler’s Unbearable Whistling for 1 hour.
+actions
+Soul Drain
+.
+Melee Weapon Attack: +5 to hit, reach 5 ft.,
+one creature.
+Hit: 10 (2d6 + 3) necrotic damage, and the
+target must make a DC 11 Constitution saving throw. On
+a failure, the target’s available Hit Dice are reduced by 1.
+If this effect reduces the target’s Hit Dice to 0, the target
+falls unconscious. The target can repeat the saving throw
+at the end of each of its turns, regaining consciousness
+on a success. Hit Dice lost this way return at the end of a
+short rest, in time to spend them to regain hit points.
+If an oblivion whistler kills a living creature with this
+attack when the creature is at 0 Hit Dice, the target’s soul
+is lost to the realm of shadow. This lost soul can be raised
+from the dead only with mighty magic, such as
+wish
+or
+divine intervention.

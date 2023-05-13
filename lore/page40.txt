@@ -1,0 +1,50 @@
+40
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+B
+Bloody Avenue
+“The rulers of this city hold supreme power over 
+its population, crushing rebels in the streets. Or 
+sometimes crushing rebels with the streets.”
+Grisly Masonry.
+ The lengths to which evil dictators 
+go to maintain power beggars the imagination. Wicked 
+minions, obedient thralls, and greedy mercenaries are 
+all tools to hold sway over a population. One of the most 
+horrifying and imaginative instruments, however, is the 
+bloody avenue.
+Arcanists mix the blood and bones of slain foes with 
+the masonry of city streets, making them weapons of 
+subjugation. The ritual connects the senses of the bloody 
+avenue to other servants of the city’s overlord. Using 
+this bond, bloody avenues deliver information to other 
+agents in the city.
+Stone and Bone.
+ When a bloody avenue attacks, dirt, 
+stone, and bone coalesce into a malleable snakelike form. 
+It can mire anyone standing on it when it activates, and it 
+can slam nearby enemies or hurl rubble at them.
+salvage
+Part of the ritual to create a bloody avenue requires jet 
+gems and diamonds. Among the rubble of the construct, 
+gems worth 500 gp can be found with a 10-minute 
+search. Each successful DC 15 Intelligence (Investigation) 
+or Wisdom (Perception) check made during this search 
+cuts the time in half, to a minimum of 1 minute.
+lore
+DC 15 Intelligence (History): 
+Rulers with few scru-
+ples and access to powerful arcane rituals have turned 
+streets into guardian constructs. The telltale signs of this 
+ritual are blood and bone in the masonry and tiny runes 
+on the cobbles.
+DC 20 Intelligence (Arcana):
+ A bloody avenue is 
+hard to escape—it mires those around it in rubble. It can 
+also alert other beings, such as the city watch.

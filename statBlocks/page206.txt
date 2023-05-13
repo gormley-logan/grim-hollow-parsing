@@ -1,0 +1,51 @@
+206
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+M
+===
+Malcinder
+Medium fiend, neutral evil
+Armor Class 13 (natural armor)
+Hit Points 52 (8d8 + 16)
+Speed 40 ft.
+str dex con int wis cha
+ 13 (+1) 15 (+2) 14 (+2) 3 (–4) 12 (+1) 8 (–1)
+Skills
+Perception +3, Stealth +4
+Damage Immunities fire
+Senses darkvision 60 ft., passive Perception 13
+Languages understands Infernal but can’t speak
+Challenge 2 (450 XP)
+Proficiency Bonus +2
+Keen Sight and Smell.
+The malcinder has advantage
+on Wisdom (Perception) checks that rely on sight or smell.
+Pounce.
+If the malcinder moves at least 20 feet straight
+toward a creature and then hits it with a claw attack on the
+same turn, that target must succeed on a DC 11 Strength
+saving throw or fall prone. If the target is prone, the mal-
+cinder can make one bite attack against it as a bonus action.
+actions
+Multiattack.
+The malcinder makes two attacks, only
+one of which can be a bite.
+Bite.
+Melee Weapon Attack: +4 to hit, reach 5 ft.,
+one target.
+Hit: 6 (1d8 + 2) piercing damage.
+Claw.
+Melee Weapon Attack: +4 to hit, reach 5 ft.,
+one target.
+Hit: 5 (1d6 + 2) piercing damage.
+Tail Flame.
+Melee or Ranged Weapon Attack: +4 to hit,
+reach 5 ft. or ranged 30/120 ft., one target.
+Hit: 5 (2d4)
+fire damage.

@@ -1,0 +1,107 @@
+211
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+M
+===
+Maskenmagier
+Medium fiend, lawful evil
+Armor Class 16 (natural armor)
+Hit Points 127 (17d8 + 51)
+Speed 30 ft.
+str dex con int wis cha
+ 12 (+1) 17 (+3) 16 (+3) 17 (+3) 15 (+2) 20 (+5)
+Saving Throws
+Dex +7, Int +7, Wis +6
+Skills
+Arcana +7, Deception +9, Insight +6, Perception
++6, Sleight of Hand +7
+Damage Immunities poison
+Damage Resistances
+bludgeoning, piercing, and
+slashing from nonmagical attacks
+Condition Immunities charmed, poisoned
+Senses truesight 120 ft., passive Perception 16
+Languages all, telepathy 120 ft.
+Challenge 12 (8,400 XP)
+Proficiency Bonus +4
+Devour Soul.
+A maskenmagier can consume the soul
+of a humanoid it has killed within the last hour requiring
+the maskenmagier to be within 5 ft. of the corpse for 10
+minutes. The victim’s soul is trapped in the maskenmagier
+for 24 hours. If the maskenmagier dies before then or the
+soul is subjected to magic that raises the dead, the soul is
+freed. Otherwise, after 24 hours, the soul is digested, and
+no mortal magic can restore it. The maskenmagier can
+digest only one soul at a time.
+After it has digested a soul, the maskenmagier gains
+a soul mask in the likeness of the owner of the devoured
+soul. The maskenmagier can use this mask along with
+the Shapechanger trait for 13 days.
+Magic Resistance.
+The maskenmagier has advantage
+on saving throws against spells and other magical effects.
+Teleport (Recharge 4–6).
+As its movement, the
+maskenmagier can teleport to an unoccupied space
+within 30 feet of it that it can see.
+Quick Cantrip.
+The maskenmagier can use a bonus
+action to cast a cantrip.
+Shapechanger.
+The maskenmagier can use its action
+to polymorph into a Small or Medium humanoid, or
+back into its true form. Its statistics, other than its size,
+are the same in each form. If the maskenmagier has a
+humanoid’s soul mask, the fiend can meld the mask
+with a new humanoid form, allowing the maskenmagier
+to perfectly pass for that person. The maskenmagier
+instinctively says and does the right things, including
+speaking the correct language in the correct accent, if the
+fiend succeeds at a Charisma (Deception) check, which
+the fiend makes with advantage while wearing the soul
+mask. Any other equipment it is wearing or carrying
+isn’t transformed. It reverts to its true form if it dies.
+Spellcasting.
+The maskenmagier is a 17th-level spellcaster.
+Its spellcasting ability is Charisma (spell save DC 17, +9
+to hit with spell attacks). The maskenmagier knows the
+following spells and does not require components: Cantrips (at will): chill touch
+,
+mage hand
+,
+minor illusion
+,
+poison spray
+,
+prestidigitation
+,
+shocking grasp
+1st level (4 slots): charm person, chromatic orb, silent image
+2nd level (3 slots): mirror image
+,
+phantasmal force
+3rd level (3 slots): counterspell, major image
+4th level (3 slots): greater invisibility
+,
+phantasmal killer
+5th level (2 slots): cloudkill
+,
+mislead
+6th level (1 slot): eyebite
+7th level (1 slot): prismatic spray
+8th level (1 slot): glibness
+9th level (1 slot): weird
+actions
+Claws
+.
+Melee Weapon Attack: +7 to hit, reach 5 ft., one
+target.
+Hit: 8 (2d4 + 3) slashing damage and 14 (4d6)
+psychic damage.

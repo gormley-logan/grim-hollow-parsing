@@ -1,0 +1,95 @@
+===
+Dreamer Somnolist
+Medium humanoid (dreamer), any alignment
+Armor Class 13 (studded leather)
+Hit Points 27 (5d8 + 5)
+Speed 30 ft.
+str dex con int wis cha
+	10	(+0)	13	(+1)	12	(+1)	13	(+1)	15	(+2)	16	(+3)
+Skills
+Insight +4, Perception +4, Performance +5
+Senses darkvision 60 ft., passive Perception 14
+Languages Dreamspeak, Dwarven, and two other
+languages
+Challenge 1 (200 XP)
+Proficiency Bonus +2
+Dreamwalking.
+While asleep, the dreamer somnolist
+can reach out and touch the dreams of others within
+1 mile. After finishing a long rest during which the
+somnolist slept, the somnolist gains one skill or tool
+proficiency until the somnolist finishes another long rest.
+Dreamwalking Shaping.
+The dreamer somnolist
+chooses a willing creature that is within range of
+Dreamwalking. While using Dreamwalking this way,
+the somnolist can enter that creature’s dreams and
+help shape them according to the creature’s desires.
+The somnolist can cast spells within the dream, but the
+creature knows the general effect and must willingly fail
+any saving throw. The target awakens inspired, gaining
+1d8 it can roll to add to one ability check or saving throw
+it makes within 8 hours. This use of Dreamwalking
+provides only these benefits.
+Spellcasting.
+The dreamer somnolist is a 5th-level
+spellcaster. Its spellcasting ability is Charisma (spell
+save DC 13). It knows the following bard spells: Cantrips (at will): message
+,
+minor illusion
+,
+vicious mockery
+1st level (4 slots): charm person
+,
+disguise self
+,
+sleep
+2nd level (3 slots): calm emotions
+,
+detect thoughts
+,
+phantasmal force
+3rd level (2 slots): hypnotic pattern
+,
+major image
+actions
+Shortsword.
+Melee Weapon Attack: +3 to hit, reach 5 ft.,
+one target.
+Hit: 4 (1d6 + 1) piercing damage.
+===
+Dreamer Snoop
+Medium humanoid (dreamer), any alignment
+Armor Class 12 (leather armor)
+Hit Points 16 (3d8 + 3)
+Speed 30 ft.
+str dex con int wis cha
+	10	(+0)	13	(+1)	12	(+1)	15	(+2)	11	(+0)	13	(+1)
+Skills
+Deception +3, Investigation +4, Perception +2,
+Stealth +3
+Senses darkvision 60 ft., passive Perception 12
+Languages Dreamspeak, Dwarven, and one other language
+Challenge 1/8 (25 XP)
+Proficiency Bonus +2
+Dreamwalking.
+While asleep, the dreamer snoop can
+reach out and touch the dreams of others within 1 mile.
+After finishing a long rest during which the snoop slept,
+the snoop gains one skill or tool proficiency until the
+snoop finishes another long rest.
+Dreamwalking Snoop.
+The dreamer snoop chooses
+a creature the dreamer has seen that is within range of
+Dreamwalking. While using Dreamwalking this way,
+the snoop can use
+detect thoughts
+once on the target to
+acquire information as if talking to the target. This use of
+Dreamwalking provides only this benefit.
+actions
+Dagger.
+Melee or Ranged Weapon Attack: +3 to hit,
+reach 5 ft. or range 20/60 ft., one target.
+Hit: 3 (1d4 + 1)
+piercing damage.

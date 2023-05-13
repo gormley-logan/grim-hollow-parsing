@@ -1,0 +1,78 @@
+===
+Ormwurm
+Burrowing Carnivores
+. Ormwurms are big lizards with
+red, green, or tan scaly skin, a serpentine body, and two
+strong arms. They slither as they move, using their arms to
+help them climb. An ormwurm can sacrifice its tail to get
+away from a predator. The tail eventually grows back.
+These burrowers live along riverbanks or on sandy
+beaches. They hunt larger animals, including cattle,
+and they eat carrion. An ormwurm pulls its prey
+underground to eat.
+===
+Ormwurm
+Medium beast, unaligned
+Armor Class 12
+Hit Points 11 (2d8 + 2)
+Speed 30 ft., burrow 5 ft., swim 30 ft.
+str dex con int wis cha
+ 12 (+1) 14 (+2) 13 (+1) 2 (–4) 10 (+0) 5 (–3)
+Skills
+Athletics +3
+Senses blindsight 10 ft., passive Perception 10
+Languages —
+Challenge 1/4 (50 XP)
+Proficiency Bonus +2
+Hold Breath.
+The ormwurm can hold its breath for
+30 minutes.
+actions
+Bite.
+Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+Hit: 7 (2d4 + 2) piercing damage. If the target is a Large or
+smaller creature, it is grappled (escape DC 11). Until this
+grapple ends, the ormwurm can’t bite another target
+===
+Scuttling Maw
+Crablike scuttling maws patrol shorelines, searching for
+prey to devour. Their meat is a delicacy.
+===
+Scuttling Maw
+Small beast, unaligned
+Armor Class 14 (natural armor)
+Hit Points 10 (3d6)
+Speed 25 ft., swim 25 ft.
+str dex con int wis cha
+ 10 (+0) 13 (+1) 11 (+0) 1 (–5) 10 (+0) 3 (–4)
+Senses blindsight 30 ft., passive Perception 10
+Languages —
+Challenge 1/4 (50 XP)
+Proficiency Bonus +2
+Amphibious.
+The scuttling maw can breathe air and water.
+Gnash.
+The scuttling maw can use a bonus action to
+bite a target the maw holds grappled.
+actions
+Bite.
+Melee Weapon Attack: +3 to hit, reach 5 ft.,
+one target.
+Hit: 3 (1d4 + 1) piercing damage.
+Pincers.
+Melee Weapon Attack: +3 to hit, reach 5 ft., one
+target.
+Hit: 4 (1d6 + 1) bludgeoning damage. If the target
+is a Medium or smaller creature, it is grappled (escape
+DC 11). Until this grapple ends, the maw can’t use its
+pincers on another target.
+348
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+U

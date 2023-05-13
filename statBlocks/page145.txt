@@ -1,0 +1,117 @@
+145
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+G
+===
+Grotesquerie
+Large aberration, chaotic evil
+Armor Class 17 (natural armor)
+Hit Points 210 (20d10 + 100)
+Speed 10 ft.
+str dex con int wis cha
+ 16 (+3) 8 (–1) 20 (+5) 10 (+0) 16 (+3) 6 (–2)
+Saving Throws
+Dex +4, Cha +3
+Skills
+Perception +8
+Damage Immunities acid, poison
+Damage
+Resistances
+bludgeoning, piercing, and
+slashing damage from nonmagical attacks
+Condition Immunities poisoned, prone
+Senses darkvision 60 ft., tremorsense 60 ft., passive Perception 18
+Languages Deep Speech, telepathy 60 ft.
+Challenge 16 (15,000 XP)
+Proficiency Bonus +5
+False Appearance.
+While the grotesquerie remains
+motionless, it is indistinguishable from a rotting tree stump.
+Legendary Resistance (3/Day).
+If the grotesquerie
+fails a saving throw, it can choose to succeed instead.
+Woodland Minions.
+The grotesquerie starts with three
+swarms of grotesquerie minions at its command. Each
+swarm is the grotesquerie’s ally, and it takes its turn just
+after the grotesquerie. The swarm obeys the grotesquerie’s
+telepathic or verbal commands (no action for the grotes-
+querie). If issued no commands, the swarm defends itself
+from hostile creatures, but otherwise takes no actions.
+actions
+Multiattack.
+The grotesquerie makes two bite attacks.
+Bite.
+Melee Weapon Attack: +8 to hit, reach 5 ft., one target.
+Hit
+: 12 (2d8 + 3) bludgeoning damage and 13 (3d8) acid damage. If the target is a Medium or smaller creature, it is
+grappled (escape DC 16). Until this grapple ends, the target
+is restrained, and the grotesquerie can’t bite another target.
+Call Animals.
+The grotesquerie calls another swarm
+of grotesquerie minions into an unoccupied space within
+60 feet of the grotesquerie
+Devour Animals.
+The grotesquerie orders one swarm
+of its minions into its maw, regaining hit points up to
+those the swarm has remaining.
+Grotesque Vomit (Recharge 4–6).
+The grotesquerie
+vomits acidic bile and creatures it has swallowed in a
+30-foot cone. Each creature in the area, including the
+vomited creature, must make a DC 18 Dexterity saving
+throw, taking 45 (10d8) acid damage on a failed save, or
+half as much damage on a successful one. Any vomit-
+ed creature is thrown 30 feet through the area, taking
+7 (2d6) bludgeoning damage and landing prone in an
+unoccupied space.
+If the grotesquerie has used Devour Animals, the
+vomit also contains a swarm of grotesquerie minions.
+This swarm lands safely in a space in the cone and takes
+a turn just after the grotesquerie.
+Swallow.
+The grotesquerie makes one bite attack against
+a Medium or smaller target it holds grappled. If the attack
+hits, the target is also swallowed, and the grapple ends.
+While swallowed, the target is blinded and restrained, it
+has total cover against anything that originates outside the
+grotesquerie, and it takes 10 (3d6) bludgeoning damage
+and 18 (4d8) acid damage at the start of each of the grotes-
+querie’s turns. A grotesquerie can have only one creature
+swallowed at a time.
+If the grotesquerie takes 25 damage or more on a single
+turn from the swallowed creature, the grotesquerie must
+succeed on a DC 15 Constitution saving throw at the end
+of that turn or regurgitate the creature, which falls prone
+in a space within 10 feet of the grotesquerie. If the grotes-
+querie dies, a swallowed creature is no longer restrained
+by it and can escape from the corpse by using 10 feet of
+movement, exiting prone.
+legendary actions
+The grotesquerie can take 3 legendary actions, choosing
+from the options below. Only one legendary action op-
+tion can be used at a time and only at the end of another
+creature’s turn. The grotesquerie regains spent legendary
+actions at the start of its turn.
+Bite.
+The grotesquerie makes one bite attack. It can
+swallow instead.
+Move.
+The grotesquerie moves.
+Animal Control (Costs 2 Actions).
+The grotesquerie
+uses Call Animals or Devour Animals.
+gms advice: A grotesquerie might sit in the center of
+a large area and control more than just tiny woodland
+creatures. Larger beasts, or even corrupted fey, might serve
+the horror. In this case, the characters might think that
+something else is responsible for the awful conditions and
+multiple disappearances in the area. They’ll be surprised
+when the rotten tree trunk in the center of the clearing is
+the real culprit.

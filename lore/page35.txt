@@ -1,0 +1,33 @@
+Blood Ooze
+“I was never too fond of pets. But I never thought they’d be 
+terrifying until I saw a lord feeding a prisoner to his blood ooze.”
+Bloody Pets. 
+Vampires and practitioners of blood magic 
+keep blood oozes as pets. They are clever enough to learn 
+tricks, especially if rewarded with living creatures as food. 
+Even roughly trained, blood oozes can keep watch in 
+areas susceptible to infiltration, such as waterways or 
+secret passages.
+Trainable Servants.
+ Well-trained blood oozes have 
+a penchant for understanding what their masters want. 
+The ooze can take different shapes to please or entertain. 
+They follow simple instructions, but an ooze might be 
+distracted by a potential meal.
+salvage
+A blood ooze ejects what its prey wore or carried. That 
+means, provided no one collects these leavings, treasure 
+can be found in and around the ooze’s lair. An ooze’s 
+keepers usually collect anything of real value, however.
+lore
+DC 10 Intelligence (Nature):
+ Sapient creatures that 
+revel in blood, such as vampires, like to keep blood oozes. 
+These terrifying jellies act quickly when they scent blood, 
+and they can dissolve a living creature to acid-scarred 
+bones in a matter of moments.
+DC 15 Intelligence (History):
+ Stories speak of blood 
+oozes guarding the dungeons of evil creatures. Would-be 
+heroes run afoul of these terrors in damp passages beneath 
+more than one fabled castle.

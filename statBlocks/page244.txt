@@ -1,0 +1,32 @@
+===
+Oozing Vulture
+Medium monstrosity, unaligned
+Armor Class 13 (natural armor)
+Hit Points 65 (10d8 + 10)
+Speed 20 ft., fly 50 ft.
+str dex con int wis cha
+ 16 (+3) 13 (+1) 12 (+1) 5 (–3) 14 (+2) 8 (–1)
+Skills
+Perception +4, Stealth +3
+Senses darkvision 60 ft., passive Perception 14
+Languages –
+Challenge 2 (450 XP)
+Proficiency Bonus +2
+Blood Frenzy
+. The oozing vulture has advantage on
+melee attack rolls against any creature that doesn’t have
+all its hit points.
+Keen Sight and Smell
+. The oozing vulture has
+advantage on Wisdom (Perception) checks that rely on
+sight or smell.
+actions
+Bite
+.
+Melee Weapon Attack
+: +5 to hit, reach 5 ft., one target. Hit
+: 10 (2d6 + 3) slashing damage. If the target is a creature, it must succeed on a DC 13 Strength saving throw or be
+knocked prone.
+DC 20 Intelligence (Arcana)
+: An oozing vulture is enraged by the smell of blood and gains advantage on
+attacks against wounded prey.

@@ -1,0 +1,40 @@
+===
+Ogre Swine
+Large monstrosity, chaotic evil
+Armor Class 11 (natural armor)
+Hit Points 51 (6d10 + 18)
+Speed 30 ft.
+str dex con int wis cha
+ 18 (+4) 9 (–1) 16 (+3) 4 (–3) 7 (–2) 5 (–3)
+Senses darkvision 60 ft., passive Perception 8
+Languages understands one language but can’t speak
+Challenge 2 (450 XP)
+Proficiency Bonus +2
+Blood Aggression.
+The ogre swine can use a bonus
+action to take the Dash action to move toward a creature
+that lacks all its hit points.
+Keen Smell.
+The ogre swine has advantage on Wisdom
+(Perception) checks that rely on smell.
+Stench.
+Any creature other than an ogre or ogre swine
+that starts its turn within 5 feet of the swine must succeed
+on a DC 13 Constitution saving throw or be poisoned
+until the start of the creature’s next turn. On a successful
+saving throw, the creature is immune to the Stench of all
+ogre swine for 1 hour.
+Relentless (Recharges after a Short or Long
+Rest).
+If the ogre swine takes 10 damage or less that would
+reduce it to 0 hit points, it is reduced to 1 hit point instead.
+actions
+Tusk.
+Melee Weapon Attack: +6 to hit, reach 5 ft., one
+target.
+Hit: 13 (2d8 + 4) slashing damage and 2 (1d4)
+poison damage. If the target is a creature, it must
+succeed on a DC 13 Constitution saving throw or become
+infected with sewer plague. A creature that succeeds on
+this saving throw is immune to infection from all ogre
+swine for 24 hours.

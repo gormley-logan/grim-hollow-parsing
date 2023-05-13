@@ -1,0 +1,70 @@
+65
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+C
+===
+Coldfire Ooze
+Large ooze, unaligned
+Armor Class 8
+Hit Points 110 (13d10 + 39)
+Speed 20 ft., climb 20 ft.
+str dex con int wis cha
+	15	(+2)	6	(–2)	17	(+3)	1	(–5)	12	(+1)	1	(–5)
+Damage Vulnerabilities
+fire
+Damage Immunities cold
+Condition Immunities blinded, charmed, deafened,
+exhaustion, frightened, prone
+Senses blindsight 60 ft. (blind beyond this radius),
+passive Perception 11
+Languages —
+Challenge 5 (1,800 XP)
+Proficiency Bonus +3
+Amorphous.
+The coldfire ooze can move through a
+space as narrow as 1 inch wide without squeezing.
+Coldfire.
+The cold damage a coldfire ooze deals ignores
+cold resistance. Creatures immune to cold treat their cold
+immunity as resistance to cold damage instead.
+Ignite.
+If a creature or a flammable object takes cold
+damage from the coldfire ooze, the target ignites. Until
+the target is dealt fire damage, it takes 3 (1d6) cold
+damage at the start of each of its turns.
+Illumination.
+The coldfire ooze sheds bright light in
+a 20-foot radius and dim light for an additional 20 feet.
+Spider Climb.
+The coldfire ooze can climb difficult
+surfaces, including upside down on ceilings, without
+needing to make an ability check.
+actions
+Pseudopod.
+Melee Weapon Attack: +5 to hit, reach 5 ft.,
+one target.
+Hit: 5 (1d6 + 2) slashing damage and 14 (4d6)
+cold damage.
+Coldfire Flare (Recharge 6).
+The coldfire ooze expels
+coldfire in a 15-foot cone. Each creature in that area must
+make a DC 14 Dexterity saving throw, taking 14 (4d6) cold
+damage on a failed save, or half as much damage on a
+successful one. If a significant amount of flammable material
+ignites due to this flare, the area deals damage as the Ignite
+trait to objects and to creatures who enter the area for the first
+time on a turn or who end their turn there. This damage
+from coldfire also subjects targets to Ignite.
+reactions
+Split.
+When a coldfire ooze that is Medium or larger is
+subjected to cold or slashing damage, it splits into two new
+oozes if it has at least 10 hit points. Each new ooze has hit
+points equal to half the original ooze’s, rounded down.
+New oozes are one size smaller than the original ooze.

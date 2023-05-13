@@ -1,0 +1,89 @@
+221
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+M
+===
+Mjork Sootling Swarm
+Medium swarm of Tiny elementals, chaotic neutral
+Armor Class 12
+Hit Points 33 (6d8 + 6)
+Speed 25 ft.
+str dex con int wis cha
+ 9 (–1) 15 (+2) 12 (+1) 4 (–3) 10 (+0) 3 (–4)
+Damage Vulnerabilities
+thunder
+Damage Immunities fire, poison
+Damage Resistances
+bludgeoning, piercing, and slashing
+Condition Immunities charmed, exhaustion,
+frightened, grappled, paralyzed, petrified, poisoned,
+prone, restrained, unconscious
+Senses darkvision 60 ft., passive Perception 10
+Languages understands Ignan and Terran but can’t speak
+Challenge 2 (450 XP)
+Proficiency Bonus +2
+Hot Soot
+. A creature that ends its turn in the sootling
+swarm’s space takes 5 (2d4) fire damage, or 2 (1d4) fire
+damage if the swarm has half of its hit points or fewer.
+The creature must also succeed on a DC 11 Constitution
+saving throw or be blinded and unable to breathe until
+the end of its next turn.
+Smoke Sense.
+A sootling swarm in contact with smoke
+has blindsight in that smoke’s area in a radius of up to
+120 feet.
+Swarm.
+The sootling swarm can occupy another creature’s
+space and vice versa, and the swarm can move through any
+opening large enough for a Tiny creature. The swarm can’t
+regain hit points or gain temporary hit points
+Water Susceptibility.
+For every 5 feet the sootling
+swarm moves in water, or for every gallon of water
+splashed on it, it takes 2 cold damage.
+actions
+Burns.
+Melee Weapon Attack: +4 to hit, reach 0 ft., one
+target in the swarm’s space.
+Hit: 10 (4d4) fire damage,
+or 5 (2d4) fire damage if the swarm has half of its hit
+points or fewer.
+===
+Mjork Sootling
+Tiny elemental, chaotic neutral
+Armor Class 12
+Hit Points 10 (3d4 + 3)
+Speed 25 ft.
+str dex con int wis cha
+ 4 (–3) 15 (+2) 12 (+1) 4 (–3) 10 (+0) 3 (–4)
+Damage Vulnerabilities
+thunder
+Damage Immunities fire, poison
+Condition Immunities exhaustion, paralyzed,
+petrified, poisoned, unconscious
+Senses darkvision 60 ft., passive Perception 10
+Languages understands Ignan and Terran but can’t speak
+Challenge 1/4 (50 XP)
+Proficiency Bonus +2
+Heated Body.
+A creature that ends its turn grappling
+the sootling takes 1 fire damage.
+Smoke Sense.
+A sootling in contact with smoke has
+blindsight in that smoke’s area in a radius of up to 120 feet.
+Water Susceptibility.
+For every 5 feet the sootling
+moves in water, or for every gallon of water splashed
+on it, it takes 1 cold damage.
+actions
+Burn.
+Melee Weapon Attack: +4 to hit, reach 5 ft.,
+one target.
+Hit: 4 (1d4 + 2) fire damage.

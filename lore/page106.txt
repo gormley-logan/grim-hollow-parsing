@@ -1,0 +1,53 @@
+106
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+E
+Eldritch Priests
+“First she spoke of a power greater than the gods. Then there 
+was this ringing in my ears. I don’t remember what happened 
+after that, but the nightmares were terrible.”
+Chaos Dwellers.
+ Certain entities are so ancient that 
+some theorize they sprang from the primordial chaos that 
+predates creation. The mere sight of these otherworldly 
+abominations drives most beyond reason, yet some seek 
+them out. These beings, called Aether Kindred, take little 
+notice of mortals. Many of them exist in torpor, dreaming 
+mystical, gruesome dreams in the emptiness between 
+stars. Occasionally, however, mortals touch those dreams 
+and garner a portion of the Kindred’s attention. Among 
+these people are eldritch priests.
+New Gods.
+ After the demise of the Etharis pantheon, 
+divine magic waned across the world. Desperate souls 
+turned to worshipping the gods’ killers in the hopes of 
+currying favor. These priests are few. One of their primary 
+goals is to disseminate the “truth” that the gods waged 
+war against a greater power and died for their hubris.
+salvage
+The touch of an Aether Kindred’s dreams can taint 
+objects with an unstable nature, particularly potions. 
+Any potion found on the servants of these beings has 
+a 50% chance to be tainted, making the potion’s effects 
+unpredictable. Someone inspecting such a potion must 
+succeed on a DC 17 Intelligence (Arcana) check to 
+identify the instability. Otherwise, the potion appears 
+to be a normal potion of its type. When an unstable 
+potion is consumed, roll on the Eldritch Effects table to 
+determine the effect of the instability, which is in addition 
+to the potion’s normal effects and can last as long as the 
+potion does or 1 minute, whichever is longer. However, 
+a creature can attempt a DC 13 Wisdom saving throw at 
+the end of each of its turns, ending the instability effect 
+on itself on a success.
+lore
+DC 10 Intelligence (History):
+ In the wake of the gods’ 
+disappearance, some turned to other ancient entities for 
+power. Those that succeed are known as eldritch priests.

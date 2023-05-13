@@ -1,0 +1,38 @@
+===
+Andora
+Medium construct, neutral good
+Armor Class 16 (natural armor)
+Hit Points 84 (13d8 + 26)
+Speed 30 ft.
+str dex con int wis cha
+ 18 (+4) 13 (+1) 15 (+2) 12 (+1) 11 (+0) 8 (–1)
+Saving Throws
+Str +6, Con +4
+Skills
+Athletics +6, Insight +2, Intimidation +3,
+Investigation +3, Perception +2, Survival +2
+Damage Immunities lightning
+Condition Immunities exhausted
+Senses passive Perception 12
+Languages Ostoy and five other languages
+Challenge 4 (1,100 XP)
+Proficiency Bonus +2
+Magic Weapons.
+Andora’s weapon attacks are magical.
+Subdermal Plating
+. Critical hits against Andora
+become normal hits.
+actions
+Multiattack.
+Andora makes two slam attacks.
+Slam.
+Melee Weapon Attack
+: +6 to hit, reach 5 ft., one target.
+Hit
+: 9 (1d10 + 4) bludgeoning damage plus 2 (1d4) lightning damage, and if the target is a creature,
+it must succeed on a DC 14 Strength saving throw or
+be knocked prone.
+reactions
+She’s Alive!
+When Andora takes lightning damage, she
+gains temporary hit points equal to the damage taken.

@@ -1,0 +1,33 @@
+===
+Thunderblossom
+Tiny plant, unaligned
+Armor Class 10
+Hit Points 63 (18d4 + 18)
+Speed 40 ft.
+str dex con int wis cha
+ 8 (-1) 10 (+0) 12 (+1) 1 (–5) 10 (+0) 10 (+0)
+Damage Resistances
+cold, fire
+Damage Immunities thunder
+Condition Immunities blinded, charmed, deafened,
+exhaustion, frightened, prone, unconscious
+Senses blindsight 30 ft. (blind beyond this radius),
+passive Perception 10
+Languages --
+Challenge 4 (1,100 XP)
+Proficiency Bonus +2
+False Appearance
+. While the thunderblossom
+remains motionless, it is indistinguishable from ordinary
+flowering plants.
+actions
+Boom Bloom
+. One of the thunderblossom’s blooms
+explodes with significant concussive force that can be heard
+up to 150 feet away. Each other creature within 10 feet of
+the thunderblossom must make a DC 11 Strength saving
+throw or take 14 (4d6) thunder damage and deafened
+until the end of its next turn. A creature that fails by 3 or
+more is also stunned until the end of their next turn.
+A creature that succeeds on this saving throw takes half
+damage and is not deafened.

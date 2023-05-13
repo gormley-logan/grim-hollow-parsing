@@ -1,0 +1,63 @@
+167
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+H
+Hurrock
+“The weapons wielded by the rock-skinned creature grow 
+from the ends of its arms, and blood drips from them.”
+Rock Cursed
+. Dwarf warriors are often thought of 
+as tough as stone. But even these stalwart people are 
+vulnerable to powerful curses. Dwarves mention such a 
+cursed warrior in hushed tones among other dwarves. 
+Such a creature, a hurrock, is to be pitied and feared.
+When a dwarf is cursed this way, their skin adopts a 
+rocklike texture and hue. Their arms twist and harden, 
+resembling a weapon and shield. The luxuriant beard 
+they cultivated, the pride of any dwarf, becomes like 
+metal wire. Most pronounced among these changes, their 
+head bulges and distends in a mockery of familial great 
+helms, their visage horrifying and unnatural. The mind 
+snaps under the strain as their dwarf essence slowly 
+leeches out of them.
+As a hurrock loses touch with their former life, 
+they grow to prefer the safety and solace of the rocky 
+depths. A hurrock burrows ever deeper into solid 
+rock, occasionally coming across mine shafts and 
+underground tributaries. Hurrocks can often be found 
+delving alone, but groups can also form, whether they 
+sought each other out or were cursed together.
+Deep Corruption
+. The cursed rock infecting a hur-
+rock’s body grows in strength over time, consuming 
+more humanoid attributes in exchange for greater ele-
+mental affinity. An elder hurrock develops beyond any 
+need for food and enters a trance state for four hours in 
+lieu of normal sleep.
+Eventually, the curse changes an ancient hurrock into 
+a creature with only the barest resemblance to a dwarf. 
+The hurrock’s weapon arm and shield arm have worn 
+salvage
+The death of a hurrock causes the cursed stone to crumble 
+and fall away as the curse dissipates. The curse hardens 
+and polishes some of the victim’s organs into gemstones. 
+Normal hurrocks yield gems worth 100 gp, elder hurrocks 
+produce gems worth 500 gp, and ancient hurrocks have 
+gems worth 1,000 gp. Jewelers and those schooled in Arcana 
+can recognize these hurrock stones for what they are with a 
+successful DC 15 Intelligence check. Those who recognize 
+the gems might be less or more willing to trade for them, 
+depending on the buyer’s taste for cursed objects.
+lore
+DC 15 Intelligence (Arcana)
+: Dwarves falling victim 
+to a specific curse of the deep transform into monsters 
+called hurrocks. Only adamantine or magic weapons are 
+fully effective against them. Thunder seriously harms 
+elder hurrocks, much as it does earth elementals.

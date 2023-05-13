@@ -1,0 +1,23 @@
+303
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+S
+salvage
+Taking 1 hour to extract the shards of Shadowsteel from 
+a Shadowsteel ghoul, someone can collect an amount 
+worth 250 gp. A Shadowsteel ghast yields a quantity 
+worth 500 gp.
+lore
+DC 15 Intelligence (Religion)
+: Those who use Shad-
+owsteel to power curses can become Shadowsteel ghouls 
+upon death. These undead creatures seek out more of 
+the metal. As the creature ages, it can regain a semblance 
+of the arcane power it had in life, empowering similar 
+creatures and cursing nearby foes.

@@ -1,0 +1,45 @@
+===
+Living Toxin
+Small ooze, unaligned
+Armor Class 13
+Hit Points 44 (8d6 + 16)
+Speed 20 ft., swim 20 ft.
+str dex con int wis cha
+ 9 (–1) 17 (+3) 15 (+2) 1 (–5) 10 (+0) 1 (–5)
+Damage Immunities poison
+Condition Immunities blinded, charmed, deafened,
+exhaustion, frightened, poisoned, prone
+Senses blindsight 60 ft. (blind beyond this radius),
+passive Perception 10
+Languages —
+Challenge 2 (450 XP)
+Proficiency Bonus +2
+Amorphous.
+The living toxin can move through a
+space as narrow as 1 inch wide without squeezing.
+Toxic Nature.
+When the living toxin or its host (see
+Toxic Invasion) is subjected to an effect that cures the
+poisoned condition, the toxin takes 2d8 necrotic damage
+plus 1d8 necrotic damage per level of the effect, if any.
+actions
+Touch.
+Melee Weapon Attack: +5 to hit, reach 5 ft., one
+creature.
+Hit: 6 (1d6 + 3) poison damage, the target is
+grappled (escape DC 13), and until this grapple ends,
+the living toxin can’t attack another target.
+Toxic Invasion.
+A creature grappled by the living
+toxin must succeed on a DC 13 Constitution save or it
+takes 6 (1d6 + 3) poison damage, and the living toxin
+invades the creature’s body. While in this host, the living
+toxin has total cover from effects that originate outside
+the host, the host is poisoned, and the host takes 10
+(2d6 +3) poison damage at the start of each of the living
+toxin’s turns. The target can repeat the saving throw at
+the end of each of its turns, ending the effect on itself
+on a success. This effect also ends if the host dies or is
+subjected to any effect that ends the poisoned condition.
+When the effect ends, the toxin leaves the host, entering
+an unoccupied space within 5 feet of the host.

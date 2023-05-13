@@ -1,0 +1,50 @@
+===
+Danxoni
+Huge monstrosity, unaligned
+Armor Class 16 (natural armor)
+Hit Points 168 (16d12 + 64)
+Speed 40 ft., burrow 20 ft., climb 40 ft.
+str dex con int wis cha
+	20	(+5)	10	(+0)	19	(+4)	2	(–4)	8	(–1)	5	(–3)
+Saving Throws
+Wis +3
+Skills
+Perception +3
+Damage Vulnerabilities
+necrotic
+Damage Immunities poison
+Condition Immunities poisoned
+Senses darkvision 60 ft., tremorsense 60 ft.,
+passive Perception 13
+Languages —
+Challenge 9 (5,000 XP)
+Proficiency Bonus +4
+Parasitic Release
+.
+When a danxoni dies, the creatures
+inside it escape, some seeking new hosts. These creatures
+create a cloud around the dead danxoni in a 10-foot
+radius sphere that goes around corners. Any creature in
+that area must succeed on a DC 16 Constitution saving
+throw or become infected with the sewer plague disease.
+actions
+Multiattack
+. The danxoni makes five attacks: four with its claws and one with its bite.
+Claws
+.
+Melee Weapon Attack
+: +9 to hit, reach 10 ft., one target.
+Hit
+: 8 (1d6 + 5) slashing damage. Bite
+.
+Melee Weapon Attack
+: +9 to hit, reach 10 ft., one target. Hit
+: 9 (1d8 + 5) piercing damage and 5 (2d4) acid damage. Symbiont Breath (Recharge 5–6)
+. The danxoni
+exhales a cloud of the creatures that populate its gut in a
+60-foot cone. Each creature in that area must make a DC
+16 Constitution saving throw. A creature that fails takes
+14 (4d6) acid damage, 7 (2d6) piercing damage, and 14
+(4d6) poison damage. If the save fails by 5 or more, the
+creature is also infected with the sewer plague disease.
+A creature takes half as much damage on a successful save.

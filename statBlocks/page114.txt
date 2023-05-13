@@ -1,0 +1,62 @@
+114
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+E
+===
+Gillian Hammerstorm
+Medium humanoid (dwarf), chaotic good
+Armor Class 15 (studded leather)
+Hit Points 52 (7d8 + 21)
+Speed 25 ft.
+str dex con int wis cha
+ 16 (+3) 11 (+0) 16 (+3) 12 (+1) 13 (+1) 10 (+0)
+Saving Throws
+Str +4, Dex +2, Con +5
+Skills
+Athletics +5, Insight +3, Perception +3
+Damage Resistances
+poison
+Senses darkvision 60 ft., passive Perception 14
+Languages Castinellan, Dwarvish, one other language
+Challenge 3 (700 XP)
+Proficiency Bonus +2
+Dwarven Resilience.
+Gillian has advantage on saving
+throws against being poisoned.
+Backed Into a Corner.
+When Gillian’s current hit
+points equal half her maximum hit points or less, she
+makes one additional unarmed strike attack when she
+uses her multiattack action.
+Heavy Hitter.
+Gillian scores a critical hit on a result of
+19 or 20 when she makes an unarmed strike attack.
+Innate Toughness.
+Gillian can add her Constitution
+modifier instead of her Dexterity modifier to determine
+AC (included in her AC).
+actions
+Multiattack
+. Gillian Hammerstorm makes two
+unarmed strike attacks.
+Unarmed Strike.
+Melee Weapon Attack: +5 to hit, reach
+5 ft., one target.
+Hit: 7 (1d8 + 3) bludgeoning damage.
+reactions
+Now I’m Angry.
+When Gillian takes damage that
+reduces her current hit points to half or less than her
+maximum hit points, she gains temporary hit points
+equal to half her maximum hit points. While she
+has these temporary hit points, she has resistance to
+bludgeoning, piercing, and slashing damage. She loses
+all temporary hit points gained from this ability after
+10 minutes. Once she uses this reaction, she can’t use it
+again until she finishes a long rest.

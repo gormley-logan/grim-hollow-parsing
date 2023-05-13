@@ -1,0 +1,39 @@
+Darkfeather
+“A figure moves silently through the city, well past 
+midnight, a masked doctor treating those who have contracted 
+the Weeping Pox. Those who look closer see a monster—and 
+not a masked healer—walking the streets.”
+Mimic of Healers
+. Darkfeathers are monsters that 
+mimic the appearance of the few who try to safely help 
+victims of the Weeping Pox. Traditionally, these healers 
+dress in long, feathered black robes with a beak-like 
+mask to protect themselves from contracting the disease. 
+A warped mixture of magic and disease transformed 
+these healers, merging the mask and pestilence, into a 
+humanoid creature with a bird-like skull.
+Deathbringer
+. To some, darkfeathers might be a blessing. 
+Within their skull are two poison glands and a proboscis 
+to deliver the poison to sickened individuals. Victims of 
+a darkfeather seem to improve for a couple of days after 
+the creature’s visit, giving the family and victim hope. 
+But death comes quickly, and the darkfeather tracks its 
+victims to drink the liquified remains.
+salvage
+Glands within a darkfeather’s skull can be harvested and 
+processed into one dose of a necrotic poison, which acts 
+as a 
+potion of poison
+ that inflicts both poison and necrotic 
+damage if invested. Harvesting and preparing the poison 
+requires proficiency with a poisoner’s kit, takes 4 hours, 
+and requires a successful DC 12 Intelligence check.
+lore
+DC 15 Intelligence (History)
+: A darkfeather is a 
+venomous monstrosity that is immune to poison.
+DC 20 Intelligence (History)
+: A darkfeather can 
+blend with the shadows and is averse to bright light, 
+especially sunlight.

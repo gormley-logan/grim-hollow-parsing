@@ -1,0 +1,43 @@
+77
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+D
+salvage
+Daemon oak ichor is a powerful if unstable reagent. 
+Harvesting one vial from a daemon oak requires a 
+successful DC 20 Wisdom (Survival) check. One vial 
+of ichor harvested from a daemon oak can fetch 500 gp 
+from the right buyer.
+Someone who has proficiency with smith’s tools can 
+use the chains from one daemon oak to fashion a 
+chain 
+shirt of resistance
+ (acid) or 
+chain mail of resistance
+ (acid). 
+These armors also offer a +1 bonus to AC. Instead, the 
+chains can be used to make a magic chain weapon (see 
+Grim Hollow Player’s Guide
+). Such a weapon offers a +1 
+bonus to attack rolls and damage rolls, and when the 
+wielder hits with an attack using such a weapon, it deals 
+1d6 extra acid damage. Each of these rare items requires 
+10 days and additional materials worth 1,000 gp to make.
+lore
+DC 10 Intelligence (Arcana):
+ Fell forces twisted this 
+walking tree. It’s resistant to bludgeoning and piercing 
+damage and vulnerable to fire.
+DC 15 Intelligence (Nature): 
+A daemon oak can turn 
+other trees into thralls. Each servant is nearly as powerful 
+as its master, although far less cunning. A daemon oak 
+thrall can’t spit acid like its master, and thralls perish if 
+their master dies. When a thrall dies, it cracks apart, show-
+ering acidic ichor over an area within 10 feet of the thrall.

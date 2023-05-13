@@ -1,0 +1,109 @@
+===
+Fireborn Troll Flamecaller
+Large giant, chaotic neutral
+Armor Class 15 (natural armor)
+Hit Points 147 (14d10 + 70)
+Speed 40 ft.
+str dex con int wis cha
+ 19 (+4) 14 (+2) 20 (+5) 9 (–1) 14 (+2) 10 (+0)
+Skills
+Nature +3, Perception +6
+Damage Immunities fire
+Senses darkvision 60 ft., passive Perception 16
+Languages Giant
+Challenge 9 (5,000 XP)
+Proficiency Bonus +4
+Call Flame.
+The troll can use a bonus action to ignite a
+magical fire in its maw. The fire lasts until the start of the
+troll’s next turn. The troll must ignite this fire to use its
+spit fire and firebane actions.
+Heated Body.
+A creature that touches the troll or hits it
+with a melee attack while within 5 feet of it takes 5 (2d4)
+fire damage.
+Keen Smell.
+The troll has advantage on Wisdom
+(Perception) checks that rely on smell.
+Magic Weapons
+.
+The troll’s weapon attacks are magical.
+Regeneration.
+The troll regains 10 hit points at the
+start of its turn. If the troll takes acid or cold damage, this
+trait doesn’t function at the start of the troll’s next turn.
+The troll dies only if it starts its turn with 0 hit points and
+doesn’t regenerate.
+actions
+Multiattack
+.
+The troll makes three attacks, only one
+of which can be a bite.
+Bite.
+Melee Weapon Attack: +8 to hit, reach 5 ft., one
+target.
+Hit: 7 (1d6 + 4) piercing damage and 7 (2d6)
+fire damage, or 14 (4d6) fire damage if the troll has call
+flame active.
+Claw.
+Melee Weapon Attack: +8 to hit, reach 5 ft., one target.
+Hit: 11 (2d6 + 4) slashing damage and 7 (2d6) fire damage.
+Spit Fire.
+Ranged Spell Attack
+: +6 to hit, range 40/120 ft., one target.
+Hit
+: 14 (4d6) fire damage. Control Flame.
+The troll chooses a fire it can see within
+30 feet of it and expands that fire by one 5-foot cube,
+extinguishes fire in one 5-foot cube, or makes shapes in
+the fire in one 5-foot cube. Expanded fire needs fuel to
+continue burning.
+Firebane (Recharges after a Short or Long Rest).
+The troll spits fire at a point it can see within 120 feet of
+it, and the fire bursts into an explosion of magical flame.
+It ignites flammable objects that aren’t being worn or
+carried. Each creature in a 20-foot-radius sphere centered
+on that point must make DC14 Dexterity saving throw.
+On a failure, the target takes 28 (8d6) fire damage, and
+for 1 minute, the target is cursed and must roll a 1d4 and
+subtract the number rolled from attack rolls or saving
+throw. If the save succeeds, the target takes half the fire
+damage and isn’t cursed.
+===
+Fireborn Troll
+Large giant, chaotic neutral
+Armor Class 15 (natural armor)
+Hit Points 115 (11d10 + 55)
+Speed 40 ft.
+str dex con int wis cha
+ 18 (+4) 14 (+2) 20 (+5) 8 (–1) 10 (+0) 9 (–1)
+Skills
+Perception +3
+Damage Immunities fire
+Senses darkvision 60 ft., passive Perception 13
+Languages Giant
+Challenge 7 (2,900 XP)
+Proficiency Bonus +3
+Heated Body.
+A creature that touches the troll or hits it
+with a melee attack while within 5 feet of it takes 5 (2d4)
+fire damage.
+Keen Smell.
+The troll has advantage on Wisdom
+(Perception) checks that rely on smell.
+Regeneration.
+The troll regains 10 hit points at the
+start of its turn. If the troll takes acid or cold damage,
+this trait doesn’t function at the start of the troll’s next
+turn. The troll dies only if it starts its turn with 0 hit
+points and doesn’t regenerate.
+actions
+Multiattack
+.
+The troll makes three attacks: one with its bite and two with its claws.
+Bite.
+Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+Hit: 7 (1d6 + 4) piercing damage and 5 (2d4) fire damage.
+Claw.
+Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+Hit: 11 (2d6 + 4) slashing damage and 5 (2d4) fire damage.

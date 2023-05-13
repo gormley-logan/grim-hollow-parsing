@@ -1,0 +1,43 @@
+Catacomb Haunt
+“Don’t be distracted by the bones and skulls set into the walls. 
+It’s what comes through the walls that can kill you.”
+Necropolis Guardians.
+ Many creatures and cultures 
+revere the dead. Those with the ambition and the know-
+how even build catacombs or necropolises to house the 
+bones of those who have passed before. Many of those 
+dead rest peacefully, but the spirits of some remain 
+behind to keep the living out. Among these undead are 
+catacomb haunts.
+Incorporeal Skirmishers.
+ Catacomb haunts prefer 
+the tight, cramped quarters of a necropolis, where 
+winding passages can disorient intruders. The haunts 
+have no such disadvantage. They pop through walls to 
+attack before retreating the way they came.
+Elemental Weakness.
+ A catacomb haunt has a 
+weakness to one element, often based on the region in 
+which it dwells or the nature of its death. Something 
+about a haunt reveals this weakness, such as tiny sparks 
+in its form for fire or a subtle crackling mist for cold. This 
+element can be exploited to force the haunt to become 
+corporeal temporarily. Haunts who lurk in the same 
+catacombs often share a weakness.
+salvage
+The bizarre ectoplasm a catacomb haunt leaves behind 
+fluctuates between material and immaterial states. 
+The ectoplasm from one haunt can be preserved in a 
+sealed container. Applied to one weapon or 10 pieces 
+of ammunition in 1 minute, the ectoplasm makes those 
+coated weapons magical for 1 hour.
+lore
+DC 15 Intelligence (Religion):
+ This creature is a 
+restless spirit called a catacomb haunt. It should have 
+one weakness to a specific element among acid, cold, fire, 
+lightning, or thunder. Exploiting this weakness turns the 
+spirit corporeal temporarily.
+DC 20 Intelligence (Arcana):
+ One can learn a catacomb 
+haunt’s weakness by looking for clues in its shadowy form.

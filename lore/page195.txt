@@ -1,0 +1,56 @@
+195
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+L
+Living Toxin
+“Makes me sick just thinking about it. The blasted thing swept 
+right up into the smithy, and next thing we knew, she was on 
+the ground, rolling and screaming.”
+Manufactured Menaces.
+ A living toxin is an ooze at 
+the pinnacle of the poisoner’s art. It’s poison that delivers 
+itself to the victim. Living toxins are usually found around 
+cities, hiding in sewers, and sliding along back alleys.
+Each living toxin begins as a mixture of poisons and 
+alchemical ingredients. Whether by accident or ill intent, 
+the mixture gains a semblance of life and often turns on 
+its creator. The ooze escapes through the nearest grating 
+or window, seeking out places to hide and hunt.
+Invasive Species.
+ When a living creature comes along, 
+the ooze displays its most sinister trait. It launches itself at 
+its victim’s face and tries to force its way inside their body. 
+Once there, the toxin attacks the body from within. After 
+the interior is liquefied, the ooze escapes from the corpse.
+Ooze Nature.
+ A living toxin doesn’t require sleep.
+salvage
+A living toxin breaks down into harmless goo once 
+slain. Someone who has proficiency with alchemist’s 
+supplies or an herbalism kit can combine the goo with 
+other reagents or herbs worth 50 gp to create two doses 
+of 
+restorative ointment
+. Doing so requires 8 hours of work 
+and a successful DC 10 Intelligence or Wisdom check. 
+lore
+DC 10 Intelligence (Arcana):
+ Living toxins are 
+poisonous mixtures given life. A living toxin attempts 
+to force itself inside a host, attacking from within.
+DC 15 Intelligence (Arcana):
+ Effects that cure 
+poisoning are highly effective against a living toxin.
+GM Advice:
+ It’s not too difficult to imagine the existence of a 
+sentient living toxin, capable of infecting a host but choosing 
+when to inflict the poison damage instead of doing so automati-
+cally. Such a creature, if given the ability to communicate with a 
+host telepathically, could blackmail a host into doing its bidding. 
+Such creatures could serve evil masters.

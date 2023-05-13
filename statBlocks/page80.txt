@@ -1,0 +1,55 @@
+80
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+D
+===
+Darkfeather
+Medium monstrosity, neutral
+Armor Class 14 (natural armor)
+Hit Points 45 (7d8 + 14)
+Speed 30 ft.
+str dex con int wis cha
+14	(+2)	15	(+2)	15	(+2)	8	(–1)	11	(+0)	8	(–1)
+Skills
+Perception +2, Stealth +6
+Damage Immunities poison
+Condition Immunities poisoned
+Senses darkvision 60 ft., passive Perception 12
+Languages —
+Challenge 2 (450 XP)
+Proficiency Bonus +2
+Shadow Blend (Recharges after a Short or
+Long Rest).
+While in dim light or darkness, the
+darkfeather can use a bonus action to become invisible,
+along with anything it’s wearing or carrying. The
+invisibility lasts until the darkfeather uses a bonus
+action to end it or until the darkfeather attacks, is in
+bright light, or is incapacitated.
+Sunlight Weakness.
+While in sunlight, the darkfeather
+has disadvantage on attack rolls, ability checks, and
+saving throws.
+actions
+Beak
+.
+Melee Weapon Attack
+: +4 to hit, reach 5 ft., one creature.
+Hit
+: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 12 Constitution saving throw,
+taking 18 (4d8) poison damage on a failed save, or half as
+much damage on a successful one. If this poison damage
+reduces the target to 0 hit points, the target is stable, but
+even if the target regains hit points, the target is poisoned
+for 1 hour and paralyzed while poisoned in this way.
+Shadow Lurker
+. When confronted, the darkfeather
+retreats and blends into darkness. It avoids conflict
+unless cornered, and then fights with ferocity to escape.
+Accurate knowledge of this mimic is rare.

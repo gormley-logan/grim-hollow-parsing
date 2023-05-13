@@ -1,0 +1,45 @@
+355
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+V
+Vooran
+“When your pet stares at you, you never know if you are looking 
+into the eyes of your beloved companion or the eyes of a vooran.”
+Flesh Riding
+. Vooran are uncontrollable incorporeal 
+woodland spirits that experience the world by possessing 
+small animals, causing those usually harmless creatures 
+to behave strangely, even tamed ones.
+Familiars
+. Voorans can serve as familiars, though they 
+generally only do so for those who offer it different animals 
+to inhabit.
+Ethereal Hedonist
+. Voorans naturally inhabit the 
+Ethereal plane and can only affect the mortal world for 
+one hour a day while possessing a small animal; an hour 
+they use to live life to the fullest.
+salvage
+If a vooran is destroyed while possessing an animal, the 
+animal’s blood takes on an opalescent hue and gains 
+momentary magical properties. If a living creature 
+drinks the creature’s blood within 1 minute of its death, 
+it acts as a 
+potion of healing
+.
+lore
+DC 10 Intelligence (History)
+: Vooran are fey spirits 
+from the Ethereal Plane that possess small animals.
+DC 15 Intelligence (Nature)
+: Vooran are nearly inde-
+structible on the Material plane and make excellent spies.
+DC 20 Intelligence (Arcana)
+: A spellcaster capable of 
+casting find familiar can form a bond with a vooran.

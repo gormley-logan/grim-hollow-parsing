@@ -1,0 +1,57 @@
+===
+Grimaldo Simoni
+Medium humanoid (human), neutral
+Armor Class 12 (15 with
+mage armor
+)
+Hit Points 75 (10d8 + 30)
+Speed 30 ft.
+str dex con int wis cha
+ 11 (+0) 14 (+2) 16 (+3) 17 (+3) 12 (+1) 9 (–1)
+Saving Throws
+Int +5, Wis +3
+Skills
+Arcana +5, Intimidation +1, Investigation +5,
+Stealth +4
+Senses passive Perception 11
+Languages Castellan and one other language
+Challenge 4 (1,100 XP)
+Proficiency Bonus +2
+Bloody Brilliant
+. Grimaldo has a pool of 7d12s.
+Whenever he casts a sangromancy spell that calls for the
+expenditure of a hit die, he can spend an equal number
+of these d12s instead.
+Spellcasting
+. Grimaldo is a 7th-level spellcaster. His
+spellcasting ability is Intelligence (spell save 13, +5 to hit
+with spell attacks). Grimaldo has the following wizard
+spells prepared: Cantrips (at will): chill touch
+,
+mage hand
+,
+message
+,
+prestidigitation
+1st level (4 slots): blood rush
+,
+burning hands
+,
+crimson lash
+,
+mage armor
+2nd level (3 slots): alter self
+,
+hold person
+,
+wilting smite
+3rd level (3 slots): reanimate
+,
+sanguine poppet
+4th level (1 slot): dark sacrament
+actions
+Bejeweled Dagger
+.
+Melee or Ranged Weapon Attack: +4
+to hit, reach 5 ft. or range 20/60 ft., one creature.
+Hit: 4 (1d4 + 2) piercing damage.

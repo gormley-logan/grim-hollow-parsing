@@ -1,0 +1,72 @@
+279
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+Q
+===
+Gray Quoxxarie
+Large fiend, chaotic evil
+Armor Class 15 (natural armor)
+Hit Points 114 (12d10 + 48)
+Speed 40 ft.
+str dex con int wis cha
+ 18 (+4) 17 (+3) 19 (+4) 8 (–1) 13 (+1) 8 (–1)
+Saving Throws
+Int +2, Wis +4, Cha +2
+Skills
+Acrobatics +6, Athletics +7
+Damage Immunities necrotic, poison
+Damage Resistances
+cold, fire, lightning
+Condition Immunities poisoned
+Senses darkvision 120 ft., passive Perception 11
+Languages Infernal
+Challenge 6 (2,300 XP)
+Proficiency Bonus +3
+Aura of Death.
+Provided the gray quoxxarie isn’t inca-
+pacitated, any creature hostile to the quoxxarie that starts
+its turn within 30 feet of one or more gray quoxxaries has
+disadvantage on death saving throws. Halve the hit points
+creatures regain if they are hostile to the quoxxarie and in
+one or more quoxxarie Aura of Death.
+Bloody Eye.
+The gray quoxxarie and other fiends
+within 120 feet of it know the current hit points of
+creatures within 120 feet of one or more gray quoxxaries.
+The gray quoxxarie has advantage on attack rolls against
+any creature that has half its hit points or fewer.
+Charge.
+If the gray quoxxarie moves at least 20 feet
+straight toward a target and then hits it with a ram
+attack on the same turn, the target takes an extra 9 (2d8)
+bludgeoning damage. If the target is a creature, it must
+succeed on a DC 15 Strength saving throw or fall prone.
+Magic Resistance.
+The gray quoxxarie has advantage
+on saving throws against spells and other magical effects.
+actions
+Multiattack.
+The gray quoxxarie makes one ram
+attack and one attack with its hooves.
+Ram.
+Melee Weapon Attack: +7 to hit, reach 5 ft.,
+one target.
+Hit: 13 (2d8 + 4) bludgeoning damage.
+Hooves.
+Melee Weapon Attack: +7 to hit, reach 5 ft.,
+one target.
+Hit: 17 (3d8 + 4) bludgeoning damage.
+reactions
+Get the Horns.
+If the gray quoxxarie takes 25 or more
+damage from one creature out of the quoxxarie’s reach,
+the quoxxarie can take the Disengage action and move
+up to half its speed toward that creature. If the creature is
+then within reach, the quoxxarie can make a ram attack
+against it with advantage on the attack roll.

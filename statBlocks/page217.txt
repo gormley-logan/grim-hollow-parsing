@@ -1,0 +1,88 @@
+217
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+M
+===
+Young Meyana
+Small plant, neutral
+Armor Class 13 (natural armor)
+Hit Points 18 (4d6 + 4)
+Speed 30 ft., climb 30 ft.
+str dex con int wis cha
+ 13 (+1) 12 (+1) 13 (+1) 8 (–1) 11 (+0) 8 (–1)
+Skills
+Athletics +3, Stealth +3, Survival +2
+Damage Resistances
+piercing
+Senses tremorsense 30 ft., passive Perception 10
+Languages Sylvan
+Challenge 1/2 (100 XP)
+Proficiency Bonus +2
+Plant Camouflage.
+The young meyana has advantage
+on Dexterity (Stealth) checks it makes while obscured
+by vegetation.
+actions
+Bite.
+Melee Weapon Attack: +3 to hit, reach 5 ft., one target.
+Hit: 3 (1d4 + 1) bludgeoning damage and 3 (1d6) acid
+damage, or 5 (2d4) acid damage if the target started the
+turn grappled by the young meyana. If the target is a Small
+or smaller creature, it is grappled (escape DC 11). Until this
+grapple ends, the meyana can’t bite another target.
+===
+Meyana
+Medium plant, neutral
+Armor Class 14 (natural armor)
+Hit Points 52 (8d8 + 16)
+Speed 30 ft., climb 30 ft.
+str dex con int wis cha
+ 15 (+2) 10 (+0) 15 (+2) 9 (–1) 13 (+1) 9 (–1)
+Skills
+Athletics +4, Perception +3, Stealth +2, Survival +3
+Damage Resistances
+piercing
+Senses tremorsense 60 ft., passive Perception 13
+Languages Sylvan
+Challenge 2 (450 XP)
+Proficiency Bonus +2
+Plant Camouflage.
+The meyana has advantage
+on Dexterity (Stealth) checks it makes while obscured
+by vegetation.
+actions
+Multiattack.
+The meyana makes one bite attack and
+one greatclub attack.
+Bite.
+Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+Hit: 5 (1d6 + 2) bludgeoning damage and 5 (2d4) acid
+damage, or 10 (4d4) acid damage if the target started the
+turn grappled by the meyana. If the target is a Medium or
+smaller creature, it is grappled (escape DC 12). Until this
+grapple ends, the meyana can’t bite another target.
+Greatclub.
+Melee Weapon
+Attack: +4 to hit, reach 5 ft.,
+one creature.
+Hit: 6 (1d8 + 2) bludgeoning damage.
+Humid Habitat.
+Meyanas live in forests or other
+tropical, subtropical, or temperate climates. They
+camouflage themselves in thick vegetation, making
+their hunting easier. Meyanas live in sheltered thickets
+or wet underground areas. They prefer enclosed spaces
+to open ones.
+Despite their preferences, meyanas can survive in any
+area that supports plant growth. They can be a threat
+to any area in which they can gain a foothold. Only
+inadequate prey can slow their proliferation.
+Meyanas congregate in small tribes. Those tribes work
+together in a larger system that cooperates, shares food,
+and defends each other.

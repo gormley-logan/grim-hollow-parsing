@@ -1,0 +1,89 @@
+222
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+M
+Morbus Kobolds
+“If a group of lions is called a pride, a group of 
+morbus kobolds is called an infection.”
+Health Hazards.
+ Across Etharis, and particularly in 
+the city-state of Liesech, kobolds are associated with 
+vermin and plague. Sewer-dwelling kobolds, known 
+as morbus kobolds by the few scholars who study such 
+beings, seem immune to the diseases they carry. Worse, 
+these kobolds move from region to region spreading 
+outbreaks. If a gathering of morbus kobolds is found in 
+a sewer system, where they prefer to take up residence, 
+local officials are quick to put a bounty on the creatures 
+before they bring about a health crisis.
+Fervent Filth Followers.
+ Morbus kobolds worship 
+the Filth Grazer, a creature they claim blessed morbus 
+kobolds with resilience against plague and other ailments 
+on the condition that they helped spread the diseases they 
+carry. Morbus kobolds believe that commitment to spread 
+plagues did not end with their ancestors, but that the 
+blessing must be renewed. This dogma allowed morbus 
+kobolds to flourish at the expense of other people.
+Guided by their beliefs, morbus kobolds live in nomadic 
+clans. These clans stop in a settlement long enough to 
+infect locals with diseases from other regions, contract 
+local diseases, then move on. Morbus kobolds consider it 
+a point of pride when their efforts produce a pandemic, 
+particularly if the disease is as severe as the Weeping Pox.
+Morbus kobolds obsess about losing the Filth Grazer’s 
+blessing. If a morbus kobold expresses doubts about 
+spreading disease or the existence of the Filth Grazer, 
+they face banishment or worse. Most loyally spend their 
+days wallowing in filth, training giant rats, and carrying 
+out plots to spread infection.
+Kobold Kin.
+ Built like other kobolds, morbus kobolds 
+stand out with their jaundice and webbed feet. Some 
+morbus kobolds have functioning gills, a trait these 
+kobolds believe signifies the Filth Grazer’s favor. 
+One can often smell a morbus kobold before seeing it, 
+owing to their sewer homes and filthy habits.
+Morbus kobolds who survive long enough become elders. 
+These elders show cosmetic signs of diseases they’ve carried 
+over their lifetime, such as bloodshot eyes, discolored 
+skin, and raspy voices punctuated with coughing fits. 
+Disease growths protrude from an elder’s body, each a 
+mark of worthiness in morbus kobold beliefs.
+salvage
+Someone who has proficiency with Medicine can attempt 
+a DC 13 Wisdom (Medicine) check to extract the largest 
+tumor from a morbus kobold elder. If this check succeeds, 
+someone who has proficiency with alchemist’s supplies 
+or an herbalism kit can wrap the tumor with herbs and 
+reagents worth 200 gp. The wrapped tumor must be 
+left in open air so it receives daily sunlight for 7 days. 
+Someone must cast 
+lesser restoration 
+on the tumor during 
+this time. At the end of the process, the tumor can be 
+polished and set in a necklace, making a 
+periapt of health
+.
+lore
+DC 13 Intelligence (Nature):
+ Morbus kobolds are 
+a known for spreading disease. Despite their role in 
+propagating contagions, they are immune to the effects 
+of all known diseases.
+DC 13 Intelligence (History):
+ The first documented 
+record of an encounter with a morbus kobold was in 
+the city of Liesech during the early days of the Weeping 
+Pox. Shortly after this encounter, the Weeping Pox began 
+spreading in nearby regions.
+DC 16 Wisdom (Medicine):
+ The largest tumors in 
+morbus kobold elders can be treated then dried in 
+sunlight to create a ward against diseases.

@@ -1,0 +1,66 @@
+138
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+G
+===
+Gozomite
+Large monstrosity, unaligned
+Armor Class 18 (natural armor)
+Hit Points 102 (12d10 + 36)
+Speed 40 ft., climb 40 ft.
+str dex con int wis cha
+  19 (+4) 16 (+3) 17 (+3) 8 (-1) 14 (+2) 10 (+0)
+Skills
+Perception +5, Stealth +6
+Damage Vulnerabilities
+fire
+Damage Immunities poison
+Condition Immunities poisoned
+Senses darkvision 60 ft., passive Perception 15
+Languages Deep Speech
+Challenge 6 (2,300 XP)
+Proficiency Bonus +3
+Pack Tactics.
+The gozomite has advantage on
+an attack roll against a creature if at least one of the
+gozomite’s allies is within 5 feet of the creature and
+the ally isn’t incapacitated.
+Spider Climb.
+The gozomite can climb difficult
+surfaces, including upside down on ceilings, without
+needing to make an ability check.
+actions
+Multiattack.
+The gozomite makes one bite attack and
+one stinger attack.
+Bite.
+Melee Weapon Attack
+: +7 to hit, reach 10 ft., one target.
+Hit
+: 8 (1d8 + 4) piercing damage plus 7 (2d6) poison damage. A successful DC 15 Constitution saving
+throw halves the poison damage.
+Stinger.
+Melee Weapon Attack
+: +7 to hit, reach 15 ft., one target.
+Hit
+: 9 (1d10 + 4) piercing damage and the target is injected with hundreds of the gozomite’s eggs that hatch
+after 2d4 rounds. Applying fire that deals 1 fire damage
+to the sting wound before the eggs hatch kills the eggs.
+At the start of each of the target’s turns after the eggs
+hatch, the target takes 14 (4d6) piercing damage as the
+gozomitelings feast on the host’s flesh.
+After the gozomitelings hatch, any creature can use an
+action to kill or remove the gozomitelings with fire or a
+weapon that deals piercing or slashing damage, causing
+10 damage of the appropriate type to the target. A successful
+DC 10 Wisdom (Medicine) check as an action also removes
+the gozomitelings. A creature reduced to 0 hit points by
+the gozomitelings’ piercing damage dies. The round after
+the gozomitelings hatch, the corpse is destroyed, leaving
+behind only equipment and bones (or exoskeleton).

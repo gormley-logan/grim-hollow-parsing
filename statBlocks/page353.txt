@@ -1,0 +1,124 @@
+===
+Vessel Shard
+Tiny undead, chaotic evil
+Armor Class 15 (natural armor)
+Hit Points 81 (18d4 + 36)
+Speed 5 ft., fly 30 ft. (hover)
+str dex con int wis cha
+ 5 (–3) 16 (+3) 14 (+2) 17 (+3) 13 (+1) 12 (+1)
+Saving Throws
+Int +6, Wis +4
+Skills
+Perception +4
+Damage Immunities necrotic, poison, psychic
+Damage Resistances
+cold, lightning; ; bludgeoning,
+piercing, and slashing from nonmagical attacks
+Condition Immunities charmed, exhaustion,
+frightened, paralyzed, petrified, poisoned, prone
+Senses darkvision 120 ft., passive Perception 14
+Languages understands one national language and
+three others but can’t speak, telepathy 60 ft.
+Challenge 6 (2,300 XP)
+Proficiency Bonus +3
+Consume Spirit.
+When a creature dies or is destroyed
+within 30 feet of the vessel shard, the vessel shard
+absorbs part of the departing spiritual energy, regaining
+up to 10 hit points but no more than the dead creature’s
+hit point maximum.
+As a bonus action, the vessel shard chooses one
+undead it can see within 30 feet of it. That undead must
+succeed on a DC 14 Wisdom saving throw, adding any
+benefit it gains against effects that turn undead. On a
+failure, the undead loses 10 hit points and is destroyed if
+this damage reduces it to 0 hit points. The vessel shard
+regains those hit points.
+Turn Resistance: The vessel shard has advantage on
+saving throws against any effect that turns undead.
+Unhallowed Aura.
+Unless the vessel shard is
+incapacitated, it bolsters undead of its choice within 30 feet
+of it (no action required). These undead roll 1d4 and add
+that number to any attack roll or saving throw.
+Halve the number of hit points a living creature
+regains while within 30 feet of the vessel shard. Any
+humanoid that dies in that area retains its place in the
+initiative order, animating as a zombie at the start of
+its next turn, provided enough of its body is intact.
+The vessel shard controls this zombie.
+actions
+Sepulchral Touch
+.
+Melee Weapon Attack: +6 to hit,
+reach 5 ft., one creature.
+Hit: 14 (4d6) necrotic damage,
+and the target must succeed on a DC 14 Constitution
+saving throw or be restrained until the end of the vessel
+shard’s next turn.
+Putrefy (Recharge 5–6)
+. Each creature of the vessel
+shard’s choice within 30 feet of it must make a DC 14
+Constitution saving throw. A target that fails takes 14
+(4d6) necrotic damage and takes another 3 (1d6) necrotic
+damage at the start of each of its turns for 1 minute. If
+the initial saving throw succeeds, the target takes only
+half the initial necrotic damage and no ongoing damage.
+A creature taking the ongoing damage can repeat the
+saving throw at the end of each of its turns, ending the
+effect on itself on a success.
+Shattered Spirits (1/Day)
+. The vessel shard releases
+fragments of spirits trapped within it. Each creature of
+the vessel shard’s choice within 30 feet of it must make a
+DC 14 Wisdom saving throw. On a failure, one of these
+spirit fragments enters the creature, dealing the target 10
+(3d6) necrotic damage, and cursing the creature with a
+delusion from the following table or a similar delusion
+of the GM’s choice. This damage decreases the target’s
+hit point maximum by an amount equal to the necrotic
+damage the target takes. The cursed target also can’t
+regain hit points.
+1d6
+Delusion
+1
+Only I matter. Others are disposable.
+2
+All other creatures should serve me.
+3
+Living beings are weak and not to be trusted.
+4
+No risk is too great for my personal glory.
+5
+I must never put myself in danger of dying.
+6
+To survive, I must eat only little creatures that are still alive.
+Every 24 hours, the cursed target can repeat the
+saving throw, ending the curse on itself on a success.
+On a failure, the target’s hit point maximum decreases
+by 10 (3d6). If the curse reduces the target’s hit point
+maximum to 0, the target dies and rises as a zombie
+under the vessel shard’s control. This zombie travels
+toward the vessel shard, killing any beings that stand
+in its way, stopping only when within 30 feet of the
+vessel shard.
+Magic can remove this curse, which is also a form
+of possession by an undead creature. Therefore, turn
+undead can drive the shattered spirit out of one target,
+destroying the spirit. If an effect calls for a saving throw,
+the shattered spirit has a +4 bonus on the save. Also, the
+curse can be removed by keeping the target on hallowed
+ground within bright light for 24 hours. But the target is
+unwilling to stay and must be detained.
+reactions
+Arcane Shield (Recharge 6)
+. When hit by a melee or
+ranged attack or forced to make a Dexterity saving throw,
+the vessel shard adds 5 to its AC or saving throw result.
+gm advice: A vessel shard might be inconspicuous
+at first, hiding its true nature by seeming to be a bit of
+treasure from an area infested with undead. Unsuspecting
+characters might even carry it back to a populated area
+and sell it to a merchant. After a few days, the vessel shard
+could devastate that town, building a veritable undead army
+because of the characters’ carelessness.

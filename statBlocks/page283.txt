@@ -1,0 +1,129 @@
+===
+Elder Red Hag
+Medium fey, neutral evil
+Armor Class 12
+Hit Points 97 (13d8 + 39)
+Speed 30 ft.
+str dex con int wis cha
+ 14 (+2) 15 (+2) 16 (+3) 14 (+2) 13 (+1) 17 (+3)
+Skills
+Arcana +4, Deception +5, Intimidation +5,
+Persuasion +5, Stealth +4
+Senses darkvision 60 ft., passive Perception 11
+Languages Sylvan and two other languages
+Challenge 3 (700 XP)
+Proficiency Bonus +2
+Drain Vigor.
+If the hag deals a creature psychic damage,
+the creature must succeed on a DC 13 Charisma saving
+throw or its hit point maximum is reduced by an amount
+equal to the psychic damage taken. The hag regains
+hit points equal to that amount, gaining any excess as
+temporary hit points that last 24 hours. This reduction to
+a creature’s hit point maximum lasts until the target finishes
+a long rest. The hag can’t reduce a creature’s hit point
+maximum to 0, but if a creature with a hit point maximum
+of 1 due to this trait drops to 0 hit points, it becomes stable.
+When the humanoid recovers from this condition, they
+are permanently cursed to be unable to speak. A
+remove
+curse
+or similar magic restores a creature’s voice.
+Immutable Seeming.
+No effect can change the hag’s
+form, and an illusion can disguise her only if the illusion
+makes her invisible.
+Innate Spellcasting.
+The hag’s innate spellcasting
+ability is Charisma (spell save DC 13). She can innately cast
+the following spells, requiring no material components: At will: dancing lights, minor illusion, vicious mockery
+(11th level, see Drain Vigor)
+3/day: charm person, suggestion
+Stolen Voices.
+The hag can perfectly mimic the voice
+of anyone cursed by her to lose their voice.
+actions
+Multiattack
+. The hag makes two attacks, or she casts
+vicious mockery
+and makes one attack.
+Claw.
+Melee Weapon Attack: +4 to hit, reach 5 ft.,
+one target.
+Hit: 4 (1d4 + 2) slashing damage and 5 (2d4)
+psychic damage.
+Touch.
+Melee Spell Attack: +5 to hit, reach 5 ft., one
+creature.
+Hit: 7 (3d4) psychic damage, and the target
+can’t take reactions until the end of the hag’s next turn.
+Charming Banter (Recharges after a Short or
+Long Rest).
+A creature under the hag’s magical mental
+influence (such as charmed by her) and able to hear her
+must make a DC 13 Charisma saving throw. On a failed
+save, when the hag’s mental influence ends, the target
+forgets magic was used to influence it.
+===
+Red Hag
+Medium fey, neutral evil
+Armor Class 11
+Hit Points 27 (5d8 + 5)
+Speed 30 ft.
+str dex con int wis cha
+ 11 (+0) 12 (+1) 12 (+1) 13 (+1) 11 (+0) 14 (+2)
+Skills
+Arcana +3, Deception +4, Intimidation +4,
+Persuasion +4, Stealth +3
+Senses darkvision 60 ft., passive Perception 10
+Languages Sylvan and two other languages
+Challenge 1/2 (100 XP)
+Proficiency Bonus +2
+Drain Vigor.
+If the hag deals a creature psychic damage,
+the creature must succeed on a DC 12 Charisma saving
+throw or its hit point maximum is reduced by an amount
+equal to the psychic damage taken. The hag regains
+hit points equal to that amount, gaining any excess as
+temporary hit points that last 24 hours. This reduction to
+a creature’s hit point maximum lasts until the target finishes
+a long rest. The hag can’t reduce a creature’s hit point
+maximum to 0, but if a creature with a hit point maximum
+of 1 due to this trait drops to 0 hit points, it becomes stable.
+When the humanoid recovers from this condition, they are
+permanently cursed to be unable to speak. A
+remove curse
+or similar magic restores a creature’s voice.
+Immutable Seeming.
+No effect can change the hag’s
+form, and an illusion can disguise her only if the illusion
+makes her invisible.
+Innate Spellcasting.
+The hag’s innate spellcasting ability
+is Charisma (spell save DC 12). She can innately cast the
+following spells, requiring no material components: At will: dancing lights, minor illusion, vicious mockery
+(5th level, see
+Drain Vigor
+)
+2/day: charm person
+Stolen Voices.
+The hag can perfectly mimic the voice
+of anyone cursed by her to lose their voice.
+actions
+Claws.
+Melee Weapon Attack: +3 to hit, reach 5 ft.,
+one target.
+Hit: 3 (1d4 + 1) slashing damage and 2 (1d4)
+psychic damage.
+Touch.
+Melee Spell Attack
+: +4 to hit, reach 5 ft., one creature.
+Hit: 5 (2d4) psychic damage, and the target
+can’t take reactions until the end of the hag’s next turn.
+Charming Banter (Recharges after a Short or
+Long Rest).
+A creature under the hag’s magical mental
+influence (such as charmed by her) and able to hear her
+must make a DC 12 Charisma saving throw. On a failed
+save, when the hag’s mental influence ends, the target
+forgets magic was used to influence it.

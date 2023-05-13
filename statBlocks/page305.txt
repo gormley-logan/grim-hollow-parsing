@@ -1,0 +1,34 @@
+===
+Shrieking Mandrake
+Tiny plant, unaligned
+Armor Class 9
+Hit Points 5 (2d4)
+Speed 5 ft.
+str dex con int wis cha
+ 3 (–4) 8 (–1) 10 (+0) 1 (–5) 3 (–4) 1 (–5)
+Condition Immunities blinded, deafened, frightened
+Senses blindsight 30 ft. (blind beyond this radius),
+passive Perception 6
+Languages —
+Challenge 0 (10 XP)
+Proficiency Bonus +2
+False Appearance.
+While the shrieking mandrake
+remains motionless, it is indistinguishable from
+ordinary mandrake.
+actions
+Bite.
+Melee Weapon Attack: +1 to hit, reach 5 ft., one
+target.
+Hit: 1 piercing damage.
+reactions
+Shriek.
+When the shrieking mandrake emerges from
+the ground, it emits a shriek audible within 120 feet of
+it. Each creature within 10 feet of and able to hear the
+mandrake when it shrieks must succeed on a DC 10
+Wisdom saving throw or take 5 (2d4) psychic damage.
+A creature that fails by 5 or more is also deafened
+for 1 minute. A deafened target can make a DC 10
+Constitution saving throw at the end of each of its
+turns, ending the effect on itself on a success.

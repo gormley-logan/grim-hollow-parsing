@@ -1,0 +1,35 @@
+eyeof zabriel
+Tiny celestial, chaotic neutral
+Armor Class 14
+Hit Points 28 (8d4 + 8)
+Speed 0 ft., fly 40 ft. (hover)
+str dex con int wis cha
+ 8 (-1) 18 (+4) 12 (+1) 16 (+3) 17 (+3) 14 (+2)
+Saving
+Throws
+Dex +6
+Skills
+Insight +5, Investigation +5, Perception +5, Stealth +6
+Damage Resistances
+bludgeoning, piercing and
+slashing from nonmagical attacks
+Condition Immunities blinded, exhaustion, unconscious
+Senses truesight 60 ft., passive Perception 15
+Languages telepathy 120 ft.
+Challenge 2 (450 XP)
+Proficiency Bonus +2
+Ever Observant
+. These celestials have reduced them-
+selves to individual floating eyes that never stop watch-
+ing. As such, they cannot be surprised and have advan-
+tage on Wisdom (Perception) checks that rely on sight.
+actions
+Flash of Light
+. The eye glows with radiant light, filling
+a 60-foot radius around it with bright light. All creatures
+that can see the eye must succeed on a DC 13 Constitution
+saving throw or take 5 (1d4 + 3) radiant damage and be
+blinded for one minute. A blinded creature can repeat the
+saving throw at the end of each of their turns.
+Once the flash has ended, the eye turns invisible and can
+teleport up to 30 feet to an unoccupied space it can see.

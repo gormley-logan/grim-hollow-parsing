@@ -1,0 +1,36 @@
+197
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+L
+salvage
+Someone who has proficiency with alchemist’s supplies 
+can take four lupilisk venom fangs, or just the two fangs 
+of one lupilisk elder, and treat them with reagents worth 
+250 gp per tooth for 3 days. A successful treatment 
+requires the alchemist to succeed on a DC 15 Intelligence 
+or Wisdom check. During the treatment time, somebody 
+must also cast 
+lesser restoration
+ on the fangs. After a 
+successful treatment, someone who has proficiency with 
+jeweler’s tools can fashion the fangs, now blackened, into 
+a necklace, creating a 
+periapt of proof against poison
+. If the 
+wearer attunes to the periapt, the amulet also provides 
+that wearer immunity to being petrified.
+lore
+DC 10 Intelligence (Arcana):
+ A lupilisk’s bite imparts 
+a petrifying venom to prey. This magic toxin grows more 
+potent as the lupilisk ages.
+DC 15 Intelligence (History):
+ Lupilisks live in packs 
+with an elder couple in the lead. This couple are the 
+parents of most other pack members.

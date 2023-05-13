@@ -1,0 +1,99 @@
+274
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+Q
+Quake Drake
+“Sometimes I still feel the rumble, 
+always right before I fall asleep.”
+Protective Breed
+. Ancient arcanists once bred dragon-
+like creatures to protect their isolated homes. As often 
+happens when arcanists interfere with the natural world, 
+these drakes turned on their masters, destroyed their 
+homes, stole their treasures, and buried themselves 
+beneath the earth.
+Affinity for the Earth
+. These drakes, suffused with 
+the magic from their creators, found that they could hold 
+sway over the tremors and power of the very mountains 
+in which they took residence. When an unexpected tremor 
+moves the ground, people of mountain villages say that 
+two quake drakes are either warring or mating.
+salvage
+The quake drake has a thick hide of scales that can 
+be worked into 
+quakescale armor
+ (see Chapter 4). A 
+proficient armorer can spend 30 hours and 300 gp of 
+components to make this armor, and then must succeed 
+on a DC 15 Intelligence (Nature) check.
+Additionally, a quake drake has a 50% chance of 
+having a particular precious metal or gem resting in 
+its belly. Any coin amount represents an approximate 
+value, since the metal is now compressed into a ball:
+H
+oard
+ (
+roll
+ 2
+d
+6)
+2
+Adamantine (5000 gp)
+3
+Diamonds (3000 gp)
+4
+Platinum (1500 gp)
+5
+Silver (500 gp)
+6
+Quartz (250 gp)
+7
+Copper (100 gp)
+8
+Ruby (250 gp)
+9
+Electrum (750 gp)
+10
+Gold (1000 gp)
+11
+Mithril (2000 gp)
+12
+Vault Room Key
+lore
+DC 10 Intelligence (History)
+: Quake drakes are 
+the bane of precious metal or gem mines, or caravans 
+carrying such things. More than one mine has been 
+obliterated and collapsed by a quake drake.
+DC 15 Intelligence (Nature)
+: Be wary of collections 
+of sand or rock spheres you find, that’s from a quake 
+drake belly.
+DC 20 Intelligence (Arcana)
+: The quake drake is 
+suffused with magic that shakes the earth and can stun 
+a person with its tail attack.
+GM Advice:
+ A single or pair of quake drakes would make a 
+significant challenge for a lower-level party trying to remove the 
+beasts from an old mine that they’re using as a lair. Not only are 
+the creatures themselves a threat, but the very setting itself could 
+prove dangerous. Imagine dealing with the drakes and some other 
+creatures dwelling in the area, while at the same time having to 
+use skills in nature, engineering, and other fields to keep the entire 
+place from crashing down on their heads.
+The key to making such an adventure tense and fun while still 
+being manageable and fair is to ramp up the tension first. As 
+the characters move into the lair, describe some cave-ins and 
+rumblings. Then have the characters experience a slightly 
+dangerous passage where Perception and Investigation checks can 
+avoid the damage. At the end, and maybe even during a battle, the 
+characters must reinforce supports or rock formations that are the 
+only things holding up the ceiling.

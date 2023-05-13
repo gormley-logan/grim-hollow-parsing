@@ -1,0 +1,37 @@
+Wretched Celebrants
+“Each year we have a festival to celebrate the 
+dead. It’s great fun, unless the dead join us.”
+Joyful Dead.
+ Across Etharis, festivals celebrate the 
+dead. The details might change, but the atmosphere is 
+one of elation and excess. Participants eat and drink 
+heartily, wear elaborate costumes, and hold parades 
+with dazzling floats. Sometimes, however, the dead 
+walk disguised among the living.
+Awful Jubilation.
+ Scholars argue about the reason 
+undead creatures appear at these festivals. Some say the 
+jubilant atmosphere draws the dead, while others claim 
+the dead feed upon the energy of the crowds. If someone 
+interrupts the celebration, undead revelers turn violent, 
+using eldritch might to attack the party-poopers.
+salvage
+Wretched celebrants often carry or wear ornate objects. 
+They’re dressed to party.
+The wretched master of ceremonies’ whip retains 
+some of its magic. In the hands of a creature attuned to 
+it, this magic whip deals an extra 2d4 psychic damage to 
+any target it hits.
+lore
+DC 10 Intelligence (History):
+ Wretched celebrants 
+are rare, but they sometimes appear at festivals and 
+carnivals that celebrate the dead.
+DC 15 Intelligence (Religion):
+ Wretched revelers and 
+drivers are motivated by the fun and excess of these 
+celebrations, and they attack only if they are revealed 
+or if the revelries are halted prematurely. The wretched 
+master of ceremonies, however, comes to a celebration 
+hoping to cause chaos. Other wretched celebrants follow 
+the master’s lead.

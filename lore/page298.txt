@@ -1,0 +1,50 @@
+298
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+S
+Seraph Servants
+“With the gods of Etharis gone, the Arch Seraphs and their 
+servants have fought to cling to their individual purposes. 
+Some of those celestials have even changed themselves to 
+suit their new roles.”
+Specialized Skills
+. These servants of the Arch 
+Seraphs have morphed themselves to fit the needs of 
+their leaders and the tasks on which they’re sent. Some 
+have taken their focus to extremes.
+Not Fallen, Just Different
+. Some Seraph servants 
+barely resemble what they once were. And yet their 
+essence remains intact, even when they may have lost 
+their immortality and other celestial traits.
+salvage
+Anyone who manages to collect five eyes of Zabriel can 
+ingest all five at the rate of one per round. At the end 
+of the fifth round, if the ingester succeeds on a DC 10 
+Wisdom (Insight) check, they can cast the 
+augury
+ spell. 
+They need not ordinarily be able to cast the spell or to 
+have any other material components to cast the spell in 
+this manner. 
+The wings that sprout from an Empyrean knight’s 
+back look like they’re made from swords, in homage to 
+the Arch Seraph they serve. Someone can attempt to 
+attach the wings to their back as an action with a success-
+ful DC 15 Strength (Religion) check. On a success, the 
+wearer can fly as per the 
+fly
+ spell for 10 minutes.
+The bloodied are a strange occurrence, and their chains 
+are a powerful magical ward. Someone succeeding on a 
+DC 15 Wisdom (Arcana) check can attach them to their 
+body for a brief time. On a success, the chains provide life 
+protection as per the 
+death ward
+ spell for 1 hour.

@@ -1,0 +1,132 @@
+61
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+C
+===
+Chapped Brute Abomination
+Huge monstrosity, chaotic evil
+Armor Class 16 (natural armor)
+Hit Points 161 (14d12 + 70)
+Speed 40 ft.
+str dex con int wis cha
+	23	(+6)	10	(+0)	20	(+5)	3	(–4)	10	(+0)	5	(–3)
+Skills
+Athletics +10
+Damage Resistances
+necrotic
+Condition Immunities blinded, prone
+Senses blindsight 90 ft. (blind beyond this radius),
+passive Perception 10
+Languages —
+Challenge 9 (5,000 XP)
+Proficiency Bonus +4
+Adaptive Hide.
+After taking damage, the chapped
+brute abomination gains resistance to that type of
+damage until it takes another type of damage.
+Keen Hearing and Smell.
+The chapped brute abom-
+ination has advantage on Wisdom (Perception) checks
+that rely on hearing or smell. While deafened and unable
+to smell, the brute can’t use its blindsight.
+Unstable Life.
+At the start of the chapped brute abomi-
+nation’s turn, roll 1d20. The abomination regains hit points
+equal to any even result and loses hit points equal to any
+odd result. The abomination can neither exceed its hit point
+maximum with a gain nor fall below 1 hit point with a loss.
+actions
+Multiattack.
+The chapped brute abomination makes
+two tentacle attacks.
+Tentacle.
+Melee Weapon Attack: +10 to hit, reach 20 ft.,
+one target.
+Hit: 22 (3d10 + 6) bludgeoning damage. If
+the target is Medium or smaller, it is grappled (escape
+DC 18). Until this grapple ends, the target is restrained,
+and the brute can’t use the tentacle against another target.
+The chapped brute abomination has four tentacles.
+Engulf.
+Each creature grappled by the chapped brute
+abomination must succeed on a DC 18 Strength saving
+throw or be pulled into the brute’s body. An engulfed
+target is blinded, restrained, unable to breathe, and has
+total cover from effects that originate outside the brute.
+At the start of each of the brute’s turns, each engulfed
+creature takes 14 (4d6) acid damage. The brute can hold
+only one Large creature or up to four Medium or smaller
+creatures inside it at a time.
+An engulfed creature can try to escape by taking an
+action to make its choice of a DC 18 Strength (Athletics)
+or Dexterity (Acrobatics) check. On a success, the creature
+escapes and uses 10 feet of movement to enter a space of
+its choice within 5 feet of the brute.
+If the brute dies, an engulfed creature is no longer
+restrained by it and can escape from the corpse by using
+10 feet of movement.
+If a creature dies inside the brute, the brute doesn’t
+roll for Unstable Life at the start of its next turn and
+instead regains 20 hit points. The creature’s body breaks
+up inside the brute, and the brute expels anything the
+creature wore or carried.
+===
+Awakened Chapped Brute
+Large monstrosity, neutral evil
+Armor Class 14 (natural armor)
+Hit Points 126 (12d10 + 60)
+Speed 40 ft.
+str dex con int wis cha
+	20	(+5)	10	(+0)	20	(+5)	5	(–3)	10	(+0)	5	(–3)
+Skills
+Athletics +8
+Damage Resistances
+necrotic
+Condition Immunities blinded
+Senses blindsight 60 ft. (blind beyond this radius),
+passive Perception 10
+Languages understands one language but can’t speak
+Challenge 7 (2,900 XP)
+Proficiency Bonus +3
+Keen Hearing and Smell.
+The awakened chapped
+brute has advantage on Wisdom (Perception) checks that
+rely on hearing or smell. While deafened and unable to
+smell, the brute can’t use its blindsight.
+Sure-Footed.
+The awakened chapped brute has advantage
+on Strength and Dexterity saving throws made against
+effects that would knock it prone.
+actions
+Multiattack.
+The awakened chapped brute makes
+two tentacle attacks or one tentacle slam.
+Tentacle.
+Melee Weapon Attack: +8 to hit, reach 15 ft.,
+one target.
+Hit: 18 (3d8 + 5) bludgeoning damage. If the
+target is Medium or smaller, it is grappled (escape DC
+16). Until this grapple ends, the target is restrained, and
+the brute can’t use the tentacle against another target.
+The awakened chapped brute has two tentacles.
+Tentacle Slam.
+The awakened chapped brute slams
+one or two targets grappled by it into a solid object or each
+other. Each target must make a DC 16 Strength saving throw.
+If the saving throw fails, the target takes 18 (3d8 + 5)
+bludgeoning damage and is stunned until the end of the
+awakened chapped brute’s next turn. On a successful saving
+throw, the target takes half the damage and isn’t stunned.
+gms advice: you can use any chapped brute form as part
+of an encounter. You can also build encounters in which
+one chapped brute transforms into one or both of its larger
+forms. To do so, treat each form as a separate monster.
+Transformation can take up to 1 minute, allowing you to
+stagger the encounters, but it can occur as quickly as you
+need it to for your game.

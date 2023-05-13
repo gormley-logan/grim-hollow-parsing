@@ -1,0 +1,68 @@
+257
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+P
+===
+Pesta
+Medium undead, neutral evil
+Armor Class 12
+Hit Points 75 (10d8 + 30)
+Speed 0 ft., fly 30 ft. (hover)
+str dex con int wis cha
+ 7 (–2) 14 (+2) 17 (+3) 10 (+0) 15 (+2) 9 (–1)
+Skills
+Stealth +5
+Damage Immunities necrotic, poison
+Damage Resistances
+cold; bludgeoning, piercing, and
+slashing from nonmagical attacks
+Condition Immunities charmed, exhaustion, grap-
+pled, paralyzed, petrified, poisoned, prone, restrained
+Senses darkvision 60 ft., passive Perception 12
+Languages the languages it knew in life
+Challenge 6 (2,300 XP)
+Proficiency Bonus +3
+Hazy Stealth.
+In conditions of heat shimmers or dusty
+or misty air, a pesta has advantage on Dexterity (Stealth)
+checks, and it can use a bonus action to take the Hide action.
+Incorporeal Movement.
+The pesta can move through
+other creatures and objects as if they were difficult
+terrain. It takes 5 (1d10) force damage if it ends its turn
+inside an object.
+Plague Stench.
+Any creature not immune to poison
+that starts its turn within 5 feet of the pesta must succeed
+on a DC 14 Constitution saving throw or take 5 (2d4)
+poison damage and become poisoned until the start of its
+next turn.
+actions
+Touch.
+Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+Hit: 9 (2d8) necrotic damage plus 9 (2d8) poison damage.
+Plague Cloud (Recharge after a Short or Long
+Rest).
+The pesta creates a 20-foot-radius cloud of
+yellowish mist centered on a point it chooses within
+60 feet of it. This mist spreads around corners and lightly
+obscures its area. The cloud lingers for 1 minute, until
+the pesta’s concentration ends (as if concentrating on a
+spell), or until strong wind disperses the cloud.
+When a creature enters the area for the first time on
+a turn or starts its turn there, that creature must make
+a DC 14 Constitution saving throw. The creature takes
+22 (4d10) poison damage on a failed save, or half as
+much damage on a successful one. Someone who fails
+the saving throw is also poisoned and subjected to
+the pesta’s disease (often sewer plague). Creatures are
+affected even if they hold their breath or don’t need to
+breathe. A creature can repeat the saving throw at the
+end of each of its turns, ending the poisoned condition
+on itself on a success. The disease remains until cured.

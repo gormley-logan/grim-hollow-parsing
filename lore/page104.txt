@@ -1,0 +1,50 @@
+Ebon Knight
+“They looked like clouds of dark smoke rolling 
+across the ground toward us. But those hoofbeats 
+and ebony lances were real as death.”
+Evil Martyrs.
+ Paladins who bow to unholy powers 
+serve with fanaticism in life. Those who lay down their 
+lives for their wicked masters return to serve in death as 
+ebon knights. They move wreathed in sulfurous smoke 
+that makes them appear, from a distance, as ghostly or 
+fiendish beings.
+Death Steeds.
+ The bond an ebon knight has to its 
+steed carries over into death. These steeds emanate 
+smoke like that of their masters. The two fight in unholy 
+synchronicity fostered by their simultaneous demise.
+salvage
+The plate armor of an ebon knight roils with the energy of 
+undying evil. Someone who has proficiency with smith’s 
+tools can melt the armor of three ebon knights to make 
+plate 
+armor of invulnerability
+ that also grants resistance to 
+necrotic damage
+. 
+However, this wicked armor requires 
+an attuned wearer to sacrifice life force to it. After the 
+wearer finishes a long rest, or the first time they put the 
+armor on after having not worn it while finishing one or 
+more long rests, they must either give up one-quarter of 
+their remaining Hit Dice to the armor (rounded up) or 
+gain 1 level of exhaustion. Someone who has proficiency 
+with smith’s tools takes 30 days to make this armor, which 
+requires other materials worth 10,000 gp to craft. The 
+intended first wearer must give blood each day, losing 
+Hit Dice or taking exhaustion as if wearing the armor. The 
+process fails, consuming half the materials, if the wearer 
+doesn’t feed the armor as it’s made. If this being then fails 
+to wear and feed the armor daily for 30 days after it’s 
+complete, it disintegrates into ash and smoke.
+lore
+DC 10 Intelligence (History):
+ Ebon knights seek 
+goodness to snuff out. These beings were evil paladins 
+who sacrificed their lives to their unholy masters. Each 
+has an unnatural bond with an undead steed.
+DC 15 Intelligence (Religion):
+ The ebon knight and 
+steed are much stronger together. They are all but immune 
+to being turned when in proximity to one another.

@@ -1,0 +1,51 @@
+Lyfaren
+“If the path fades out beneath your feet, be careful 
+where you look to find it again. Following the wrong 
+trail marker might be your last steps.”
+Underground Bound
+. Lyfaren are enormous burrowing 
+creatures, looking like a massive rocky leach, that spend 
+their lives surrounded by dirt, rock, and rubble. They 
+can’t see, but rather perceive the world through vibrations 
+with their antenna, the only part of their bodies which 
+can survive in open air. Lyfaren can sense the movement 
+of an earthworm, as well as the feet of the bird that briefly 
+landed to acquire that snack.
+Off-Trail Tricks
+. Like the anglerfish and many other 
+creatures, lyfaren lure in their preferred prey, humanoids, 
+with the temptation of safety or curiosity. Their antenna 
+closely resembles stacks of rock that we would call a cairn: 
+a manmade stone marker indicating a trail or other location 
+of interest. But as soon as you’re within a few paces, they 
+swallow you whole, leaving nothing to see.
+Imprecise But Deadly
+. While slow and easy to avoid if 
+you know what you’re looking for, the lyfaren swallows 
+even the strongest adventurers before they can fight back.
+salvage
+The “rocks” that form the lyfaren’s antenna can be cracked 
+open, revealing what looks like beautiful crystals, much 
+like a geode. There is a 25% chance that a lyfaren has 
+an antenna that can be turned into a yellow diamond 
+elemental gem
+. This transformation requires someone 
+proficient in the Nature skill to succeed on a DC 15 
+Intelligence (Nature) check while using 50 gp of other 
+components. The process takes 4 hours.
+lore
+DC 10 Intelligence (Nature)
+: Only the antennae and 
+the maw of the lyfaren can survive outside of the earth. 
+However, the maw can easily swallow up creatures the 
+size of a horse, pulling it into its rock-filled gullet.
+DC 15 Intelligence (History)
+: When trying to figure 
+out if a cairn is manmade or deadly, look for a leaf, feather, 
+or small piece of ribbon between the rocks. Man-made cairns 
+are often decorated, while a lyfaren antenna may have bones 
+or blood near it.
+DC 20 Intelligence (Arcana)
+: A lyfaren needs the 
+pressure of being surrounded by dirt to survive, find a 
+way to unearth one and the fight is over.

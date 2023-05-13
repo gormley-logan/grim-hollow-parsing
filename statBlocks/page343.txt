@@ -1,0 +1,48 @@
+===
+Unfinished
+Medium undead, chaotic neutral
+Armor Class 17 (natural armor)
+Hit Points 97 (15d8 + 30)
+Speed 0 ft., fly 50 ft. (hover)
+str dex con int wis cha
+ 17 (+3) 14 (+2) 14 (+2) 8 (–1) 10 (+0) 18 (+4)
+Saving Throws
+Str +7, Wis +4, Cha +8
+Damage Resistances
+acid, cold, fire, lightning,
+thunder; bludgeoning, piercing, and slashing from
+nonmagical attacks
+Damage Immunities necrotic, poison
+Condition Immunities charmed, exhaustion,
+paralyzed, petrified, poisoned, unconscious
+Senses darkvision 60 ft., passive Perception 10
+Languages understands all languages it knew in life but
+can’t speak
+Challenge 10 (5,900 XP)
+Proficiency Bonus +4
+Innate Spellcasting
+. The unfinished’s innate
+spellcasting ability is Charisma (spell save DC 16, +8 to
+hit with spell attacks). The unfinished can innately cast
+the following spells, requiring no material components: At will: mage hand
+3/day each: arcane hand (9th-level)
+,
+telekinesis
+Semi-Corporeal
+. Parts of the unfinished fade in and
+out of material plane. The unfinished gains advantage
+on all saving throws to avoid being grappled, prone, or
+restrained. It gains another saving throw at the beginning
+of its turn for an effect that causes any of these conditions,
+whether it allows a saving throw or not.
+actions
+Multiattack
+. The unfinished makes two slam attacks.
+Slam
+.
+Melee Weapon Attack
+: +7 to hit, reach 5 ft., one target.
+Hit
+: 7 (1d8 + 3) bludgeoning damage and 17 (3d8 + 4) necrotic damage. If the target is a creature, it must
+succeed on a DC 16 Strength saving throw or pushed 10
+feet and knocked prone.

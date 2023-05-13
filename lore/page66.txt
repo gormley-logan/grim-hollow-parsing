@@ -1,0 +1,36 @@
+College of Requiems
+“It was the most horrible thing I ever heard. It was beautiful.”
+Conductors of Death.
+ Bards devote their lives to 
+mastering the alluring and compelling power of song, 
+yet a few dour individuals turn their efforts to extending 
+that power into the realm of death. Blending necromancy 
+into their music allows them to tear at life force or 
+animate the dead.
+Soul Music.
+ Bards who focus on necromancy call corpses 
+out of the ground to serve them, dancing to their mournful 
+tune. As undead servants advance, the bard sows chaos 
+among enemies, hampering their defenses and turning 
+them against one another. By the time they regroup, the 
+dead are upon them.
+salvage
+Performers from the College of Requiems use master-
+work instruments of bone and ivory. Each instrument 
+has a distinctly sorrowful sound. Someone who has 
+proficiency with the instrument has advantage on Charisma 
+checks to use it to play a dirge or similar mournful tune. 
+Each instrument is worth 25 gp times the Challenge 
+of the performer it belonged to, but only an expert in 
+instruments is likely to recognize the value.
+lore
+DC 10 Intelligence (History):
+ Bards of the College 
+of Requiems turn their arts to necromancy. Most prefer 
+a solitary existence, perhaps in the company of the dead.
+DC 15 Intelligence (Arcana):
+ By weaving necromancy 
+into their music, these spellcasters raise undead minions 
+and hinder their enemies with curses and enchantments. 
+Confronting one of these bards can mean fighting 
+through their undead allies first.

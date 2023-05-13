@@ -1,0 +1,2 @@
+Stat block title:
+Font: 'BauerBodoniLT-Bold-SC700' (serifed, proportional, bold), size 11.2893, color #811d2e

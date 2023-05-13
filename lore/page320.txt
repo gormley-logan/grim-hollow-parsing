@@ -1,0 +1,61 @@
+320
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+S
+Spythronar
+“Armored corpses in the cavern, resting among thick strands 
+of webbing, have sparks of lightning playing off them.”
+Shocking Arachnids.
+ Spythronars are spiders 
+touched by the power of the primordial Ilhara, 
+transformed into aberrant, lightning-charged creatures. 
+In addition to lightning powers, the Queen of Air and 
+Shadow grants the former spiders malign intelligence, 
+gifting even their webs with sentience.
+Every aspect of a spythronar’s life is a danger. The 
+egg sacs release lightning. Electricity charges a mature 
+swarm’s bites. Their sentient webs weave, ensnare, and 
+electrocute any creature near them
+Clan Prey.
+ The clans of Rune, Sýr, and Völgr have 
+traditions of capturing, killing, or salvaging parts from 
+spythronars. Each uses parts in their crafts and fighting 
+arts. Members of these clans admire anyone experienced 
+in battling spythronars and offer hospitality to those who 
+can prove their expertise.
+salvage
+Spythronar silk is prized, although it’s worthless if acid 
+or fire touched the web. One web can be used to make 
+silk rope or fine clothing. A proficient alchemist can use 
+the same amount of silk to produce a 
+potion of lightning 
+resistance
+ or a dose of an oil that allows a metal weapon 
+to deal 1d6 extra lightning damage for 1 hour. Producing 
+either concoction takes 4 hours of work and a successful 
+DC 13 Intelligence check.
+A proficient weaver can turn three spythronar webs 
+into a 
+rope of entanglement
+ or 10 webs into leather armor 
+of lightning resistance. Doing either requires other mate-
+rials worth 500 gp, 5 days of work, and a successful DC 
+15 Intelligence (Arcana) check. 
+lore
+DC 10 Intelligence (Nature):
+ Spythronar swarms can 
+weave dangerous webbing, making egg sacs quickly. It 
+takes them some time to weave a sentient web.
+DC 15 Intelligence (Arcana):
+ The sentient spythronar 
+webs adhere to you if you touch them, and they charge 
+their silken strands with lightning.
+Crushing spythronar egg sacs sets off a lightning 
+discharge, but hitting them with lightning releases a 
+new spythronar swarm.

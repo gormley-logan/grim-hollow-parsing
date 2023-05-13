@@ -1,0 +1,100 @@
+===
+Panjaian Alondon
+Medium humanoid (any race, elemental), any alignment
+Armor Class 15 (natural armor)
+Hit Points 55 (10d8 + 10)
+Speed 30 ft., swim 30 ft.
+str dex con int wis cha
+ 14 (+2) 17 (+3) 13 (+1) 10 (+0) 15 (+2) 13 (+1)
+Skills
+Athletics +4, Perception +4
+Damage Resistances
+cold
+Senses darkvision 60 ft., passive Perception 14
+Languages Primordial and two other languages
+Challenge 3 (700 XP)
+Proficiency Bonus +2
+Amphibious.
+The panjaian alondon can breathe air
+and water.
+Innate Spellcasting.
+The panjaian alondon’s
+spellcasting ability is Wisdom (spell save DC 12). It
+can innately cast the following spells, requiring no
+material components: At will: create or destroy water
+1/day: control water
+Mobile.
+The panjaian alondon can take a bonus action to
+take the Dash or Disengage action.
+actions
+Multiattack.
+The panjaian alondon makes two tidal
+slam attacks.
+Tidal Slam.
+Melee Spell Attack: +5 to hit, reach 30 ft.,
+one target.
+Hit: 10 (2d6 + 3) bludgeoning damage, and
+the target must succeed on a DC 12 Strength saving
+throw or the panjaian alondon can move the target up
+to 10 feet to an unoccupied space in range.
+reactions
+Uncanny Dodge.
+The panjaian alondon halves the
+damage it takes from an attack that hits it. It must be able
+to see the attacker.
+===
+Panjaian Morakeshi
+Medium humanoid (any race, elemental), any alignment
+Armor Class 15 (natural armor)
+Hit Points 55 (10d8 + 10)
+Speed 35 ft.
+str dex con int wis cha
+ 13 (+1) 16 (+3) 13 (+1) 12 (+1) 10 (+0) 15 (+2)
+Skills
+Acrobatics +5, Performance +4, Persuasion +4
+Damage Immunities fire
+Senses darkvision 60 ft., passive Perception 10
+Languages Primordial and two other languages
+Challenge 3 (700 XP)
+Proficiency Bonus +2
+Controlled Illumination.
+As a bonus action, the
+panjaian morakeshi can shed bright light in a 20-foot radius
+and dim light for an additional 20 feet. The morakeshi can
+douse this light using no action, provided the morakeshi
+isn’t incapacitated.
+Heated Body.
+A creature that touches the panjaian
+morakeshi or hits it with a melee attack while within
+5 feet of it takes 5 (2d4) fire damage.
+actions
+Multiattack.
+The panjaian morakeshi makes
+two attacks.
+Slam.
+Melee Weapon Attack: +5 to hit, reach 5 ft., one
+target.
+Hit: 3 (1d4 + 1) bludgeoning damage plus
+8 (2d4 + 3) fire damage.
+Hurl Fire.
+Ranged Spell Attack: +5 to hit, range 30 ft.,
+one target.
+Hit: 10 (2d6 + 3) fire damage.
+Control Flame.
+The panjaian morakeshi chooses a fire
+it can see within 30 feet of it and expands that fire by one
+5-foot cube, extinguishes fire in one 5-foot cube, or makes
+shapes in the fire in one 5-foot cube. Expanded fire needs
+fuel to continue burning.
+Flame Wave (Recharge 5–6).
+The panjaian
+morakeshi unleashes fire in a 15-foot cone. Each creature
+in that area must make a DC 13 Dexterity saving throw,
+taking 12 (2d8 + 3) fire damage on a failed save, or half
+as much damage on a successful one.
+ilharan, yellow diamond for citrolachi, red corundum for
+morakeshi, and emerald for alondon. What this process
+creates when used on the heart of a panjaian gormadraugon
+is unknown. History records no such act. (A
+gem of brightness
+is a good possibility, however.)

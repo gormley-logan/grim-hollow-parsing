@@ -1,0 +1,29 @@
+247
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+0
+lore
+DC 10 Intelligence (History):
+ Outlaws rely on speed 
+and a decisive first strike to demoralize their quarry. 
+Those in this profession often love a flamboyant lifestyle 
+and the thrill of riding into danger.
+DC 15 Intelligence (History):
+ Outlaws prefer to use 
+blackpowder pistols for an initial strike. The powerful 
+attack and the loud noise strengthen the impact of the 
+outlaw’s arrival, causing many to give up without a 
+further fight.
+GM Advice:
+ Hit and run tactics are a mainstay of outlaw tactics. 
+Any outlaw worth their weight in blackpowder always has a 
+contingency plan for when circumstances don’t favor them. 
+Using mounts means they can escape more easily, and often the 
+paths they take while escaping are lined with traps that they can 
+easily avoid, while pursuers must contend with them.

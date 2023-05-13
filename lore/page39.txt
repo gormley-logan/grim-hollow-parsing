@@ -1,0 +1,21 @@
+39
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+B
+lore
+DC 10 Wisdom (Survival)
+: Bloodwood giants are 
+experts at hiding in their woodland homes.
+DC 15 Intelligence (Nature)
+: The blood spears used by 
+these giants cut cruel wounds that can resist healing magic.
+DC 20 Intelligence (Arcana)
+: The tribe’s vine callers 
+are shamans who make pacts with ancient forest spirits to 
+summon blood-drinking vines that rejuvenate the caster.

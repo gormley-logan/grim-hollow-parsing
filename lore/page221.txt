@@ -1,0 +1,9 @@
+Variant: Sootling Familiar
+Sootlings that have become familiars have the following trait.
+Familiar.
+ A sootling can partner with another creature 
+as a familiar, forming a telepathic bond with this willing 
+partner. While the two are bonded, the partner can sense 
+what the sootling senses while they are within 1 mile of 
+each other. If the partner harms the sootling, the sootling 
+ends the telepathic bond and ceases being a familiar.

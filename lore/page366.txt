@@ -1,0 +1,80 @@
+366
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+W
+Wood Weird
+“The lovely flowers growing on the roadside invite with 
+their vivid colors and sweet aroma. The body-shaped 
+tangle of vines near them is nothing to fear.”
+Tempting Flora
+. Wood weirds are rare plants found 
+in temperate climes. Beautiful in both life stages, wood 
+weirds have lured many travelers to their death.
+Two-Stage Cycle
+. A wood weird’s life cycle has two 
+stages, including the trapper stage and the seeder stage. 
+The trapper is a cluster of vividly colored, pleasantly 
+perfumed wildflowers. The seeder stage is an attractive 
+humanoid form of wood, with expressive facial 
+features. The plant uses these charms, as well as mind-
+affecting spores, to lure victims. To fulfill its life cycle, 
+the wood weird consumes humanoid bodies.
+In the trapper stage, a wood weird can reproduce 
+asexually, sending light seeds on the wind to produce a 
+clone of the wood weird elsewhere. However, a humanoid 
+that rests next to a wood weird trapper becomes cocooned 
+in the plant’s runners, risking transformation into a wood 
+weird seeder.
+In the seeder stage, the wood weird reproduces 
+sexually, seeking out other wood weird seeders to 
+mate. The seeder then spills its mature seeds over the 
+ground to birth new wood weird trappers. It also lures 
+humanoids to patches of wood weird trappers, so that 
+new seeders can emerge.
+Seraphic Punishment?
+ Folktales tell that the first 
+wood weirds were sent by the Seraphs as punishment for 
+indolence. Some parents warn children to work hard and 
+not to nap in the wild, “lest a wood weird catch you!” 
+Due to these tales, many believe wood weirds to be mere 
+myth or superstition. 
+salvage
+A defeated, unburned wood weird seeder can be cut open 
+to salvage its seeds. Someone that has proficiency with 
+alchemists’ supplies can stew these seeds with other rare 
+ingredients worth 100 gp. The process creates a 
+potion of 
+vitality
+ with a successful DC 15 Intelligence (Nature) check 
+and 3 hours of work. If this check fails, the mixture looks 
+right but instead creates a 
+potion of poison
+.
+lore
+DC 15 Intelligence (Nature):
+ A wood weird seeder 
+can release mind-affecting spores that charm other 
+creatures. They use these spores to lure prey.
+DC 20 Intelligence (Nature):
+ The wildflowers found 
+near a wood weird seeder are another stage of the wood 
+weird’s life cycle, a wood weird trapper. These flowers 
+release relaxing spores and can cocoon creatures that lie 
+down near them, producing a new wood weird seeder 
+if a humanoid victim dies while cocooned.
+GM Advice:
+The wood weird, and other creatures that 
+are most effective when they seem harmless, rely on careful 
+presentation. If you run a game when you never describe a 
+plant during travel or wilderness investigation, and then you 
+suddenly go into detail about a particular plant, the players 
+realize something is amiss. In the sessions or encounters before 
+presenting the wood weird, be sure to at least mention the flora 
+of the region. This may help allay suspicion, providing a greater 
+chance for the characters to be challenged by the creature.

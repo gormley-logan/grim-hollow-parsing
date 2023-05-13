@@ -1,0 +1,51 @@
+44
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+B
+Braerog
+“If you go into the woods alone, you ought to go prepared. 
+Things that creep on the forest floor might insist you tread 
+lightly—or not at all.”
+Thorny Traps.
+ Lurking in the deepest reaches of 
+forests, braerogs represent some of the last glimmers of 
+the world before shadow descended upon Etharis. These 
+creatures fiercely protect the vestiges of woodlands 
+unsullied by evil.
+Tree Travelers.
+ Braerogs are one with the forests that 
+surround them and magically move through trees. This 
+mode of travel allows them to disappear and reappear 
+over short distances.
+Mischievous Minions.
+ Braerogs have a penchant for 
+mischief. A braerog sighting was once a sure sign that a 
+more powerful guardian of the forest was nearby. Without 
+the oversight of such a master, braerogs act unchecked.
+salvage
+A braerog has claws of thorns. Someone who has proficiency 
+in woodcarver’s tools can craft a 
+staff of briars
+ (see chapter 4) 
+from the claws of ten braerogs. Creating this item takes 
+10 days and other materials worth 100 gp, and someone 
+must cast 
+entangle
+ on the staff each day during its creation.
+lore
+DC 10 Intelligence (Nature):
+ Braerogs are fey with a 
+plantlike nature that makes them vulnerable to fire.
+DC 15 Intelligence (Arcana):
+ A braerog is hard to 
+render charmed, and magic can’t put it to sleep.
+DC 20 Intelligence (Nature):
+ A braerog can teleport 
+between trees within 60 feet of each other. It can also 
+create areas of grasping thorny plants.

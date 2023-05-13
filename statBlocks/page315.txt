@@ -1,0 +1,77 @@
+===
+Old Snarite
+Small aberration, neutral evil
+Armor Class 16 (natural armor)
+Hit Points 55 (10d6 + 20)
+Speed 5ft., fly 15 ft.
+str dex con int wis cha
+ 16 (+3) 18 (+4) 15 (+2) 10 (+0) 16 (+3) 8 (–1)
+Skills
+Stealth +6
+Damage Immunities bludgeoning, piercing
+Senses passive Perception 13
+Languages --
+Challenge 2 (450 XP)
+Proficiency Bonus +2
+Muddled Thoughts
+. Although an old snarite cannot
+control the actions of its host, it can cloud a host’s
+thoughts, inclining the host to make poor or irrational
+decisions. The host also refuses to cut their hair, thus
+saving the old snarite from harm.
+Wisdom Drinker
+. After being infected by an old snarite
+for a year, the host must succeed on a DC 13 Wisdom
+saving throw or permanently lose 2 points of Wisdom.
+actions
+Tail
+.
+Melee Weapon Attack
+: +6 to hit, reach 5 ft., one target.
+Hit
+: 11 (3d4 + 4) slashing damage, and the target is grappled (escape DC 13). While grappled, the creature
+is restrained.
+Constrict
+. A target that begins its turn grappled by the
+old snarite’s tail takes 11 (3d4 + 4) slashing damage and
+is infected with 2 (1d4) young snarites.
+reactions
+Deflect Damage
+. When the old snarite is hit with a
+melee attack, it can deflect the attack’s damage onto the
+host creature.
+===
+Adult Snarite
+Tiny aberration, neutral evil
+Armor Class 14
+Hit Points 18 (4d4 + 8)
+Speed 5 ft., fly 15 ft.
+str dex con int wis cha
+ 14 (+2) 16 (+4) 15 (+2) 10 (+0) 12 (+1) 8 (-1)
+Skills
+Stealth +5
+Senses passive Perception 11
+Languages --
+Challenge 1/2 (100 XP)
+Proficiency Bonus +2
+Muddled Thoughts
+. Although an adult snarite cannot
+control the actions of its host, it can cloud a host’s thoughts,
+inclining the host to make poor or irrational decisions.
+The host also refuses to cut their hair, thus saving the
+adult snarite from harm.
+Wisdom Drinker
+. After being infected by an adult snarite
+for a year, the host must succeed on a DC 11 Wisdom
+saving throw or permanently lose 2 points of Wisdom.
+actions
+Tail
+.
+Melee Weapon Attack
+: +6 to hit, reach 5 ft., one target.
+Hit
+: 6 (1d4 + 4) slashing damage. reactions
+Deflect Damage
+. When the snarite is hit with a
+melee attack, it can deflect the attack’s damage onto
+the host creature.

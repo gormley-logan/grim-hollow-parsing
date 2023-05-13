@@ -1,0 +1,103 @@
+===
+Master Outlaw
+Medium humanoid (any race), any alignment
+Armor Class 16 (studded leather)
+Hit Points 110 (20d8 + 20)
+Speed 35 ft.
+str dex con int wis cha
+ 11 (+0) 18 (+4) 13 (+1) 12 (+1) 14 (+2) 16 (+3
+Skills
+Acrobatics +7, Animal Handling +5, Intimidation
++6, Perception +5, Sleight of Hand +7
+Senses passive Perception 15
+Languages Any three languages
+Challenge 5 (1,800 XP)
+Proficiency Bonus +3
+Opening Shot.
+If the master outlaw hits a target with a
+ranged weapon attack during the first round of combat,
+the outlaw has advantage on the next attack roll it makes
+against the same target before the end of the outlaw’s
+next turn.
+Mobile.
+The master outlaw can take a bonus action to
+take the Dash or Disengage action.
+Quick Loader.
+The master outlaw can load a weapon
+that has the loading property quickly enough to make
+two attacks with it during the outlaw’s turn. Using this
+trait counts as using a bonus action.
+Rider’s Sneak Attack (1/Turn).
+The master outlaw
+deals an extra 21 (6d6) damage when it hits a target
+with a weapon attack and has advantage on the attack
+roll, or when the target is within 5 feet of an ally of the
+outlaw that isn’t incapacitated and the outlaw doesn’t
+have disadvantage on the attack roll. The outlaw can also
+deal this extra damage if it has moved 20 feet or more,
+including on a mount.
+actions
+Multiattack.
+The master outlaw makes two attacks.
+Rapier.
+Melee Weapon Attack: +7 to hit, reach 5 ft.,
+one target.
+Hit: 8 (1d8 + 4) piercing damage.
+Blackpowder Pistol.
+Ranged Weapon Attack: +7
+to hit, range 25/100 ft., one target.
+Hit: 9 (2d4 + 4)
+piercing damage.
+reactions
+Uncanny Riding.
+When an attacker the master outlaw
+can see hits it or its mount with an attack, the outlaw can
+halve the attack’s damage against the outlaw or the mount.
+===
+Outlaw
+Medium humanoid (any race), any alignment
+Armor Class 15 (studded leather)
+Hit Points 55 (10d8 + 10)
+Speed 30 ft.
+str dex con int wis cha
+ 11 (+0) 16 (+3) 12 (+1) 11 (+0) 12 (+1) 14 (+2)
+Skills
+Acrobatics +5, Animal Handling +3, Intimidation
++4, Sleight of Hand +5
+Senses passive Perception 11
+Languages Any two languages
+Challenge 2 (450 XP)
+Proficiency Bonus +2
+Mobile.
+The outlaw can take a bonus action to take the
+Dash or Disengage action.
+Rider’s Sneak Attack (1/Turn).
+The outlaw deals
+an extra 10 (3d6) damage when it hits a target with a
+weapon attack and has advantage on the attack roll, or
+when the target is within 5 feet of an ally of the outlaw
+that isn’t incapacitated and the outlaw doesn’t have
+disadvantage on the attack roll. The outlaw can also
+deal this extra damage if it has moved 20 feet or more,
+including on a mount.
+actions
+Rapier.
+Melee Weapon Attack: +5 to hit, reach 5 ft.,
+one target.
+Hit: 7 (1d8 + 3) piercing damage.
+Blackpowder Pistol.
+Ranged Weapon Attack: +5 to hit,
+range 25/100 ft., one target.
+Hit: 8 (2d4 + 3) piercing damage.
+reactions
+Uncanny Riding.
+When an attacker the outlaw can see
+hits it or its mount with an attack, the outlaw can halve
+the attack’s damage against the outlaw or the mount.
+reliably. This maintenance costs 100 gp and must be
+performed by someone who has proficiency with smith’s
+tools or tinker’s tools. Without this refurbishing, the
+pistol breaks beyond repair the next time a shooter using
+it rolls a 1 on the d20 for an attack roll. This catastrophe
+occurs before any other trait can mitigate it unless the
+GM rules otherwise.

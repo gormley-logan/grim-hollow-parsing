@@ -1,0 +1,109 @@
+347
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+U
+===
+Jelly
+Tiny ooze, unaligned
+Armor Class 9
+Hit Points 4 (1d4 + 2)
+Speed 10 ft., climb 10 ft., swim 10 ft.
+str dex con int wis cha
+ 3 (–4) 8 (–1) 14 (+2) 1 (–5) 6 (–2) 1 (–5)
+Skills
+Stealth +1
+Damage Immunities acid
+Condition Immunities blinded, charmed, deafened,
+exhaustion, frightened, prone
+Senses blindsight 60 ft. (blind beyond this radius),
+passive Perception 8
+Languages —
+Challenge 0 (10 XP)
+Proficiency Bonus +2
+Spider Climb.
+The jelly can climb difficult surfaces,
+including upside down on ceilings, without needing to
+make an ability check.
+actions
+Pseudopod.
+Melee Weapon Attack: +1 to hit, reach 5 ft.,
+one target.
+Hit: 1 acid damage.
+===
+Jelly
+Jellies are the cast-off portions of oozes. They can be
+dangerous, but they primarily scavenge for food.
+===
+Knifewing
+Small beast, unaligned
+Armor Class 13 (natural armor)
+Hit Points 9 (2d6 + 2)
+Speed 30 ft., climb 30 ft., fly 30 ft.
+str dex con int wis cha
+ 6 (–2) 15 (+2) 13 (+1) 2 (–4) 10 (+0) 5 (–3)
+Senses blindsight 10 ft., passive Perception 10
+Languages —
+Challenge 1/8 (25 XP)
+Proficiency Bonus +2
+Flyby.
+The knifewing doesn’t provoke opportunity
+attacks when it flies out of an enemy’s reach.
+Glider.
+The knifewing can’t ascend while flying and
+its altitude decreases by 5 feet for every 30 feet it flies. If
+flying, the knifewing falls if it doesn’t fly at least 30 feet
+during its turn.
+actions
+Knifewing (Flying Only).
+Melee Weapon Attack: +4 to
+hit, reach 5 ft., one target.
+Hit: 5 (1d6 + 2) slashing damage.
+Bite.
+Melee Weapon Attack: +4 to hit, reach 5 ft.,
+one target.
+Hit: 4 (1d4 + 2) piercing damage.
+===
+Knifewing
+A knifewing is a gliding lizard about the size of a small
+dog. Its gliding flaps have hard edges that are sharp
+while stretched taut when the lizard glides.
+===
+Mold Spider
+Tiny plant, unaligned
+Armor Class 11
+Hit Points 3 (1d4 + 1)
+Speed 20 ft., climb 20 ft.
+str dex con int wis cha
+ 2 (–4) 13 (+1) 13 (+1) 1 (–5) 8 (–1) 2 (–4)
+Damage Vulnerabilities
+fire
+Condition Immunities blinded, deafened
+Senses blindsight 60 ft. (blind beyond this radius),
+passive Perception 9
+Languages —
+Challenge 0 (10 XP)
+Proficiency Bonus +2
+Regrowth.
+When a mold spider dies, unless fire
+destroyed it, it releases spores that regrow a mold spider
+in 3 days.
+Spider Climb.
+The mold spider can climb difficult
+surfaces, including upside down on ceilings, without
+needing to make an ability check.
+actions
+Claw.
+Melee Weapon Attack: +3 to hit, reach 5 ft.,
+one target.
+Hit: 1 slashing damage.
+===
+Mold Spider
+Mold spiders are twisted bits of plant matter that forage
+in dark caves and ruins for rotting matter to settle on
+and “eat.”

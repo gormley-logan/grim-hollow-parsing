@@ -1,0 +1,51 @@
+258
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+P
+Plague Doctor
+“Those who hold power over life and death are 
+dangerous for exactly that reason.”
+Medical Calling.
+ When the Weeping Pox spread in 
+Liesech, the call went out for any mage or physician who 
+might be able to develop a cure for this horrible blight. 
+This call led to an influx of healers and wizards, many 
+hoping to gain fame and glory by solving the riddle of 
+this new disease. They were unprepared for the situation 
+that awaited them.
+Forged by Disaster.
+ Liesech was in a horrible state. 
+The disease swept from person to person unhindered 
+by treatments that science and magic could bring to 
+bear. In desperation, the few healers who managed to 
+avoid succumbing to the disease developed entirely new 
+branches of magical alchemy in hopes of stemming the tide.
+Two groups emerged from this plague-ridden 
+metropolis. One is the Morbus Doctore, who claimed 
+victory over the disease with a secretive and costly cure. 
+The other is an ununified host of would-be saviors, some 
+twisted by the horrors they witnessed.
+salvage
+Plague doctors are experts at medicinal arts and possess 
+alchemist’s supplies, healer’s kits, and herbalism kits. 
+Once they progress into the more specialized alchemy, 
+they might also have several concoctions, including 
+many potions that mimic spells. See the Plague Doctor 
+wizard tradition in chapter 5 of 
+Grim Hollow: The Players 
+Guide
+ for more information on what a plague doctor 
+might have or how these NPCs might be customized.
+lore
+DC 10 Intelligence (History):
+ In the wake of the 
+Weeping Pox, many mages and scholars delved into 
+the study of diseases. Those who learned the secrets of 
+blending science and magic into alchemical concoctions 
+are known as plague doctors.

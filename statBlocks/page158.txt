@@ -1,0 +1,31 @@
+===
+Horror-Out-the-Box
+Medium fey, chaotic neutral
+Armor Class 15 (natural armor)
+Hit Points 78 (12d8 + 24)
+Speed 50 ft., climb 50 ft.
+str dex con int wis cha
+ 12 (+1) 19 (+4) 14 (+2) 11 (+0) 12 (+1) 16 (+3)
+Skills
+Athletics +4, Acrobatics +7, Perception +4,
+Performance +6, Sleight of Hand +7, Stealth +7
+Senses darkvision 60 ft., passive Perception 14
+Languages One national language, Sylvan
+Challenge 5 (1,800 XP)
+Proficiency Bonus +3
+Spring-Heeled Horror.
+The horror-out-the-box jumps
+up to 50 feet with its movement. As a bonus action, it can
+jump an additional 50 feet.
+Thrashing Limbs.
+The horror-out-the-box has three
+reactions per round, but it can use only one during any
+given turn. Any creature that moves into, out of, or within
+the horror-out-the-box’s reach provokes an opportunity
+attack from the horror.
+actions
+Slam.
+Melee Weapon Attack
+: +7 to hit, reach 30 ft., one target.
+Hit
+: 11 (2d6 + 4) bludgeoning damage. 

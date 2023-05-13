@@ -1,0 +1,124 @@
+===
+Werewolf Ravager
+Medium humanoid (any, shapechanger), any alignment
+Armor Class 13 in humanoid form, 16 (natural armor)
+in hybrid form
+Hit Points 91 (14d8 + 28)
+Speed 30 ft. (50 ft. in hybrid form)
+str dex con int wis cha
+ 17 (+3) 16 (+3) 14 (+2) 9 (-1) 15 (+2) 10 (+0)
+Saving Throws
+Str +6, Dex +6
+Skills
+Perception +5
+Damage Vulnerability
+bludgeoning, piercing, and
+slashing damage by silvered weapons
+Damage Immunities bludgeoning, piercing, and
+slashing damage by attacks that aren’t silver
+Condition Immunities charmed, frightened
+Senses darkvision 60 ft., passive Perception 15
+Languages any two languages
+Challenge 7 (2,900 XP)
+Proficiency Bonus +3
+Grappler.
+While a creature is grappled by the
+werewolf ravager, the werewolf has advantage on
+attack rolls against grappled targets, and the target
+takes an additional 3 (1d6) damage whenever it is hit
+with the werewolf’s bite or claw attack.
+Shapechanger.
+The werewolf can use its action to pol-
+ymorph into a wolf-humanoid hybrid or back into its true
+form, which is humanoid. Any armor it is wearing merges
+into its hybrid form. It reverts to its true form if it dies.
+actions
+Multiattack.
+The werewolf ravager makes two melee
+attacks. It can only make one bite attack per turn.
+Bite (Hybrid Form Only).
+Melee Weapon Attack: +6 to
+hit, reach 5 ft., one creature.
+Hit: 12 (2d8 + 3) piercing
+damage. The target must succeed on a DC 14 Strength
+saving throw or be grappled.
+Additionally, if the target is a humanoid, it must succeed
+on a DC 13 Constitution saving throw or be cursed with
+werewolf lycanthropy.
+Claw (Hybrid Form Only).
+Melee Weapon Attack: +6 to hit, reach 5 ft., one creature.
+Hit: 10 (2d6 + 3)
+slashing damage.
+Short Sword
+.
+Melee Weapon Attack: +6 to hit, reach 5 ft.,
+one creature.
+Hit: 6 (1d6 + 3) piercing damage.
+===
+Werebear Ascetic
+Medium humanoid (any, shapechanger), any alignment
+Armor Class 12 in humanoid form, 15 (natural armor)
+in hybrid and kindred form
+Hit Points 150 (20d8 + 60)
+Speed 30 ft., (50 ft. and 30 ft. climb in hybrid and
+kindred form)
+str dex con int wis cha
+ 16 (+3) 14 (+2) 17 (+3) 10 (+0) 16 (+3) 11 (+0)
+Saving Throws
+Wis +7
+Skills
+Animal Handling +7, Nature +4, Perception +7
+Senses darkvision 60 ft., passive Perception 17
+Languages any three languages
+Challenge 12 (8,400 XP)
+Proficiency Bonus +4
+Shapechanger.
+The werebear ascetic can use its action
+to polymorph into a bear-humanoid hybrid or into its
+kindred bear form, or back into its true form, which
+is humanoid. Its statistics, unless noted, are the same
+in each form. Any armor it is wearing merges into its
+alternate forms. It reverts to its true form if it dies.
+Kindred Form.
+The werebear’s kindred form takes the
+shape of a Large bear. While in this form, it can speak to
+and understand bears, cannot take any actions requiring
+hands, adds its Constitution modifier to the result of any
+saving throw, and gains 25 temporary hit points the first
+time it takes this form each day.
+Spellcasting.
+The werebear is a 13th-level spellcaster.
+Its spellcasting ability is Wisdom (spell save DC 15, +6
+to hit with spell attacks). It can cast spells in any form,
+regardless of verbal, somatic, or material components
+provided they have no gold cost. It has the following
+druid spells prepared: Cantrips (at will): druidcraft, guidance, mending, resistance
+1st level (4 slots): animal friendship, faerie fire, healing word
+2nd level (3 slots): hold person, lesser restoration
+3rd level (3 slots): conjure animals, dispel magic, plant growth
+4th level (3 slots): freedom of movement, ice storm
+5th level (2 slots): commune with nature, tree stride
+6th level (1 slot): wall of thorns
+7th level (1 slot): arboreal curse
+actions
+Multiattack.
+The werebear makes three melee attacks,
+only one of which can be a bite.
+Bite (Hybrid or Kindred Form Only).
+Melee Weapon
+Attack: +7 to hit, reach 5 ft., one creature.
+Hit: 16 (3d8 + 3)
+piercing damage. If the target is a humanoid, it must
+succeed on a DC 15 Constitution saving throw or be
+cursed with werebear lycanthropy.
+Claw (Hybrid or Kindred Form Only).
+Melee Weapon
+Attack: +7 to hit, reach 5 ft., one creature.
+Hit: 10 (2d6 + 3)
+slashing damage.
+DC 20 Intelligence (Nature)
+: While the nature of the transformation tends to override the senses with bestial
+fury, some can control themselves. By finding a balance
+between man and beast, they gain greater control over
+the curse, gaining the ability to turn into a full animal
+and retain their mental faculties.

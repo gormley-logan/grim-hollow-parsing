@@ -1,0 +1,17 @@
+Creating Other Hungerer Beasts
+Hungerer beasts are monstrosities that resemble their 
+natural counterparts. A hungerer beast is tougher, which 
+translates to more hit points and stronger attacks. Hun-
+gerer beasts are also more aggressive and less likely to 
+flee when wounded. Uniting these monsters is the Tears 
+of the Hungerer trait. Use the creatures here, compared 
+to their animal likenesses, as a guide to creating other 
+hungerer beasts.
+Two traits are very appropriate for a hungerer beast. 
+Aggressive.
+ As a bonus action, the beast can move 
+up to its speed toward a hostile creature it can see.
+Blood Frenzy.
+ The beast has advantage on melee 
+attack rolls against any creature that doesn’t have all its 
+hit points.

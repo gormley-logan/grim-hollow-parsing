@@ -1,0 +1,97 @@
+87
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+D
+===
+Gluttony Seraph
+Huge celestial, chaotic evil
+Armor Class 15 (natural armor)
+Hit Points 218 (19d12 + 95)
+Speed 30 ft., fly 30 ft.
+str dex con int wis cha
+	21	(+5)	12	(+1)	20	(+5)	13	(+1)	15	(+2)	16	(+3)
+Saving Throws
+Con +10, Wis +7, Cha +8
+Skills
+Insight +7, Perception +7
+Damage Immunities poison
+Damage Resistances
+radiant; bludgeoning, piercing,
+and slashing from nonmagical attacks
+Condition Immunities charmed, exhaustion,
+frightened, poisoned
+Senses truesight 120 ft., passive Perception 17
+Languages all, telepathy 120 ft.
+Challenge 14 (11,500 XP)
+Proficiency Bonus +5
+Innate Spellcasting
+.
+The seraph’s spellcasting ability
+is Charisma (spell save DC 16). The seraph can innately
+cast the following spells, using only verbal components: At will: detect evil and good
+,
+detect magic
+,
+light
+,
+thaumaturgy
+3/day: suggestion
+1/day: create food and water
+(the food is tasty and the
+seraph can create wine instead of water)
+Magic Resistance.
+The seraph has advantage on
+saving throws against spells and other magical effects.
+Seraphic Weapons.
+The seraph’s weapon attacks are
+magical. When the seraph hits with any weapon, the
+weapon deals an extra 2d8 radiant damage (included in
+the attacks).
+actions
+Multiattack.
+The seraph makes three attacks, only one
+of which can be a bite.
+Bite
+.
+Melee Weapon Attack: +10 to hit, reach 5 ft., one target.
+Hit
+: 24 (3d12 + 5) piercing damage and 9 (2d8) radiant damage. If the target is a Large or smaller creature, it is
+grappled (escape DC 18). Until this grapple ends, the target
+is restrained, and the seraph can’t bite another target.
+Claw.
+Melee Weapon Attack: +10 to hit, reach 5 ft., one
+target.
+Hit
+: 12 (2d6 + 5) slashing damage and 9 (2d8) radiant damage.
+Tongue.
+Melee Weapon Attack: +10 to hit, reach 20 ft.,
+one creature.
+Hit: 10 (2d4 + 5) bludgeoning damage and 9
+(2d8) radiant damage, and the target is grappled (escape
+DC 18) and pulled to within 5 feet of the seraph. Until
+the grapple ends, the target is restrained, and the seraph
+can’t use its tongue or bite on another target.
+Swallow.
+The seraph makes one bite attack against
+a Medium or smaller creature it holds grappled. If the
+attack hits, the target takes the bite’s damage, the grapple
+ends, and the target is swallowed. While swallowed, a
+creature is blinded and restrained, has total cover against
+anything originating outside the seraph, and takes 18 (4d8)
+acid damage and 9 (2d8) radiant damage at the start of
+each of the seraph’s turns. The seraph can have only one
+creature swallowed at a time.
+If the seraph takes 35 damage or more on a single turn
+from a creature inside it, the seraph must succeed on a
+DC 20 Constitution saving throw at the end of that turn
+or regurgitate the swallowed creature, which falls prone
+in a space within 10 feet of the seraph. If the seraph dies,
+the swallowed creature is no longer restrained by it and
+can escape the corpse by using 10 feet of movement,
+exiting prone.

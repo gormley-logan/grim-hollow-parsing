@@ -1,0 +1,44 @@
+===
+Doom Boar
+Medium monstrosity, neutral evil
+Armor Class 13 (natural armor)
+Hit Points 33 (6d8 + 6)
+Speed 40 ft.
+str dex con int wis cha
+	15	(+2)	10	(+0)	13	(+1)	2	(–4)	9	(-1)	8	(–1)
+Senses darkvision 60 ft., passive Perception 9
+Languages –
+Challenge 1 (100 XP)
+Proficiency Bonus +2
+Charge
+. If the doom boar moves at least 20 feet straight
+toward a target and then hits it with a tusk attack on
+the same turn, the target takes an extra 7 (2d6) slashing
+damage. If the target is a creature, it must succeed on a
+DC 12 Strength saving throw or be knocked prone.
+Reckless
+. At the start of its turn, the doom boar can
+gain advantage on all melee weapon attack rolls during
+that turn, but attack rolls against it have advantage until
+the start of its next turn.
+Two-Headed
+. The doom boar has advantage on Wisdom
+(Perception) checks and on saving throws against being
+blinded, charmed, deafened, frightened, stunned, or
+knocked unconscious.
+actions
+Multiattack
+. The doom boar makes two tusk attacks.
+Tusk
+.
+Melee Weapon Attack
+: +5 to hit, reach 5 ft., one target.
+Hit
+: 5 (1d6 + 2) slashing damage and the target must succeed on a DC 9 Charisma saving throw or
+suffer a random effect as though they were affected by a
+bestow curse
+. After 1 minute, the target can make another
+Wisdom saving throw. On a success, the curse ends on
+the target but if they fail it lasts for 1 day. A
+remove curse
+ends the effect.

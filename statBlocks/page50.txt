@@ -1,0 +1,25 @@
+===
+Thornlamm
+Small plant, neutral evil
+Armor Class 14 (natural armor)
+Hit Points 21 (6d6)
+Speed 30 ft.
+str dex con int wis cha
+	11	(+0)	14	(+2)	11	(+0)	3	(–4)	8	(–1)	3	(–4)
+Damage Resistances
+cold, fire, lightning, poison
+Condition Immunities blinded, deafened, exhaustion
+Senses blindsight 60 ft. (blind beyond this radius),
+passive Perception 9
+Languages —
+Challenge — with a caprathorn (1/4 [50 XP] by itself)
+Proficiency Bonus +2
+actions
+Hooves.
+Melee Weapon Attack: +4 to hit, reach 5 ft.,
+one target.
+Hit: 7 (2d4 + 2) bludgeoning damage.
+Needles.
+Ranged Weapon Attack: +4 to hit, range
+30/60 ft., one target.
+Hit: 7 (2d4 + 2) piercing damage.

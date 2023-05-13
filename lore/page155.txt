@@ -1,0 +1,43 @@
+Hivewolf
+“Trust me when I say this: there’s no 
+such thing as one hivewolf.”
+Monstrous Hybrids.
+ Hivewolves are a combination 
+of ant and wolf. Covered in chitinous plates, with toothy 
+jaws flanked by sharp mandibles, these monstrosities strip 
+areas of animals and plants to feed their voracious hunger.
+Hivemind.
+ Their insectile nature allows hivewolves to 
+remain in contact in a way much like telepathy. If one 
+hivewolf or pack encounters a tough foe, others quickly 
+come to aid their allies.
+Queen’s Servants.
+ When moving to a new area, 
+hivewolves establish a nest for their matriarch. From 
+there, multiple packs set out to find and secure food for 
+the bloated queen. If left unchecked, the queen produces 
+enough progeny to threaten a whole region.
+salvage
+Someone who has proficiency with smith’s tools can 
+fashion a hivewolf matriarch’s mandibles into a 
+caustic 
+rapier
+ (see chapter 4). Doing so takes 5 days of work and 
+materials worth 200 gp. Somebody needs to cast 
+acid arrow
+on the weapon once during its crafting or 
+acid splash
+ on it 
+every day during its creation.
+lore
+DC 10 Intelligence (Nature):
+ Hivewolves are hybrid 
+ant-wolves that relentlessly attack prey and devour 
+edible plants.
+DC 15 Intelligence (Nature):
+ Hivewolves are aware 
+of each other, potentially allowing them to react to 
+threats across great distances.
+DC 20 Intelligence (Nature)
+: Hivewolves form nests 
+around a matriarch, acting as one to protect her.

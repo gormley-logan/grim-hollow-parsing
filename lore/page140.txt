@@ -1,0 +1,75 @@
+140
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+G
+Grim Piper
+“A gentle sound upon the wind,
+Crawled beneath my ragged skin,
+And pulled me forth against my will,
+To darkened alley, my doom fulfill.”
+Mysterious Fey
+. Grim pipers are wicked fey haunting 
+the edges of civilization. They prey on the unwary, 
+killing the unfortunates who hear their music. The 
+lucky few who’ve survived these encounters have 
+difficulty describing the piper’s appearance, but the 
+stories are similar: human-looking figures in ragged 
+patched clothing of varying colors. Their features remain 
+hidden beneath a cowled cloak. The only consistent detail 
+most survivors could corroborate is the creature carried 
+a dark wooden flute.
+Haunting Music
+. Pipers use their enchanting music 
+to lure victims into darkened alleys where they delight 
+in killing. Their haunting melodies can steal a life as 
+quickly as the flashing daggers they use when prey resist 
+their bewitching tunes.
+Sinister Allies.
+ The origins of this fey remain unclear. 
+Some suggest Arch Daemons called them forth from the 
+fey realm to lure mortals to an early death. Others contend 
+they are dark fey seeking vengeance for their destroyed 
+forests. Though normally loners, pipers sometimes work 
+for evil beings on the promise of powerful magic.
+salvage
+Grim pipers use dark wooden flutes fashioned from 
+rare wood grown only in the remote Etharian woods. 
+These instruments are of the highest quality, easily 
+worth ten times the price of a typical instrument to 
+discerning buyers.
+Additionally, a grim  piper has a 10% chance to be 
+carrying either 
+pipes of haunting
+ or 
+pipes of the sewers, 
+chosen by the GM.
+lore
+DC 10 Intelligence (Performance):
+ The piper’s 
+insidious melody is filled with dark fey enchantments 
+that draw the listener to it.
+DC 15 Intelligence (Arcana):
+ Once the luring melody 
+is resisted, the listener is immune to its enchanting effect 
+for a day.
+DC 20 Intelligence (Nature):
+ In addition to the luring 
+melody, the fey can damage the mind using cruel notes 
+that make its targets less able to resist its effects.
+GM Advice:
+ : A grim piper makes a powerful companion for a more 
+powerful and hard-hitting creature. This symbiotic relationship sees 
+the grim piper neutralizing creatures with its song, allowing the 
+powerful partner creature to focus on damaging resisting creatures 
+without having too many heroes beating on it in concert.
+Grim pipers partnering with spellcasters also amplifies the 
+difficulty of a combat encounter. Their song, when it successfully 
+targets a creature, makes them more susceptible to spells as 
+well. Disadvantage on saving throws can make normally resilient 
+characters a little more fragile than normal.

@@ -1,0 +1,89 @@
+157
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+H
+===
+Horror Flit Swarm
+Medium swarm of Tiny aberrations, chaotic evil
+Armor Class 13
+Hit Points 54 (12d8)
+Speed 40 ft., climb 40 ft., swim 40 ft.
+str dex con int wis cha
+ 10 (+0) 17 (+3) 10 (+0) 3 (–4) 8 (–1) 2 (–4)
+Damage Immunities bludgeoning, piercing, slashing
+Condition Immunities blinded, charmed, frightened,
+grappled, paralyzed, petrified, prone, restrained, stunned
+Senses blindsight 60 ft. (blind beyond this radius),
+passive Perception 9
+Languages —
+Challenge 3 (700 XP)
+Proficiency Bonus +2
+Amphibious.
+The horror flit swarm can breathe air
+and water.
+Breed.
+When the horror flit swarm kills a Small or
+larger creature, a new horror flit swarm emerges from
+the corpse 1d4 hours later.
+Spider Climb.
+The horror flit swarm can climb difficult
+surfaces, including upside down on ceilings, without
+needing to make an ability check.
+Swarm.
+The horror flit swarm can occupy another
+creature’s space and vice versa, and the swarm can move
+through any opening large enough for a Tiny creature. The
+swarm can’t regain hit points or gain temporary hit points.
+actions
+Bites.
+Melee Weapon Attack: +5 to hit, reach 0 ft., one
+creature in the swarm’s space.
+Hit: 18 (4d8) piercing
+damage, or 9 (2d8) piercing damage if the swarm has
+half of its hit points or fewer.
+===
+Horror Flit Hunter
+Small aberration, chaotic evil
+Armor Class 15 (natural armor)
+Hit Points 45 (10d6 + 10)
+Speed 40 ft., climb 40 ft., swim 40 ft.
+str dex con int wis cha
+ 11 (+0) 18 (+4) 12 (+1) 3 (–4) 10 (+0) 4 (–3)
+Condition Immunities blinded, prone
+Senses blindsight 60 ft. (blind beyond this radius),
+passive Perception 10
+Languages —
+Challenge 2 (450 XP)
+Proficiency Bonus +2
+Amphibious.
+The horror flit hunter can breathe air
+and water.
+Breed.
+When the horror flit hunter kills a Small or larger
+creature, a new horror flit swarm emerges from the
+corpse 1d4 hours later.
+Spider Climb.
+The horror flit hunter can climb difficult
+surfaces, including upside down on ceilings, without
+needing to make an ability check.
+actions
+Multiattack.
+The horror flit hunter makes two bite attacks.
+Bite.
+Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+Hit: 9 (2d4 + 4) piercing damage.
+into larger horrors. A breeder has devoured so much
+that it can spontaneously reproduce, spewing swarms
+from its mouth.
+Unknown Origins.
+It’s unclear where these strange
+creatures came from or what their purpose is. Some
+assume they sprang from daemonic ichor. Others
+theorize they’re from beyond the pale, a shadowy
+place between this world and another.

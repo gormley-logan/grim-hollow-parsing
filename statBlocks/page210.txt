@@ -1,0 +1,69 @@
+===
+Marra
+Medium fiend (shapechanger), neutral evil
+Armor Class 15 (natural armor)
+Hit Points 75 (10d8 + 30)
+Speed 40 ft.
+str dex con int wis cha
+ 14 (+2) 15 (+2) 16 (+3) 11 (+0) 15 (+2) 16 (+3)
+Skills
+Animal Handling +5, Deception +6, Insight +5,
+Stealth +5
+Damage Resistances
+psychic; bludgeoning, piercing,
+and slashing from nonmagical attacks that aren’t silvered
+Condition Immunities frightened
+Senses darkvision 120 ft., passive Perception 12
+Languages one national language, Abyssal, Infernal,
+telepathy 60 ft.
+Challenge 5 (1,800 XP)
+Proficiency Bonus +3
+Innate Spellcasting.
+The marra’s innate spellcasting
+ability is Charisma (spell save DC 14). It can innately cast
+the following spells, requiring no components: At will: animal friendship
+,
+phantasmal force
+,
+sleep
+1/day: dream
+,
+phantasmal killer
+Magic Resistance.
+The marra has advantage on
+saving throws against spells and other magical effects.
+Shapechanger.
+The marra can use its action to
+polymorph into a moth or back to its true form. While
+in moth form, the marra is Tiny, has a speed of 5 feet
+and a fly speed of 40 feet, and can’t speak, but its other
+statistics are unchanged. Anything the marra is wearing
+or carrying transforms with it. It reverts to its true form
+if it dies.
+actions
+Multiattack.
+The marra makes two attacks with its
+claws. It can use crushing presence in place of one of
+these attacks.
+Claws.
+Melee Weapon Attack: +5 to hit, reach 5 ft., one
+target.
+Hit: 9 (2d6 + 2) slashing damage. If the target is
+a creature, it must succeed on a DC 13 Strength saving
+throw or fall prone.
+Crushing Presence.
+Melee Spell Attack: +5 to hit,
+reach 5 ft., one prone creature.
+Hit: 13 (3d6 + 3) psychic
+damage, the marra enters the target’s space and sits on
+its chest, the target is grappled (escape DC 14), and the
+target must make a DC 14 Constitution saving throw. If
+the saving throw fails by 5 or more, the creature is para-
+lyzed while grappled by the marra. Otherwise, a creature
+that fails the save is restrained and can’t stand up while
+grappled by the marra. If still restrained at the end of
+its next turn, the creature must repeat the saving throw,
+becoming paralyzed on a failure. Each time the creature
+ends its turn grappled by the marra, the marra can deal
+the creature 13 (3d6 + 3) psychic damage. The marra can
+grapple only one creature at a time.

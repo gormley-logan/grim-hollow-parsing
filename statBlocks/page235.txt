@@ -1,0 +1,49 @@
+235
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+N
+===
+Night Serpent
+Tiny fiend, chaotic evil
+Armor Class 13
+Hit Points 14 (4d4 + 4)
+Speed 30 ft., swim 30 ft.
+str dex con int wis cha
+ 6 (-2) 19 (+4) 13 (+1) 6 (–2) 12 (+1) 13 (+1)
+Skills
+Stealth +6
+Damage Vulnerabilities
+radiant
+Damage Resistances
+bludgeoning, piercing, and
+slashing from nonmagical attacks
+Damage Immunities necrotic, poison
+Condition Immunities exhaustion, paralyzed,
+petrified, poisoned, prone
+Senses darkvision 60 ft., passive Perception 11
+Languages understands Abyssal but can’t speak
+Challenge 1/4 (50 XP)
+Proficiency Bonus +2
+Light Sensitivity
+. While in bright light, the night
+serpent has disadvantage on attack rolls, as well as on
+Wisdom (Perception) checks that rely on sight.
+Shadow Stealth
+. While in dim light or darkness,
+night serpents can hide as a bonus action and have
+advantage on Stealth checks.
+actions
+Bite
+.
+Melee Weapon Attack
+: +6 to hit, reach 5 ft., one target.
+Hit
+: 3 (1d4 + 1) necrotic damage, and the target must succeed on a DC 9 Constitution saving throw or
+be paralyzed until till the end of the night serpent’s
+next turn.

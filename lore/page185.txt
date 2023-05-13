@@ -1,0 +1,26 @@
+185
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+L
+salvage
+Laneshi prepared for combat often carry spears or other 
+weapons that function underwater. Some jewelry and 
+other accessories considered pedestrian in the Llana’Shi 
+Empire are significantly more valuable to surface dwellers, 
+such as pearls, shells of deep-sea creatures, and aquatic 
+predator teeth.
+lore
+DC 13 Intelligence (History):
+ Laneshi are an ancient 
+aquatic species divided into two castes: warriors  
+and mystics.
+DC 13 Intelligence (Religion):
+ Laneshi practice 
+necromancy and employ mindless undead as laborers 
+and soldiers.

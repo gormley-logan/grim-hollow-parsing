@@ -1,0 +1,92 @@
+===
+Shieldhead
+Large beast, unaligned
+Armor Class 13 (natural armor)
+Hit Points 30 (4d10 + 8)
+Speed 50 ft.
+str dex con int wis cha
+ 16 (+3) 11 (+0) 14 (+2) 2 (–4) 12 (+1) 7 (–2)
+Senses passive Perception 11
+Languages —
+Challenge 1/2 (100 XP)
+Proficiency Bonus +2
+Charge.
+If the shieldhead moves at least 20 feet straight
+toward a target and then hits it with a ram attack on the
+same turn, the target takes an extra 7 (2d6) bludgeoning
+damage. If the target is a creature, it must succeed on a
+DC 13 Strength saving throw or fall prone.
+actions
+Ram.
+Melee Weapon Attack: +5 to hit, reach 5 ft.,
+one target.
+Hit: 10 (2d6 + 3) bludgeoning damage.
+===
+Shieldhead
+A shieldhead has a broad bone faceplate to protect itself
+and to ram foes. An expert rider can also use the bone like
+a shield. People have domesticated shieldheads for riding.
+===
+Sloth Galloper
+A sloth galloper is a hybrid sloth-ape that is an agile
+climber and fast sprinter. The beast’s four apelike hands are
+sensitive, so it hesitates to move rapidly over rough terrain.
+===
+Sloth Galloper
+Large beast, unaligned
+Armor Class 11
+Hit Points 26 (4d10 + 4)
+Speed 25 ft., climb 25 ft.
+str dex con int wis cha
+ 17 (+3) 13 (+1) 12 (+1) 4 (–3) 12 (+1) 7 (–2)
+Senses darkvision 60 ft., passive Perception 11
+Languages —
+Challenge 1 (200 XP)
+Proficiency Bonus +2
+Speed Burst.
+Provided it isn’t moving over difficult
+terrain, the sloth galloper can use a bonus action to take
+the Dash action.
+actions
+Multiattack.
+The sloth galloper makes two slam attacks.
+Slam.
+Melee Weapon Attack: +5 to hit, reach 5 ft., one
+target.
+Hit: 8 (2d4 + 3) bludgeoning damage.
+===
+Torcheater
+Tiny monstrosity, unaligned
+Armor Class 12
+Hit Points 3 (1d4 + 1)
+Speed 5 ft., fly 30 ft.
+str dex con int wis cha
+ 2 (–4) 14 (+2) 12 (+1) 2 (–4) 11 (+0) 6 (–2)
+Damage Immunities fire
+Senses darkvision 60 ft., passive Perception 10
+Languages —
+Challenge 0 (10 XP)
+Proficiency Bonus +2
+Eat Fire.
+If the torcheater flies through fire, it reduces
+the fire’s area by a 1-foot cube. A fire goes out if its area
+is reduced to nothing.
+actions
+Bite.
+Melee Weapon Attack: +4 to hit, reach 5 ft.,
+one target.
+Hit: 1 fire damage.
+===
+Torcheater
+Torcheaters are small batlike creatures that feed on fire,
+swooping down to douse torches and campfires.
+349
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+U

@@ -1,0 +1,66 @@
+147
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+G
+===
+Grudgel Strategist
+Medium humanoid (grudgel), any alignment
+Armor Class 15 (breastplate)
+Hit Points 52 (8d8 + 16)
+Speed 30 ft.
+str dex con int wis cha
+ 16 (+3) 12 (+1) 14 (+2) 17 (+3) 13 (+1) 11 (+0)
+Skills
+Arcana +5, Insight +3, Perception +3
+Senses darkvision 60 ft., passive Perception 13
+Languages Grudgel and two national languages
+Challenge 3 (700 XP)
+Proficiency
++2
+Center (Recharges after a Short or Long Rest).
+The grudgel strategist can use a bonus action to focus
+before making an attack roll or ability check. If the grudgel
+does so, then it has advantage on the next attack roll or
+ability check it makes before the start of its next turn.
+Spellcasting.
+The grudgel strategist is an 8th-level
+spellcaster. Its spellcasting ability is Intelligence (spell
+save DC 13, +5 to hit with spell attacks). The grudgel
+strategist knows the following wizard spells: Cantrips (at will): ray of frost
+,
+shocking grasp
+1st level (4 slots): color spray
+,
+expeditious retreat
+,
+shield, sleep
+2nd level (2 slots): mirror image
+,
+misty step
+Weapon Bond.
+The grudgel strategist can be disarmed
+only if incapacitated or dead.
+actions
+Multiattack.
+The grudgel strategist makes two weapon
+attacks or casts one cantrip and makes one weapon attack.
+Halberd.
+Melee Weapon Attack: +5 to hit, reach 10 ft., one
+target.
+Hit: 8 (1d10 + 3) piercing damage. If the target is a
+creature, it must succeed on a DC 13 Strength or Dexterity
+saving throw (target’s choice) or the grudgel strategist can
+knock the target prone or move it up to 5 feet to another
+unoccupied space within the grudgel’s reach.
+reactions
+Battlefield Control.
+A creature that willingly
+moves within the grudgel strategist’s reach, including
+entering that area, provokes an opportunity attack
+from the grudgel.

@@ -1,0 +1,65 @@
+54
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+C
+===
+Catacomb Haunt
+Medium undead, neutral evil
+Armor Class 13
+Hit Points 65 (10d8 + 20)
+Speed 20 ft., fly 40 ft. (hover)
+str dex con int wis cha
+	5	(–3)	16	(+3)	14	(+2)	7	(–2)	14	(+2)	12	(+1)
+Skills
+Perception +4, Stealth+5
+Damage Vulnerabilities
+see Elemental Weakness
+Damage Immunities poison
+Damage Resistances
+bludgeoning, piercing, and
+slashing from nonmagical attacks
+Condition Immunities exhaustion, grappled,
+paralyzed, petrified, poisoned, prone, restrained
+Senses darkvision 60 ft., passive Perception 14
+Languages the languages it knew in life
+Challenge 4 (1,100 XP)
+Proficiency Bonus +2
+Elemental Weakness.
+The catacomb haunt has
+vulnerability to one damage type from among (roll
+1d10) 1–2 acid, 3–4 cold, 5–6 fire, 7–8 lightning, or 9–10
+thunder. A creature can take an action to study a haunt,
+gaining a clue to its vulnerability with a successful DC
+15 Intelligence (Investigation) or Wisdom (Perception)
+check. If the haunt takes damage it has vulnerability to,
+it loses its damage resistances, condition immunities
+other than to poisoned, its Incorporeal Movement trait,
+and its fly speed for 1 minute. The haunt ends this effect
+on itself early with a successful DC 13 Constitution saving
+throw, which it can make at the end of each of its turns.
+Escape.
+The catacomb haunt can use a bonus action to
+take the Disengage action.
+Incorporeal Movement.
+The catacomb haunt can move
+through other creatures and objects as if they were difficult
+terrain. It takes 5 (1d10) force damage if it ends its turn
+inside an object.
+Sneak Attack (1/Turn).
+The catacomb haunt deals
+an extra 17 (5d6) necrotic damage when it hits a target
+with a weapon attack and has advantage on the attack
+roll, or when the target is within 5 feet of an ally of the
+haunt that isn’t incapacitated and the haunt doesn’t have
+disadvantage on the attack roll.
+actions
+Touch.
+Melee Weapon Attack: +5 to hit, reach 5 ft., one
+creature.
+Hit: 13 (3d6 + 3) necrotic damage.

@@ -1,0 +1,53 @@
+143
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+G
+Gripper
+“Once you hear the hiss, it’s already too late.”
+Blighted Remains.
+ Grippers are the remains of 
+forests, drained of life. Fungus gorged on the corpses. 
+What remains, besides rot, are these pale, knotty beings 
+of vine and mold that straddle the worlds of living and 
+dead without being undead. The danger of a gripper is 
+mostly that it can pass its rot along.
+Preternatural Senses.
+ A gripper lacks senses typical 
+to humanoids, but it can sense others by their spiritual 
+presence and navigate via the echoes of its clicking.
+salvage
+Someone who has proficiency with alchemist’s supplies 
+or brewer’s supplies can use the spore sacs from three 
+grippers as a base for a 
+potion of malice 
+(see chapter 
+4). Making the potion takes 3 days of work and other 
+reagents worth 100 gp, and the brewer must succeed 
+on a DC 10 Intelligence or Wisdom check to get the 
+mixture right.
+lore
+DC 10 Intelligence (History):
+ The grippers got their 
+name from the fact that they grab and constrict their 
+prey. They usually bite what they grab.
+DC 10 Intelligence (Nature):
+ Grippers look woody, 
+but they have a lot of soft parts, making them vulnerable 
+to slashing damage.
+DC 15 Intelligence (Nature):
+ Grippers can release 
+rot-inducing spores. If they haven’t done so before they 
+die, they swell with pressure before releasing the spores 
+in a wider area.
+DC 20 Intelligence (Arcana):
+ A gripper exists in a 
+state between life and death yet not undead. It can sense 
+spirits, even those within living beings, and it uses its 
+clicking to navigate. Its ability to sense spirits extends 
+into the Ethereal Plane.

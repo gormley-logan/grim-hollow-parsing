@@ -1,0 +1,27 @@
+Carvaloth
+“When you spot one carvaloth, it’s already too late. 
+The others are right behind you.”
+Hidden Hunters.
+ Carvaloths are ancient predators that 
+possess the ability to change their skin color, much like 
+a chameleon. This trait functions as camouflage, when 
+stalking prey or hiding from other predators, and as a 
+display of dominance toward other packs of carvaloths.
+Strength in Numbers.
+ A carvaloth’s fanged maw is 
+filled with caustic spittle that eats through stone, metal, 
+and flesh. A lone carvaloth is fierce and dangerous. 
+In packs, these predators can quickly outnumber and 
+overwhelm larger creatures.
+salvage
+Someone who has proficiency with leatherworker’s tools 
+can use five hides to produce 
+carvaloth scale armor
+ (see 
+chapter 4). The process takes 6 days and other materials 
+worth 50 gp.
+lore
+DC 10 Intelligence (Nature):
+ Carvaloths are pack 
+hunters. A carvaloth uses chameleonlike camouflage 
+to hide and stalk prey.

@@ -1,0 +1,66 @@
+===
+Wolfentroika
+Large monstrosity, chaotic evil
+Armor Class 14 (natural armor)
+Hit Points 105 (14d10 + 28)
+Speed 50 ft.
+str dex con int wis cha
+ 18 (+4) 14 (+2) 15 (+2) 7 (–2) 13 (+1) 8 (–1)
+Skills
+Perception +3
+Damage Immunities acid
+Senses darkvision 60 ft., passive Perception 13
+Languages —
+Challenge 4 (1,100 XP)
+Proficiency Bonus +2
+Keen Hearing and Smell.
+The wolfentroika has
+advantage on Wisdom (Perception) checks that rely on
+hearing or smell.
+Shared Life.
+Each of the wolfentroikas in a trio shares
+life. If the wolfentroika starts its turn with 0 hit points and
+within 100 feet of another member of its trio that has 1 or
+more hit points, the wolfentroika regains 1 hit point. If a
+wolfentroika is at 0 hit points and one or more members
+of its trio is alive, the wolfentroika can die only if its body
+is destroyed in such a way that only the
+true resurrection
+spell or similarly powerful magic could restore it to life.
+Shared Mind.
+Each of the wolfentroikas in a trio shares
+consciousness. While within 100 feet of one another, if
+one wolfentroika is aware of something, all three are.
+The wolfentroika can be blinded, charmed, deafened,
+frightened, incapacitated, paralyzed, petrified, stunned,
+or knocked unconscious only if the other two succumb
+to the same condition at the same time or are more
+than 100 feet from the wolfentroika. When one wolfen-
+troika recovers from one of these conditions or moves
+within 100 feet of an affected sibling, each other trio
+member within 100 feet recovers.
+Trio Tactics.
+The wolfentroika has advantage on attack
+rolls against a creature if at least one of the wolfentroika’s
+trio is within 5 feet of the creature.
+actions
+Bite.
+Melee Weapon Attack: +6 to hit, reach 5 ft., one
+target.
+Hit
+: 13 (2d8 + 4) piercing damage and 7 (2d6) acid damage. If the target is a creature, it must succeed on a
+DC 14 Strength saving throw or fall prone.
+Spit.
+Ranged Weapon Attack: +4 to hit, range 30 ft.,
+one target.
+Hit
+: 16 (4d6 + 2) acid damage. reactions
+Stay Down.
+A creature that stands from prone within
+5 feet of the wolfentroika provokes an opportunity
+attack from the wolfentroika.
+their primary goal becomes ending this separation. This
+supernatural relationship means that all three must be
+slain within moments of one another, or none of them
+can die. Similarly, the three resist magic that can only
+affect one or two of them.

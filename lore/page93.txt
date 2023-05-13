@@ -1,0 +1,25 @@
+93
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+D
+lore
+DC 10 Intelligence (History):
+ The downcast were once 
+immortal celestial servants to the gods. Each has inclinations 
+and aptitudes based on the god they once served.
+DC 13 Intelligence (Religion):
+ As a result of their 
+divine nature, fallen though it might be, downcast have 
+resistance to necrotic damage and limited access to 
+innate magic.
+DC 15 Intelligence (Arcana):
+ The physical form of a 
+downcast contains significant power from before their 
+fallen state. A ritual requiring the sacrifice or corpse of a 
+downcast can draw out this power.

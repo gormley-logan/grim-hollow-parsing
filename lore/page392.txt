@@ -1,0 +1,46 @@
+Dwarf Vampire
+“Dwarves delve, even when they’re dead 
+and need blood to survive.”
+Earth Bound.
+ Vampirism amplifies the dwarven 
+connection to earth and stone, awakening ancient elemen-
+tal connections in the dwarf’s bloodline. Dwarf vampires 
+burrow like ghosts passing through walls, and instead 
+of turning to mist when near death, they meld into the 
+nearest earth or stone. Similarly, a person slain by a dwarf 
+vampire’s bite spontaneously sinks into the ground.
+Silver Scorned.
+ For some reason, the corruption of 
+vampirism makes dwarves susceptible to silver. They 
+dislike its presence near them, and wounds from silver 
+weapons slow the vampire’s healing. A silver spike 
+through the vampire’s heart is a sure way to destroy 
+them, although unlike other vampires, wood isn’t useful 
+in that regard.
+salvage
+Dwarf vampires often display avarice. They collect 
+treasure with zeal. Most wear numerous valuable objects 
+and pieces of jewelry, eschewing anything silver.
+Someone who eats the tongue of an adult or older 
+dwarf vampire gains no ability to speak with beasts 
+but can instead speak to nonmagical, unworked earth 
+or nonmagical stone for 10 minutes. These substances 
+can tell what creatures have been within 10 feet of them 
+within the last 24 hours, as well as what they conceal, if 
+anything. Earth and stone have limited perspective but 
+offer as much information as they are asked for.
+lore
+DC 10 Intelligence (History):
+ Dwarf vampires 
+spend their time hunting prey or wealth, preferably 
+under the ground. 
+DC 15 Intelligence (Arcana):
+ Vampirism connects a 
+dwarf strongly to the earth. The vampire can meld into 
+earth and stone and travel through it. They do so when 
+near death, hiding in the earth to heal.
+DC 20 Intelligence (Religion):
+ Silver irritates a dwarf 
+vampire and makes their wounds slow to heal. But 
+poison is ineffective against a dwarf vampire, and only 
+the most faithful can hope to turn one.

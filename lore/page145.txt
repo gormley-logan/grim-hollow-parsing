@@ -1,0 +1,9 @@
+lore
+DC 15 Intelligence (Nature)
+. The seemingly harmless 
+tree stump is a horrible abomination capable of eating 
+and digesting human flesh.
+DC 20 Intelligence (Arcana).
+ The grotesquerie can 
+control swarms of animals, and it vomits forth acidic bile 
+to destroy attackers.

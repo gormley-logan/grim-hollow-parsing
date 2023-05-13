@@ -1,0 +1,66 @@
+Bone Trader
+“Do you really need all of your bones? 
+Are you sure I couldn’t just snack on a few? 
+I’ll gladly pay you for them.”
+Fey Barterers. 
+Bone traders resemble well-dressed, 
+shrunken pale elves. Their skulls appear a bit too small 
+for their gaunt forms, like a toy with a mismatched head.
+Hunger for Bones. 
+Bone traders need a steady 
+supply of bones to survive and for status. Most start as 
+scavengers, acquiring the bones of small rodents or fish. 
+As they grow in power, they seek more delicious sources 
+of bone—and once they gain a taste for humanoid bones, 
+they inevitably seek a ready source. Villages targeted 
+by bone traders become desperate to make deals with 
+these fey predators, sometimes agreeing to offer animal 
+sacrifices, or even the occasional humanoid sacrifice, to 
+keep the bone trader at bay. Like most fey, it honors the 
+terms of such deals—and creates painful consequences 
+for those who break them.
+Intimidating Leader. 
+Most bone traders create agents 
+to hunt and gather more bones for their lairs. These gangs 
+start with charmed animals but quickly grow to include 
+easily intimidated humanoids like goblins, kobolds, or 
+(their favorite minions) the faevlin. Bone trader lairs are 
+twisted reflections of humanoid luxury, with sculptures, 
+bas reliefs, and even flooring made entirely of bones.
+Branded Minions.
+ Bone traders “brand” their minions 
+by sucking out a specific bone or set of bones, usually the 
+same set for their entire gang. For example, a delicate bone 
+trader might consume the bones of each minion’s left ear, 
+their partial deafness a constant reminder of who is really 
+in charge. A more brutal master might consume an arm-
+bone or part of a foot, being careful to not damage their 
+minions’ ability to carry out the bone trader’s wishes.
+salvage
+Bone trader lairs have many, many bones. Depending on 
+how successful and powerful the bone trader is, it may 
+also have the equipment and belongings of people it has 
+killed or of the minions it employs. Its bone armor is 
+infused with a peculiar magic.
+Smashing the armor into a paste and mixing it with 
+appropriate amounts of coagulant from a herbalism kit 
+allows it to be applied it to a shield or weapon. This paste, 
+called 
+ready gunk
+ (see Chapter 4), can be completed with a 
+successful Wisdom check (DC 10) by someone proficient 
+with a herbalism kit. This process takes 10 minutes.
+lore
+DC 10 Intelligence (History)
+: A bone trader is most 
+dangerous in its lair, where it can use its collection of 
+bones to defend itself.
+DC 15 Intelligence (Arcana)
+: A bone trader can 
+charm its opponents and is often defended by a small 
+gang of intimidated or charmed creatures.
+DC 20 Intelligence (Nature)
+: Like other fey, bone 
+traders can be tantalized by a deal and may be willing 
+to negotiate rather than fight, even if it seems to have 
+the upper hand or is actively winning a battle

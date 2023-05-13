@@ -1,0 +1,41 @@
+129
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+G
+===
+Gasper
+Medium fey, chaotic neutral
+Armor Class 13
+Hit Points 38 (7d8 + 7)
+Speed 30 ft., swim 30 ft.
+str dex con int wis cha
+ 13 (+1) 17 (+3) 13 (+1) 8 (–1) 14 (+2) 10 (+0)
+Skills
+Perception +4, Stealth +5
+Senses darkvision 60 ft., passive Perception 14
+Languages Sylvan
+Challenge 1 (200 XP)
+Proficiency Bonus +2
+Amphibious.
+The gasper can breathe air and water.
+Submerged Invisibility.
+The gasper is invisible
+while underwater.
+actions
+Water Snare.
+Melee Spell Attack: +4 to hit, reach
+15 ft., one target.
+Hit: 7 (2d6) bludgeoning damage. If
+the target is a Large or smaller creature, it is grappled
+(escape DC 12) and pulled 10 feet closer to the gasper.
+Until this grapple ends, the target is restrained, its lungs
+and mouth fill with water, and the gasper can’t use its
+Water Snare on another target. A creature completely
+submerged while grappled in this way also takes 7 (2d6)
+acid damage at the start of each of the gasper’s turns.

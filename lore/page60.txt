@@ -1,0 +1,71 @@
+60
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+C
+Chapped Brute
+“The callused skin of the merchant’s hulking bodyguard 
+ripples as if something beneath is trying to wriggle free.”
+Mutated Skin
+. Chapped brutes are hulking humanoids 
+altered by malign magic and forbidden alchemical 
+compounds to create inhuman bodyguards and enforcers. 
+They are so named because of their skin, which has been 
+mutated into hairless calluses. This hide is so thick that its 
+folds have compressed the brute’s eyes and mouth to such 
+a degree that it can no longer see or speak. The skin pulses 
+with veins and shifts unnaturally, showing evidence of 
+continued mutation.
+Valued Bodyguards
+. Because of their prodigious 
+strength and extraordinary resistance to damage, chapped 
+brutes act as bodyguards for alchemists or wealthy patrons 
+with the means to keep them docile.
+Constant Flux
+. Rumors abound of some chapped brutes 
+unexpectedly undergoing hideous transformations into 
+other forms. Because of the unstable state of the chapped 
+brute’s physiology, their bodily fluids and organs are highly 
+prized for mutagenic qualities.
+Awakened Potential
+. When a chapped brute would 
+die, on rare occasions, its body splits lengthwise along its 
+limbs and swells in size, muscles and viscera peeking out 
+through shredded skin. This transformation drives the 
+creature beyond reason. In this form, a brute can distend 
+sagging limbs into long tentacles.
+On the rarest occasions, an awakened brute might 
+transform yet again, leaving behind all ties to humanoid 
+origins. The brute grows again. It becomes a pulsating 
+mass of ravening flesh.
+salvage
+Chapped brutes rarely carry treasure or equipment unless 
+doing so as instructed by their master. An accomplished 
+leatherworker can fashion the callused skin of a chapped 
+brute into 
++1
+armor
+—leather, studded leather, or hide—
+that grants the wearer resistance to necrotic damage and 
+doesn’t require attunement. This armor takes 10 extra 
+days of work to fashion, and magical components worth 
+100 gp must be expended in its creation.
+lore
+DC 10 Intelligence (Arcana):
+ The magical and 
+alchemical process that creates these brutes leaves them 
+resistant to necrotic damage.
+DC 15 Intelligence (Nature):
+ These beings are so 
+volatile because of their creation process that when they 
+are killed, they have a chance to transform into larger, 
+deadlier forms. 
+DC 20 Wisdom (Medicine): 
+The final form of the 
+chapped brute has a life force that fluctuates, so that it 
+randomly gains and loses life force every few seconds.

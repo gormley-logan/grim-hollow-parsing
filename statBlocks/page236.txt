@@ -1,0 +1,99 @@
+236
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+N
+===
+Nolidir
+Large monstrosity, unaligned
+Armor Class 13 (natural armor)
+Hit Points 97 (13d10 + 26)
+Speed 30 ft.
+str dex con int wis cha
+ 18 (+4) 14 (+2) 15 (+2) 4 (–3) 13 (+1) 7 (–2)
+Skills
+Perception +3, Stealth +4
+Damage Immunities poison
+Senses darkvision 60 ft., passive Perception 13
+Languages —
+Challenge 4 (1,100 XP)
+Proficiency Bonus +2
+Painkiller
+. While the nolidir is poisoned, it gains
+resistance to bludgeoning, piercing, and slashing damage
+from nonmagical attacks.
+Keen Hearing and Smell
+. The nolidir has advantage on
+Wisdom (Perception) checks that rely on hearing or smell.
+actions
+Multiattack
+. The nolidir uses its terrifying howl, then
+attacks once each with its bite and claws
+Bite
+.
+Melee Weapon Attack
+: +6 to hit, reach 5 ft., one target. Hit
+: 11 (2d6 + 4) piercing damage. Claws
+.
+Melee Weapon Attack
+: +6 to hit, reach 5 ft., one target.
+Hit
+: 13 (2d8 + 4) slashing damage. Terrifying Howl
+. Each creature within 60 feet of and
+able to hear the nolidir must succeed on a DC 12 Wisdom
+saving throw or become frightened for 1 minute. A
+frightened target can repeat the saving throw at the end
+of each of its turns, with disadvantage if the nolidir is
+within line of sight, ending the effect on itself on a success.
+If a target’s saving throw is successful or the effect ends
+for it, the target is immune to the Terrifying Howl of all
+nolidirs for the next 24 hours.
+===
+Nolid
+Large monstrosity, unaligned
+Armor Class 11
+Hit Points 75 (10d10 + 20)
+Speed 30 ft.
+str dex con int wis cha
+ 16 (+3) 13 (+1) 14 (+2) 2 (–4) 11 (+0) 7 (–2)
+Skills
+Perception+2, Stealth +3
+Damage Immunities poison
+Senses darkvision 60 ft., passive Perception 12
+Languages —
+Challenge 3 (700 XP)
+Proficiency Bonus +2
+Painkiller
+. While the nolid is poisoned, it gains resistance
+to bludgeoning, piercing, and slashing damage from
+nonmagical attacks.
+Keen Hearing and Smell
+. The nolid has advantage on
+Wisdom (Perception) checks that rely on hearing or smell.
+actions
+Multiattack
+. The nolid uses its startling howl, then
+attacks once each with its bite and claws.
+Bite
+.
+Melee Weapon Attack
+: +5 to hit, reach 5 ft., one target. Hit
+: 8 (2d4 + 3) piercing damage. Claws
+.
+Melee Weapon Attack
+: +5 to hit, reach 5 ft., one target.
+Hit
+: 10 (2d6 + 3) slashing damage. Startling Howl
+. Each creature within 30 feet of and able
+to hear the nolid must succeed on a DC 12 Wisdom saving
+throw or become frightened until the end of the nolid’s
+next turn. A target that successfully saves is immune to
+the Startling Howl of all nolids for the next 24 hours.
+rare enough to be used as cautionary tales to children
+if they don’t go to bed on time. These creatures hunt
+verminous abominations to claim their territory.

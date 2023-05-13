@@ -1,0 +1,67 @@
+240
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+0
+ogreofthe vale
+Large giant, neutral evil
+Armor Class 17 (half plate, shield)
+Hit Points 179 (18d10 + 80)
+Speed 40 ft.
+str dex con int wis cha
+ 21 (+5) 9 (-1) 18 (+4) 11 (+0) 13 (+1) 13 (+1)
+Skills
+Athletics +9, Insight +5, Perception +5
+Senses darkvision 60 ft., Passive Perception 15
+Damage Resistances
+poison
+Condition Immunity
+poisoned
+Languages Castinellan, Ostoy
+Challenge 9 (5,000 XP)
+Proficiency Bonus +4
+Ferocious Presence
+. Allied creatures of the ogre of
+the vale who are within 30 feet of the ogre of the vale
+and can see it gain 10 temporary hit points at the start
+of their turn unless the ogre of the vale is incapacitated.
+Reckless Abandon
+. At the start of its turn, the ogre of the
+vale and allied creatures within 30 feet who can see or hear
+the ogre of the vale can gain advantage on all melee weapon
+attack rolls during that turn, and attack rolls against them
+have advantage until the start of their next turn.
+actions
+Multiattack
+. The ogre of the vale makes two melee
+attacks. He can replace one melee attack with its bellowing
+command.
+War Sword
+.
+Melee Weapon Attack
+: +9 to hit, reach 5 ft., one target.
+Hit
+: 18 (3d8 + 5) slashing damage. Bellowing Command
+. The ogre of the vale chooses a
+target it can see and commands up to three allied creatures
+of CR 6 or lower who can see or hear the ogre of the vale to
+make a weapon attack against the target using their reaction.
+The attacking creatures can add d4 to their attack roll.
+Ravenous Appetite (1/Day)
+. The ogre of the vale
+grabs a Medium or smaller allied humanoid of CR 1/2 or
+lower within 5 feet of it and gnaws on its face and neck.
+The humanoid dies and the ogre of the vale regains hit
+points equal to the dead humanoid’s hit point maximum.
+reactions
+Noble Sacrifice
+. When a creature the ogre of the vale
+can see targets him with an attack, the ogre of the vale
+chooses an allied creature of Medium or smaller size
+within 5 feet of it. They swap places, and the chosen
+creature becomes the target instead.

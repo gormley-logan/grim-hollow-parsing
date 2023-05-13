@@ -1,0 +1,47 @@
+153
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+H
+Hermit Skull
+“Your first instinct might be to laugh. When it’s 
+close enough to see the hatred burning in its eye 
+sockets, another instinct is likely to take over.”
+Hatred Reborn.
+ A hermit skull belonged to a person 
+so hateful that the hate reanimated the spirit after 
+death. Lacking the power to animate a whole body, this 
+monster’s six oozing, ectoplasmic limbs extend from the 
+skull as it scuttles around in search of life to destroy. In 
+this task, the hermit skull is cunning enough to burrow 
+into soil and wait for prey to pass nearby. Then, the 
+skull attacks.
+Undead Nature
+. 
+A hermit skull doesn’t require air, 
+food, drink, or sleep.
+salvage
+Someone who has proficiency with alchemist’s supplies can 
+mix the dust and ectoplasmic remains of two hermit skulls 
+with reagents worth 25 gp to create an elixir that duplicates 
+a 
+calm emotions
+ spell cast on the drinker. Creating the elixir 
+requires 4 hours of work and a successful DC 10 Intelligence 
+or Wisdom check.
+lore
+DC 10 Intelligence (Religion):
+ Strong negative 
+emotions in a living creature can cause them to rise again 
+as an undead creature when they die. A hermit skull 
+rises when a dying person has enough hatred in their 
+heart to animate their remains, but only enough power is 
+available to animate their skull.
+DC 13 Intelligence (Arcana):
+ Hermit skulls lash out with 
+their ectoplasmic limbs, which rot flesh and sap vitality.

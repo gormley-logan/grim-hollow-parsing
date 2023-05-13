@@ -1,0 +1,43 @@
+W
+Wandering Head
+“Ugly brutes, aye, but one offered me a magic necklace to take 
+care of a merchant what stiffed him on a deal, so they can’t be all 
+bad. Strangest thing though, I can’t seem to take it off…”
+All Head.
+ Wandering heads are grotesque beings that 
+roam the wilderness in search of travelers to torment. The 
+creature is a horse-sized head balanced on two spindly 
+legs with arms that protrude from gaps in its teeth. 
+Wandering heads carry sacks filled with objects they use 
+in deceitful bargaining, always trying to twist the deal.
+Crafty Bargainers.
+ A wandering head’s first instinct 
+is to bargain. They approach and use divination magic 
+to offer others what they need most. In exchange, the 
+head asks for treasure or a favor. Cunning as they are, 
+wandering heads attempt to trick others into committing 
+an evil act or losing badly on the deal in some other way.
+Corrupted Giants.
+ Enuil Stonetongue, a follower of 
+Malikir, once sought to turn hill giants to his master’s 
+service. The giants proved too dim to adequately follow 
+orders, so Enuil vowed that if they could not make good 
+use of their heads he would. His curse warped and 
+twisted those giants into the first wandering heads. Enuil 
+taught these heads wizardry.
+salvage
+A wandering head carries tools and trinkets to tempt 
+travelers into making deals. At least one magic item can 
+be found in the head’s sack, although such items are 
+often cursed.
+lore
+DC 10 Intelligence (History):
+ Wandering heads are 
+the warped heads of giants, detached and given new life.
+DC 15 Intelligence (Arcana):
+ These monsters are 
+highly intelligent and capable of wizardry.
+DC 15 Intelligence (History)
+: Beware any deal a 
+wandering head offers. They love tricking others into 
+evil deeds.

@@ -1,0 +1,35 @@
+214
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+M
+lair actions
+On initiative count 20 (losing initiative ties), the memori
+lich can take a lair action to cause one of the following
+magical effects. The memori lich can’t use the same effect
+two rounds in a row.
+•
+The ground within 120 feet of the memori lich shakes
+violently for a moment. Each creature of the memori
+lich’s choice in that area must succeed on a DC 16
+Dexterity saving throw or fall prone.
+•
+Creatures of the memori lich’s choice within 60 feet of
+the lich can’t regain hit points until initiative count 20
+on the next round.
+•
+Shades of those the memori lich has slain swirl around
+in a 30-foot sphere centered on the lich. This effect goes
+around corners. The shades help the lich, and so the
+lich rolls 1d4 with the d20 rolled for any ability check
+or saving throw, adding the number rolled on the d4
+to the result. The apparitions hinder those hostile to
+the lich and outline them with a faint glow. The area
+is difficult terrain for such creatures, and they can’t
+benefit from being invisible while in the area. These
+benefits last until initiative count 20 on the next round.

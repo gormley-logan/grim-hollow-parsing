@@ -1,0 +1,56 @@
+90
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+D
+Doom Boar
+“More vicious than a normal boar, the bite of the two-headed 
+doom boar grants great unluck to those who survive it.”
+Ill-Tempered
+. The two-headed doom boars hate all life 
+and vent their anger on any creature they can find. The 
+mere sight of a creature drives them into a murderous 
+rage as they try to tear their victim to shreds.
+Unlucky Wounds
+. The tusks of a doom boar cause 
+grievous wounds carrying a random malediction lasting 
+from a minute to a day.
+Bone Collectors
+. Doom boars find shelter in caves, 
+under trees, or in hollows, but one sure sign of a doom 
+boar’s lair is the smell of rot and the carpet of bones that 
+liter the area. Doom boars frequently take trophies from 
+their victims that rot in their lair, leaving bones behind.
+salvage
+The tusks of a doom boar can be harvested and made into a 
+powder. The powder can be brewed into a tea with 75 gp of 
+rare herbs that if drunk within an hour of its creation allows 
+the victim of a curse another saving throw against a curse 
+currently affecting them. The tea has no affect against a 
+curse that does not allow a saving throw.
+Additionally, eight doom boars’ worth of powder can 
+be alchemically crafted into an elixir known as 
+hogs’ wash 
+(see Chapter 4)
+by a creature with proficiency in alchemist’s 
+supplies, spending 24 hours and 500 gp worth of rare 
+herbs and succeeding a DC 15 Intelligence (Arcana) check.
+lore
+DC 10 Intelligence (History)
+: Wounds from a doom 
+boar can bestow a random curse upon the target.
+DC 15 Intelligence (Nature)
+: Doom boars fly into a 
+reckless rage when they see other creatures.
+DC 20 Intelligence (Arcana)
+: A curse caused by a 
+doom boar can be removed with a 
+remove curse
+ spell or 
+by the creation of a special tea made from the boar’s 
+powdered tusks.

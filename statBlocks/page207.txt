@@ -1,0 +1,63 @@
+207
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+M
+===
+Malcinder Alpha
+Large fiend, neutral evil
+Armor Class 15 (natural armor)
+Hit Points 97 (13d10 + 26)
+Speed 50 ft.
+str dex con int wis cha
+ 16 (+3) 17 (+3) 15 (+2) 5 (–2) 14 (+2) 8 (–1)
+Skills
+Perception +4, Stealth +5
+Damage Immunities fire
+Senses darkvision 60 ft., passive Perception 14
+Languages understands Infernal but can’t speak
+Challenge 4 (1,100 XP)
+Proficiency Bonus +2
+Fiery Body.
+A creature that touches the malcinder
+alpha or hits it with a melee attack while within 5 feet
+of it takes 5 (2d4) fire damage.
+Keen Sight and Smell.
+The malcinder alpha has
+advantage on Wisdom (Perception) checks that rely on
+sight or smell.
+Pack Leader.
+The malcinder alpha allows itself and
+other malcinders within 30 feet of and able to see it to
+gain advantage on an attack roll against a creature if at
+least one other allied malcinder is within 5 feet of the
+creature and the ally isn’t incapacitated.
+Pounce.
+If the malcinder alpha moves at least 20 feet
+straight toward a creature and then hits it with a claw
+attack on the same turn, that target must succeed on a
+DC 13 Strength saving throw or fall prone. If the target is
+prone, the malcinder can make one bite attack against it
+as a bonus action.
+actions
+Multiattack.
+The malcinder alpha makes two attacks,
+only one of which can be a bite.
+Bite.
+Melee Weapon Attack: +5 to hit, reach 5 ft.,
+one target.
+Hit: 10 (2d6 + 3) piercing damage.
+Claw.
+Melee Weapon Attack: +5 to hit, reach 5 ft.,
+one target.
+Hit: 8 (2d4 + 3) piercing damage.
+Tail Flame.
+Melee or Ranged Weapon Attack: +5 to hit,
+reach 5 ft. or ranged 30/120 ft., one target.
+Hit: 9 (2d8)
+fire damage.

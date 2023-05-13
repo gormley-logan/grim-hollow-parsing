@@ -1,0 +1,45 @@
+Parasite Warlock
+“Some lose their grasp on reality. Others revel in a 
+strange and terrible reality they’ve seen.”
+Between Realities.
+ Aether Kindred exist in the 
+far reaches beyond normal space and time, but they 
+aren’t the only entities to inhabit those in-between 
+places. Other strange entities writhe and swim in the 
+nothingness between stars, hungering for energies 
+they can sense just beyond the veil. Occasionally they 
+taste freedom when a mage manages to open a thin 
+crack, whetting the appetite of these strange beings and 
+drawing them toward the known world.
+Subtle Infiltrators.
+ Contact with the outer cosmos 
+is rare, but a seeker of arcane knowledge might briefly 
+touch the mind of a creature from that far realm. If that 
+creature takes notice, it might be intrigued by the rich 
+domain it senses. Such an entity perceives the mortal 
+world as a fertile spawning ground, abundant with food 
+for its offspring. And so, it sends forth a fragment of its 
+will in the form of a larva to worm its way into the mind 
+and body of the one foolish enough to contact it.
+salvage
+A parasite warlock always has a blightworm within. In the 
+typical blightworm warlock, the worm is immature and 
+unable to live outside the host. Extracting a blightworm 
+from the host requires someone who has proficiency in the 
+Medicine skill to succeed on a DC 15 Wisdom (Medicine) 
+check. The corpses of two such immature blightworms 
+or one mature one can be used to create four doses of a 
+potion that mimics the 
+telepathic bond
+ spell for those who 
+drink it at the same time while within 30 feet of each other 
+and are willing to participate in the bond. Making this 
+potion requires the blightworm or worms, reagents worth 
+250 gp, 8 hours of work, and a successful DC 15 Intelligence 
+or Wisdom check.
+lore
+DC 10 Intelligence (Arcana):
+ Parasite warlocks draw 
+their power from a parasitic creature dwelling within them. 
+The parasite, known as a blightworm, is from some other 
+plane of existence.

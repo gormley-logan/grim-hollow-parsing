@@ -1,0 +1,52 @@
+109
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+E
+salvage
+The exploded metal hide of the Empyrean brazen bull 
+can be harvested to make gleaming and radiant 
+brazen 
+armor
+ (see Chapter 4). A proficient armor smith can make 
+a suit of 
+brazen armor
+ by succeeding on a DC 20 Strength 
+(Athletics) check and using 2500 gp of components. This 
+process takes 20 days to complete. 
+lore
+DC 10 Intelligence (Nature)
+: Wildfires that seem to 
+begin with hoofprints are sometimes found during the dry 
+season in farmland, and bright spots on the horizon that 
+look like a massive cow are often reported at the same time.
+DC 15 Intelligence (Religion)
+: The Empyrean 
+brazen bull is a beast of burden for angels, used for 
+besieging enemies.
+DC 20 Intelligence (Arcana)
+: The Empyrean brazen 
+bull explodes when it dies, and luck be with all in the 
+wake of the blast.
+GM Advice:
+ The Empyrean brazen bull is obviously a strong 
+force on the side of law and good, and evil or chaotic characters 
+could easily find themselves getting the horns if they mess with 
+the bull. However, just like any other creatures, brazen bulls 
+can be tricked into working against their own interests. They 
+can also be manipulated or corrupted by agents of evil to 
+work against good characters.
+Brazen bulls can be altered to take other forms as well. 
+Other forms might have different modes of movement to 
+match their environment, and they might have different 
+types of natural weapons. Regardless of the form they 
+take, however, their attacks and traits should remain the 
+same. An Empyreus brazen dragon or whale, for example, 
+might be able to fly or swim, but they’ll still be able to 
+charge, swallow, damage with their aura, and explode 
+when defeated.

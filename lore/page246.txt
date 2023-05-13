@@ -1,0 +1,24 @@
+Outlaw
+“Stick to the roads to avoid the monsters of the wild, 
+they tell you. The roads aren’t all that safe, I reply!”
+Roads of Etharis.
+ Travel in Etharis is a dangerous 
+proposition. Those who venture beyond the safety of 
+city walls often stick to the network of roads laid down 
+during the Bürach Empire’s heyday. These roads have 
+their own perils, however, as evidenced by the outlaws 
+who’ve made highway robbery their trade.
+Flamboyant Thievery.
+ Outlaws of the road differ 
+from usual thieving ruffians in several ways. Traversing 
+the roads quickly and keeping pace with carriages and 
+wagons means that this breed of bandit relies on horses 
+or other mounts. Riding in on horseback makes stealth 
+less of an option, so this path attracts those with a flair 
+for the dramatic. When a traveler hears a gunshot and a 
+boisterous laugh, an outlaw won’t be far off.
+salvage
+The blackpowder pistols outlaws favor are extremely 
+rare and valuable. However, rough use and poor 
+upkeep comes with a robber lifestyle, which means that 
+the pistol requires maintenance before it can be used 

@@ -1,0 +1,46 @@
+301
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+S
+Shadow Mauler
+“The worst monsters are those you don’t see coming.”
+Shadow Predator.
+ Shadow maulers are weird 
+predators with multiple eyes and multiple fanged 
+mouths that can extend from the body on ephemeral 
+flesh. They conceal themselves in the dark, waiting to 
+kill any living creature that crosses their path. Cruel 
+and calculating, a shadow mauler prefers to attack 
+creatures alone or isolated from a group.
+Born to Darkness.
+ Sunlight is the bane of a shadow 
+mauler. The monsters might have originated from a 
+place without such light. They dwell in lightless spots to 
+avoid sunlight, which hinders their abilities, preventing 
+them from being effective hunters.
+salvage
+The ephemeral flesh of a shadow mauler is a silklike sub-
+stance that appears to be made of shadow. Someone who 
+has proficiency with leatherworker’s tools or weaver’s 
+tools can fashion a 
+cloak of elvenkind
+ from this material. 
+Doing so takes 3 days and other materials worth 50 gp. 
+This cloak loses its magic if exposed to sunlight for 8 
+hours or more.
+lore
+DC 10 Intelligence (Arcana):
+ Shadow maulers are 
+most potent in shadows. In sunlight, they become more 
+solid and easier to hurt. They also have a hard time 
+seeing, fighting, escaping, and hiding.
+DC 15 Intelligence (Arcana):
+ The shadow mauler 
+weakness to sunlight extends to a vulnerability to 
+radiant damage.

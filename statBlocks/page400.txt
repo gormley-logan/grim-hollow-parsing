@@ -1,0 +1,10 @@
+laneshi vampire customization
+Laneshi vampires retain the swim speed of their living kin,
+and the undead state enhances their darkvision. Vampire
+blood brings out the long laneshi tradition of hit-and-run
+fighting styles in the Skirmisher trait. Running water
+doesn’t harm a laneshi vampire, and they have resistance
+to the radiant damage holy water deals. A laneshi’s bite
+drains moisture—see the Bite attack—and the vampire
+must regularly immerse in water or feed to stave off deadly
+dehydration. See the Water Reliance trait

@@ -1,0 +1,69 @@
+328
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+S
+===
+Sunwraith
+Large celestial, chaotic evil
+Armor Class 18 (natural armor)
+Hit Points 178 (17d10 + 85)
+Speed 60 ft., fly 120 ft. (hover)
+str dex con int wis cha
+ 20 (+5) 14 (+2) 20 (+5) 11 (+0) 15 (+2) 17 (+3)
+Saving Throws
+Wis +7, Cha +8
+Skills
+Perception +7
+Damage Resistances
+radiant, necrotic; bludgeoning,
+piercing, and slashing from nonmagical attacks
+Condition Immunities charmed, exhaustion, frightened
+Senses truesight 120 ft., passive Perception 17
+Languages Celestial, Infernal, telepathy 120 ft.
+Challenge 13 (10,000 XP)
+Proficiency Bonus +5
+Magic Resistance.
+The sunwraith has advantage on
+saving throws against spells and other magical effects.
+Sunwraith Weapons.
+The sunwraith’s weapon
+attacks are magical. When the sunwraith hits with any
+weapon, the weapon deals an extra 4d8 necrotic or
+radiant damage (it’s choice, included in the attacks).
+actions
+Multiattack
+. The sunwraith makes two melee attacks.
+Greatsword.
+Melee Weapon Attack: +10 to hit, reach 5 ft.,
+one target.
+Hit: 19 (4d6 + 5) slashing damage and 18 (4d8)
+necrotic or radiant damage.
+Life Burn (Recharge 6).
+Melee Weapon Attack: +10 to
+hit, reach 5 ft., one creature.
+Hit: 30 (6d8 + 3) necrotic or
+radiant damage. The target must succeed on a DC 16
+Constitution saving throw or its hit point maximum is
+reduced by an amount equal to the damage taken. This
+reduction lasts until the target finishes a long rest. The
+target dies if this effect reduces its hit point maximum to 0.
+A humanoid that dies from this effect rises as a
+specter at the start of the sunwraith’s next turn. The
+specter is under the sunwraith’s command, following
+orders to the best of its ability. A sunwraith can control
+seven specters at a time.
+reactions
+Blinding Corona.
+When an attack or effect harms
+the sunwraith from farther than 5 feet from it, the
+attacker must succeed on a DC 16 Constitution saving
+throw, provided it can see the sunwraith, or be
+blinded for 1 minute. The target can repeat the saving
+throw at the end of each of its turns, ending the effect
+on itself on a success.

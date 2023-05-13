@@ -1,0 +1,20 @@
+lore
+DC 10 Intelligence (History)
+: Although all celestials 
+were once united in service to the gods, in the time since 
+their disappearance, the Arch Seraphs designs have seen 
+many changes to their servants’ nature.
+DC 10 Intelligence (Arcana)
+: Eyes of Zabriel are 
+spies, and their light literally shines on those around 
+them, watching and judging with radiant energy.
+DC 15 Intelligence (Religion)
+: The chains of the 
+bloodied can never be removed or their self-sacrifice will 
+go unchecked, and they die instantly. The bloodied turn 
+the damage dealt by violent foes back on them.
+DC 20 Intelligence (Religion)
+: Empyrean knights act 
+as brutal and just servants of the righteous. Their attacks 
+carry a radiant sting, and they never cease fighting 
+someone they consider a foe.

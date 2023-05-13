@@ -1,0 +1,73 @@
+17
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+A
+salvage
+Inquisitors carry fine armaments and religious trappings. 
+Seraph iconography is common, as is holy water. Some 
+members carry trinkets of religious significance such 
+as angel feathers or silver boxes holding the ashes of 
+martyrs. Some carry magical arms and armor, such as 
+armor of resistance 
+and 
+vicious weapons
+. Traveling inquisitors 
+carry the book of Arcanist Inquisition dogma.
+Lord Inquisitor Crevax has her magic equipment. 
+She also carries the only master key to the Cathedral of 
+Embers, as well as a map of the facility.
+lore
+DC 10 Intelligence (Religion):
+ The founder of the Ar-
+canist Inquisition claims that the Arch Seraph Empyreus 
+said that magic is dangerous, corrupt, and corrupting. 
+People of the Castinellan Provinces hold this belief to be 
+true, and the sentiment has spread beyond that region.
+The majority of the Arcanist Inquisition comprises 
+soldiers from the Castinellan provinces, including 
+many dragonborn. Their task is to seek out and punish 
+magic-users.
+DC 15 Intelligence (History):
+ Any suspected arcanist 
+or associate of a suspected mage who publicly declares 
+allegiance to Empyreus and confesses to crimes against 
+the divine order can request judgment from a speaker for 
+the Arch Seraph. If they do so, inquisitors are obligated 
+to take the individual to the Cathedral of Embers for 
+trial rather than passing judgment and meting out 
+punishment as they normally would.
+DC 15 Intelligence (Arcana):
+ The Cathedral of Embers, 
+headquarters of the Arcanist Inquisition, is a well-known 
+prison for suspected arcanists awaiting trial or serving 
+a sentence. Less known is that the complex also contains 
+an enormous collection of magic items, kept locked away. 
+The inquisition is concerned as much with keeping the 
+items safe as sequestering their potential influence.
+DC 20 Intelligence (Religion):
+ Trained to root out 
+secrets, some inquisitors have special blessings that 
+allow them to pierce illusions and uncover deceit. 
+Their devotion leads them to pursue their foes despite 
+personal risk, making them difficult to evade.
+GM Advice:
+ While the Arcanist Inqusition, like any fanatical 
+organization, can do both good and evil depending on the 
+individuals involved and the details of the situation, the 
+organization as a whole tends toward evil. Good organizations care 
+about each and every case that comes before them, and work. hard 
+to ensure that innocents are never injured, even if that means a few 
+guilty parties go free. The Arcanist Inquisition is the opposite: they 
+are content if a few innocent people are imprisoned or killed if it 
+means no guilty escape. Because of this, characters should often find 
+themselves on the hostile side of an inquisitionists wrath.
+On the other hand, unscrupulous or morally gray characters might 
+find the Arcanist Inquisition a convenient ally in certain situations. 
+Characters will always find arcanists willing allies in a conflict against
+evil-doers who employ arcane means to gain and hold power. 

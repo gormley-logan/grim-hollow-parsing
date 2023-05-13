@@ -1,0 +1,81 @@
+218
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+M
+Mjorks
+“Is it just me, or does the darkness seem thicker? 
+And did it just get really warm in here?”
+Sootling Spawned.
+ Where the powers of fire and 
+earth meet, sparks of elemental energy can ignite a 
+faint light of sentience between the two elements. 
+These sootlings are amorphous creatures, folding and 
+stretching into various beastlike shapes. If allowed 
+to thrive between the elements of fire and earth, the 
+sootling eventually grows into a mjork unless magic 
+keeps its development halted.
+Volcanic Elementals.
+ A mjork is a creature as filled 
+with chaos as the fires that fueled it, and as solid as 
+the rock that gave it shape. The elemental looks like a 
+humanoid of volcanic rock, moving with a jagged, stilted 
+gait. Small cracks accent its surface, revealing a pulsating 
+flame within. Heat emanates from the mjork’s body, 
+burning those who come too close and leaving singed, 
+sooty tracks where it moves.
+As they grow larger, mjorks specialize. Some focus 
+on their solid, rocky shape and charging through foes. 
+Others emphasize fire, allowing their internal flames to 
+sheathe the body. Still others embrace smoke and ash. 
+Some of these ashers grow from sootlings who barely 
+survived their emergence and became attached to their 
+sooty origins.
+A World of Ash.
+ Mjorks have a narrow worldview, 
+having been raised in the grind and heat of volcanic 
+stone. To them, the environment they spawned from is 
+the only place of safety they have known, and they wish 
+to spread it across the world. To bring about this ideal, 
+mjorks wander sparsely inhabited areas where they 
+spread fires and watch the world around them burn. 
+These expeditions of destruction last until the mjork 
+returns to the volcanic area that gave it life.
+Elemental Nature.
+ A mjork doesn’t require food, 
+drink, or sleep.
+salvage
+Within every mjork is a heart of ash hardened into 
+smoky crystal. This crystal might already be broken in 
+the remains of a slain mjork, making it useless. An intact 
+crystal can be broken or hurled at a point up to 60 feet 
+away as an action. When it breaks, which it does upon 
+landing if hurled, the crystal releases a 20-foot-radius 
+sphere of sooty smoke, centered on a point in the breaker’s 
+space or on the point where the crystal landed. The 
+smoke spreads around corners, and its area is heavily 
+obscured. It lasts for 1 minute, but a moderate wind (at 
+least 10 miles per hour) disperses it in 4 rounds. A strong 
+wind (20 or more miles per hour) disperses the smoke in 
+1 round. These crystals sell for 15gp or more each.
+The smaller crystals from sootlings or broken mjork 
+crystals are like smoky quartz. These gems can be worth 
+from 1 sp to 1 gp each, or more to collectors who believe 
+they are mjork crystals. Someone who polishes them 
+using jeweler’s tools can increase their value as 
+semiprecious stones.
+lore
+DC 10 Intelligence (Nature):
+ Mjorks are made from 
+earth and fire clashing together. These elementals often 
+dwell near volcanoes.
+DC 15 Intelligence (Arcana):
+ Mjorks are vulnerable 
+to thunder damage, which cracks their rocky skin. They 
+can also sense through smoke as if the haze provided 
+them blindsight.

@@ -1,0 +1,51 @@
+241
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+0
+Ogre Swine
+“That pig smells terrible… and… is it laughing at us?”
+Big Pig.
+ An ogre swine is a normal barnyard hog that 
+has eaten too much humanoid flesh. Such pigs swell to a 
+grotesque size. Their teeth, already good for an omnivorous 
+diet, grow longer and more useful for cutting flesh.
+Porcine Predator.
+ Once transformed, an ogre swine 
+often eats its fellows, escapes its enclosure, eats the farmer, 
+and escapes into the wild. From there, it hunts more tasty 
+humanoid morsels. It also eats offal and refuse, or almost 
+anything even remotely edible. When not eating, an ogre 
+swine wallows in filth to ease its aching skin, stretched 
+taught over its bulk. The creature soon exudes a stench 
+that, for some reason, ogres find tolerable.
+Cursed Sapience.
+ As the ogre swine transforms, it also 
+gains humanoid characteristics. Its piggish cleverness grows 
+into malicious cunning. It understands more. Vocalizations 
+can sound more humanlike, from crying to laughter. And 
+the pig’s hooves grow long and fingerlike.
+salvage
+Someone with proficiency with leatherworker’s tools 
+can use the hides of five ogre swine to make 
+pigskin armor
+(see chapter 4). Doing so takes 3 days of work and other 
+materials worth 100 gp.
+lore
+DC 10 Intelligence (History):
+ Rumors swirl that the 
+Baron of the Vale has a special breed of immense swine on 
+the grounds of his keep in the Grey Peaks. They say folk 
+there go hungry but the baron won’t butcher the herd.
+DC 15 Intelligence (Nature):
+ Few know that pigs 
+fed a steady diet of humanoid flesh grow monstrous 
+and take on humanoid features and mannerisms. Such 
+an ogre swine is a filthy beast. Its stink can cause other 
+creatures to retch. Its mouth festers with disease. And it 
+kills people, feasts on them, and naps on their remains.

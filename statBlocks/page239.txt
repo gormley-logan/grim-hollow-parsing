@@ -1,0 +1,133 @@
+239
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+0
+===
+Oblivion Brute
+Large undead, neutral evil
+Armor Class 12
+Hit Points 60 (8d10 + 16)
+Speed 40 ft.
+str dex con int wis cha
+	16	(+3)	14	(+2)	15	(+2)	10	(+0)	10	(+0)	8	(−1)
+Skills
+Stealth +5 (+8 in dim light or darkness)
+Damage Vulnerabilities
+radiant
+Damage Immunities necrotic, poison
+Damage Resistances
+cold; bludgeoning, piercing,
+and slashing from nonmagical attacks
+Condition Immunities exhaustion, frightened,
+grappled, paralyzed, petrified, poisoned, prone, restrained
+Senses darkvision 60 ft., passive Perception 10
+Languages —
+Challenge 5 (1,800 XP)
+Proficiency Bonus +3
+Shadow Stealth.
+While in dim light or darkness, the
+oblivion brute can take the Hide action as a bonus action.
+Sunlight Weakness.
+While in sunlight, the oblivion
+brute has disadvantage on attack rolls, ability checks,
+and saving throws.
+actions
+Soul Drain
+.
+Melee Weapon Attack: +6 to hit, reach 5 ft.,
+one creature.
+Hit: 16 (3d8 + 3) necrotic damage, and the
+target must make a DC 13 Constitution saving throw. On
+a failure, the target’s available Hit Dice are reduced by 1.
+If this effect reduces the target’s Hit Dice to 0, the target
+falls unconscious. The target can repeat the saving throw
+at the end of each of its turns, regaining consciousness
+on a success. Hit Dice lost this way return at the end of a
+short rest, in time to spend them to regain hit points.
+If an oblivion brute kills a living creature with this
+attack when the creature is at 0 Hit Dice, the target’s soul
+is lost to the realm of shadow. This lost soul can be raised
+from the dead only with mighty magic, such as
+wish
+or
+divine intervention.
+Unbearable Howl (Recharges after a Short or
+Long Rest).
+The oblivion brute emits a howl in a 30-foot
+cone. Each creature that isn’t deafened or undead in the
+area must succeed on a DC 13 Wisdom saving throw or
+become frightened for 1 minute. While frightened this
+way, a creature’s speed is halved. A frightened target
+can repeat the saving throw at the end of each of its
+turns, ending the effect on itself on a success. If a target’s
+saving throw is successful or the effect ends for it, the
+target is immune to any oblivion brute’s Unbearable
+Howl for the next 24 hours.
+===
+Oblivion Juggernaut
+Huge undead, neutral evil
+Armor Class 12
+Hit Points 85 (10d12 + 20)
+Speed 40 ft.
+str dex con int wis cha
+	18	(+4)	14	(+2)	15	(+2)	10	(+0)	10	(+0)	8	(−1)
+Skills
+Stealth +5 (+8 in dim light or darkness)
+Damage Vulnerabilities
+radiant
+Damage Immunities necrotic, poison
+Damage Resistances
+cold; bludgeoning, piercing,
+and slashing from nonmagical attacks
+Condition Immunities exhaustion, frightened,
+grappled, paralyzed, petrified, poisoned, prone, restrained
+Senses darkvision 60 ft., passive Perception 10
+Languages —
+Challenge 8 (3,900 XP)
+Proficiency Bonus +3
+Shadow Stealth.
+While in dim light or darkness,
+the oblivion juggernaut can take the Hide action as a
+bonus action.
+Sunlight Weakness.
+While in sunlight, the oblivion
+juggernaut has disadvantage on attack rolls, ability
+checks, and saving throws.
+actions
+Multiattack.
+The oblivion juggernaut uses unbearable
+roar and then uses soul drain.
+Soul Drain
+.
+Melee Weapon Attack: +7 to hit, reach 5 ft.,
+one creature.
+Hit: 26 (4d10 + 4) necrotic damage, and the
+target must make a DC 13 Constitution saving throw.
+On a failure, the target’s available Hit Dice are reduced
+by 2. If this effect reduces the target’s Hit Dice to 0,
+the target falls unconscious. The target can repeat the
+saving throw at the end of each of its turns, regaining
+consciousness on a success. Hit Dice lost this way
+return at the end of a short rest, in time to spend them
+to regain hit points.
+If an oblivion juggernaut kills a living creature with
+this attack when the creature is at 0 Hit Dice, the target’s
+soul is lost to the realm of shadow. This lost soul can be
+raised from the dead only with mighty magic, such as
+wish
+or divine intervention.
+Unbearable Roar.
+Each creature of the oblivion
+juggernaut’s choice that isn’t deafened and is within 120 feet
+of the juggernaut must succeed on a DC 18 Wisdom saving
+throw or become frightened for 1 minute. A creature can
+repeat the saving throw at the end of each of its turns, ending
+the effect on itself on a success. If a creature’s saving throw is
+successful or the effect ends for it, the creature is immune to
+any oblivion juggernaut’s Unbearable Roar for 24 hours.

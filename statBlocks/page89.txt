@@ -1,0 +1,110 @@
+===
+Disembodied Arcanist
+Medium humanoid (any race), any alignment
+Armor Class 12 (15 with
+mage armor
+)
+Hit Points 55 (10d8 + 10)
+Speed 30 ft.
+str dex con int wis cha
+	10	(+0)	14	(+2)	12	(+1)	17	(+3)	13	(+1)	10	(+0)
+Saving Throws
+Wis +4
+Skills
+Arcana +6, Investigation +6, Perception +4
+Senses passive Perception 14
+Languages any two languages
+Challenge 5 (1,800 XP)
+Proficiency Bonus +3
+Innate Spellcasting.
+The disembodied arcanist’s
+innate spellcasting ability is Intelligence. It can innately
+cast the following spells, requiring no components: At will: feather fall
+(self only)
+1/day: blink
+,
+blur
+Spellcasting.
+The disembodied arcanist is an 8th-level
+spellcaster. Its spellcasting ability is Intelligence (spell
+save DC 14, +6 to hit with spell attacks). The arcanist has
+the following wizard spells prepared: Cantrips (at will): mage hand
+,
+prestidigitation
+,
+ray of frost
+,
+shocking grasp
+1st level (4 slots): fog cloud
+,
+mage armor
+,
+magic missile
+,
+shield
+2nd level (3 slots): gust of wind
+,
+misty step
+,
+phantasmal force
+3rd level (3 slots): lightning bolt
+,
+phantom steed
+,
+vampiric touch
+4th level (2 slots): phantasmal killer
+actions
+Dagger.
+Melee or Ranged Weapon Attack: +5 to hit,
+reach 5 ft. or range 20/60 ft., one target.
+Hit: 4 (1d4 + 2)
+piercing damage.
+Coded Speech.
+The disembodied arcanist speaks
+in such a way that creatures it chooses hear a hidden
+meaning, but all others hear only what the arcanist says.
+If a creature hears the arcanist speak and succeeds on a
+DC 14 Intelligence saving throw, the creature knows the
+arcanist’s speech held a hidden message but not what
+that message was.
+Fade Away (Recharges after a Long Rest).
+The
+disembodied arcanist enters the Ethereal Plane from the
+Material Plane. It can’t affect or be affected by anything
+on the Material Plane. The effect lasts for 1 minute or
+until the arcanist uses a bonus action to end it.
+Occultation.
+If the disembodied arcanist chooses, a
+creature forgets interacting directly with the arcanist,
+provided the interaction was for fewer than 10 minutes
+and the creature fails a DC 14 Wisdom saving throw.
+===
+Disembodied Commoner
+Medium humanoid (any race), any alignment
+Armor Class 11
+Hit Points 16 (3d8 + 3)
+Speed 30 ft.
+str dex con int wis cha
+	10	(+0)	12	(+1)	12	(+1)	10	(+0)	12	(+1)	10	(+0)
+Senses passive Perception 11
+Languages any one national language
+Challenge 1/8 (25 XP)
+Proficiency Bonus +2
+Innate Spellcasting.
+The disembodied commoner’s
+innate spellcasting ability is Intelligence. It can innately
+cast the following spells, requiring no components: At will: feather fall
+(self only)
+1/day: blur
+actions
+Dagger.
+Melee or Ranged Weapon Attack: +3 to hit,
+reach 5 ft. or range 20/60 ft., one target.
+Hit: 3 (1d4 + 1)
+piercing damage.
+Fade Away (Recharges after a Long Rest).
+The
+disembodied commoner enters the Ethereal Plane from
+the Material Plane. It can’t affect or be affected by anything
+on the Material Plane. The effect lasts for 1 minute or until
+the commoner uses a bonus action to end it.

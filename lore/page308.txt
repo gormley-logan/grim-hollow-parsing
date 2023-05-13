@@ -1,0 +1,84 @@
+308
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+S
+Skinweaver
+“I don’t brook with tanners no longer. If ya’ know 
+what’s good for you, ya’ won’t ask me why.”
+Arachnophobes Beware
+. A skinweaver is a hybrid 
+humanoid-spider that jumps out of the shadows, the 
+clicking of its legs drowned out by the scraping sound 
+of twin tanning knives and the soft, crisp lilting of its 
+melodic voice as it sings its song of death. Like a spider, 
+it weaves silk webs, but its real designs are created from 
+the delicately tanned and worked hides of its victims. Its 
+lair is unmistakably caustic, the sharp ammonia smell of 
+leatherworking chemicals permeating the air.
+Master Leatherworkers
+. Skinweavers are as proficient 
+with the tanning trade as the best humanoid leather-
+workers—sometimes better. Their preferred hide is 
+humanoid skins. Armored by their own creations, the 
+half-human, half-spider creatures encase themselves 
+in perfectly cured and stitched leather armor. These 
+patchworks are meticulously sewn, tailored to every 
+curve and surface on the skinweaver’s body. Their 
+minions are similarly outfitted in perfectly tailored 
+creations by their spider-like overlords.
+Refined and Cultured
+. Skinweavers are well-read, 
+considering themselves paragons of culture and 
+breeding. They collect books written in every language 
+and are sometimes willing to trade knowledge with 
+visitors—or victims. A deal made by a potential victim 
+for its life (in exchange for knowledge) may or not be 
+honored; skinweavers are as capricious as they are 
+curious. Their leather creations are often dyed and have 
+fringes, tassels, or other decorative embellishments that 
+make each garment unique.
+Three-Dimensional Living
+. While they often 
+employ ground-bound creatures to serve and protect 
+their lairs, skinweavers make use of their living space in 
+all three dimensions, often weaving lounges and spaces 
+to hang along walls and ceilings: leather hammocks, 
+netting, and swings.
+Refined Ambush Predators
+. While skinweavers feed 
+on prey they catch in their webs (or brought to them by 
+minions), they develop tastes and desires for specific 
+flesh (taste in food) or skins (artistic taste). A skinweaver 
+may be close to a particular settlement and go unnoticed 
+for years, until it develops a taste for the specific 
+humanoids who live there.
+salvage
+Skinweavers collect valuable artwork and other items 
+that display their erudition and refinement. They’re 
+never without their custom-made suits of bespoke leather 
+armor. This leather is so finely crafted that a suit of armor 
+stitched from a skinweaver’s own suit is better than almost 
+any other tanner’s creations.
+If a proficient armorer or leather worker uses a 
+skinweaver’s suit to create a humanoid suit of light 
+armor and succeeds on a successful DC 15 Dexterity 
+(Nature) check, the armor acts as 
++1 leather armor
+ and can 
+be donned or doffed as a standard action. This process 
+takes 24 hours and requires 250 gp of other components.
+lore
+DC 10 Intelligence (Arcana)
+: A skinweaver is 
+resistant to fire damage because of its leathery skin 
+and armor.
+DC 15 Intelligence (History)
+: A skinweaver’s 
+terrifying appearance can scare an opponent multiple 
+times in the same fight.

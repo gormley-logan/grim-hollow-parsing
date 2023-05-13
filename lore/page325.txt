@@ -1,0 +1,52 @@
+Stygian Bat
+“Normal bats eat bugs to survive. Stygian bats 
+will eat you, and they’ll do it for fun.”
+Corrupted Predators
+. Bats that dwell in places suf-
+fused with the energy of death can absorb such power 
+and become big, monstrous horrors. These creatures 
+are not only far more aggressive and bloodthirsty than 
+their tiny cousins, they’re also cruel. A stygian bat enjoys 
+bringing death.
+salvage
+Someone who has proficiency with leatherworker’s tools 
+can fashion the hides of four stygian bats into a 
+cloak of 
+the stygian bat
+ (see chapter 4). Doing so takes 5 days of 
+work and materials worth 500 gp.
+lore
+DC 10 Intelligence (History): 
+Where powerful 
+undead creatures or other forces of death hold sway, 
+normal bats can grow into blood-drinking monsters 
+called stygian bats.
+DC 15 Intelligence (Nature):
+ Stygian bats are akin to 
+giant bats, but they are cunning and cruel. They drink 
+blood rapidly.
+GM Advice:
+ For an increased challenge for powerful characters, 
+give the stygian bat the ability to grapple Medium and smaller 
+creatures, and fly away with them. To make it reasonable, the 
+stygian bat should only be able to fly at half speed when carrying 
+a creature. And while this would let the bat carry a creature high 
+into the air and drop it, this should only be done if you know that 
+the players have resources to deal with that contingency, such as 
+the 
+feather fall
+ spell.
+Also note that while a stygian bat does not have the flyby trait, its 
+swoop ability does allow it to knock targets prone, which means 
+that flying away from a targeted creature would allow them to 
+make opportunity attacks with disadvantage.
+325
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+S

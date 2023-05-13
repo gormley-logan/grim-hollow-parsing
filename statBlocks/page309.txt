@@ -1,0 +1,60 @@
+309
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+S
+===
+Skywailer
+Large aberration, neutral evil
+Armor Class 13 (natural armor)
+Hit Points 112 (15d10 + 30)
+Speed 10 ft., fly 30 ft. (hover)
+str dex con int wis cha
+ 16 (+3) 15 (+2) 15 (+2) 4 (–3) 12 (+1) 7 (–2)
+Skills
+Perception +4, Stealth +5
+Senses darkvision 60 ft., passive Perception 14
+Languages —
+Challenge 5 (1,800 XP)
+Proficiency Bonus +3
+Air Buoyancy.
+If incapacitated or killed, the skywailer
+floats upward 10 feet during its turn.
+Jet.
+While flying, the skywailer can use a bonus action
+to take the Dash action.
+Quick Reel.
+The skywailer can use a bonus action to
+pull each creature grappled by it up to 15 feet toward it.
+It can also take an action to use this trait.
+actions
+Multiattack.
+The skywailer makes two attacks.
+Tentacle.
+Melee Weapon Attack: +6 to hit, reach 15 ft.,
+one target.
+Hit: 13 (2d8 + 4) bludgeoning damage. If the
+target is a creature, it is grappled (escape DC 14). Until
+this grapple ends, the target is restrained. A skywailer
+has ten tentacles, each of which can grapple one target.
+Ectoplasmic Tendril.
+Ranged Weapon Attack: +5 to hit,
+range 30/60 ft., one target.
+Hit: 10 (3d6) psychic damage.
+If the target is a creature, it is grappled (escape DC 13).
+Until this grapple ends, the target is restrained. The
+tendril can be attacked (AC 10; 10 hit points; immune
+to poison and psychic damage). A tendril can also be
+broken if a creature takes an action and succeeds on a
+DC 15 Strength check against it. Destroying a tendril
+deals no damage to the skywailer.
+Wail (Recharge 6).
+Each creature grappled by the
+skywailer must make a DC 13 Charisma saving throw,
+taking 21 (6d6) psychic damage on a failed save, or half
+as much damage on a successful one.

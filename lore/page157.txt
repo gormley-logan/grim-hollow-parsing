@@ -1,0 +1,18 @@
+salvage
+The reaction of most folks who have encountered a hor-
+ror flit is, “Burn it with fire!” But a handful of naturalists 
+seek out these creatures for a variety of purposes, paying 
+handsomely for samples. Bounties for these creatures in 
+urban areas range from 10 to 100 gp.
+lore
+DC 10 Intelligence (Nature):
+ A horror flit has no 
+eyes, but they sense their prey by means of vibrations in 
+the air or in the water. They breed by infesting the flesh 
+of their prey.
+DC 15 Intelligence (Arcana):
+ The largest of these 
+creatures, called “breeders” by most, can spit out swarms 
+of their young, especially when the breeder instinctively 
+feels it might die. The creature normally reproduces 
+more slowly, vomiting a new swarm every few days.

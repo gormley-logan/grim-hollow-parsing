@@ -1,0 +1,59 @@
+262
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+P
+===
+Poppet Fiend
+Tiny fiend (devil, shapechanger), lawful evil
+Armor Class 13
+Hit Points 31 (9d4 + 9)
+Speed 40 ft.
+str dex con int wis cha
+ 6 (–2) 17 (+3) 13 (+1) 11 (+0) 12 (+1) 14 (+2)
+Skills
+Deception +4, Insight +3, Persuasion +4, Stealth +5
+Damage Immunities fire, poison
+Damage Resistances
+cold; bludgeoning, piercing, and
+slashing from nonmagical attacks that aren’t silvered
+Condition Immunities poisoned
+Senses darkvision 120 ft., passive Perception 11
+Languages One national language, Infernal,
+telepathy 60 ft.
+Challenge 2 (450 XP)
+Proficiency Bonus +2
+Devil’s Sight.
+Magical darkness doesn’t impede the
+poppet fiend’s darkvision.
+False Appearance.
+While the poppet remains motionless,
+it’s indistinguishable from an ordinary doll.
+Magic Resistance.
+The poppet fiend has advantage on
+saving throws against spells and other magical effects.
+Shapechanger.
+The poppet fiend can use its action to
+polymorph into a doll or back into its true form, that of
+a Tiny implike devil. Its statistics are the same in each
+form. Any equipment it is wearing or carrying isn’t
+transformed. It reverts to its true form only if it dies and
+remove curse
+has been cast on it with 24 hours or is cast
+on it while it’s at 0 hp. The fiend is then visible for a
+moment, before vanishing in a puff of vile smoke.
+actions
+Claws
+.
+Melee Weapon Attack: +5 to hit, reach 5 ft., one
+target.
+Hit: 5 (1d4 + 3) slashing damage. The poppet
+fiend can inject venom, and if it does so, the target
+must make a DC 11 Constitution saving throw,
+taking 10 (3d6) poison damage on a failed save, or
+half as much damage on a successful one.

@@ -1,0 +1,117 @@
+267
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+P
+===
+Stoneborn Troll Contemplative
+Large giant, lawful neutral
+Armor Class 16 (natural armor)
+Hit Points 172 (15d10 + 90)
+Speed 30 ft., burrow 10 ft.
+str dex con int wis cha
+ 21 (+5) 12 (+1) 22 (+6) 10 (+0) 14 (+2) 10 (+0)
+Skills
+Perception +6
+Damage Resistances
+bludgeoning, piercing, and
+slashing from nonmagical attacks
+Senses blindsight 30 ft., darkvision 60 ft., passive Perception 16
+Languages Giant
+Challenge 11 (7,200 XP)
+Proficiency Bonus +4
+Claw Technique.
+If the troll hits a creature with its claw
+or kinetic claw, the creature must succeed on a DC 17
+Strength saving throw or the troll can cause it to fall prone,
+be pushed up to 15 feet away from the troll, or be unable to
+take reactions until the end of the troll’s next turn.
+Keen Smell.
+The troll has advantage on Wisdom
+(Perception) checks that rely on smell.
+Regeneration.
+The troll regains 10 hit points at the
+start of its turn. If the troll takes acid or thunder damage,
+this trait doesn’t function at the start of the troll’s next
+turn. The troll dies only if it starts its turn with 0 hit
+points and doesn’t regenerate.
+Purify.
+As a bonus action, the troll ends one condition
+rendering it charmed, frightened, or poisoned.
+Siege Monster.
+The troll deals double damage to
+objects and structures.
+Sure Stance.
+The troll has advantage on Strength and
+Dexterity saving throws made against effects that would
+force it to move or knock it prone.
+actions
+Multiattack
+.
+The troll makes four attacks: one with its bite and three with its claws or kinetic claws.
+Bite.
+Melee Weapon Attack: +9 to hit, reach 5 ft., one
+target.
+Hit: 16 (2d10 + 5) piercing damage.
+Claw.
+Melee Weapon Attack: +9 to hit, reach 5 ft., one
+target.
+Hit: 18 (2d12 + 5) slashing damage and claw
+technique.
+Kinetic Claw.
+Ranged Spell Attack: +6 to hit, range
+60/120 ft., one target.
+Hit: 15 (2d12 + 2) slashing damage
+and claw technique.
+===
+Stoneborn Troll
+Large giant, neutral
+Armor Class 14 (natural armor)
+Hit Points 136 (13d10 + 65)
+Speed 30 ft., burrow 10 ft.
+str dex con int wis cha
+ 20 (+5) 11 (+0) 20 (+5) 9 (–1) 10 (+0) 8 (–1)
+Skills
+Perception +4
+Damage Resistances
+bludgeoning, piercing, and
+slashing from nonmagical attacks
+Senses darkvision 60 ft., tremorsense 10 ft., passive Perception 14
+Languages Giant
+Challenge 9 (5,000 XP)
+Proficiency Bonus +4
+Keen Smell.
+The troll has advantage on Wisdom
+(Perception) checks that rely on smell.
+Regeneration.
+The troll regains 10 hit points at the
+start of its turn. If the troll takes acid or thunder damage,
+this trait doesn’t function at the start of the troll’s next
+turn. The troll dies only if it starts its turn with 0 hit
+points and doesn’t regenerate.
+Siege Monster.
+The troll deals double damage to objects
+and structures.
+Sure Stance.
+The troll has advantage on Strength and
+Dexterity saving throws made against effects that would
+force it to move or knock it prone.
+actions
+Multiattack
+.
+The troll makes three attacks: one with its bite and two with its claws.
+Bite.
+Melee Weapon Attack: +9 to hit, reach 5 ft., one
+target.
+Hit: 16 (2d10 + 5) piercing damage.
+Claw.
+Melee Weapon Attack: +9 to hit, reach 5 ft., one
+target.
+Hit: 18 (2d12 + 5) slashing damage. If the target is
+a creature, it must succeed on a DC 17 Strength saving
+throw or fall prone.

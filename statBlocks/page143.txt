@@ -1,0 +1,57 @@
+===
+Gripper
+Medium plant, chaotic neutral
+Armor Class 13 (natural armor)
+Hit Points 9 (2d8)
+Speed 20 ft., burrow 10 ft., climb 20 ft.
+str dex con int wis cha
+ 7 (–2) 15 (+2) 10 (+0) 3 (–4) 11 (+0) 3 (–4)
+Skills
+Perception +2, Stealth +4
+Damage Vulnerabilities
+slashing
+Damage Immunities necrotic
+Condition Immunities blinded
+Senses blindsight 60 ft. (blind beyond this radius),
+passive Perception 12
+Languages —
+Challenge 1/4 (50 XP)
+Proficiency Bonus +2
+Death Spores.
+If the gripper drops to 0 hit points and
+hasn’t used its spores, it swells until the end of its killer’s
+next turn, then releases the spores.
+Echo Navigation.
+If deafened, the gripper moves at
+half its speed.
+Magic Weapons.
+The gripper’s weapon attacks are magical.
+Otherworldly Perception.
+The gripper’s blindsight
+extends into the Ethereal Plane.
+actions
+Bite.
+Melee Weapon Attack: +4 to hit, reach 5 ft.,
+one target.
+Hit: 7 (2d4 + 2) piercing damage and 2 (1d4)
+necrotic damage.
+Constrict.
+Melee Weapon Attack: +4 to hit, reach 10 ft.,
+one target.
+Hit: 7 (2d4 + 2) bludgeoning damage. If the
+target is Medium or smaller, it is grappled (escape DC
+12). Until this grapple ends, the target is restrained, and
+the gripper can’t constrict another target.
+Spores (1/Day).
+The gripper spews spores in a 5-foot-
+radius sphere centered on it, or if the gripper is dead, in
+a 10-foot-radius sphere. The spores go around corners.
+Each creature in the spores when they appear or that
+enters them for the first time on a turn must make a DC
+10 Constitution saving throw. On a failure, the creature
+takes 5 (2d4) necrotic damage and is incapacitated from
+pain until the end of its next turn. On a successful saving
+throw, the creature is immune to being incapacitated by
+the spores of all grippers for 1 hour. The spores last until
+the end of the gripper’s next turn, but a moderate or
+stronger wind disperses them immediately.

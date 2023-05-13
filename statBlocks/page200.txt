@@ -1,0 +1,45 @@
+200
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+L
+===
+Lyfaren
+Gargantuan monstrosity, neutral evil
+Armor Class 12 (natural armor)
+Hit Points 216 (16d20 + 48)
+Speed burrow 20 ft.
+str dex con int wis cha
+ 22 (+6) 6 (-2) 17 (+3) 8 (-1) 14 (+2) 6 (-2)
+Skills
+Perception +6
+Condition Immunities petrified, stunned
+Senses tremorsense 60 ft. (blind otherwise),
+passive Perception 16
+Languages --
+Challenge 10 (5,900 XP)
+Proficiency Bonus +4
+Earth Bound.
+A lyfaren must stay surrounded by earth.
+If its entire Gargantuan body is removed from the ground,
+it takes 36 (8d8) force damage at the start of its turn as its
+body crushes in upon itself.
+actions
+Bite.
+Melee Weapon Attack: +10 to hit, reach 15 ft., one
+target.
+Hit: 42 (8d8 + 6) bludgeoning damage, and the
+creature is grappled (escape DC 18).
+Swallow.
+A creature grappled by the lyfaren at the start
+of the lyfaren’s turn is swallowed and still grappled. While
+swallowed, the target is blinded and restrained, it has
+total cover against attacks and other effects outside the
+lyfaren, and it takes 27 (6d8) bludgeoning damage at the
+start of each of the lyfaren’s turns. A lyfaren can have up
+to four Large or smaller creatures swallowed at a time.

@@ -1,0 +1,52 @@
+369
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+W
+===
+Wretched Reveler
+Medium undead, chaotic neutral
+Armor Class 12
+Hit Points 45 (6d8 + 18)
+Speed 30 ft.
+str dex con int wis cha
+ 10 (+0) 15 (+2) 16 (+3) 8 (–1) 11 (+0) 15 (+2)
+Skills
+Acrobatics +4, Deception +4, Performance +4
+Damage Immunities poison
+Condition Immunities exhaustion, poisoned
+Senses darkvision 60 ft., passive Perception 10
+Languages the languages it knew in life
+Challenge 2 (450 XP)
+Proficiency Bonus +2
+Body Moving.
+As a bonus action, the wretched reveler
+sings a catchy tune. One creature of the reveler’s choice
+within 30 feet and able to hear the reveler must succeed on
+a DC 12 Charisma saving throw or be charmed until the
+start of the reveler’s next turn. While charmed in this way,
+the target uses its movement to dance in place without
+leaving its space, causing disadvantage on attack rolls and
+Dexterity saving throws. Other creatures have advantage
+on attack rolls against the target while it dances.
+The reveler can stop singing at any time, ending the
+effect. This effect ends early if the reveler is incapacitated
+or destroyed, or if the target can’t hear the song.
+actions
+Multiattack.
+The wretched reveler makes two attacks.
+Tankard.
+Melee Weapon Attack: +4 to hit, reach 5 ft., one
+target.
+Hit: 5 (1d6 + 2) bludgeoning damage and 3 (1d6)
+poison damage.
+Dart.
+Ranged Weapon Attack: +4 to hit, range 20/60 ft.,
+one target.
+Hit: 4 (1d4 + 2) piercing damage and 3 (1d6)
+poison damage.

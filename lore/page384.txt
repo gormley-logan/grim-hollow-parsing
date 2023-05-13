@@ -1,0 +1,58 @@
+384
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+Bugbear Vampire
+“I thought the brutes were going to tear me apart. 
+Little did I know they had a worse fate planned for me.”
+Physically Imposing.
+ Already an imposing creature, 
+a bugbear afflicted with vampirism becomes even more 
+of a hulking brute. Their muscles grow enormous, with 
+ropey veins bulging from flesh that their fur fails to 
+cover. Bugbear vampires are capable of great feats of 
+strength. They eschew the weapons they used in life in 
+favor of the visceral close combat of tooth and claw.
+Reckless Predators.
+ Corruption has made bugbears 
+wild and chaotic in their normal lives. Vampirism has 
+a similar effect. A bugbear vampire is a brutal fighter 
+who aims to kill quickly without much consideration for 
+personal safety. Few vampires survive to the adult stage, 
+but even fewer bugbear vampires do.
+Might and Stealth.
+ Only an elder vampire of 
+considerable might can prevent young bugbear 
+vampires from reducing prey to gory remains. But 
+under such direction, bugbear vampires are effective —
+if ruthless— agents for missions that require infiltration 
+or a bloody ambush.
+salvage
+The muscles of a bugbear vampire can provide a 
+gruesome reward. Somebody who has proficiency in the 
+Medicine skill can harvest muscle tissue from a bugbear 
+vampire. Someone who has proficiency with alchemist’s 
+supplies or the Arcana skill can then treat the muscles 
+with reagents worth 2,500 gp over 14 days. Exposure to 
+sunlight during this process causes the tissue to wither 
+and become useless. Otherwise, the process requires a 
+successful DC 13 Intelligence or Wisdom check and, if 
+successful, produces one 
+muscle graft
+ (see chapter 4).
+lore
+DC 10 Intelligence (Religion):
+ The vampiric curse 
+intensifies a bugbear’s worst tendencies while increasing 
+their strength to astonishing levels. Bugbear vampires 
+relish close combat.
+DC 15 Intelligence (History):
+ Bugbear vampires are 
+so bloodthirsty and overconfident that they can fail to 
+look out for their own safety. Goading such a vampire 
+into anger is one way to make them reckless.

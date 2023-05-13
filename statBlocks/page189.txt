@@ -1,0 +1,99 @@
+===
+Lenchtahg
+Medium fiend, neutral evil
+Armor Class 15 (natural armor)
+Hit Points 110 (13d8 + 52)
+Speed 40 ft.
+str dex con int wis cha
+ 18 (+4) 11 (+0) 18 (+4) 10 (+0) 11 (+0) 13 (+1)
+Skills
+Perception +3
+Damage Immunities fire, poison, radiant
+Damage Resistances
+bludgeoning, piercing, and
+slashing from nonmagical attacks
+Condition Immunities charmed, frightened, poisoned
+Senses darkvision 120 ft., passive Perception 13
+Languages Abyssal, Celestial, Infernal
+Challenge 5 (1,800 XP)
+Proficiency Bonus +3
+Berserk.
+Whenever the lenchtahg starts its turn with 54 hit
+points or fewer, roll a d6. On a 1, the lenchtahg recalls
+its former life and current agony, and it goes berserk.
+On each of its turns while berserk, the lenchtahg attacks
+the nearest creature it can see. It treats all creatures as
+enemies and makes any opportunity attack it can. Also, it
+has advantage on attack rolls, but all attack rolls against
+it have advantage. If no creature is near enough to move
+to and attack, the lenchtahg moves as far as it can toward
+the closest creature.
+Once the lenchtahg goes berserk, it remains so until
+destroyed or it has more than 54 hit points. Also, a fiend
+can calm the lenchtahg. The lenchtahg must be able
+to understand the fiend, who must take an action to
+make a DC 15 Charisma (Persuasion) check. If the check
+succeeds, the lenchtahg ceases being berserk.
+Magic Resistance.
+The lenchtahg has advantage on
+saving throws against spells and other magical effects.
+Magic Weapons.
+The lenchtahg’s weapon attacks
+are magical.
+Radiant Absorption.
+Whenever the lenchtahg is
+subjected to radiant damage from a source other than
+a lenchtahg, it takes no damage and instead regains hit
+points equal to half the radiant damage dealt to it.
+Rejuvenation.
+If the lenchtahg’s head survives its
+demise, the head must be doused in holy water and
+ritually consecrated in a 1-hour ceremony or be the
+target of a
+dispel evil and good
+spell. If it isn’t, then
+the lenchtahg reappears in 6 days, emerging from a
+fiery explosion in a 20-foot-radius sphere centered
+on the head. Creatures in that area must make a DC
+15 Dexterity saving throw, taking 28 (8d6) damage
+on a failed saving throw, or half as much damage on
+a successful one. The head can’t rejuvenate in a holy
+hallow
+spell’s area.
+Water Aversion.
+If drenched in 5 gallons or more of
+water, or any amount of holy water, the lenchtahg has
+disadvantage on attack rolls and ability checks until the
+end of its next turn.
+actions
+Multiattack.
+The lenchtahg makes two claw attacks,
+makes one claw attack and uses radiant gaze once, or
+uses radiant gaze twice.
+Claw.
+Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+Hit: 9 (2d4 + 4) slashing damage and 9 (2d8) fire damage.
+Radiant Gaze.
+The lenchtahg targets one creature
+it can see within 60 feet of it with burning radiance.
+The target gains no benefit from cover and must succeed
+on a DC 15 Dexterity saving throw or take 13 (3d8)
+radiant damage.
+Endless Pain
+. A lenchtahg has lost its former identity,
+but Malikir’s cruel design ensures that it remains sapient
+and in constant pain, aware of its enslavement. Malikir
+even went to the trouble of ensuring that a lenchtahg
+might recall memories of its past life as a further
+torment, though this trait drives the lenchtahg into
+bouts of uncontrolled rage.
+Useful Minions
+. Lenchtahgs possess many useful
+properties, such as magic resistance, rejuvenation, and
+the ability to absorb holy power to heal themselves.
+This latter trait is useful against the forces of the Seraphs.
+However, a lenchtahg is difficult to create. Even if
+capturing a Seraph alive were a straightforward task,
+the effort expended in transforming it into a lenchtahg
+is almost prohibitive, a luxury only afforded to Arch
+Daemons and their most powerful followers.

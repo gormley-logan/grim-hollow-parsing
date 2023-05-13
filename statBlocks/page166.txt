@@ -1,0 +1,54 @@
+166
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+H
+===
+Hungerer Wolf
+Medium monstrosity, unaligned
+Armor Class 13 (natural armor)
+Hit Points 16 (3d8 + 3)
+Speed 40 ft.
+str dex con int wis cha
+	13	(+1)	15	(+2)	12	(+1)	3	(−4)	12	(+1)	6	(−2)
+Skills
+Perception +3, Stealth +4
+Senses passive Perception 13
+Languages —
+Challenge 1/2 (100 XP)
+Proficiency Bonus +2
+Aggressive.
+As a bonus action, the hungerer wolf can
+move up to its speed toward a hostile creature it can see.
+Keen Hearing and Smell.
+The hungerer wolf has
+advantage on Wisdom (Perception) checks that rely on
+hearing or smell.
+Pack Tactics.
+The hungerer wolf has advantage on
+attack rolls against a creature if at least one of the wolf’s
+allies is within 5 feet of the creature and the ally
+isn’t incapacitated.
+Tears of the Hungerer.
+A beast or humanoid that
+takes damage from the hungerer wolf must succeed on a
+DC 14 Constitution saving throw or contract Tears of the
+Hungerer, a magical disease. If a creature succeeds on
+the saving throw, it’s immune to the disease for 24 hours.
+A creature infected with the disease decreases its hit
+point maximum by 2 (1d4) every 24 hours. If this disease
+reduces the target’s hit point maximum to 0, the target
+dies and becomes a zombie that also has this trait. This
+magical disease can be cured only with magic.
+actions
+Bite.
+Melee Weapon Attack: +3 to hit, reach 5 ft., one
+target.
+Hit: 9 (2d6 + 2) piercing damage and Tears of the
+Hungerer. If the target is a creature, it must succeed on a
+DC 11 Strength saving throw or fall prone.

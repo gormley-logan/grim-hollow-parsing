@@ -1,0 +1,43 @@
+Resurrection Horror
+“Sometimes it’s better to stay dead. Something 
+always tries to balance the scales.”
+Price to Be Paid
+. A resurrection horror is spawned 
+the midnight after a creature who died on unhallowed 
+ground is returned to life. The horror seeks to return 
+the resurrected creature to death.
+Swath of Destruction
+. Resurrection horrors unerringly 
+move toward the resurrected creature, no matter how far 
+away they may be, killing anything that tries to interfere.
+Spawned of the Grave
+. Resurrection horrors are 
+massive undead built of the bones of many bodies and 
+the unhallowed dirt the returned creature died upon.
+salvage
+The grave dirt of a resurrection horror can be refined to 
+create a pouch of dirt that when sprinkled as an action 
+works as a 
+scroll of protection from necrotic energy 
+and 
+protection from good and evil
+ with a 30-minute duration. 
+The process requires a successful DC 20 Intelligence 
+(Arcana) check by someone proficient in the Religion 
+skill who works for 8 hours and uses 300 gp worth of 
+additional components.
+lore
+DC 10 Intelligence (History)
+: Resurrection horrors 
+appear when someone who died on unhallowed ground 
+is later magically returned to life. The horror hunts down 
+and attempts to kill the being returned to life.
+DC 15 Intelligence (Arcana)
+: Resurrection horrors 
+are resistant to cold, necrotic, and psychic damage, and 
+immune to poison.
+DC 20 Intelligence (Religion)
+: Resurrection horrors 
+can unleash a blast of bone shards and dirt that does 
+piercing and necrotic damaged and causes those damage 
+by it to bleed uncontrollably.

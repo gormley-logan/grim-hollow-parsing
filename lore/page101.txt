@@ -1,0 +1,48 @@
+101
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+D
+salvage
+Dreamer eyelashes can be used to create a soothing tea 
+that brings about deep sleep. The eyelashes of a dreamer 
+can be had for 4 gp. Someone who has proficiency with 
+an herbalism kit can add herbs worth another 1 gp and 
+boil the mixture for 10 minutes. If the herbalist succeeds 
+on a DC 10 Intelligence or Wisdom check, and if consumed 
+within an hour of preparation, the tea induces restful sleep. 
+The drinker must succeed on a DC 12 Constitution 
+saving throw, which they can fail willingly, or sleep for 
+8 hours, until they take damage, or until another creature 
+uses an action to awaken them. If the drinker sleeps for 
+8 hours and thereby finishes a long rest, the drinker can 
+eliminate an extra level of exhaustion and gains 2 (1d4) 
+temporary hit points until they finish another long rest. 
+Making this tea requires eyelashes from both a dreamer’s 
+eyes. It takes one month for the lashes to grow back to 
+sufficient length to use again.
+lore
+DC 10 Intelligence (History):
+ Dreamers are an 
+ancient people who survived into the current time by 
+entering a stasis when their civilization was in jeopardy. 
+A side effect of this stasis was collectively forgetting 
+their history and culture.
+DC 10 Intelligence (Nature):
+ Dreamers are capable 
+of sensing and entering the dreams of others nearby.
+DC 15 Intelligence (Arcana):
+ A tea that enhances 
+sleep can be made from the eyelashes of a dreamer and 
+dried herbs. The sleep induced by the tea is said to be 
+more refreshing than natural rest.
+GM Advice:
+ Dreamers make excellent mystical advisors for foes 
+looking for an edge in the realms of information and dreams. 
+Dreamers might not even realize what their leader is really doing, 
+as their focus is firmly in other realms of reality.

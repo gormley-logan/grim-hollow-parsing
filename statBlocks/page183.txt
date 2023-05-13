@@ -1,0 +1,98 @@
+===
+the Laethlyn
+Medium fey, chaotic neutral
+Armor Class 17 (natural armor)
+Hit Points 176 (32d8 + 32)
+Speed 30 ft., fly 40 ft. (hover)
+str dex con int wis cha
+ 10 (+0) 19 (+4) 14 (+2) 16 (+3) 22 (+6) 17 (+3)
+Saving Throws
+Int +9, Wis +12, Cha +9
+Skills
+Acrobatics +10, Animal Handling +12, History +9,
+Nature +9, Perception +12
+Damage Resistances
+acid, cold, fire, lightning
+Damage Immunities poison; bludgeoning,
+piercing, and slashing from non-magical weapons
+that aren’t adamantine
+Condition Immunities charmed, exhaustion,
+frightened, paralyzed, petrified, poisoned, restrained,
+stunned, unconscious
+Senses darkvision 120 ft., truesight 60 ft., passive Perception 22
+Languages Druidic, Primordial, Sylvan, three
+other languages
+Challenge 17 (18,000 XP)
+Proficiency Bonus +6
+Innate Spellcasting
+. The Laethlyn’s spellcasting ability
+is Wisdom (spell save DC 20). They can innately cast the
+following spells, requiring no material components: At will: barkskin
+,
+commune with nature
+,
+detect magic
+3/day each: entangle
+,
+wall of thorns
+1/day each: awaken
+,
+heal
+Legendary Resistance (3/Day)
+. If the Laethlyn fails
+a saving throw, they can choose to succeed instead.
+Magic Resistance
+. The Laethlyn has advantage on
+saving throws against spells and other magical effects.
+Nature Speech
+. The Laethlyn can understand and be
+understood by all plants and beasts.
+Wrath of Nature
+. The Laethlyn’s weapon attacks
+are magical.
+actions
+Multiattack
+. The Laethlyn makes three vine
+strike attacks.
+Vine Strike
+.
+Melee Weapon Attack
+: +11 to hit, reach 15 ft., one or two targets.
+Hit
+: 22 (3d10 + 6) bludgeoning damage. Thorn Spray
+. A barrage of sharp thorns sprays from
+the Laethlyn in a 30-foot cone. Each non-plant creature
+in the area must make a DC 20 Dexterity saving throw,
+taking 28 (4d10 + 6) piercing damage on a failed save
+and have their speed reduced by 10 feet for 1 minute.
+Any creature succeeding on the save takes half as much
+damage and suffers no reduction of its speed. The speed
+reduction is cumulative, and a creature’s speed returns
+to normal if they receive magical healing while affected
+by the reduction.
+legendary actions
+The Laethlyn can take 3 legendary actions, choosing
+from the options below. Only one legendary action
+option can be used at a time and only at the end of
+another creature’s turn. The Laethlyn regains spent
+legendary actions at the start of their turn.
+Teleport.
+The Laethlyn magically teleports, along with
+any equipment they are wearing or carrying, up to 90
+feet to an unoccupied space they can see.
+Capture (Costs 2 Actions).
+Vines attempt to grasp at
+a single target the Laethlyn can see within 120 feet. The
+target must make a DC 20 Dexterity saving throw or be
+grappled and restrained by the vines (escape DC 15).
+The Laethlyn can only have two creatures so captured
+at any given time.
+Rejuvenate (Costs 3 Actions).
+The Laethlyn can
+root themself in the ground beneath her, reducing their
+speed to 0 until they teleport or use an action to uproot
+themself. While rooted, healing energy surges into
+them, allowing them to regain 30 hit points at the start
+of each of their turns. Any beast allies within 30 feet of
+the of the Laethlyn regain 30 hit points when they take
+this legendary action.

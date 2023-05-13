@@ -1,0 +1,70 @@
+81
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+D
+Dawndrinker
+“Sometimes it’s darkest after the dawn.”
+Alien Gloom.
+ A dawndrinker is the fear of the dark 
+incarnated in a leonine shape. But the creature’s head 
+is alien, with five orbs that act as eyes and no mouth 
+or nose. Three protrusions around the trunk function 
+as ears. These organs vibrate when the dawndrinker is 
+agitated, sounding like the rumble of an earthquake.
+Thirsting Darkness.
+ These creatures are thought to have 
+emerged from the City Below. Others claim dawndrinkers 
+came to this world to defend their summoners against the 
+Arcanist Inquisition. Whatever the case, dawndrinkers 
+leech light from the surroundings, feeding on it and growing 
+stronger. In the presence of a dawndrinker, torches flicker 
+and fail, the sun seems distant, and magical illuminations dim 
+and go out.
+Midday Night.
+ When a dawndrinker makes its home, 
+usually in a cave or dense thicket hidden from the sun, it 
+slowly feeds on light in the area. The longer it feeds, the 
+stronger it grows and the shorter the days seem near its 
+lair. After a season, a dawndrinker can grow powerful 
+enough create a small area where it appears the sun 
+never rises.
+salvage
+Dawndrinkers have a special organ that stores and 
+processes light the way that other creatures digest food. 
+Most of the creature’s body disintegrates after it dies, but 
+this light stomach remains. Someone who has proficiency 
+with alchemist’s supplies, cook’s utensils, or an herbalism 
+kit can prepare the stomach with other ingredients worth 
+25 gp. If the preparer succeeds on a DC 13 Wisdom or 
+Intelligence check, the organ makes a tasty, sweet meal 
+for up to four creatures. After partaking, those creatures 
+add 60 feet to their darkvision range for 24 hours, those 
+that lack darkvision gaining it to a range of 60 feet. All 
+partakers also gain blindsight to a range of 10 feet for the 
+same duration.
+lore
+DC 10 Intelligence (History): 
+A dawndrinker is a cunning 
+predator that can easily hide and move in shadow. It greatly 
+lessens and even extinguishes light sources.
+DC 15 Intelligence (Arcana): 
+A dawndrinker can 
+sense light, its food, at a great distance. The monster is 
+also resistant to fire, absorbing some of its energy, and 
+immune to radiant damage, which is a source of quick 
+nourishment for the dawndrinker.
+DC 20 Intelligence (Arcana):
+ A dawndrinker’s 
+attacks can temporarily take away the victim’s ability 
+to perceive light.
+GM Advice:
+ Before running an encounter with a 
+dawndrinker, brush up on the rules for invisibility, darkness, 
+and dim light. The dawndrinker and any of its allies should 
+be able to function in darkness.

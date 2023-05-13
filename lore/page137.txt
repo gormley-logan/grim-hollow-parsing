@@ -1,0 +1,34 @@
+Gore Elemental
+“The blood, flesh, sinew, and viscera congeal across 
+the battlefield, taking a vaguely humanoid shape. 
+Somewhere, Tormach is pleased.”
+Tormach’s Glee
+. The Arch Daemon Tormach revels 
+in slaughter, and in places where death and carnage 
+preside for an extended period, the concentration of 
+bloodlust and death spawns a gore elemental. Cultists 
+of Tormach may also summon such an elemental to do 
+their gruesome bidding.
+Mobile Sepulcher
+. The gore elemental is little more than 
+a barely sentient pile of the vilest remnants of battle: blood, 
+rent flesh, broken bones, vomit, bile, and torn innards.
+salvage
+At the center of a gore elemental is a skull, which belonged 
+to the most powerful creature that perished at the slaughter 
+that created the gore elemental. With a successful DC 15 
+Intelligence (Arcana) and 100 gp worth of components, 
+one can create a 
+talisman of Tormach
+ (see Chapter 4). This 
+process takes 8 hours.
+lore
+DC 10 Intelligence (History)
+: The gore elemental 
+is created at the site of great slaughter, showing that 
+Tormach was pleased by the events.
+DC 15 Intelligence (Religion)
+: Creatures caught 
+inside the gore elemental are assaulted by not just the 
+bone and metal inside it, but also the vile power of 
+Tormach that makes such a creature possible.

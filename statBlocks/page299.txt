@@ -1,0 +1,52 @@
+299
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+S
+===
+Empyrean Knight
+Medium celestial, lawful good
+Armor Class 20 (natural armor)
+Hit Points 102 (12d8 + 48)
+Speed 30 ft., fly 60 ft.
+str dex con int wis cha
+ 18 (+4) 11 (+0) 18 (+4) 12 (+1) 17 (+3) 16 (+3)
+Skills
+Athletics +7, Perception +6, Survival +6
+Damage Resistances
+fire, necrotic; bludgeoning,
+piercing, and slashing from nonmagical weapons
+Damage Immunities radiant
+Condition Immunities charmed, exhaustion, frightened
+Senses darkvision 120 ft., passive Perception 16
+Languages Celestial, telepathy 120 ft.
+Challenge 7 (2,900 XP)
+Proficiency Bonus +3
+Divine Weaponry
+. The knight’s weapon attacks
+are magical. When the knight hits with any weapon,
+the weapon deals an extra 18 (4d8) radiant damage
+(included in the attack).
+Flyby
+. The knight doesn’t provoke an opportunity
+attack when it flies out of an enemy’s reach.
+Magic Resistance
+. The knight has advantage on
+saving throws against spells and other magical effects.
+Only Forward
+. The knight is unable to flee from battle
+until all its enemies are destroyed or it is.
+actions
+Multiattack
+. The knight makes two melee attacks.
+Longsword
+.
+Melee Weapon Attack
+: +7 to hit, reach 5 ft., one target.
+Hit
+: 9 (1d10 + 4) slashing damage, plus 18 (4d8) radiant damage.

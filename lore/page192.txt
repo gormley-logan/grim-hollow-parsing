@@ -1,0 +1,45 @@
+Lindwyrm
+“My great grandfather spoke of the lindwyrm terrorizing 
+the countryside and devouring whole villages. But it’s 
+been so long since anyone has seen the beast, it’s likely the 
+creature is long dead. Thank Miklas!”
+Century’s Sleep
+. After a few months of gorging itself, a 
+lindwyrm burrows deep into its underground lair where 
+it slumbers, only stirring if something disturbs it. But in 
+another hundred years, its hunger wakens it again.
+Adventurous Eater
+. Lindwyrms are voracious eaters, con-
+suming all manner of crops, livestock, and people. If it can 
+swallow it, it does, and lindwyrms have very big mouths.
+Burrowing Terror
+. With their long serpentine bodies 
+and two large claws, lindwyrms can burrow nearly as 
+fast as they can run above ground. Tremors can be a sign 
+of an approaching lindwyrm.
+salvage
+A dose of 
+lindwyrm venom
+ (see Chapter 4) can be harvested 
+by someone proficient with a poisoner’s kit and succeeds 
+on a DC 18 Dexterity (Sleight of Hand) check, but this 
+must be done within 1 hour of the lindwyrm’s death. If 
+the check fails by 5 or more, the harvester instead poisons 
+themselves. This injury poison is worth 1,000 gp.
+lore
+DC 10 Intelligence (History)
+: Lindwyrms sleep 
+for 100 years and when they waken are devastating to 
+communities in its hunting area.
+DC 15 Intelligence (Nature)
+: Lindwyrms have a 
+poisonous bite and may swallow creatures they bite.
+DC 20 Intelligence (Nature)
+: Lindwyrms can sense 
+vibrations in the ground from as far away as 120 ft.
+GM Advice:
+ One exciting adventure seed could find a powerful 
+enemy of the adventurers looking to waken and control a 
+lindwyrm. Whether that plot succeeds or not is up to you, but a 
+three-way battle between involving a lindwyrm and other foes 
+should be memorable as the action ebbs and flows.

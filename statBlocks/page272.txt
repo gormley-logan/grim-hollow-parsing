@@ -1,0 +1,40 @@
+272
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+P
+===
+Putrefaction Slug
+Small monstrosity, unaligned
+Armor Class 12
+Hit Points 22 (4d6 + 8)
+Speed 30 ft.
+str dex con int wis cha
+	10	(+0)	14	(+2)	14	(+2)	1	(–5)	10	(+0)	5	(−3)
+Senses darkvision 60 ft., passive Perception 10
+Languages —
+Challenge 1/2 (100 XP)
+Proficiency Bonus +2
+actions
+Bite.
+Melee Weapon Attack
+: +4 to hit, reach 5 ft., one creature.
+Hit: 3 (1d6) bludgeoning damage plus 3 (1d6)
+acid damage.
+Spit.
+Ranged Weapon Attack: +4 to hit, range 10/30 ft.,
+one creature.
+Hit: 7 (2d6) acid damage and the target
+must make a DC 12 Constitution saving throw. On a
+failure, the target becomes vulnerable to bludgeoning
+damage. The target can repeat the saving throw at the
+end of each of its turns, taking 3 (1d6) acid damage and
+continuing the bludgeoning vulnerability on a failure or
+ending the effect on itself on a success.
+A creature that uses an action to pour water on the
+spit grants the target advantage on the saving throw.

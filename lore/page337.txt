@@ -1,0 +1,52 @@
+337
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+T
+Thornhost
+“I always carry a knife around these parts. Some 
+of the plants around here have poison thorns, sure, 
+but others have something far worse.”
+Grisly Puppeteers.
+ Often mistaken for zombies, 
+thornhosts are parasitic plants that propagate through 
+burrowing thorns. Once the thorns sink into flesh, they 
+spread roots throughout the body, eventually controlling 
+the still-living but brain-dead body of the host. This body 
+withers as if from a wasting disease, and a thorny mass 
+forms in the abdomen.
+Walking Bomb.
+ Once a thornhost has matured, the 
+central mass swells and becomes unstable. The plant 
+forces the body toward areas of high population, seeking 
+to maximize the number of potential hosts. When its life 
+becomes endangered, the plant bursts, shooting thorny 
+seeds in all directions.
+salvage
+Thorns from a thornhost can be fashioned into darts or 
+blowgun needles. Each thornhost produces 4d4 thorns 
+useful for this purpose. Someone who has proficiency 
+with smith’s tools or woodcarver’s tools can make the 
+darts or needles. A creature struck by one of these darts 
+or needles must succeed on a DC 10 Constitution saving 
+throw at the end of their next turn or take 1d4 piercing 
+damage as the semiliving thorn burrows in. A creature 
+can prevent the extra damage by taking an action to 
+remove the clinging dart point or needle. Each dart or 
+needle functions this way only once and is ruined after 
+use, its point missing.
+lore
+DC 10 Intelligence (Nature):
+ A thornhost is a plant 
+creature that infests and controls a humanoid body. 
+The thornhost’s thorns burrow into a victim to grow a 
+new plant.
+DC 13 Intelligence (Nature):
+ When in danger or 
+among numerous potential hosts, the plant can explode, 
+spreading thorns over a wide area.

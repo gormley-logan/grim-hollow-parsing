@@ -1,0 +1,64 @@
+286
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+R
+===
+Resurrection Horror
+Huge undead, neutral evil
+Armor Class 18 (natural armor)
+Hit Points 133 (14d12 + 42)
+Speed 40 ft.
+str dex con int wis cha
+ 26 (+8) 14 (+2) 16 (+3) 6 (–2) 11 (+0) 9 (–1)
+Saving Throws
+Str +13, Dex +7, Con +8, Wis +5
+Skills
+Athletics +13, Perception +5
+Damage Resistances
+cold, necrotic, psychic
+Damage Immunities poison
+Condition Immunities charmed, exhaustion,
+frightened, paralyzed, poisoned, stunned
+Senses darkvision 60 ft., passive Perception 15
+Languages –
+Challenge 13 (10,000 XP)
+Proficiency Bonus +5
+Regeneration
+. The horror regains 15 hit points at the
+start of its turn. If the horror takes fire or radiant damage,
+this trait doesn’t function at the start of the horror’s next
+turn. The horror’s body is destroyed only if it starts its
+turn with 0 hit points and doesn’t regenerate.
+Turn Resistance
+. The horror has advantage on saving
+throws against any effect that turns undead.
+Unerring Direction
+. The horror knows the distance to
+and direction of the creature whose return to life spawned
+it, even if the creature and the horror are on different planes
+of existence. If the creature being tracked by the horror dies,
+the horror dies.
+actions
+Multiattack
+. The horror makes three slam attacks.
+Slam
+.
+Melee Weapon Attack
+: +13 to hit, reach 10 ft., one target.
+Hit
+: 27 (3d12 + 8) bludgeoning damage. Bone Storm
+. The horror can release a 40-foot cone of
+bone fragments and grave dirt, doing 21 (6d6) piercing
+damage and 21 (6d6) necrotic damage and giving all
+creatures in the cone the bleeding condition (see
+Grim
+Hollow Campaign Guide
+pg. 28) until they take a long rest.
+A successful DC 18 Dexterity saving halves the damage
+and negates the bleeding condition.

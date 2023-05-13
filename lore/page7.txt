@@ -1,0 +1,31 @@
+7
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+A
+lore
+DC 10 Intelligence (History):
+ Aberrant horrors are 
+the results of failed arcane experiments that twist the 
+body into unnatural forms.
+DC 15 Intelligence (Arcana):
+ Each aberrant horror 
+is different. Some grow extra limbs, others dissolve 
+into oozelike creatures, and others swell to massive 
+proportions. They contain eldritch energy that can fuel 
+necromancy and transmutation.
+
+GM Advice:
+ The arcane origins of aberrant horrors give you 
+a great deal of room to challenge your players with unusual 
+traits. For example, one horror might only take damage when 
+it’s under the effects of a bane or bless spell, but ferreting out 
+this information requires the characters to face it once and 
+succeed on a DC 10 Intelligence (Arcana) check. The secret 
+to pulling this off is to make the odd traits easy to learn and 
+possible to accomplish without overly taxing the characters.

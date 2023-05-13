@@ -1,0 +1,42 @@
+===
+Bladewhirl
+Medium construct, chaotic evil
+Armor Class 17 (natural armor)
+Hit Points 78 (12d8 + 24)
+Speed 40 ft.
+str dex con int wis cha
+	13	(+1)	18	(+4)	14	(+2)	3	(–4)	8	(–1)	5	(–3)
+Damage Immunities poison, psychic
+Damage Resistances
+fire; bludgeoning, piercing, and
+slashing from nonmagical attacks that aren’t adamantine
+Condition Immunities blinded, charmed, deafened,
+exhaustion, frightened, paralyzed, petrified, poisoned,
+prone, unconscious
+Senses blindsight 120 ft. (blind beyond this radius),
+passive Perception 9
+Languages —
+Challenge 6 (2,300 XP)
+Proficiency Bonus +3
+Bounce.
+When using the Dash action, the bladewhirl
+can high jump a distance up to its current speed. It takes
+no falling damage from this jump.
+Grappled Menace.
+A bladewhirl can’t grapple, but
+it has advantage on attack rolls against any creature
+grappling it.
+Indiscriminate.
+Whenever the bladewhirl starts its
+turn, it attacks the closest creature it can sense. If no crea-
+ture is near enough to move to and attack, the bladewhirl
+takes the Dash action to move toward the nearest crea-
+ture or moves in a random direction seeking a creature.
+actions
+Multiattack.
+The bladewhirl makes three blades attacks.
+Blades.
+Melee Weapon Attack: +7 to hit, reach 5 ft., one
+target.
+Hit: 7 (1d6 + 4) piercing damage and 7 (1d6 + 4)
+slashing damage.

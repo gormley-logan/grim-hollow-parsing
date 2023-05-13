@@ -1,0 +1,59 @@
+Memori Lich
+“Some find honor in a warrior’s death, but others seek an 
+everlasting place among those who fight on in undeath.”
+Beyond Death.
+ A warrior who seeks lichdom does so 
+in pursuit of glory in battle beyond death. These skilled 
+fighters enter a bargain with an evil entity to evade the 
+afterlife. Unlike wizards who seek arcane knowledge in 
+their immortality, a warrior desires unmatched strength 
+and prowess in battle. The arcane transformation causes 
+a memori lich’s physical form to decay but, in exchange, 
+the undead form has supernatural strength and can call 
+up fire to divide the battlefield. As with spellcasting 
+liches that have individualized magical talents, each 
+memori lich is unique.
+Memento Skull.
+ To transcend death, a warrior drinks a 
+toxic concoction mixed with the blood of a powerful crea-
+ture poured into the skull of a defeated enemy. Drinking 
+the fluid causes immediate death and transformation into 
+a memori lich, whose soul is pulled into the skull.
+The memento skull must be fed to sustain its magic. 
+When a memori lich slays an opponent, the opponents 
+fleeting spiritual energy feeds the memento skull through 
+the memori lich. Most memori liches prefer stronger 
+foes who have skills the lich can learn by consuming the 
+stored energy.
+A Memori Lich’s Lair
+A memori lich might haunt an ancient battlefield or 
+a fortress from which it can lead undead soldiers.
+salvage
+A memori lich’s skull can be a primary component for 
+a 
+mace of disruption
+. Someone who has proficiency with 
+smith’s tools can incorporate the skull into the mace, 
+which takes 10 days and other materials worth 2,000 gp 
+to make. The mace must also have 
+dispel evil and good
+ cast 
+on it at least three times during its making.
+lore
+DC 10 Intelligence (History):
+ A memori lich 
+is a warrior who became immortal through 
+eldritch means.
+DC 15 Intelligence (Religion):
+ A memori lich 
+has supernatural strength and prowess, along 
+with resistances common to the undead. It 
+takes magic weapons to effectively hurt one, 
+and its form can’t be changed.
+DC 25 Intelligence (Arcana):
+ The 
+magic that sustains a memori lich 
+lies within a relic called a me-
+mento skull. To permanently 
+kill the lich, one must 
+destroy the skull.

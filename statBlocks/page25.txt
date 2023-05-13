@@ -1,0 +1,51 @@
+25
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+B
+===
+Blazehorn
+Large monstrosity, unaligned
+Armor Class 13 (natural armor)
+Hit Points 45 (6d10 + 12)
+Speed 40 ft.
+str dex con int wis cha
+	18	(+4)	10	(+0)	15	(+2)	2	(–4)	12	(+1)	5	(–3)
+Damage Immunities fire
+Senses passive Perception 11
+Languages —
+Challenge 3 (700 XP)
+Proficiency Bonus +2
+Charge.
+If the blazehorn moves at least 20 feet straight
+toward a target and then hits it with a ram attack on the
+same turn, the target takes an extra 7 (2d6) bludgeoning
+damage. If the target is a creature, it must succeed on a
+DC 15 Strength saving throw or fall prone.
+actions
+Ram.
+Melee Weapon Attack: +6 to hit, reach 5 ft., one
+target.
+Hit: 11 (2d6 + 4) bludgeoning damage.
+Firebomb (Recharge 5–6).
+The blazehorn launches a
+ball of flaming tar at a point it can see within 60 feet of it.
+Each creature within 5 feet of that point must make a DC
+12 Dexterity saving throw. On a failure, the target takes
+7 (3d4) fire damage and ignites. If the save is successful,
+the target takes half as much fire damage and doesn’t
+catch fire. An ignited creature takes 2 (1d4) fire damage
+at the start of each of its turns. A creature can use its
+action to repeat the save, extinguishing the flames on a
+success. Flammable objects in the area also catch fire.
+reactions
+Defensive Launch.
+When the blazehorn drops to
+fewer than half its hit points, it recharges Firebomb and
+uses it immediately. It targets the source of the damage
+that triggered this reaction if possible.

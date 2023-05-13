@@ -1,0 +1,48 @@
+===
+Morbus Kobold Elder
+Small humanoid (kobold), lawful evil
+Armor Class 12
+Hit Points 39 (6d6 + 18)
+Speed 30 ft., swim 30 ft.
+str dex con int wis cha
+ 8 (–1) 14 (+2) 17 (+3) 11 (+0) 14 (+2) 9 (–1)
+Saving Throws
+Con +5 (+7 vs. being poisoned)
+Skills
+Medicine +4, Stealth +4
+Damage Resistances
+poison
+Senses darkvision 60 ft., passive Perception 12
+Languages Draconic and one other language
+Challenge 1 (200 XP)
+Proficiency Bonus +2
+Amphibious.
+The morbus kobold elder can breathe air
+and water.
+Carrier.
+The morbus kobold elder can contract a disease
+but is immune to effects other than cosmetic symptoms.
+Infection.
+A creature that touches the morbus kobold
+elder or anything it has touched in the past 24 hours is
+exposed to a disease, usually sewer plague.
+Pack Tactics
+. The morbus kobold elder has advantage
+on an attack roll against a creature if at least one of the
+elder’s allies is within 5 feet of the creature and the ally
+isn’t incapacitated.
+Sunlight Sensitivity
+. While in sunlight, the morbus
+kobold elder has disadvantage on attack rolls, as well as
+on Wisdom (Perception) checks that rely on sight.
+Innate Spellcasting
+. The morbus kobold elder’s innate
+spellcasting ability is Wisdom (spell save DC 12). It can
+innately cast the following spells, requiring no components: At will: detect poison and disease
+3/day: flash fever
+actions
+Dagger.
+Melee or Ranged Weapon Attack: +4 to hit,
+reach 5 ft. or range 20/60 ft., one target.
+Hit: 4 (1d4 + 2)
+piercing damage and Infection.

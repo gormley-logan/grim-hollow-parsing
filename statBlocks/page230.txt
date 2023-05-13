@@ -1,0 +1,103 @@
+230
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+M
+===
+Mukad Warrior
+Medium aberration, lawful evil
+Armor Class 15 (natural armor)
+Hit Points 78 (12d8 + 24)
+Speed 40 ft., burrow 10 ft., climb 40 ft.
+str dex con int wis cha
+ 12 (+1) 16 (+3) 15 (+2) 6 (–2) 12 (+1) 7 (–2)
+Senses blindsight 30 ft., darkvision 60 ft., passive Perception 11
+Languages Mukad, telepathy 30 ft.
+Challenge 3 (700 XP)
+Proficiency Bonus +2
+Magic Resistance.
+The mukad has advantage on
+saving throws against spells and other magical effects.
+Psychic Defender.
+Any non-aberration that starts its
+turn within 10 feet of the mukad warrior must succeed
+on a DC 11 Wisdom saving throw or be unable to attack a
+creature other than the mukad, another mukad with this
+trait, or another creature compelling the target to attack it.
+Spider Climb.
+The mukad warrior can climb difficult
+surfaces, including upside down on ceilings, without
+needing to make an ability check.
+Tunneler.
+The mukad can burrow through solid rock
+at half its burrowing speed. When it burrows, it leaves a
+5-foot-diameter tunnel in its wake.
+actions
+Multiattack.
+The mukad makes two attacks: one with its bite and one with its claws
+Bite.
+Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+Hit: 8 (1d8 + 3) piercing damage and 4 (1d8) poison damage.
+If the target is a creature, it must succeed on a DC 12
+Constitution saving throw or become poisoned for 1 minute.
+The target can repeat the saving throw at the end of
+each of its turns, ending the effect on itself on a success.
+If the creature drops to 0 hit points while poisoned in this
+way, it becomes stable, but it is poisoned for 1 hour and
+paralyzed while poisoned in this way.
+Claws.
+Melee Weapon Attack: +5 to hit, reach 5 ft., one
+target.
+Hit
+: 7 (1d8 + 3) slashing damage. reactions
+Psychic Distraction.
+The mukad imposes disadvantage
+on the attack roll of one creature it can sense within
+30 feet of it, provided the target can be frightened and
+the attack roll is against a creature other than the mukad,
+another mukad warrior, or another creature compelling
+the target to attack it.
+===
+Mukad Larva Swarm
+Medium swarm of Tiny aberrations, lawful evil
+Armor Class 12 (natural armor)
+Hit Points 55 (10d8 + 10)
+Speed 20 ft., climb 20 ft.
+str dex con int wis cha
+ 10 (+0) 12 (+1) 12 (+1) 3 (–4) 10 (+0) 4 (–3)
+Senses blindsight 10 ft., darkvision 60 ft.,
+passive Perception 10
+Languages —
+Challenge 2 (450 XP)
+Proficiency Bonus +2
+Magic Resistance.
+The swarm has advantage on
+saving throws against spells and other magical effects.
+Spider Climb.
+The swarm can climb difficult surfaces,
+including upside down on ceilings, without needing to
+make an ability check.
+Swarm.
+The swarm can occupy another creature’s space
+and vice versa, and the swarm can move through any
+opening large enough for a Tiny creature. The swarm
+can’t regain hit points or gain temporary hit points.
+actions
+Bites.
+Melee Weapon Attack: +3 to hit, reach 5 ft., one
+target.
+Hit: 7 (2d6 + 1) piercing damage and 7 (2d6)
+poison damage, or 3 (1d6) piercing damage and 3 (1d6)
+poison damage if the swarm has half of its hit points or
+fewer. If the target is a creature, it must succeed on a
+DC 11 Constitution saving throw or become poisoned
+for 1 minute. The target can repeat the saving throw
+at the end of each of its turns, ending the effect on itself
+on a success. If the creature drops to 0 hit points while
+poisoned in this way, it becomes stable, but it is poisoned
+for 1 hour and paralyzed while poisoned in this way.

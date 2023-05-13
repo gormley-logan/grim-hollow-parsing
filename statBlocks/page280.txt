@@ -1,0 +1,36 @@
+===
+Rabenhex
+Small monstrosity, unaligned
+Armor Class 12
+Hit Points 10 (3d6)
+Speed 10 ft., fly 60 ft.
+str dex con int wis cha
+ 3 (–4) 15 (+2) 10 (+0) 3 (–4) 13 (+1) 9 (–1)
+Skills
+Perception +3, Stealth +4
+Senses darkvision 120 ft., passive Perception 13
+Languages —
+Challenge 1/4 (50 XP)
+Proficiency Bonus +2
+Flyby.
+The rabenhex doesn’t provoke opportunity
+attacks when it flies out of an enemy’s reach.
+Hex (Recharges when the Hex Ends).
+As a bonus
+action, the rabenhex places a curse on a creature it can
+see within 60 feet of it. The target has disadvantage on
+attack rolls against rabenhexes or hags. The curse lasts
+for 1 minute; until the target drops to 0 hit points; or
+until the rabenhex attacks a different creature, becomes
+incapacitated, or dies. If the rabenhex is hidden, using
+this trait doesn’t reveal its location.
+Keen Hearing and Sight.
+The rabenhex has advan-
+tage on Wisdom (Perception) checks that rely on hearing
+or sight.
+actions
+Talons.
+Melee Weapon Attack: +4 to hit, reach 5 ft., one
+target.
+Hit: 4 (1d4 + 2) slashing damage and, if the target is
+cursed by any rabenhex’s Hex, 3 (1d6) necrotic damage.

@@ -1,0 +1,74 @@
+===
+Coral Grazer Larva
+Medium aberration, unaligned
+Armor Class 14 (natural armor)
+Hit Points 75 (10d8 + 30)
+Speed 10 ft., swim 30 ft.
+str dex con int wis cha
+	16	(+3)	12	(+1)	17	(+3)	2	(–4)	12	(+1)	4	(–3)
+Skills
+Perception +3
+Senses blindsight 10 ft., darkvision 120 ft., passive Perception 13
+Languages —
+Challenge 3 (700 XP)
+Proficiency Bonus +2
+Hold Breath.
+Out of water, the coral grazer larva can
+hold its breath for 30 minutes.
+Water Breathing.
+The coral grazer larva can breathe
+only underwater.
+actions
+Multiattack
+. The coral grazer larva makes two bite attacks.
+Bite
+.
+Melee Weapon Attack: +5 to hit, reach 5 ft., one
+target.
+Hit: 10 (2d6 + 3) slashing damage.
+===
+Coral Grazer
+Huge aberration, unaligned
+Armor Class 16 (natural armor)
+Hit Points 230 (20d12 + 100)
+Speed 20 ft., swim 60 ft.
+str dex con int wis cha
+	23	(+6)	11	(+0)	20	(+5)	3	(–4)	14	(+2)	5	(–3)
+Skills
+Perception +6
+Senses blindsight 30 ft., darkvision 120 ft., passive Perception 16
+Languages —
+Challenge 11 (7,200 XP)
+Proficiency Bonus +4
+Amphibious.
+The coral grazer can breathe air and water.
+Siege Monster.
+The coral grazer deals double damage
+to objects and structures.
+Unnatural Presence.
+A creature that starts its turn
+within 30 ft. of the coral grazer feels an unnatural vibration.
+If the creature can otherwise sense the coral grazer, it must
+succeed on a DC 17 Wisdom saving throw or become
+frightened until the end of the coral grazer’s next turn. A
+creature that fails the saving throw by 5 or more is also
+paralyzed while frightened in this way. A target that
+succeeds on the saving throw is immune to the Unnatural
+Presence of all coral grazers for the next 24 hours.
+actions
+Multiattack.
+The coral grazer makes three bite attacks
+and uses horrid gaze.
+Bite.
+Melee Weapon Attack: +10 to hit, reach 15 ft., one
+target.
+Hit: 19 (3d8 + 6) slashing damage.
+Horrid Gaze.
+The coral grazer fixes its eye on one
+creature it can see within 120 feet of it. That creature is
+affected by the coral grazer’s Unnatural Presence.
+An adult coral grazer can attract several larvae to its
+feeding area. That means adults are more dangerous
+when larvae are about in surrounding waters. Sages
+have noted that larvae are more likely to show up when
+an adult is in danger.

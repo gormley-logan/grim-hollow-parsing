@@ -1,0 +1,49 @@
+304
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+S
+Shatter Corpse
+“The sound of breaking glass startles most, but think 
+twice before going to see what caused it if it is followed 
+by the sound of moaning.”
+Covered in Glass
+. When someone dies with glass 
+embedded in their skin—such as being stabbed by a 
+shard of glass or killed by a falling window—they may 
+rise as a shatter corpse. Shards of glass continually grow 
+through the skin of a shatter corpse, covering them in 
+razor-sharp weapons.
+Ponderous and Noisy
+. Shatter corpses are no more 
+mobile than an average zombie, and the constantly 
+breaking glass makes them even easier to hear coming.
+Dangerous Volley
+. Shatter corpses can flick hails of 
+glass shards at nearby creatures. The shards grow back 
+within a few seconds.
+salvage
+The glass from ten shatter corpses can be used to create 
+a suit of 
+glass-studded armor
+ (see Chapter 4) with a 
+successful DC 10 Dexterity (Sleight of Hand) check by 
+someone proficient with jeweler’s tools. Crafting this 
+item takes 10 days and costs 1000 gp.
+lore
+DC 10 Intelligence (Religion)
+: Shatter corpses are a 
+stronger kind of zombie that arises when someone dies 
+from being impaled on broken glass.
+DC 15 Intelligence (History)
+: Those that attempt to 
+use a melee attack against a shatter corpse are likely to 
+cut themselves unless they attack with carefully.
+DC 20 Intelligence (Arcana)
+: Shatter corpses can 
+launch volleys of broken glass.

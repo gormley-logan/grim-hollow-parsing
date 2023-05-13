@@ -1,0 +1,33 @@
+salvage
+Brave sailors hunt keppmirs for their horns. Someone 
+who has proficiency with alchemist’s supplies can use 
+one horn combined with other reagents, including 
+dried seaweed from the Sea of Turmoil, to create a 
+potion of glacial resistance
+ (see chapter 4). Creating the 
+potion requires 4 hours of work and a successful DC 13 
+Intelligence (Arcana) check.
+The ancient 
+Crown of the Keppmir King
+ (see chapter 4) 
+has never been removed from his massive horns. Anyone 
+who could defeat the leader could claim this prize.
+lore
+DC 10 Intelligence (History):
+ The story of the 
+Keppmir clan is known to many.
+DC 15 Intelligence (Nature):
+ A keppmir has a heated 
+body, which provides them with some resistance to the 
+cold. Although they attack ships and coastal settlements, 
+they can’t breathe air.
+GM Advice:
+ Because of their need to breathe water, 
+keppmir are less of a threat on land. If you want to make 
+them a larger threat, make them amphibious instead. 
+Additionally, if they ever gained access to magic that allowed 
+them to breathe air, this could pose the same threat.
+Providing weapons that can also grapple on a successful 
+attack, like some form of barbed spear, would allow 
+keppmir to not only do extra fire damage, but also hold 
+enemies underwater and provide a drowning risk.

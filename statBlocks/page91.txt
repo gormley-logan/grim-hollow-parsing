@@ -1,0 +1,96 @@
+91
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+D
+===
+Doomcaller
+Medium fiend, chaotic evil
+Armor Class 16 (natural armor)
+Hit Points 150 (20d8 + 60)
+Speed 30 ft., fly 40 ft. (hover)
+str dex con int wis cha
+	8	(-1)	17	(+3)	17	(+3)	14	(+2)	12	(+1)	21	(+5)
+Saving Throws
+Con +8, Int +7, Wis +6, Cha +10
+Skills
+Arcana +7, Deception +10, Insight +6, Perception
++6, Persuasion +10, Religion +7
+Damage Resistances
+cold, fire, lightning; bludgeon-
+ing, piercing, and slashing from nonmagical attacks
+Damage Immunities acid, poison
+Condition Immunities charmed, poisoned
+Senses darkvision 120 ft., passive Perception 16
+Languages all
+Challenge 15 (13,000 XP)
+Proficiency Bonus +5
+Magic Resistance
+. The doomcaller has advantage on
+saving throws against spells and other magical effects.
+Spellcasting
+. The doomcaller is an 18th-level spellcaster. Its
+spellcasting ability is Charisma (spell save DC 18, +10 to
+hit with spell attacks). It has the following spells prepared: Cantrips (at will): fire bolt
+,
+hunter sense
+,
+message
+,
+shocking grasp
+,
+true strike
+1st level (4 slots): detect magic
+,
+magic missile
+,
+shield
+2nd level (3 slots): detect thoughts
+,
+misty step
+3rd level (3 slots): bestow curse
+,
+fireball
+4th level (3 slots): banishment
+,
+consume mind
+5th level (3 slots): magic mirror
+,
+scrying
+6th level (1 slot): disintegrate
+7th level (1 slot): arboreal curse
+8th level (1 slot): mind blank*
+9th level (1 slot): gate
+*The doomcaller casts this spell on itself before combat.
+actions
+Slam
+.
+Melee Weapon Attack
+: +8 to hit, reach 5 ft., one target.
+Hit
+: 10 (2d6 + 3) bludgeoning damage, and the target has disadvantage on their next attack roll.
+Additionally, all attacks against the target by allies of the
+doomcaller are made with advantage until the start of
+the doomcaller’s next turn.
+Summon Fiend (1/Day)
+. The doomcaller chooses
+what to summon and attempts a magical summoning.
+A doomcaller has a 60 percent chance of summoning
+1d6 succubi or 1d4 barbed devils. A summoned fiend
+appears in an unoccupied space within 60 feet of its
+summoner, does as it pleases, and can’t summon other
+fiends. The summoned fiend remains for 1 minute, until
+it or its summoner dies, or until its summoner takes a
+bonus action to dismiss it.
+reactions
+Ill Fortune (3/Day)
+. When a creature the doomcaller
+can see makes an attack roll, a saving throw, or an ability
+check, the doomcaller can roll a d20 and choose to use
+this roll in place of the attack roll, saving throw, or
+ability check.

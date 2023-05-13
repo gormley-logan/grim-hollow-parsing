@@ -1,0 +1,42 @@
+Hourglass Widow
+“When the clock stops, your time has run out.”
+Died Waiting. 
+Popularly known as an hourglass widow, 
+these undead are created when legendary heroes perish 
+while waiting for a loved one to return. The anguish 
+of waiting, and of the overwhelming fear of loss, trans-
+forms the hero into a monster with the ultimate goal of 
+destroying hope.
+Control Time. 
+An hourglass widow has a magical 
+hourglass embedded in its chest that allows it mastery 
+over time. It can speed itself up and ignore a 
+slow
+ spell or 
+move freely in a 
+time stop
+.
+Blitzing Attack. 
+The widow’s ability to manipulate 
+time allows it to unleash a devastating flurry of abilities 
+before others can act.
+salvage
+When the sand from the widow’s hourglass is mixed 
+with wine, it creates an elixir that when consumed 
+prevents the creature from aging for 2d6 + 10 years. 
+There is enough sand in the hourglass to create an elixir 
+for two creatures. A creature cannot benefit from the 
+sand of an hourglass widow more than once. The sand 
+can be sold for 5,000 gp.
+lore
+DC 10 Intelligence (Religion):
+ Hourglass widows are 
+undead who can control time to act more than once a round.
+DC 15 Intelligence (Arcana):
+ Hourglass widows are 
+resistant to cold, force, lightning, and necrotic. They are 
+immune to poison and nonmagical attacks.
+DC 20 Intelligence (Arcana):
+ Inexplicably, an hourglass 
+widow can affect those trapped in a time stop, imprisonment, 
+or other stasis effect.

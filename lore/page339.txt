@@ -1,0 +1,25 @@
+339
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+T
+lore
+DC 10 Intelligence (History):
+ The toymaker knows 
+what crimes and wrongdoings others have committed, 
+and it uses this information to choose its prey. The worse 
+a person’s crimes, the more likely they are to get a visit 
+from the toymaker.
+DC 15 Intelligence (Arcana):
+ The toymaker has 
+innate magical abilities that allow it to change size and 
+unlock doors. It’s a winter fey inured to cold.
+DC 20 Intelligence (Arcana):
+ The toymaker can 
+produce toy servants from a huge bag that it carries. 
+These servants are dangerous and extremely aggressive.

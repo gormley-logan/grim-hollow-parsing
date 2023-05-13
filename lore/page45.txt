@@ -1,0 +1,72 @@
+Bugbears
+“Tormach subverted bugbears with a disease that 
+makes them little more than killing machines.”
+Tormach’s Rage.
+ The bugbears of Etharis weren’t 
+always ferocious and violent. When the Arch Daemons 
+appeared in the world, Tormach believed he could make 
+minions of the goblinoids. Bugbear warriors forcefully 
+opposed his efforts to subvert goblin tribes to his will. 
+Tormach commanded his servants to craft a disease that 
+would render defiant bugbears into vicious drones, a 
+grim task those minions completed with great success. 
+Tormach’s Rage, as the disease has come to be known, 
+spread quickly. Most bugbears of Etharis are now 
+victims of this mind-altering plague.
+The disease causes a bugbear to become more resilient 
+while increasing muscle mass and capacity for aggression. 
+Bugbears infected with Tormach’s Rage experience a 
+powerful, instinctive urge to spread their illness. Infected 
+bugbears have enhanced olfactory senses that allow them 
+to smell whether a creature carries Tormach’s Rage. When 
+they discover a bugbear without the disease, they fly into 
+a frenzy. The sickness is virulent enough that even if a 
+bugbear survives the fight or kills the infected aggressor, 
+it’s unlikely to do so without contracting Tormach’s Rage.
+Staged Changes.
+ Rage-infected bugbears have only 
+recently gotten the disease. A bugbear who contracts 
+Tormach’s Rage can’t expect to live long as the illness 
+compels the victim to acts of aggression that ultimately 
+end in the bugbear’s destruction. The infection lasts until 
+death, although magic and rare herbal knowledge can 
+counteract it.
+Very rarely, an infected bugbear lives long enough 
+that Tormach’s Rage exhibits advanced symptoms. At 
+this stage, the disease further accentuates the bugbear’s 
+muscular system, granting increased strength and speed. 
+Bugbears who live this long have little impulse control 
+and ability to reason.
+salvage
+The viscera of a bugbear infected with Tormach’s Rage can 
+be used as a vector or as a curative. To create an infectious 
+agent, someone who has proficiency with an herbalism kit 
+or a poisoner’s kit must use the viscera and other materials 
+worth 25 gp. Creating the vector takes 4 hours of work and 
+requires a successful DC 13 Intelligence or Wisdom check. 
+A bugbear exposed to the vector through a wound or by 
+consuming it must save against Tormach’s Rage as if bitten 
+by a rage-infected bugbear.
+Making the curative requires the same proficiency, 
+reagents worth 50 gp, 8 hours of work, and a successful 
+DC 15 Wisdom (Medicine)
+check. A bugbear exposed 
+to the curative through a wound or by consuming it can 
+reattempt the saving throw against Tormach’s Rage. If 
+the save succeeds, the disease is cured. Its effects end in a 
+matter of minutes.
+lore
+DC 10 Intelligence (History or Religion):
+ Bugbears 
+once fought against the Arch Daemon Tormach’s efforts 
+to dominate goblinoids. He concocted a disease to thwart 
+their efforts and those of any who would join them.
+DC 10 Wisdom (Medicine):
+ Tormach’s Rage grants 
+its infected superior resilience and strength but causes 
+drastic, violent personality changes.
+DC 15 Wisdom (Medicine):
+ Combined with herbal 
+reagents, the viscera of a deceased bugbear infected with 
+Tormach’s Rage can be used to spread the disease or 
+create a cure.

@@ -1,0 +1,89 @@
+150
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+H
+harvesterof lies
+Medium undead, neutral evil
+Armor Class 17 (coat of lies)
+Hit Points 91 (14d8 + 28)
+Speed 40 ft.
+str dex con int wis cha
+ 13 (+1) 20 (+5) 14 (+2) 11 (+0) 16 (+3) 15 (+2)
+Saving Throws
+Dex +9, Wis +7, Cha +6
+Skills
+Acrobatics +9, Insight +7, Perception +7, Stealth +13
+Damage Resistances
+necrotic; bludgeoning, piercing,
+and slashing from nonmagical attacks
+Damage Immunities poison
+Condition Immunities charmed, exhaustion, poisoned
+Senses darkvision 120 ft., passive Perception 17
+Languages the languages it knew in life
+Challenge 9 (5,000 XP)
+Proficiency Bonus +4
+Coat of Lies.
+While wearing their specially prepared
+coat, the harvester’s AC is increase by 2 (included in
+their AC) and it can use its innate spellcasting.
+Innate Spellcasting.
+The harvester’s spellcasting
+ability is Charisma (spell save DC 14). It can innately cast
+the following spells, requiring only that the harvester be
+wearing its
+coat of lies
+: At will: detect thoughts
+,
+zone of truth
+3/day each: hold person
+,
+invisibility
+,
+misty step
+,
+silence
+1/day each: levitate
+,
+tongues
+Hear Lies.
+The harvester hears all lies uttered within
+1 mile of it and knows the liar’s distance and direction
+while the harvester choses to concentrate.
+Spider Climb.
+The harvester can climb difficult
+surfaces, including upside down on ceilings, without
+needing to make an ability check.
+Trackless.
+The harvester leaves no tracks to indicate
+where it has been or where it’s headed.
+actions
+Multiattack
+. The harvester makes three attacks, only
+one of which can be sever tongue.
+Claw
+.
+Melee Weapon Attack
+: +9 to hit, reach 5 ft., one target.
+Hit
+: 12 (2d6 + 5) slashing damage. If the target is Medium or smaller, it is grappled (escape DC 17).
+Sever Tongue
+.
+Melee Weapon Attack
+: +9 to hit, reach 5 ft., one humanoid grappled by the harvester of lies.
+Hit
+: 33 (8d6 + 5) slashing damage and the target must succeed on a DC 17 Constitution saving throw or have
+their tongue ripped out. A creature without a tongue
+cannot speak or cast spells with verbal components.
+A creature is immune to this effect if it is immune to
+slashing damage, doesn’t have or need a tongue, or has
+legendary actions.
+A tongue can be reattached within 1 hour of being
+severed with a successful DC 10 Wisdom (Medicine)
+check, or at can be regrown using magic that replaces
+lost limbs.

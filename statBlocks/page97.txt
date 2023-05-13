@@ -1,0 +1,103 @@
+97
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+D
+===
+Sky Drake
+Large dragon, neutral evil
+Armor Class 14 (natural armor)
+Hit Points 85 (10d10 + 30)
+Speed 20 ft., fly 60 ft.
+str dex con int wis cha
+	18	(+4)	11	(+0)	17	(+3)	8	(–1)	14	(+2)	11	(+0)
+Skills
+Athletics +6, Perception +4, Survival +4
+Senses darkvision 120 ft., passive Perception 14
+Languages Draconic and one other language
+Challenge 4 (1,100 XP)
+Proficiency Bonus +2
+Flyby.
+The sky drake doesn’t provoke opportunity
+attacks when it flies out of an enemy’s reach.
+Keen Sight.
+The sky drake has advantage on Wisdom
+(Perception) checks that rely on sight.
+actions
+Multiattack.
+The sky drake makes one bite attack and
+one attack with its claws.
+Bite.
+Melee Weapon Attack: +6 to hit, reach 10 ft.,
+one target.
+Hit: 11 (2d6 + 4) piercing damage and 5 (2d4)
+lightning damage.
+Claws.
+Melee Weapon Attack: +6 to hit, reach 5 ft.,
+one target.
+Hit: 13 (2d8 + 4) slashing damage.
+===
+Prismatic Drake
+Large dragon, neutral evil
+Armor Class 16 (natural armor)
+Hit Points 136 (16d10 + 48)
+Speed 30 ft., fly 60 ft.
+str dex con int wis cha
+	18	(+4)	12	(+1)	17	(+3)	13	(+1)	14	(+2)	15	(+2)
+Skills
+Arcana +4, Deception +5, Intimidation +5,
+Perception +5
+Senses darkvision 120 ft., passive Perception 15
+Languages Draconic and one other language
+Challenge 8 (3,900 XP)
+Proficiency Bonus +3
+Magic Resistance.
+The prismatic drake has advantage
+on saving throws against spells and other magical effects.
+Quicken Spell (4/Day).
+The prismatic drake can cast a
+spell that has a casting time of 1 action as a bonus action.
+Spellcasting.
+The prismatic drake is an 8th-level
+spellcaster. Its spellcasting ability is Charisma (spell save
+DC 13, +5 to hit with spell attacks). The prismatic drake
+knows the following sorcerer spells: Cantrips (at will): mage hand
+,
+mending
+,
+message
+,
+prestidigitation
+,
+ray of frost
+1st level (4 slots): chromatic orb
+,
+color spray
+,
+shield
+2nd level (3 slots): blur
+,
+detect thoughts
+,
+gust of wind
+3rd level (3 slots): counterspell
+,
+hypnotic pattern
+4th level (2 slots): confusion
+actions
+Multiattack.
+The prismatic drake makes one bite
+attack and one attack with its claws.
+Bite.
+Melee Weapon Attack: +7 to hit, reach 10 ft.,
+one target.
+Hit: 13 (2d8 + 4) piercing damage.
+Claws.
+Melee Weapon Attack: +7 to hit, reach 5 ft.,
+one target.
+Hit: 15 (2d10 + 4) slashing damage.

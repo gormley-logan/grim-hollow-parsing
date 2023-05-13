@@ -1,0 +1,57 @@
+===
+Restless Lumberer
+Huge giant, lawful neutral or chaotic evil
+Armor Class 16 (natural armor)
+Hit Points 250 (20d12 + 120)
+Speed 50 ft., climb 50 ft., swim 25 ft.
+str dex con int wis cha
+ 25 (+7) 16 (+3) 22 (+6) 15 (+2) 13 (+1) 10 (+0)
+Saving Throws
+Dex +8, Con +11, Int +7
+Skills
+Arcana + 7, Athletics +12, Perception +6, Stealth +8
+Damage Resistances
+acid, cold
+Condition Immunities frightened, sleep, unconscious
+Senses darkvision 120 ft., tremorsense 30 ft., passive Perception 16
+Languages Giant, two other languages
+Challenge 16 (15,000 XP)
+Proficiency Bonus +5
+Contortionist
+. As a bonus action, the restless lumberer
+can contort its body to allow it to squeeze through a
+tight space (up to a foot in diameter) without needing to
+spend extra movement and does not have disadvantage
+on attack rolls or Dexterity saving throws.
+Hold Breath
+. The restless lumberer can hold its breath
+indefinitely while conscious.
+Lurker’s Patience
+. The restless lumberer has
+advantage on any Dexterity (Stealth) checks it makes
+when not moving.
+Vice Grip
+. Any creature grappled by the restless
+lumberer is also restrained.
+actions
+Multiattack
+. The restless lumberer makes three grab
+or slam attacks.
+Slam
+.
+Melee Weapon Attack
+: +12 to hit, reach 15 ft., one target.
+Hit
+: 23 (3d10 + 7) bludgeoning damage. Grab
+.
+Melee Weapon Attack
+: +12 to hit, reach 15 ft., one target.
+Hit
+: 18 (2d10+7) bludgeoning damage. If the target is Large or smaller, it is grappled (escape DC 22).
+The lumberer can grab up to two creatures and cannot
+use a slam attack with a hand that it is using to grab.
+reactions
+Escape
+. When the restless lumberer becomes grappled
+or restrained, it may use its reaction to attempt to escape
+and end the grappled or restrained condition.

@@ -1,0 +1,40 @@
+Gozomite
+“I avoid caves. Not because I am afraid of the dark, but 
+because I am afraid of the gozomites living there.”
+Night Crawlers.
+ Insectoid gozomites despise bright 
+lights and haunt underground places, only venturing 
+above ground on dark nights.
+Parasitic Lifecycle.
+ Gozomites breed by stinging 
+mammals with their bulbous stinger and injecting 
+hundreds of eggs. Mammalian blood quickens the eggs, 
+which hatch into a swarm of gozomitelings and quickly 
+devour the victim. 
+Vulnerable to Fire.
+ Gozomite ichor is particularly 
+flammable and is prized by alchemists. 
+salvage
+It takes 4 hours to harvest and bottle 1d4 doses of ichor 
+from a gozomite that did not die from fire damage. 
+As an action, you can splash the gozomite ichor onto 
+a creature within 5 feet of you or throw a flask of it up 
+to 20 feet, shattering it on impact. Make a ranged attack 
+against a target creature or object, treating the ichor as 
+an improvised weapon. On a hit, the target is covered 
+in ichor and if the target takes any fire damage before 
+the ichor dries (within 3 rounds), the target takes an 
+additional 14 (4d6) fire damage. 
+lore
+DC 10 Intelligence (Nature):
+ Gozomites inject eggs 
+with their stinger that quickly hatch into hundreds of 
+gozomitelings that devour the victim. 
+DC 15 Wisdom (Medicine):
+ Gozomites and gozomitelings 
+are vulnerable to fire. An infestation can also be cut out or 
+cured with any effect that cures disease. 
+DC 20 Intelligence (Arcana):
+ Gozomite ichor is 
+highly flammable and can be used to create bombs like 
+flasks of oil, if more powerful.

@@ -1,0 +1,26 @@
+63
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+C
+lore
+DC 10 Intelligence (History):
+ A chiropteran behemoth 
+serves Grand Duke Koshevek of Soma. This behemoth is 
+the only one whose existence has been verified.
+DC 20 Intelligence (Arcana):
+ The ritual that created 
+the chiropteran behemoth makes it regenerate even 
+when it should die. However, any mortal magic can be 
+undone. The behemoth’s leavings—skin, fur, broken 
+teeth, and guano—found in its lair need to be studied 
+to learn the behemoth’s weakness.
+DC 25 Intelligence (Arcana):
+ To create the elixir 
+that can render the chiropteran behemoth vulnerable 
+to death requires its guano—see Salvage. 

@@ -1,0 +1,57 @@
+263
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+P
+===
+Potbelly
+Huge fey, chaotic evil
+Armor Class 15 (natural armor)
+Hit Points 102 (12d12 + 24)
+Speed 40 ft.
+str dex con int wis cha
+ 21 (+5) 8 (–1) 15 (+2) 6 (–2) 10 (+0) 13 (+1)
+Skills
+Athletics +8, Survival +3
+Senses passive Perception 9
+Languages Giant, Sylvan
+Challenge 5 (1,800 XP)
+Proficiency Bonus +3
+actions
+Multiattack.
+The potbelly makes two slam attacks.
+It can use boil in place of either slam.
+Slam.
+Melee Weapon Attack: +8 to hit, reach 10 ft., one
+target.
+Hit: 19 (4d6 + 5) bludgeoning damage. The
+potbelly can deal half damage instead and grapple a
+Medium or smaller creature (escape DC 16). The potbelly
+can grapple up to two creatures at a time.
+Boil.
+One Medium or smaller creature grappled by the
+potbelly must succeed on a DC 16 Strength saving throw
+or be plopped into the potbelly’s belly pot, taking 18 (4d8)
+fire damage. A creature in the pot is restrained and has
+cover from effects that originate outside the potbelly.
+At the start of each of the potbelly’s turns, the engulfed
+creature takes 18 (4d8) fire damage. The potbelly can have
+only two Medium or smaller creatures boiling at a time.
+A boiling creature can try to escape by taking an action
+to make its choice of a DC 16 Strength (Athletics) or
+Dexterity (Acrobatics) check. On a success, the creature
+escapes and uses 5 feet of movement to enter a space of
+its choice within 5 feet of the potbelly.
+If the potbelly dies, boiling creatures are no longer
+restrained by it and can escape from the corpse by using
+10 feet of movement.
+Snack.
+The potbelly takes the cooked corpse of a fey,
+giant, or humanoid that died no more than 1 minute before
+from its belly pot, takes a bite, and regains 25 hit points. The
+potbelly can gain this benefit only once from each corpse.

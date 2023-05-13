@@ -1,0 +1,40 @@
+146
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+G
+===
+Grudgel
+Medium humanoid (grudgel), any alignment
+Armor Class 15 (studded leather, shield)
+Hit Points 11 (2d8 + 2)
+Speed 30 ft.
+str dex con int wis cha
+ 13 (+1) 12 (+1) 13 (+1) 10 (+0) 12 (+1) 10 (+0)
+Skills
+Insight +3, Survival +3
+Senses darkvision 60 ft., passive Perception 11
+Languages Grudgel and one national language
+Challenge 1/8 (25 XP)
+Proficiency
++2
+Center (Recharges after a Short or Long Rest).
+The grudgel can use a bonus action to focus before
+making an attack roll or ability check. If the grudgel does
+so, then it has advantage on the next attack roll or ability
+check it makes before the start of its next turn.
+actions
+Shortsword.
+Melee Weapon Attack: +3 to hit, reach 5 ft.,
+one target.
+Hit: 4 (1d6 + 1) piercing damage.
+Javelin.
+Melee or Ranged Weapon Attack: +3 to hit, reach
+5 ft. or range 30/120 ft., one target.
+Hit: 4 (1d6 + 1)
+piercing damage.

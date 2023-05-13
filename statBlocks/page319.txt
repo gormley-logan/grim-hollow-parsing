@@ -1,0 +1,127 @@
+319
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+S
+===
+Soman Vampire Noble
+Medium undead, any alignment
+Armor Class 16 (studded leather)
+Hit Points 150 (20d8 + 60)
+Speed 50 ft.
+str dex con int wis cha
+ 16 (+3) 18 (+4) 17 (+3) 13 (+1) 14 (+2) 19 (+4)
+Saving Throws
+Con +7, Wis +6
+Skills
+Arcana +5, Deception +8, Intimidation +8,
+Perception +6, Persuasion +8
+Damage Vulnerabilities
+radiant
+Damage Resistances
+necrotic, poison
+Condition Immunities charmed, poisoned
+Senses darkvision 120 ft., passive Perception 16
+Languages Soman and two other languages
+Challenge 10 (5,900 XP)
+Proficiency Bonus +4
+Brute.
+A melee weapon deals one extra die of its damage
+when the vampire hits with it (included in the attacks).
+Evasion.
+If the vampire is subjected to an effect that
+allows it to make a Dexterity saving throw to take only half
+damage, the vampire instead takes no damage if it succeeds
+on the saving throw, and only half damage if it fails.
+Forbiddance.
+The vampire can enter a residence only
+with an invitation from one of that home’s residents. If
+the vampire enters a house uninvited and involuntarily,
+it takes 1d10 psychic damage at the end of each of its
+turns while it remains there.
+Guarded Mind.
+The vampire’s emotions and thoughts
+can’t be read.
+Misty Step (Recharge 5–6).
+As a bonus action, the
+vampire disappears in shadowy mist and teleports up to
+30 feet to an unoccupied space it can see.
+Regeneration.
+The vampire regains 10 hit points at
+the start of its turn if it has at least 1 hit point and isn’t in
+sunlight or running water. If the vampire takes radiant
+damage, this trait doesn’t function at the start of the
+vampire’s next turn.
+Stake to the Heart.
+If a piercing weapon made of
+wood or silver is driven into the vampire’s heart while
+the vampire is incapacitated, the vampire is paralyzed
+until the stake is removed.
+Sunlight Hypersensitivity.
+The vampire has
+disadvantage on attack rolls and ability checks while
+in direct sunlight. If the vampire starts its turn in direct
+sunlight, it takes 1d10 radiant damage.
+actions
+Multiattack.
+The vampire attacks twice with its rapier,
+once with its dagger, and once with its bite.
+Bite.
+Melee Weapon Attack: +8 to hit, reach 5 ft., one
+creature.
+Hit: 9 (2d4 + 4) piercing damage, and the target
+must succeed on a DC 16 Constitution saving throw or
+take 14 (4d6) necrotic damage. The vampire regains hit
+points equal to the necrotic damage the target takes.
+Rapier.
+Melee Weapon Attack: +8 to hit, reach 5 ft., one
+target.
+Hit: 13 (2d8 + 4) piercing damage.
+Dagger.
+Melee or Ranged Weapon Attack: +8 to hit,
+reach 5 ft. or range 20/60 ft., one target.
+Hit: 9 (2d4 + 4)
+piercing damage.
+Charm (1/Day)
+. The vampire targets one humanoid
+it can see within 30 feet of it. If the target can see the
+vampire, the target must succeed on a DC 16 Wisdom
+saving throw against this magic or be charmed by the
+vampire. The charmed target regards the vampire as
+a trusted friend to be heeded and protected. Although
+the target isn’t under the vampire’s control, it takes the
+vampire’s requests or actions in the most favorable way
+it can, and it is a willing target for the vampire’s bite
+attack, willingly failing the saving throw.
+Each time the vampire or the vampire’s companions
+do anything harmful to the target, it can repeat the saving
+throw, ending the effect on itself on a success. Otherwise,
+the effect lasts 24 hours or until the vampire is destroyed,
+is on a different plane of existence than the target, or takes
+a bonus action to end the effect.
+Creatures of the Night (1/Day)
+. Provided it isn’t
+in direct sunlight, the vampire magically calls 5 (2d4)
+swarms of bats or rats. While outdoors, the vampire can
+call 5 (2d4) wolves instead. The called beasts arrive in 2
+(1d4) rounds, acting as allies of the vampire and obeying
+its spoken commands. The beasts remain for 1 hour, until
+the vampire dies, or until the vampire dismisses them as
+a bonus action.
+reactions
+Horrifying Revelation.
+When a creature within
+30 feet of the vampire harms it, the vampire reveals a
+ghastly distortion of its true form to the attacker. The
+target must succeed on a DC 16 Wisdom saving throw
+or become frightened of the vampire for 1 minute. A
+creature can repeat the saving throw at the end of each
+of its turns, ending the effect on itself on a success. If a
+target’s saving throw is successful or the effect ends for
+it, it is immune to this vampire’s Horrifying Revelation
+for 24 hours.

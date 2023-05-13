@@ -1,0 +1,62 @@
+===
+Shifting Hulk
+Large aberration, any alignment
+Armor Class 16 (natural armor)
+Hit Points 168 (16d10 + 80)
+Speed 30 ft.
+str dex con int wis cha
+	20	(+5)	10	(+0)	20	(+5)	9	(–1)	11	(+0)	6	(−2)
+Skills
+Perception +4
+Senses darkvision 60 ft., passive Perception 14
+Languages understands one language but can’t speak
+Challenge 9 (5,000 XP)
+Proficiency Bonus +4
+Aberrant Wound.
+If a creature other than an
+undead or a construct takes damage from the shifting
+hulk’s attacks, the creature must succeed on a DC 17
+Constitution saving throw or lose 5 (2d4) hit points at the
+start of each of its turns due to an aberrant wound. This
+damage is cumulative. A creature can take an action to
+staunch the wound, ending this effect with a successful
+DC 15 Wisdom (Medicine) check. The wound also closes
+if the target receives magical healing.
+Vicious Critical.
+When the shifting hulk scores a
+critical hit with an attack, it can roll the attack’s
+damage dice three times instead of twice.
+Fast Healing.
+While at half its hit points or fewer, the
+shifting hulk regains 10 hit points at the start of each of
+its turns. This trait doesn’t function while the hulk has
+0 hit points.
+Shapechanger.
+The shifting hulk can use an action or
+a bonus action to polymorph into a form that resembles
+its Small or Medium humanoid appearance before
+it became a horror. Its statistics are the same in each
+form. Any equipment it is wearing or carrying isn’t
+transformed. It reverts to its true Large form if it dies.
+actions
+Multiattack.
+The shifting hulk makes two attacks and
+uses frightening attacks.
+Claw.
+Melee Weapon Attack: +9 to hit, reach 5 ft., one target.
+Hit: 19 (4d6 + 5) slashing damage and Aberrant Wound.
+Spine.
+Ranged Weapon Attack: +9 to hit, range 30/60 ft.,
+one target.
+Hit: 18 (3d8 + 5) piercing damage and
+Aberrant Wound.
+Frightening Attacks.
+Each creature of the shifting
+hulk’s choice within 30 feet of the hulk and aware of it
+must succeed on a DC 12 Wisdom saving throw or be-
+come frightened for 1 minute. A creature can repeat the
+saving throw at the end of each of its turns, ending the
+effect on itself on a success. If a creature’s saving throw is
+successful or the effect ends for it, the creature is immune
+to the hulk’s frightening attacks for the next 24 hours or
+until it scores a critical hit, whichever comes first.

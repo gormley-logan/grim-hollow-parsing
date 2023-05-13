@@ -1,0 +1,72 @@
+335
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+T
+===
+Tar Creep
+Large elemental, chaotic evil
+Armor Class 14 (natural armor)
+Hit Points 114 (12d10 + 48)
+Speed 40 ft.
+str dex con int wis cha
+ 19 (+4) 12 (+1) 18 (+4) 5 (–3) 10 (+0) 5 (–3)
+Skills
+Stealth +6
+Damage Immunities poison
+Damage Resistances
+bludgeoning, piercing, and
+slashing from nonmagical attacks
+Condition Immunities exhaustion, paralyzed,
+petrified, poisoned, prone, unconscious
+Senses darkvision 60 ft., tremorsense 60 ft., passive Perception 10
+Languages —
+Challenge 6 (2,300 XP)
+Proficiency Bonus +3
+Amorphous.
+The tar creep can move through a space as
+narrow as 1 inch wide without squeezing.
+Kindle.
+When a tar creep takes fire damage, it ignites.
+The creep’s slam attacks then adhere flaming pitch to
+foes, dealing an extra 4 (1d8) fire damage and igniting
+them, too. In either case, until an ignited creature takes
+an action to douse the fire, the creature takes 5 (1d10) fire
+damage at the start of each of its turns.
+actions
+Multiattack.
+The tar creep makes two slam attacks. It
+can use engulf in place of either attack.
+Slam.
+Melee Weapon Attack: +7 to hit, reach 10 ft., one
+target.
+Hit: 13 (2d8 + 4) bludgeoning damage. If the target
+is a Medium or smaller creature, it is grappled (escape DC
+15). Until this grapple ends, the target is restrained. The
+tar creep can grapple up to two creatures at a time.
+Engulf.
+One creature grappled by the tar creep must
+succeed on a DC 15 Strength saving throw or be pulled
+into the creep’s body. An engulfed target is blinded,
+restrained, unable to breathe, and has total cover from
+effects that originate outside the creep. At the start of
+each of the creep’s turns, the engulfed creature takes 13
+(3d8) bludgeoning damage and the same fire damage the
+creep takes from Kindle, if any. The creep can have only
+one creature engulfed at a time.
+An engulfed creature can try to escape by taking an
+action to make its choice of a DC 15 Strength (Athletics)
+or Dexterity (Acrobatics) check. On a success, the creature
+escapes and uses 5 feet of movement to enter a space of its
+choice within 5 feet of the creep.
+If the creep dies, an engulfed creature is no longer
+restrained by it and can escape from the corpse by using
+10 feet of movement.
+If a creature dies while engulfed by the creep, the
+creature’s body dissolves inside the elemental. The creep
+expels anything the creature wore or carried.

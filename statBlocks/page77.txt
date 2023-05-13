@@ -1,0 +1,87 @@
+===
+Daemon Oak Thrall
+Huge plant, neutral evil
+Armor Class 14 (natural armor)
+Hit Points 84 (8d12 + 32)
+Speed 30 ft.
+str dex con int wis cha
+	21	(+5)	8	(−1)	19	(+4)	1	(–5)	13	(+1)	1	(–5)
+Damage Resistances
+acid, bludgeoning, piercing
+Damage Vulnerabilities
+fire
+Senses darkvision 60 ft., passive Perception 11
+Languages understands Infernal and Sylvan but can’t speak
+Challenge — with a daemon oak (3 [700] by itself)
+Proficiency Bonus +4 (due to the daemon oak)
+Caustic Demise.
+When the thrall dies, it breaks apart
+as acidic ichor explodes from it in a 10-foot-radius sphere.
+Each creature in that area must succeed on a DC 16
+Dexterity saving throw, taking 13 (3d8) acid damage on a
+failed save, or half as much damage on a successful one.
+Siege Monster.
+The daemon oak thrall deals double
+damage to objects and structures.
+actions
+Slam.
+Melee Weapon Attack: +9 to hit, reach 5 ft., one
+creature.
+Hit: 16 (3d6 + 6) bludgeoning damage.
+===
+Daemon Oak
+Huge plant, neutral evil
+Armor Class 16 (natural armor)
+Hit Points 161 (14d12 + 70)
+Speed 30 ft.
+str dex con int wis cha
+	23	(+6)	8	(–1)	21	(+5)	10	(+0)	15	(+2)	12	(+1)
+Damage Resistances
+acid, bludgeoning, piercing
+Damage Vulnerabilities
+fire
+Senses darkvision 60 ft., passive Perception 12
+Languages Infernal, Sylvan
+Challenge 11 (7,200 XP)
+Proficiency Bonus +4
+Siege Monster.
+The daemon oak deals double
+damage to objects and structures.
+actions
+Multiattack.
+The daemon oak makes two lash attacks,
+or it makes one lash attack and uses spew.
+Lash.
+Melee Weapon Attack: +10 to hit, reach 10 ft., one
+target.
+Hit: 20 (4d6 + 6) bludgeoning damage. If the target is
+a Large or smaller creature, it is grappled (escape DC 18)
+and restrained while grappled in this way. The daemon
+oak can grapple up to four creatures at a time.
+Rock.
+Ranged Weapon Attack: +10 to hit, range 60/180 ft.,
+one target.
+Hit: 32 (4d12 + 6) bludgeoning damage.
+Spew (Recharge 5–6).
+One of the daemon oak’s mouths
+spews a 30-foot cone of acidic ichor. Each creature in that
+area must make a DC 17 Dexterity saving throw, taking
+18 (4d8) acid damage on a failed save, or half as much
+damage on a successful one.
+Tree Thrall (Recharges after a Short or Long
+Rest).
+The daemon oak curses and animates one tree
+within 30 feet of it. Such a tree becomes a daemon oak
+thrall. This thrall is the daemon oak’s ally, and it takes
+its turn just after the daemon oak. The thrall obeys the
+daemon oak’s verbal commands (no action for the daemon
+oak). If issued no commands, the thrall attacks a creature
+that isn’t the thrall’s ally. A thrall dies after 24 hours,
+when the daemon oak uses a bonus action to sever the
+connection to the thrall, the thrall is more than 1 mile
+from the daemon oak, or the daemon oak dies.
+reactions
+Chain.
+When a creature within 10 feet of the daemon
+oak attempts to move from it’s current position, the
+daemon oak can make a lash attack against that creature.

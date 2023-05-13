@@ -1,0 +1,39 @@
+Nolid
+“A sharp howl echoes into the night, too high to be a wolf. 
+Moments later, a large, tan-and-white rodent with torn ears, 
+body covered in scars, crashes through the scrub brush.”
+Desert Survivors.
+ Native to Castinella, nolids are 
+monstrous rodents that have adapted to harsh deserts. 
+Hunting venomous prey has also rendered nolids 
+immune to poison, which they can convert to a painkiller. 
+They are also territorial, stalking, slaying, and devouring 
+other rodents in their area.
+Fierce Defender.
+ Nolids vocalize when defending 
+their territory by howling so loudly it can frighten other 
+creatures. Building trust with a nolid takes time, but is 
+possible. Food must be plentiful, and dominance asserted 
+through training. Nolids are fierce defenders once bonded 
+and are willing to die to protect their handler.
+Nolid Evolution.
+ Some nolids have adapted to urban 
+living to become nolidirs, merging humanoid features 
+with larger arms and walking on two legs. Nolidirs are 
+salvage
+A nolid’s carcass can provide enough edible meat for 
+one Medium humanoid for 10 days. Someone with 
+proficiency in alchemist’s supplies can use all the blood 
+from one nolid or nolidir mixed with mountain laurel 
+worth 20gp to brew two 
+potions of resistance (poison)
+. 
+Doing so requires a successful DC 14 Intelligence check 
+using the supplies and 4 hours of work.
+lore
+DC 10 Intelligence (Nature):
+ A nolid is immune to poison.
+DC 15 Wisdom (Survival)
+: A nolid’s high-pitched 
+howl can cause an enemy to become frightened, and its 
+blood can be fashioned into a potion to nullify poison

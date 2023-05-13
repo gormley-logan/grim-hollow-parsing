@@ -1,0 +1,36 @@
+===
+Faevlin
+Small fey, neutral evil
+Armor Class 15 (leather armor, shield)
+Hit Points 10 (3d6)
+Speed 30 ft.
+str dex con int wis cha
+ 8 (–1) 14 (+2) 10 (+0) 10 (+0) 12 (+1) 11 (+0)
+Skills
+Stealth +4
+Senses darkvision 60 ft., passive Perception 11
+Languages Goblin, Sylvan
+Challenge 1/4 (50 XP)
+Proficiency Bonus +2
+Fey Touched.
+Magic can’t put the faevlin to sleep.
+Only a creature of the fey type can cause the faevlin to
+become charmed, and a faevlin always knows if a nonfey
+creature attempted to render it charmed.
+Sneaky.
+The faevlin can use a bonus action to take the
+Hide action.
+actions
+Scimitar.
+Melee Weapon Attack: +4 to hit, reach 5 ft.,
+one target.
+Hit: 5 (1d6 + 2) slashing damage.
+Shortbow.
+Ranged Weapon Attack: +4 to hit, range
+80/320 ft., one target.
+Hit: 5 (1d6 + 2) piercing damage.
+reactions
+Fey Fade.
+When an attack misses a faevlin, the faevlin
+can teleport up to 30 feet in a random direction, arriving
+in a safe, unoccupied space.

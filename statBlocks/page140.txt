@@ -1,0 +1,48 @@
+===
+Grim Piper
+Medium fey, chaotic evil
+Armor Class 13
+Hit Points 52 (8d8 + 16)
+Speed 30 ft.
+str dex con int wis cha
+ 10 (+0) 16 (+3) 14 (+2) 12 (+1) 8 (-1) 17 (+3)
+Skills
+Perform +5, Stealth +5
+Senses darkvision 60 ft., passive Perception 9
+Languages any three languages
+Challenge 2 (450 XP)
+Proficiency Bonus +2
+actions
+Multiattack.
+The piper makes two melee attacks.
+Dagger.
+Melee or Ranged Weapon Attack
+: +5 to hit, reach 5 ft., one creature.
+Hit
+: 5 (1d4+3) piercing damage. Cruel Notes.
+The piper targets a creature within 30 feet
+that is charmed by its luring melody. The target must
+succeed on a DC 13 Wisdom saving throw. On a failure, the
+target takes 13 (3d8) psychic damage and has disadvantage
+on saving throws for 1 minuite. Success results in half as
+much damage and no disadvantage on saving throws.
+Luring Melody.
+The piper plays a magical melody on
+its flute. Every living creature within 120 feet of the piper
+who hears the melody must succeed on a DC 13 Wisdom
+saving throw or be charmed until the melody ends. The
+piper must take a bonus action on its subsequent turns
+to continue playing. It can stop playing at any time. The
+song ends if the piper is incapacitated.
+While charmed by the piper, a target is incapacitated.
+If the charmed target is more than 5 feet away from the
+piper, the target must move on its turn toward the piper
+by the most direct route, trying to get within 5 feet. It
+doesn’t avoid opportunity attacks, but before moving into
+damaging terrain, such as lava or a pit, and whenever
+it takes damage from a source other than the piper, the
+target can repeat the saving throw. A charmed target can
+also repeat the saving throw at the end of each of its turns.
+If the saving throw is successful, the effect ends on it.
+A target that successfully saves is immune to this
+piper’s music for the next 24 hours.

@@ -1,0 +1,53 @@
+===
+Epachrach
+Huge fey, neutral
+Armor Class 15 (natural armor)
+Hit Points 149 (13d12 + 65)
+Speed 40 ft.
+str dex con int wis cha
+ 24 (+7) 12 (+1) 21 (+5) 4 (–3) 13 (+1) 6 (–2)
+Skills
+Perception +4
+Damage Vulnerabilities
+fire
+Damage Resistances
+bludgeoning, piercing
+Senses darkvision 60 ft., passive Perception 14
+Languages Sylvan
+Challenge 8 (3,900 XP)
+Proficiency Bonus +3
+Plant Stride (Recharge 5–6).
+Once on its turn, the
+epachrach can use 20 feet of its movement to move magically
+into one area of living plants within 5 feet of it and emerge
+from an area of living plants within 60 feet of the first,
+appearing in an unoccupied space within 5 feet of the
+second. The area of plants must be large enough to be the
+epachrach’s space, although it can be solid, such as one
+Huge tree. These plants can be animate creatures, such as
+a treant, or magical, such as the plants the
+entangle
+spell
+calls forth.
+Relentless (Recharges after a Short or Long Rest).
+If the epachrach takes 30 damage or less that would reduce
+it to 0 hit points, it is reduced to 1 hit point instead.
+Siege Monster.
+The epachrach deals double damage to
+objects and structures.
+Trampling Charge.
+If the epachrach moves at least
+20 feet straight toward a creature and then hits it with a
+tusk attack on the same turn, that target must succeed on
+a DC 18 Strength saving throw or fall prone. If the target
+is prone, the epachrach can make one hooves attack
+against it as a bonus action.
+actions
+Tusk.
+Melee Weapon Attack: +10 to hit, reach 5 ft.,
+one target.
+Hit: 25 (4d8 + 7) slashing damage.
+Hooves.
+Melee Weapon Attack: +10 to hit, reach 5 ft.,
+one prone creature.
+Hit: 29 (4d10 + 7) piercing damage.

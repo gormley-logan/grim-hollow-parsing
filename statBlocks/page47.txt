@@ -1,0 +1,62 @@
+bugbear thrallof tormach
+Medium humanoid (goblinoid), chaotic evil
+Armor Class 14 (hide armor)
+Hit Points 82 (11d8 + 33)
+Speed 40 ft.
+str dex con int wis cha
+	18	(+4)	14	(+2)	17	(+3)	6	(–2)	9	(–1)	7	(–2)
+Saving Throws
+Str +7
+Skills
+Athletics +7, Intimidation +4, Survival +2
+Senses darkvision 60 ft, passive Perception 9
+Languages Goblin
+Challenge 5 (1,800 XP)
+Proficiency Bonus +3
+Brute.
+A melee weapon deals one extra die of its
+damage when the bugbear thrall of Tormach hits with
+it (included in the attack).
+Keen Smell.
+The bugbear thrall of Tormach has advantage
+on Wisdom (Perception) checks that rely on smell.
+Lunge.
+When the bugbear thrall of Tormach makes an
+attack with a melee weapon in its hands, it can increase
+its reach by 5 feet (included in the attack).
+Rampage.
+When the bugbear thrall of Tormach reduces
+a creature to 0 hit points with a melee attack on its turn,
+the bugbear can take a bonus action to move up to half
+its speed and make a bite attack.
+Tormach’s Rage.
+The disease Tormach’s Rage causes
+a bugbear thrall of Tormach to be chaotic evil and grants
+the bugbear an extra 1d4 damage on Strength-based attacks
+(included in the attacks). Also, at the start of its turn, the
+bugbear can gain advantage on all melee weapon attack
+rolls it makes until the start of its next turn, but attack rolls
+against it have advantage until the start of its next turn.
+Any bugbear that comes into physical contact with the
+rage-infected bugbear must succeed on a DC 14 Constitution
+saving throw or contract this disease. Only
+greater restoration
+,
+similarly powerful magic, or a special herbal concoction
+(see Salvage) can cure this disease.
+actions
+Multiattack.
+The thrall of Tormach makes three
+attacks, only two of which can be glaive attacks.
+Bite.
+Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+Hit: 9 (2d4 + 4) piercing damage and, if the target is a
+bugbear, Tormach’s Rage.
+Glaive.
+Melee Weapon Attack: +7 to hit, reach 15 ft.,
+one target.
+Hit: 17 (2d10 + 1d4 + 4) slashing damage.
+Haft.
+Melee Weapon Attack: +7 to hit, reach 10 ft., one
+target.
+Hit: 11 (3d4 + 4) bludgeoning damage.

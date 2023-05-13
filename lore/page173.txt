@@ -1,0 +1,24 @@
+173
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+I
+lore
+DC 10 Intelligence (Nature):
+ Ithjars are fast-moving 
+ferocious fliers, but the more powerful of these flying 
+serpents are imbued with the power of storms and can 
+exhale lightning and thunder.
+DC 15 Intelligence (History):
+ It’s difficult to capture 
+an ithjar. They slither out of an enemy’s clutches and 
+other restraints quickly and easily.
+DC 20 Intelligence (Arcana):
+ The stormborn ithjar is 
+immune to lightning and thunder, allowing it to travel 
+within storm clouds.

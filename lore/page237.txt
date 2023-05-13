@@ -1,0 +1,86 @@
+0
+237
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+Oblivion Stalkers
+“If you hear the strange, low whistling in the darkness, run! 
+They whistle before they strike, striding out of the darkness, 
+hungry for the souls of the living.”
+Beings of Shadow
+. The learned theorize that oblivion 
+stalkers are related to shadows, sharing traits manifest-
+ing from the same dark corners of reality. It’s a fair point; 
+these foul undead are similarly strange, crawling from 
+the dark to feed upon the living. Lacking the fluid nature 
+of shadows, they are a more overt threat—a legion 
+marching forth from nothingness.
+Strange Behaviors
+. Oblivion stalkers are creatures of 
+strange fixations and dark rituals. These beings whistle, 
+sing, or howl before they strike, and they attack only 
+those who hear those sounds, though it’s uncertain how 
+the stalkers could know such a thing. Oblivion stalkers 
+don’t harm children, though they have left countless 
+orphans. Among animals, oblivion stalkers feed only 
+on canines such as wolves.
+Always More Than One
+. Oblivion stalkers come at 
+least in pairs, favoring trios and sometimes hunting 
+in sizable packs. This habit isn’t a preference, though. 
+Oddly, if a pack of oblivion stalkers is reduced to a 
+single member, the remaining creature often dissipates 
+into nothingness.
+Diverse Forms
+. Oblivion stalkers appear as a shadowy 
+and hazy version of how they appeared in life. The 
+larger the oblivion stalker, the more powerful. When the 
+stalker kills a living creature, its essence manifests in the 
+shadowy corners of the multiverse and join the ranks of 
+these horrors. However, the process is not immediate. 
+Small stalkers typically take the form of dogs or small 
+humanoids. Larger stalkers can take on a multitude of 
+forms, but share similar abilities.
+Undead Nature
+. An oblivion stalker doesn’t require 
+air, food, drink, or sleep.
+salvage
+There is a 25% chance that an oblivion stalker leaves 
+behind a gemstone when it is defeated. These stones are 
+worth between 10 and 500 gp, depending on the size 
+of the creature. There is a 10% chance that one of these 
+stones acts as a magnet to additional oblivion stalkers, 
+which appear and attack the holder of the gem at mid-
+night during a new moon. A remove curse makes the 
+gemstone safe.
+lore
+DC 10 Intelligence (History):
+ An oblivion stalker 
+is at disadvantage in daylight.
+DC 15 Intelligence (Arcana):
+ An oblivion stalker 
+is vulnerable to radiant damage and resistant to 
+nonmagical weapons.
+DC 20 Intelligence (Religion):
+ If an oblivion stalker 
+kills a mortal, it’s believed that mortal joins their 
+shadowy ranks.
+Customizing Oblivion Stalkers
+Since oblivion stalkers can drain almost any living 
+creature’s energy, they can take just about any form. 
+Some oblivion stalkers retain the natural abilities of their 
+original form. For instance, an oblivion stalker that was 
+once a wolf might retain the Pack Tactics trait. Similarly, 
+a boar could possess a version of Charge, draining its 
+prey while adding slashing damage and the possibility 
+of knocking their victim prone.
+Keep one special ability that makes sense for a crea-
+ture of the stalker’s former form without affecting the 
+Challenge of the stalker. Avoid bestowing an oblivion 
+stalker any ability that is magical, grants the stalker a 
+ranged attack, or expands its resistances or immunities.

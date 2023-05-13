@@ -1,0 +1,37 @@
+Worms-in-the-Walls
+“It was hideous! Hundreds of writhing worms 
+squeezed from the walls and swarmed over poor 
+Mugsy. His screams didn’t last long.”
+Creatures from Beyond
+. Most hope the Aether 
+Kindred slumber still, but the disgusting creatures 
+known as worms-in-the-walls have been seen with an 
+alarming frequency near places of learning or powerful 
+magic. Their ties to the Aether Kindred are irrefutable.
+Hidden Infestations
+. These gray-colored worms are 
+roughly 1 foot long and exceedingly thin. They hide in the 
+walls of old decrepit buildings, especially dwellings where 
+arcane magic suffuses the area. They can merge, creating 
+fast-moving swarms with frightening intelligence.
+Alien Minds
+. These worms can speak telepathically and 
+mentally assault threats. Strange markings are carved 
+into structures infested with the aberrations; however, no 
+one has yet deciphered their meaning
+salvage
+Alchemists given the carcasses of at least ten worms, and 
+200 gp worth of alchemical regents, can craft a 
+potion of 
+mind reading.
+ This task requires 8 hours and a successful 
+DC 13 Intelligence check using alchemist’s tools.
+lore
+DC 10 Intelligence (Arcane)
+: Individually, the worms 
+are intelligent, but they gain genius-level intellect when 
+gathered in a swarm. 
+DC 15 Intelligence (Arcane)
+: The bites of the creatures 
+can briefly poison victims. Swarms of these creatures can 
+psionically cast powerful magics that affect the mind.

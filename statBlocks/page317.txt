@@ -1,0 +1,69 @@
+===
+Soman Vampire Berserker
+Medium undead, any alignment
+Armor Class 15 (studded leather)
+Hit Points 90 (12d8 + 36)
+Speed 40 ft.
+str dex con int wis cha
+ 17 (+3) 16 (+3) 16 (+3) 11 (+0) 12 (+1) 15 (+2)
+Saving Throws
+Wis +4
+Skills
+Intimidation +5, Perception +4
+Damage Vulnerabilities
+radiant
+Damage Resistances
+necrotic
+Senses darkvision 60 ft., passive Perception 14
+Languages Soman and one other language
+Challenge 5 (1,800 XP)
+Proficiency Bonus +3
+Evasion.
+If the vampire is subjected to an effect that
+allows it to make a Dexterity saving throw to take only half
+damage, the vampire instead takes no damage if it succeeds
+on the saving throw, and only half damage if it fails.
+Feeding Frenzy.
+When the vampire regains hit points
+from using its bite, it has advantage on its attack rolls
+until the end of its next turn.
+Forbiddance.
+The vampire can enter a residence only
+with an invitation from one of that home’s residents. If
+the vampire enters a house uninvited and involuntarily,
+it takes 1d10 psychic damage at the end of each of its
+turns while it remains there.
+Misty Step (Recharge 5–6).
+As a bonus action, the
+vampire disappears in shadowy mist and teleports up to
+30 feet to an unoccupied space it can see.
+Sunlight Inability.
+The vampire has disadvantage on
+attack rolls and ability checks while in direct sunlight.
+actions
+Multiattack.
+The vampire attacks twice with its
+longsword and once with its bite.
+Bite.
+Melee Weapon Attack: +6 to hit, reach 5 ft., one
+creature.
+Hit: 5 (1d4 + 3) piercing damage, and the target
+must succeed on a DC 14 Constitution saving throw or
+take 10 (3d6) necrotic damage. The vampire regains hit
+points equal to the necrotic damage the target takes.
+Longsword.
+Melee Weapon Attack: +6 to hit, reach 5 ft.,
+one target.
+Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3)
+slashing damage if used with two hands.
+reactions
+Horrifying Revelation.
+When a creature within 30 feet
+of the vampire harms it, the vampire reveals a ghastly
+distortion of its true form to the attacker. The target must
+succeed on a DC 13 Wisdom saving throw or become
+frightened of the vampire for 1 minute. A creature can
+repeat the saving throw at the end of each of its turns,
+ending the effect on itself on a success. If a target’s saving
+throw is successful or the effect ends for it, it is immune
+to this vampire’s Horrifying Revelation for 24 hours.

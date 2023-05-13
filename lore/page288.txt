@@ -1,0 +1,50 @@
+288
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+R
+Rime Hungers
+“You almost feel sorry for them. Freezing to death is a bad way 
+to go, but they did something to cause their state. And they 
+hunger for warm flesh. I think you get my point.”
+Rime-Covered Corpses. 
+Rarely straying far from 
+where they died and never willingly wandering into 
+areas of warmth and sunlight, rime hungers are frost-
+covered, sickly blue corpses that haunt frozen regions 
+in continuous search for victims.
+Hungry Dead. 
+Rime hungers devour all forms of living 
+flesh but crave that of sapient creatures. It’s believed 
+their undead state is a curse brought on by cannibalism 
+they engaged in to stave off their original demise.
+Persistent Shamblers. 
+While they are slow and 
+will not follow their prey into warm lands, rime hungers 
+track prey with the persistence of the dead while in 
+colder lands.
+Undead Nature. 
+A rime hunger doesn’t require air, 
+food, drink, or sleep.
+salvage
+Rime hungers sometimes carry the treasures they had in 
+life. Some sages claim a rime hunger tongue dissolves in 
+a 
+potion of cold resistance
+, doubling the potion’s duration. 
+However, many alchemists consider this claim to be bunk.
+lore
+DC 10 Intelligence (Arcana):
+ A rime hunger is 
+immune to cold and vulnerable to fire damage. It can’t 
+be poisoned.
+DC 15 Intelligence (Religion):
+ One should avoid 
+the grasp of rime hungers. They can feed on the life and 
+warmth of creatures they hold, which strengthens the 
+rime hunger.

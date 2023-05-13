@@ -1,0 +1,78 @@
+===
+Death Cap
+Tiny undead, chaotic evil
+Armor Class 13
+Hit Points 50 (20d4)
+Speed 10 ft.
+str dex con int wis cha
+	13	(+1)	16	(+3)	10	(+0)	10	(+0)	10	(+0)	18	(+4)
+Saving Throws
+Wis +2
+Damage Immunities necrotic, poison
+Condition Immunities charmed, exhaustion,
+frightened, poisoned, prone
+Senses darkvision 60 ft., passive Perception 10
+Languages -
+Challenge 3 (700 XP)
+Proficiency Bonus +2
+False Appearance.
+While a death cap remains
+motionless and isn’t possessing a creature, the cap is
+indistinguishable from an ordinary object.
+actions
+Crush.
+Melee Weapon Attack: +5 to hit, reach 5 ft., one
+creature.
+Hit: 3 (1d4 + 1) bludgeoning damage, and the
+death cap attaches to the target. While attached to the
+target, the death cap can attack no other creature except
+the target but has advantage on its attack rolls. The death
+cap’s speed also becomes 0, it can’t benefit from any
+bonus to its speed, and it moves with the target.
+A creature can use an action to remove an attached
+death cap. The remover must succeed on a DC 15
+Strength (Athletics) check. A death cap can detach itself
+from the target by using 5 feet of movement.
+Possession.
+One creature the death cap is touching
+must succeed on a DC 14 Charisma saving throw or
+become possessed by the death cap. The death cap
+attaches to the possessed target, if not attached already,
+and that target loses control of its body. The death
+cap controls the body without depriving the target of
+awareness. While doing so, the death cap retains its
+alignment, Intelligence, Wisdom, Charisma, saving
+throw proficiency, immunities, and vision. It otherwise
+uses the possessed target’s statistics, gaining access to
+the target’s knowledge, class features, proficiencies, and
+languages. The death cap can possess one target at a
+time, and it can’t use its crush attack while possessing
+the target.
+Whenever the possessed target hits with a melee
+weapon, the target deals one extra die of the weapon’s
+damage. At the start of its turn, the death cap can grant
+the possessed target advantage on melee attack rolls
+until the start of its next turn. Attack rolls against the
+possessed target (not the death cap) have advantage for
+the same time.
+A creature can detach the death cap only if the
+possessed target is grappled, restrained, or incapacitated.
+The attempt provokes an opportunity attack from
+the possessed target. If the death cap is detached,
+the possession ends.
+At the end of every 24 hours after initiating the
+possession, the death cap drains the possessed target
+of one Hit Die. The target can then attempt another DC
+14 Charisma saving throw, ending the possession on a
+success. The possession also ends if the possessed target
+drops to 0 hit points, the death cap ends the possession
+as a bonus action, the death cap is turned, or an effect
+forces the death cap to end the possession.
+When the possession ends, the death cap falls to the
+ground in an unoccupied space within 5 feet of the target.
+The target is immune to this death cap’s Possession for
+24 hours after succeeding on the saving throw or after the
+possession ends.
+Hit Dice drained during a death cap’s possession can
+be regained only after the possession ends. If a possessed
+target is drained of all its Hit Dice, it dies.

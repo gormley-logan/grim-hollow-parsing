@@ -1,0 +1,38 @@
+Mouruge
+“A twisted manifestation claws its way out of the mire, looking 
+for warm flesh to feast on, driven by an insatiable hunger.”
+Black Mire Born.
+ When an evil humanoid falls in the 
+Black Mire, vines find the body. They wrap the corpse, 
+strip away flesh, and create two belts of bones that 
+cross the chest. After transformation, the sapient and 
+emotionless mouruge contends with eternal hunger 
+for flesh. It roams and consumes all corpses, while the 
+bones around its body rattle a warning.
+Kindled Hatred.
+ Some mouruges were so powerful 
+in life that their personality carries into undeath. This 
+phenomenon is so rare that no one attempts to become 
+a mouruge. Such a kindled mouruge hunts down and 
+devours those it hated in life. This hatred manifests in 
+mastery of soul fire.
+Undead Nature.
+ The mouruge doesn’t require air, 
+food, drink, or sleep.
+salvage
+The bones of one mouruge can be ground into a powder. 
+When combined with raw meat, mud, and other reagents 
+worth 100 gp, the mixture creates a magical substance 
+known as 
+gristaline
+ (see chapter 4).
+lore
+DC 10 (Intelligence (Religion):
+ A mouruge is driven 
+by the need to eat flesh, favoring that of their enemies 
+during their living years.
+DC 15 (Intelligence (Religion):
+ Kindled mouruges 
+can control fire, and they are vulnerable to holy water. 
+Such a mouruge has more self-awareness and can be 
+reasoned with.

@@ -1,0 +1,68 @@
+96
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+D
+Drakes
+“Descendants of the great dragons of the mythic past 
+still roam Etharis. They have little of the majesty of 
+their ancestors, but they’re still frightening.”
+Lesser Dragonkind.
+ The dragons most common on 
+Etharis are bestial creatures the size of wolves or horses.
+Blight Drake.
+ Blight drakes are stunted dragons, 
+twisted by diseases, to which they are very susceptible. 
+Their wings are small and useless, sometimes rotten or 
+absent. Blight drake saliva is poisonous to most creatures.
+Sea Drake.
+ A sea drake keeps to waterways, 
+tormenting sailors and fisherfolk who enter their hunting 
+grounds. These drakes can pluck an unwary mariner off 
+a vessel in the blink of an eye.
+Sky Drake.
+ Agile fliers, the sky drakes of Etharis live 
+in the mountains and other desolate areas. A sky drake 
+defends its lair ferociously, but it’s willing to negotiate 
+with those who have proven themselves stronger. Sky 
+drakes even serve as mounts in return for promises to 
+leave their homes alone.
+Prismatic Drake.
+ Said to be children of Gormadraug, 
+the Prismatic Dragon, prismatic drakes frequent the North. 
+Legends say they want to bring about the return of 
+their ancestor. Sorcerers who foolishly try to tap into 
+Gormadraug’s power can be transformed into prismatic 
+drakes. Visions force them to perform tasks that might 
+lead to waking the sleeping dragon.
+salvage
+Dragons are rare on Etharis, so materials from their 
+corpses fetch a good price. A dragon’s corpse can be sold 
+for at least 100 gp times the Challenge of the monster.
+Someone who has proficiency with alchemist’s supplies 
+can reduce the brain of a prismatic drake into an oil that 
+can be used to fashion one 
+arrow of dragon slaying
+. Brewing 
+the oil takes 5 days of work, reagents worth 2,000 gp, and 
+a successful DC 17 Intelligence or Wisdom check. Making 
+the arrow is a trivial task, but treating it properly with the 
+oil takes 5 more days of work.
+lore
+DC 15 Intelligence (Nature):
+ Sea drakes are cunning 
+grapplers resistant to cold, sky drakes are adept fliers 
+and have a bite charged with lightning, and blight 
+drakes collect diseases that don’t kill them but make for 
+a toxic bite.
+DC 20 Intelligence (Arcana):
+ Prismatic drakes are 
+the rarest drakes, rumored to be sorcerers transformed 
+into dragons after they foolishly connected their minds 
+to Gormadraug, the slumbering Prismatic Dragon. 
+These drakes can cast spells.

@@ -1,0 +1,80 @@
+84
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+D
+Disavowed
+“Don’t go to the temple. Something sinister 
+has claimed it. Seek shelter elsewhere.”
+Fallen Celestials.
+ When the gods fell, their agents 
+struggled with how to go on. Most served the Arch 
+Seraphs, who claimed their fallen god’s mantle. Others 
+found a different path. Either by choice or through an 
+Arch Daemon’s corruption, these celestials embraced 
+evil. Such fallen celestials are known as disavowed.
+Avarice Seraphs.
+ Many of the god Jezra’s seraphs 
+fell victim to Gorodyn’s greed-filled words and joined 
+the forces of the Arch Daemon of Avarice, becoming 
+avarice seraphs. These beings still resemble the ideal of 
+a glorious, winged angel. However, an avarice seraph’s 
+wings are black with silver-tipped feathers. Its eyes are 
+also black, dripping with oily tears. The seraph has two 
+faces on opposite sides of its head. One face smiles while 
+the other frowns. The seraph rotates its head, displaying 
+the face that suits its situation.
+Gluttony Seraphs.
+ Arch Daemon Sitri’s temptations 
+seduced seraphs who became gluttony seraphs, who 
+now help further the Tempter’s plans. Seeing their gods 
+fall made these celestials recognize the futility of their 
+previous ideals. Such seraphs have given in to their 
+desires, particularly gastronomic ones, becoming giant 
+froglike beings. Stunted wings sprout from a gluttony 
+seraph’s rotund form, allowing it awkward flight. 
+A gluttony seraph has an enormous mouth, and the 
+largest of them can swallow other creatures.
+salvage
+An avarice seraph’s metal-tipped feathers can be sold. 
+Those of the lesser seraph are worth 250 gp, while those 
+of the seraph are worth 1,000 gp.
+Someone who has proficiency with alchemist’s supplies 
+can melt the metal on the feathers of an avarice seraph 
+and use some feathers as fletching to make one arrow of 
+celestial slaying for a lesser seraph, or four such arrows 
+from the seraph. Making one arrow takes 7 days of work, 
+reagents worth 1,000 gp, and a successful DC 17 Intelligence 
+or Wisdom check.
+The saliva of a gluttony seraph functions as antitoxin—
+three doses can be collected from a lesser seraph, while 
+ten can be gathered from a seraph. Someone who has 
+proficiency with alchemist’s supplies or an herbalism 
+kit can mix two doses of this saliva with reagents worth 
+50 gp and brew the mixture for 4 hours. The resulting 
+elixir affects the imbiber as a 
+protection from poison
+ spell, 
+curing a random poison in the drinker’s system.
+lore
+DC 10 Intelligence (History):
+ The disavowed are 
+seraphs fallen to evil. Each still retains a measure of its 
+celestial power.
+DC 15 Intelligence (Religion):
+ From their celestial 
+heritage, disavowed retain magic resistance and resistance 
+to nonmagical attacks, as well as immunity to being 
+charmed, exhausted, and frightened. Even in a fallen 
+state, the seraph imparts magic and radiant damage to its 
+attacks. Gluttony seraphs are also immune to poison.
+DC 20 Intelligence (Arcana):
+ Avarice seraphs can 
+rouse the greed in any creature. Huge gluttony seraphs 
+can swallow and digest people, although their lesser 
+kin can’t.

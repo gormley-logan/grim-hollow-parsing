@@ -1,0 +1,58 @@
+48
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+===
+Cadeer
+Small monstrosity, chaotic neutral
+Armor Class 13
+Hit Points 22 (5d6 + 5)
+Speed 30 ft.
+str dex con int wis cha
+	8	(–1)	16	(+3)	12	(+1)	17	(+3)	11	(+0)	10	(+0)
+Skills
+Arcana +5, Investigation +5, Perception +2
+Senses darkvision 60 ft., passive Perception 12
+Languages understands four languages but can’t speak
+Challenge 1/2 (100 XP)
+Proficiency Bonus +2
+Antler Casting (Recharges after a Short or Long
+Rest).
+The cadeer can innately cast any spell stored in its
+antlers, requiring no components. Its spellcasting ability is
+Intelligence (spell save DC 13, +5 to hit with spell attacks).
+If the spell is a cantrip, the cadeer casts it at 5th level.
+Magic Sense.
+The cadeer can cast
+detect magic
+and
+identify
+at will, requiring no components. Given 1 minute
+to concentrate, the cadeer can sense magic within 3 miles
+outdoors and 300 feet underground. Using this greater
+sense, the cadeer senses only significant sources of magic,
+including powerful magical beings, the influence of other
+planes, strong ongoing spells, and so on. The cadeer has
+advantage on Intelligence (Investigation) and Wisdom
+(Perception) checks to discern magic.
+actions
+Ram.
+Melee Weapon Attack
+: +5 to hit, reach 5 ft., one target. Hit
+: 5 (1d4 + 3) bludgeoning damage. If the cadeer has a spell that deals damage stored in its antlers, this
+attack deals an extra 2 (1d4) damage of one type that
+spell deals.
+reactions
+Spell Absorption.
+If the cadeer is the target of a spell
+or included in the area of a spell, provided the spell is
+2nd level or lower, the cadeer can absorb the spell with
+its antlers. If the cadeer does so, the spell has no effect,
+and the cadeer then stores that spell in its antlers. When
+the cadeer absorbs a spell, any spell previously stored in
+the antlers dissipates harmlessly.

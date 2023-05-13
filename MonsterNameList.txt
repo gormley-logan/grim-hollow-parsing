@@ -1,0 +1,408 @@
+amorphous horror
+whipskein horror
+shifting hulk
+angel of empyreus
+anguisher
+animated flame tongue
+apparmarole
+tallow toad
+chalk chatterling
+inkfester
+inquisitor hunter
+inquisitor knight
+inquisitor priest
+inquisitor judge
+inquisitor warder
+faith finch
+pox dog
+sitri cat
+bladewhirl
+blazehorn
+blightwind
+deathmoss
+bogfoul
+forgeblight
+ancient blightscale dragon
+adult blightscale dragon
+young blightscale dragon
+blightscale dragon wyrmling
+blood brooder
+blood bulb
+blood ooze
+blood tracker
+bloodwood giant
+bloodwood chieftain
+bloodwood vine caller
+bloody avenue
+bog crawler
+bolejack
+bone trader
+braerog
+rage-infected bugbear
+bugbear thrall of tormach
+cadeer
+candlelight daemon
+thornlamm
+caprathorn
+carvaloth
+catacomb haunt
+corporeal cauchemange
+incorporeal cauchemange
+cauchemange larva
+blightwalker
+champion of filth
+chapped brute
+chapped brute abomination
+awakened chapped brute
+chiropteran behemoth
+the churning
+coldfire ooze
+mourning minstrel
+dirgemaster
+coral grazer larva
+coral grazer
+corpse walker
+ancient corpse walker
+ corpse wisp
+crawling grave
+tormach cultist
+tormach zealot
+champion of tormach
+daemon oak thrall
+daemon oak
+danxoni
+dark mist stalker
+darkfeather
+dawndrinker
+death cap
+avarice seraph
+lesser gluttony seraph
+lesser avarice seraph
+gluttony seraph
+disembodied arcanist
+disembodied commoner
+doom boar
+doomcaller
+downcast mercenary
+downcast apostate
+downcast sangromancer
+drab sludge
+blight drake
+sea drake
+sky drake
+prismatic drake
+living dream
+living nightmare
+katoche
+dreamer somnolist
+dreamer snoop
+eagal sithe
+eater of orbs
+ebon knight steed
+ebon knight
+eldritch herald
+eldritch priest
+empyrean brazen bull
+epachrach
+andora
+clockwork horror
+llanna deyern
+gillian hammerstorm
+claunt mamona
+abree simoni
+grimaldo simoni
+faevlin
+fate cat
+infernal tormentor
+infernal contractor
+fractured noble
+fractured socialite
+fzeglaich
+fzeg
+garish augment
+gasdra
+giant gasdra
+gasper
+gegazol
+beast gnoll
+venomous gnoll
+gnoll brute
+rampage gnoll
+gore elemental
+gozomite
+grief eater
+grim piper
+grinstagger
+gripper
+swarm of grotesquerie minions
+grotesquerie
+grudgel
+grudgel strategist
+grudgel battlemind
+hag-blighted
+harvester of lies
+hedron
+ring of fire
+hell’s reach
+hermit skull
+hive haunt
+hivewolf matriarch
+hivewolf
+horror flit breeder
+horror flit swarm
+horror flit hunter
+horror-out-the-box
+hourglass widow
+hraptnon
+carnivorous cow
+edacious equine
+esurient elephant
+dread llama
+hungerer snake
+hungerer elk
+hungerer wolf
+hurrock
+elder hurrock
+ancient hurrock
+inkwalker
+insic
+stormborn ithjar
+ithjar
+jespaith
+keppmir
+keppmir stalker
+keppmir king
+knifetooth warlord
+knifetooth slayer
+knifetooth hunter
+knifetooth firebrand
+kokela
+the laethlyn
+laneshi necromancer
+laneshi soldier
+leeching willow
+lenchtahg
+lich troll
+zombie troll
+lindwyrm
+lithobel
+drug-crazed marauder
+alchemical berserker
+living toxin
+lupilisk
+lupilisk elder
+lupilisk whelp
+werewolf ravager
+werebear ascetic
+lyfaren
+magebane ooze
+thunderblossom
+lightning vine
+flash freeze
+maiden’s hair, lesser
+maiden’s hair, greater
+malcinder
+malcinder alpha
+malefic broker
+malikirian imp
+marra
+maskenmagier
+jungeist
+mausgeist
+memori lich
+young meyana
+meyana
+mjork
+mjork charger
+mjork burner
+mjork asher
+mjork sootling swarm
+mjork sootling
+kobold
+morbus kobold elder
+mothfolk
+mouruge
+kindled mouruge
+mud zombie
+mukad larva
+mukad worker
+mukad droner
+mukad warrior
+mukad larva swarm
+mukad progenitor
+nacambra
+nacambraan sorcerer
+nether spider
+night serpent
+nolidir
+nolid
+oblivion leaper
+oblivion whistler
+oblivion brute
+oblivion juggernaut
+ogre of the vale
+ogre swine
+ogresh sage
+ogresh champion
+oozing vulture
+ordeal tree
+master outlaw
+outlaw
+pactbreaker
+panjaian alondon
+panjaian morakeshi
+panjaian citrolachi
+panjaian gormadraugon
+panjaian ilharan
+blightworm ascendant
+blightworm warlock
+blightworm
+pesta
+master plague doctor
+plague doctor
+poffer
+poppet
+poppet fiend
+potbelly
+fireborn troll flamecaller
+fireborn troll
+seaborn troll fogcaller
+seaborn troll
+stoneborn troll contemplative
+stoneborn troll
+windborn troll infiltrator
+windborn troll
+puck
+puck tree
+puck shrub
+putrefaction slug
+putrid giant
+quake drake
+quiet one
+red quoxxarie
+white quoxxarie
+black quoxxarie
+gray quoxxarie
+rabenhex
+raven of ill omen
+elder red hag
+red hag
+remorseful storm
+restless lumberer
+resurrection horror
+returned hunter
+rime hunger
+rougaugh
+runa banasár
+sand giant
+sand giant monarch
+sand giant caller
+scream thief
+psychic fragment swarm
+psychic fragment
+celestial campaigner
+celestial celebrant
+eye of zabriel
+empyrean knight
+the bloodied
+shadow mauler
+shadowsteel ghast
+shadowsteel ghoul
+shatter corpse
+shrieking mandrake
+skeleton rifler
+skeleton cannoneer
+skeleton commander
+skinweaver
+skywailer
+sleep gulper
+slimm
+slumbering titan
+young snarite
+old snarite
+adult snarite
+soman vampire berserker
+soman vampire sangromancer
+soman vampire noble
+spythronar sac
+spythronar web
+spythronar swarm
+withered steed
+ghost mustang
+crimson stallion
+stygian bat
+styrkvisnar
+sunwraith
+suture golem
+svangras
+swarm of ears
+tachna gallery
+tachna
+tangle weed
+tar creep
+tar juggernaut
+thornhost
+toymaker
+box-bound jack
+dolly
+marie o’nett
+bloody teddy
+trennensel
+unfinished
+corpsejaw
+eye crawler
+eye crow
+flatback beetle
+goldmane boar
+frostbite fox
+jelly
+knifewing
+mold spider
+ormwurm
+scuttling maw
+shieldhead
+sloth galloper
+torcheater
+urban ooze
+diminished urban ooze
+giant urban ooze
+vessel shard
+vitebriate
+vooran
+wandering head
+wechselkind glamourist
+wechselkind cutpurse
+wechselkind plague cultist
+weeping lord
+weeping zombie
+whelmer
+witch owl cultist
+witch owl hexta
+witch owl
+wolfentroika
+wood weird trapper
+wood weird seeder
+worms-in-the-walls swarm
+worm-in-the-wall
+wretched reveler
+wretched driver
+wretched master of ceremonies
+xakalonus
+yggdrasili drone
+yggdrasili cloud
+yggdrasili crown
+zabrielite truthseeker
+vampire spawn
+young vampire
+adult vampire
+ancient vampire
+bugbear vampire (young)
+vampire, downcast (adult)
+dragonborn vampire (young)
+dreamer vampire (adult)
+dwarf vampire (adult)
+elf vampire (ancient)
+gnome vampire (adult)
+halfling vampire (young)
+laneshi vampire (adult)
+ogresh vampire (adult)

@@ -1,0 +1,48 @@
+Animated 
+Flame Tongue
+“A sword that flies around by itself is already quite frightening. 
+Adding fire to the mix sure doesn’t make it better.”
+Flourishing Blades
+. 
+Infused with arcane life, animated 
+flame tongues dance through the air leaving trails of 
+embers behind them as they seek foes to slay. Animated 
+flame tongues fight with the skill of a seasoned duelist.
+Honorbound. 
+Animated flame tongues can be created 
+in many ways, but the most common way is when a 
+magical sword’s attuned wielder is killed with magical 
+fire. The sword becomes mobile and semi-sentient, 
+seeking to defeat those who killed its master, and anyone 
+who uses magic to destroy life. This makes animated 
+flame tongues a particular risk to those who wield magic.
+Constructed Nature. 
+An animated flame tongue 
+doesn’t require air, food, drink, or sleep. The magic that 
+animates an animated flame tongue is dispelled when 
+the construct drops to 0 hit points. An animated flame 
+tongue reduced to 0 hit points becomes inanimate and is 
+too damaged to be of much use or value to anyone.
+salvage
+The animated flame tongue is made from an enchanted 
+metal. Someone who collects four animated flame tongues 
+can craft a 
++1 longsword 
+This requires a proficient weap-
+onsmith to succeed on a DC 10 Strength (Athletics) check 
+after working for 24 hours and using 250 gp of components. 
+It’s rumored that the longswords can be turned into 
+flame tongues again with the proper ritual, but no one has 
+confirmed those rumors yet.
+lore
+DC 10 Intelligence (Nature)
+: The animated flame 
+tongue is resistant to fire damage. 
+DC 15 Intelligence (History)
+: An animated flame 
+tongue’s attacks are magical.
+DC 20 Intelligence (Arcana)
+: An animated flame tongue 
+can be rendered incapacitated by the 
+dispel magic
+ spell.

@@ -1,0 +1,123 @@
+===
+Carnivorous Cow
+Large monstrosity, unaligned
+Armor Class 11 (natural armor)
+Hit Points 30 (4d10 + 8)
+Speed 40 ft.
+str dex con int wis cha
+  18 (+4) 10 (+0) 15 (+2) 2 (–4) 10 (+0) 3 (–4)
+Senses passive Perception 10
+Languages —
+Challenge 1 (200 XP)
+Proficiency Bonus +2
+Charge.
+If the carnivorous cow moves at least 20 feet
+straight toward a creature, the cow can make one hooves
+attack against it as a bonus action.
+actions
+Gore.
+Melee Weapon Attack: +6 to hit, reach 5 ft.,
+one target.
+Hit: 11 (2d6 + 4) piercing damage.
+Hooves.
+Melee Weapon Attack: +6 to hit, reach 5 ft.,
+one target.
+Hit: 13 (2d8 + 4) piercing damage.
+===
+Edacious Equine
+Large monstrosity, unaligned
+Armor Class 12 (natural armor)
+Hit Points 30 (4d10 + 8)
+Speed 50 ft.
+str dex con int wis cha
+  19 (+4) 12 (+1) 15 (+2) 2 (–4) 12 (+1) 6 (–2)
+Senses passive Perception 11
+Languages —
+Challenge 1 (200 XP)
+Proficiency Bonus +2
+Charmed Bite.
+If the edacious equine hits a charmed
+target with a hooves attack, it can make one bite attack
+against the target as a bonus action.
+actions
+Multiattack.
+The edacious equine uses three-eyed gaze
+and the makes one melee attack.
+Bite.
+Melee Weapon Attack
+: +6 to hit, reach 5 ft., one target.
+Hit
+: 11 (2d6 + 4) piercing damage. Hooves.
+Melee Weapon Attack: +6 to hit, reach 5 ft.,
+one target.
+Hit: 13 (2d8 + 4) piercing damage.
+Three-Eyed Gaze.
+The edacious equine blinks its three
+eyes at one creature it can see within 30 feet of it that can
+see it. The target must make a DC 12 Wisdom saving
+throw or become charmed by the equine until the end
+of the equine’s next turn. A creature is restrained while
+charmed in this way. A successful save makes the target
+immune to any edacious equine’s gaze for 24 hours.
+===
+Esurient Elephant
+Huge monstrosity, unaligned
+Armor Class 13 (natural armor)
+Hit Points 114 (12d12 + 36)
+Speed 50 ft.
+str dex con int wis cha
+  23 (+6) 11 (+0) 16 (+3) 3 (–4) 12 (+1) 6 (–2)
+Senses passive Perception 11
+Languages —
+Challenge 5 (1,800 XP)
+Proficiency Bonus +3
+Quill Regrowth.
+The esurient elephant has eighteen
+quills. Used quills regrow when the elephant finishes a
+long rest.
+Trampling Charge.
+If the esurient elephant moves
+at least 20 feet straight toward a creature and then hits
+it with a gore attack on the same turn, that target must
+succeed on a DC 17 Strength saving throw or fall prone.
+If the target is prone, the elephant can make one stomp
+attack against it as a bonus action.
+actions
+Gore.
+Melee Weapon Attack: +9 to hit, reach 5 ft., one
+target.
+Hit: 22 (3d10 + 6) piercing damage.
+Stomp.
+Melee Weapon Attack: +9 to hit, reach 5 ft., one
+prone creature.
+Hit: 25 (3d12 + 6) bludgeoning damage.
+Quills.
+Ranged Weapon Attack
+: +9 to hit, range 30/60 ft., up to two targets.
+Hit
+: 8 (1d4 + 6) piercing damage and 3 (1d6) poison damage.
+===
+Dread Llama
+Medium monstrosity, unaligned
+Armor Class 11 (natural armor)
+Hit Points 19 (3d8 + 6)
+Speed 40 ft.
+str dex con int wis cha
+  14 (+2) 10 (+0) 14 (+2) 2 (–4) 10 (+0) 5 (–3)
+Senses passive Perception 10
+Languages —
+Challenge 1/4 (50 XP)
+Proficiency Bonus +2
+Hunting Cry.
+The dread llama’s cry alerts all other
+dread llamas within a 300-foot radius. Those llamas can
+double their speed for 1 minute.
+actions
+Kick.
+Melee Weapon Attack: +4 to hit, reach 5 ft.,
+one target.
+Hit: 7 (2d4 + 2) bludgeoning damage.
+Spit.
+Ranged Weapon Attack: +2 to hit, range 10/30 ft.,
+one target.
+Hit: 5 (1d6 + 2) acid damage.

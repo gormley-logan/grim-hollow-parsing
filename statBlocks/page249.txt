@@ -1,0 +1,75 @@
+===
+Pactbreaker
+Large construct, chaotic good
+Armor Class 18 (natural armor)
+Hit Points 157 (15d10 + 75)
+Speed 30 ft.
+str dex con int wis cha
+ 20 (+5) 8 (–1) 20 (+5) 6 (–2) 16 (+3) 5 (–3)
+Skills
+Perception +7
+Damage Immunities poison
+Damage Resistances
+bludgeoning, piercing, and
+slashing from nonmagical attacks that aren’t adamantine
+Condition Immunities charmed, exhaustion,
+frightened, paralyzed, petrified, poisoned
+Senses truesight 120 ft., passive Perception 17
+Languages understands Celestial and Infernal but
+can’t speak
+Challenge 10 (5,900 XP)
+Proficiency Bonus +4
+Adjustable Form.
+The pactbreaker can use its action
+to change its appearance, although it always appears
+to be a construct, or to end one effect altering its form.
+Its weapon changes appearance in response to a foe’s
+weaknesses—see Reactive Weapon.
+Magic Weapons.
+The pactbreaker’s weapon attacks
+are magical.
+Magic Resistance.
+The pactbreaker has advantage on
+saving throws against spells and other magical effects.
+Pact Breaking.
+When the pactbreaker deals damage
+to a creature bound to a contract or pact with an evil entity,
+that creature must succeed on a DC 15 Charisma saving
+throw or be unable to use features, powers, and spells
+associated with that agreement until the end of the
+pactbreaker’s next turn. This inability includes using
+or maintaining concentration on such features, powers,
+and spells.
+Pact Sense.
+The pactbreaker can sense those who have
+entered a pact with malevolent entities. It knows the
+direction and distance of any humanoid that has forged
+a fiendish or evil fey contract or warlock pact (with an
+evil patron) within 1,000 feet. If the creature is moving,
+the pactbreaker knows the direction of its movement.
+Any effect that blocks divination magic blocks this trait.
+actions
+Multiattack.
+The pactbreaker makes two attacks.
+Reactive Weapon.
+Melee Weapon Attack: +9 to hit,
+reach 5 ft., one target.
+Hit: 21 (3d10 + 5) bludgeoning
+damage and 11 (2d10) psychic damage. The second and
+subsequent times the weapon strikes the same target,
+the damage changes if the target can be harmed more
+by another damage option. Bludgeoning damage can
+become piercing or slashing, and psychic damage can
+become radiant or necrotic.
+Eldritch Leash.
+Ranged Spell Attack: +7 to hit, range 300 ft.,
+one target.
+Hit: 29 (4d12 + 3) force damage. If the target
+is a creature, it must succeed on a DC 15 Strength saving
+throw, or it can’t have a flying speed greater than 0 feet for
+1 minute. If flying, the creature falls if it fails the save by 5
+or more. Otherwise, it safely descends at 60 feet per round
+until it reaches the ground or the effect ends. A creature
+that has a natural flying speed, rather than one provided
+by an effect, can repeat the saving throw at the end of each
+of its turns, ending the effect on itself on a success.

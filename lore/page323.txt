@@ -1,0 +1,56 @@
+323
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+S
+Ghost Mustang
+“The faint stench of death surrounds a translucent horse, 
+a pale glow shining where its eyes should be. An ornate 
+saddle jingles as it stomps in place.”
+Necromancer Steeds.
+ Ghost mustangs are the favored 
+mounts of necromancers, who often create these horses 
+as an early experiment in mastering the arts of undeath. 
+While loyal to their creator, a ghost mustang avoids the 
+afterlife and endangers itself only if ordered to do so.
+Ritual Creation.
+ Ghost mustangs are ectoplasmic 
+manifestations of wild horses that died of unnatural 
+means. A spellcaster with at least one 4th-level spell 
+slot can enact this ritual, using materials worth 5,500 
+gp, which the ritual consumes. A wizard of the school 
+of necromancy must instead be 5th level. In a ritual 
+performed at night, the creator creates a 
+magic circle
+around the slain horse and places a drop of the creator’s 
+blood in each eye. The creator then incants for 6 hours. 
+The body disappears during the ritual, and the ghost 
+mustang appears to serve the creator 13 days later.
+Undead Nature.
+ A ghost mustang doesn’t require 
+air, food, drink, or sleep.
+salvage
+The ghost mustang disappears when it dies, leaving 
+behind puddles of ectoplasm. This substance can be used 
+to brew a 
+potion of invisibility
+ when combined with a hair 
+from the creator’s head and materials worth 100 gp. 
+This process requires proficiency with alchemist’s supplies, 
+a successful DC 15 Intelligence (Arcana)
+check, and 
+8 hours of work.
+lore
+DC 10 Intelligence (Religion):
+ A ghost mustang is 
+undead, made of corporeal ectoplasm. It has related 
+immunities and resistances, and it’s hard to kill.
+DC 15 Intelligence (Arcana):
+ A ghost mustang is 
+vulnerable to radiant damage, and that type of damage 
+can keep the steed from surviving a killing blow.

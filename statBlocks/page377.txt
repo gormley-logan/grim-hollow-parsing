@@ -1,0 +1,118 @@
+377
+C
+hapter
+2: V ampires
+in one fell swoop. Werebears see this tale as a cautionary
+one, respecting the myth while eradicating packs of
+vampires at every opportunity.
+Mixed Ancestries.
+People of mixed ancestries, such as
+half-elves and half-orcs, are rare. The curse of vampirism
+rebuilds the victim’s body, and the inherited traits of
+an individual war with the curse as it manifests. Very
+few survive the experience, but those who do are some
+of the strongest creatures of the night. They bring the
+strengths of their heritage and, in some cases, few of the
+weaknesses other vampires suffer.
+Wechselkind.
+A wechselkind is a construct, crafted by
+fey to replace a human child. They are naturally resistant
+to affliction The vampiric curse seems to be, in part, a
+kind of infection, which might be why no wechselkind
+vampires exist.
+vampire age
+The more time a vampire spends in the embrace of
+the curse, the more power they gain. Vampires age in
+categories, including newborn spawn, young vampires
+who have outgrown their wilder spawn tendencies,
+and adults who have matured in their vampirism and
+gained considerable might. Adults that endure for
+centuries become ancients, vampires at the pinnacle of
+vampiric power.
+Artificial or magical aging has no effect on a vampire’s
+age category. If a curse ages a young vampire 50 years,
+they remain a young vampire.
+spawn (onsetto 10 years)
+When first afflicted with vampirism, a spawn spends
+their time in thrall to a master. This bond is inherently
+strong. The master instructs the spawn in the ways of the
+vampire pack, just as an adult wolf teaches whelps. It’s
+rare for a vampire of this age to be found alone.
+A vampire spawn needs the instruction. Although a
+powerful creature, they lose their sense of self and lack
+awareness of their full capabilities. A spawn retains their
+previous intelligence but struggles to express complex
+thoughts or concepts because of pain and the distraction
+of new sensory input. These changes are excruciating,
+and the hunger is almost unbearable. Spawn attack
+recklessly to slake this horrid craving.
+In time, the spawn grows and learns enough that they
+gain more control.
+young (10 yearsto 50 years)
+A young vampire has regained a sense of self. They might
+remain in the company of their master, but the relationship
+has evolved. The young vampire has outgrown the need
+for a teacher but can’t create spawn of their own.
+Free of the pains and violent urges that plagued their
+younger existence, young vampires are still emotional
+creatures, prone to immediate and raw responses. They
+share many similarities with children. Their loyalties are
+fickle, and they coexist with a pack more for protection
+than devotion.
+Very few vampires survive this stage.
+adult (50 yearsto 250 years)
+An adult vampire has grown into their gifts. At this age,
+a vampire’s supernatural power permeates their lair, and
+they have all a legendary vampire’s speed and prowess.
+Most can also take the form of a beast, such as a bat.
+Vampires of this age have become cruel and capable.
+They enjoy playing with their prey, and some attack
+in beast form. Doing so confounds would-be monster
+hunters, since victims often believe a monstrous beast
+attacked them. Most adult vampires relish such ruses
+and believe a little terror “spices the meal.”
+Adult vampires can create spawn. At this age,
+many vampires leave one pack to form another.
+ancient (250 yearsandolder)
+A vampire who reaches the venerable age of 250 years
+or more is extremely rare. Such a vampire has significant
+control over their form and faculties. They wield tremendous
+power, and their corrupted nature triggers wicked desires.
+An ancient vampire has progeny and allies of all sorts.
+Vampires and other creatures of the night hunting with
+and for them. They employ assassins, bodyguards, and
+ne’er-do-well business agents to protect their interests.
+Bards tell tales of ancient vampires stalking through
+society’s upper echelons. Rumors spread about powerful
+people being vampires, especially if the person has a
+mixed reputation and seemingly refuses to age. If such
+a creature existed, they’d have resources to prevent the
+truth from spreading.
+vampire lairs
+A vampire chooses a comfortable, defensible location for their
+lair, often a place they knew well during their humanoid
+life. Vampire lairs usually gain a scary reputation, and a
+vampire might have few servants to keep the lair up, so an
+older vampire lair is usually in a state of disrepair.
+lair actions
+Adult and ancient vampires form a supernatural bond
+with their lair, allowing them lair actions. On initiative
+count 20 (losing initiative ties), such vampires can take
+a lair action to cause one of the following effects. The
+vampire can’t use the same effect two rounds in a row: •
+A swarm forms from the insects in the area. The vampire
+commands the swarm, which takes its turn just after
+the vampire. The swarm of insects remains until the
+vampire takes a different lair action, until the swarm is
+dispersed, or until the vampire drops to 0 hit points.
+•
+Thorny vines or bloody tenatcles erupt from the ground
+in a 30-foot radius centered on a point the vampire
+chooses within 120 feet of the vampire. This area is
+difficult terrain for creatures of the vampire’s choice.
+When the impediments appear, each creature of the
+vampire’s choice in the area must succeed on a DC 15
+Strength saving throw or be grappled (escape DC 15)
+and restrained while grappled in this way. The plants or
+tentacles retreat into the ground when the vampire uses
+another lair action or the vampire drops to 0 hit points.

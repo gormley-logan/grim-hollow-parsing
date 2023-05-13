@@ -1,0 +1,78 @@
+79
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+D
+===
+Dark Mist Stalker
+Large fey, chaotic evil
+Armor Class 16 (natural armor)
+Hit Points 136 (16d10 + 48)
+Speed 40 ft., climb 20 ft.
+str dex con int wis cha
+	19	(+4)	21	(+5)	17	(+3)	11	(+0)	15	(+2)	8	(-1)
+Saving throws
+Con +7, Wis +6
+Skills
+Perception +6, Stealth +9, Survival +6
+Senses darkvision 60 ft., passive Perception 16
+Languages Elven, Sylvan
+Challenge 9 (5,000 XP)
+Proficiency Bonus +4
+Camouflage
+. The dark mist stalker can attempt to
+hide when lightly obscured by foliage, heavy rain,
+mist, or other natural phenomena. Additionally, when
+it is hidden from a creature and misses with a ranged
+weapon attack, it remains hidden.
+Dead Eye
+. The dark mist stalker’s ranged weapon
+attacks ignore half and three-quarters cover and score
+a critical hit on a roll of 19 or 20.
+Hunter’s Stride
+. The dark mist stalker is unhindered
+by difficult terrain.
+Night Stalker
+. The dark mist stalker can see in dim
+light without penalty.
+actions
+Multiattack
+. The dark mist stalker makes three attacks
+with its hunting bow or skinning knife.
+Hunting Bow
+.
+Ranged Weapon Attack
+: +9 to hit, range 150/600 ft., one target.
+Hit
+: 18 (3d8 + 5) piercing damage, and the target must succeed on a DC 16 Strength saving
+throw or be knocked back 10 feet.
+Skinning Knife
+.
+Melee Weapon Attack
+: +9 to hit, reach 5 ft., one target
+Hit
+: 10 (2d4 + 5) slashing damage, and target much succeed on a DC 16 Constitution saving
+throw or it gains the bleeding condition (see
+Grim Hollow
+Campaign Guide
+pg. 28).
+Aim
+. The dark mist stalker selects one target it can see
+and spends its turn focusing its aim on the target, as if
+concentrating on a spell. While doing so creatures have
+advantage to hit the dark mist stalker. The dark mist
+stalker’s next hunting bow attack against that target has
+advantage and deals an extra 27 (6d8) piercing damage.
+If its concentration is broken before its next attack, the
+dark mist stalker loses the benefits of aim.
+reactions
+Skirmisher
+. When a hostile creature moves within
+5 feet of the dark mist stalker, it can make a skinning
+knife attack and move 20 feet without provoking an
+opportunity attack.

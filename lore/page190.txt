@@ -1,0 +1,53 @@
+190
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+L
+Lich Troll
+“Running away from a troll is smart. Running away 
+from a troll that casts spells is wishful thinking.”
+Botched Experiment.
+ Before research led to the creation 
+of the first soul vessel and lich, desperate wizards made 
+many failed attempts in the pursuit of immortality. Given 
+that trolls return to a hale, hearty state after most injuries, 
+some wizards decided inserting the soul into a troll’s 
+body might be the right course. The results were poor.
+Obscene Amalgamation.
+ Most lich trolls look like a 
+humanoid skull with burning eyes atop a troll’s body. 
+Due to the imperfect process, the creature lost some of 
+its arcane power. It gained the benefit of the body of a 
+regenerating giant.
+salvage
+Someone who has proficiency with jeweler’s tools or 
+woodcarver’s tools can fashion the skull of a lich troll 
+into a 
+ring of regeneration
+. Doing so takes materials worth 
+5,000 gp, 10 days of work, and a successful DC 15 Intelli-
+gence or Wisdom check. Somebody must also cast 
+greater 
+restoration
+ on the ring each day during the process. If the 
+ring’s wearer dies while wearing the ring, the soul of the 
+lich has a 25 percent chance to take over the corpse and 
+use it as a new body. But if the ring is created entirely in 
+the area of a 
+hallow
+ spell with the everlasting rest effect, 
+the tie to the lich’s soul is broken
+lore
+DC 15 Intelligence (History):
+ The lich troll is remnants 
+of early attempts of powerful spellcasters to transfer their 
+souls into trolls.
+DC 20 Intelligence (Arcana):
+ The lich troll is immune 
+to poison and resistant to necrotic damage. It regenerates 
+and can be killed only by acid, fire, or radiant damage.

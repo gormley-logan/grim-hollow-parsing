@@ -1,0 +1,136 @@
+===
+Laneshi Necromancer
+Medium humanoid (laneshi), any alignment
+Armor Class 16 (breastplate, shield)
+Hit Points 71 (11d8 + 22)
+Speed 30 ft., swim 30 ft.
+str dex con int wis cha
+13 (+1) 10 (+0) 14 (+2) 12 (+1) 17 (+3) 15 (+2)
+Skills
+Arcana +4, Medicine +6, Religion +4
+Damage Resistances
+psychic
+Senses darkvision 60 ft., passive Perception 13
+Languages Laneshi and one other language
+Challenge 6 (2,300 XP)
+Proficiency Bonus +3
+Amphibious.
+The laneshi necromancer can breathe air
+and water.
+Beast Whispers.
+The laneshi necromancer can
+innately cast
+speak with animals
+. Its spellcasting ability
+for this spell is Wisdom.
+Death Strike (Recharges after a Short or Long
+Rest)
+. When the laneshi necromancer hits with a melee
+attack, in addition to that attack’s effects, the target takes
+27 (5d10) necrotic damage. A humanoid slain by this
+damage rises at the start of the necromancer’s next turn
+as a zombie under the necromancer’s command.
+Duality of Spirit.
+The laneshi necromancer has
+advantage on Intelligence, Wisdom, and Charisma
+saving throws against magic.
+Necrotic Mastery.
+Resistance to necrotic damage
+is ineffective against necrotic damage the laneshi
+necromancer deals.
+Spellcasting.
+The laneshi necromancer is an 11th-level
+spellcaster. Its spellcasting ability is Wisdom (spell save
+DC 14, +6 to hit with spell attacks). The necromancer has
+the following cleric spells prepared: Cantrips (at will): chill touch
+,
+light
+,
+mending
+,
+spare the
+dying
+,
+thaumaturgy
+1st level (4 slots): bane
+,
+bless
+,
+guiding bolt, healing word
+2nd level (3 slots): enhance ability
+,
+hold person
+,
+lesser
+restoration
+,
+silence
+3rd level (3 slots): animate dead
+,
+mass healing word, revivify
+,
+spirit guardians
+4th level (3 slots): blight
+,
+control water
+,
+death ward
+,
+divination
+5th level (2 slots): greater restoration
+,
+scrying
+6th level (1 slot): harm
+actions
+Spear.
+Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft.
+or range 20/60 ft., one target.
+Hit: 4 (1d6 + 1) piercing
+damage or 4 (1d8 + 1) piercing damage if used with
+two hands to make a melee attack, and 9 (2d8)
+necrotic damage.
+===
+Laneshi Soldier
+Medium humanoid (laneshi), any alignment
+Armor Class 15 (breastplate)
+Hit Points 52 (8d8 + 16)
+Speed 30 ft., swim 30 ft.
+str dex con int wis cha
+ 15 (+2) 13 (+1) 14 (+2) 11 (+0) 12 (+1) 10 (+0)
+Skills
+Animal Handling +3, Athletics +4, Perception +3
+Senses blindsight 10 ft., darkvision 60 ft., passive Perception 13
+Languages Laneshi and one other language
+Challenge 2 (450 XP)
+Proficiency Bonus +2
+Amphibious.
+The laneshi soldier can breathe air and water.
+Beast Whispers.
+The laneshi soldier can innately
+cast
+speak with animals
+. Its spellcasting ability for this
+spell is Wisdom.
+Skirmisher.
+The laneshi soldier can take a bonus action
+to take the Disengage action.
+actions
+Multiattack
+. The soldier makes two melee attacks.
+Pike.
+Melee Weapon Attack: +4 to hit, reach 10 ft., one
+target.
+Hit: 7 (1d10 + 2) piercing damage.
+Net.
+Ranged Weapon Attack: +4 to hit, range 5/15 ft., one
+Large or smaller creature.
+Hit: The target is restrained.
+A creature can use its action to make a DC 10 Strength
+check to free itself or another creature in a net, ending
+the effect on a success. Dealing 5 slashing damage to
+the net (AC 10) frees the target without harming it and
+destroys the net.
+living one. This connection with the dead grants these
+mystics an intuitive grasp of necromantic magic. Laneshi
+culture has no taboos against such magic. Undead
+frequently accompany laneshi mystics.

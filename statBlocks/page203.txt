@@ -1,0 +1,103 @@
+203
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+M
+===
+Lightning Vine
+Large plant, unaligned
+Armor Class 16 (natural armor)
+Hit Points 112 (15d10 + 30)
+Speed 20 ft., climb 20 ft.
+str dex con int wis cha
+ 18 (+4) 18 (+4) 14 (+2) 7 (–2) 15 (+2) 5 (–3)
+Skills
+Athletics +7, Stealth +7
+Damage Resistances
+cold, fire
+Damage Immunities lightning
+Condition Immunities blinded, charmed, deafened,
+exhaustion, frightened, prone, unconscious
+Senses blindsight 60 ft. (blind beyond this radius),
+passive Perception 12
+Languages --
+Challenge 8 (3,900 XP)
+Proficiency Bonus +3
+False Appearance
+. While the lightning vine remains
+motionless, it is indistinguishable from ordinary plants.
+actions
+Multiattack
+. The lightning vine makes two grasp or arc
+attacks, and then it uses its stunning shock if available.
+Grasp
+.
+Melee Weapon Attack
+: +7 to hit, reach 20 ft., one target.
+Hit
+: 13 (2d8 + 4) bludgeoning damage and the target is grappled (escape DC 15). Until this grapple ends, the
+target is restrained. The lightning vine can have up to
+four Large or smaller targets grappled at a time.
+Arc
+.
+Ranged Weapon Attack
+: +7 to hit, range 30 ft., one target.
+Hit
+: 18 (4d8) lightning damage and the target cannot take reactions until the start of their next turn.
+Stunning Shock (Recharge 4-6)
+. The lightning vine
+sends a jolt of electricity along its conductive tendrils.
+Each creature grappled by the lightning vine must make
+a DC 15 Constitution saving throw or take 27 (6d8)
+lightning damage.
+===
+Flash Freeze
+Huge plant, unaligned
+Armor Class 18 (natural armor)
+Hit Points 200 (16d12 + 96)
+Speed 30 ft.
+str dex con int wis cha
+ 22 (+6) 10 (+0) 22 (+6) 1 (–5) 15 (+2) 5 (–3)
+Damage Resistances
+fire, bludgeoning, piercing
+Damage Immunities cold
+Condition Immunities blinded, charmed, deafened,
+exhaustion, frightened, prone, unconscious
+Senses blindsight 60 ft. (blind beyond this radius),
+passive Perception 12
+Languages --
+Challenge 12 (8,400 XP)
+Proficiency Bonus +4
+False Appearance
+. While the flash freeze remains
+motionless, it appears indistinguishable from a normal tree.
+actions
+Multiattack
+. The flash freeze makes three chill slam
+or two ice boulder attacks.
+Chill Slam
+.
+Melee Weapon Attack
+: +10 to hit, reach 5 ft., one target.
+Hit
+: 16 (3d6 + 6) bludgeoning damage and 9 (2d8) cold damage.
+Ice Boulder
+.
+Ranged Weapon Attack
+: +10 to hit, range 60/180 ft., one target.
+Hit
+: 22 (3d10 +6) bludgeoning damage and 16 (3d10) cold damage.
+Flash Freeze (Recharge 6)
+. The flash freeze’s
+namesake ability causes the temperature around it to
+suddenly drop, forcing all creatures within a 30-foot
+radius to make a DC 18 Constitution saving throw. A
+creature that fails the save takes 45 (10d8) cold damage
+or half as much on a successful one. A creature that
+is reduced to 0 hit points by this attack is stable and
+petrified into a statue of ice for 1 minute.

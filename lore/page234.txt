@@ -1,0 +1,40 @@
+234
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+N
+Nether Spider
+“As the venom of the large black-and-red spider acts, 
+the victim disintegrates into smoking ashes.”
+Nether Arachnids.
+ A mix of black and fiery red, these 
+large spiders glow with infernal heat. Fiends spawn 
+nether spiders in the Netherworld to patrol and defend 
+strongholds. They slip into Etharis to hunt for fresh prey, 
+which they reduce to ashy sludge to drink.
+Light-Absorbing Webs.
+ The webs of a nether spider 
+are resistant to flame, and they absorb light, making a 
+nether spider lair extremely dark.
+salvage
+Someone who has proficiency with alchemist’s supplies or 
+cook’s utensils can prepare the venom glands of a nether 
+spider with spices worth 10 gp to create a soup equivalent 
+to two flasks of alchemist’s fire. Doing so requires 4 hours 
+of work and a successful DC 13 Intelligence or Wisdom 
+check. Failure by 5 or more on this check causes the soup 
+to ignite before it can be bottled.
+lore
+DC 10 Intelligence (Arcana):
+ Nether spider venom is 
+a toxin and a magical substance that burns victims from 
+the inside out. These spiders are resistant to fire damage.
+DC 15 Intelligence (Nature):
+ The webs of a nether 
+spider aren’t just sticky, but they also absorb light. 
+They’re immune to fire damage but vulnerable to cold.

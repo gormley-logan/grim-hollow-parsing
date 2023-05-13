@@ -1,0 +1,120 @@
+15
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+A
+===
+Chalk Chatterling
+Small construct, unaligned
+Armor Class 12
+Hit Points 22 (5d6 + 5)
+Speed 25 ft., fly 25 ft.
+str dex con int wis cha
+	5	(–3)	15	(+2)	12	(+1)	4	(–3)	10	(+0)	7	(–2)
+Damage Immunities poison
+Condition Immunities charmed, exhaustion, grappled,
+paralyzed, petrified, poisoned, prone, restrained
+Senses darkvision 60 ft., passive Perception 10
+Languages — (seems to speak, but it’s gibberish)
+Challenge 1/2 (100 XP)
+Proficiency Bonus +2
+Death Burst
+. When the chalk chatterling dies, it explodes
+in a burst of dust. Any creature within 5 feet of the chalk
+chatterling must succeed on a DC 11 Constitution saving
+throw or be blinded until the end of its next turn.
+Distracting Chatter
+. Any creature that starts its turn
+within 30 feet of and able to hear the chalk chatterling
+must succeed on a DC 11 Wisdom saving throw or be
+unable to cast or maintain concentration on a spell. Con-
+structs and undead are immune. A creature who intended
+to cast a spell can choose another course of action.
+Water Weakness
+. If the chalk chatterling is doused
+in water or ends its turn submerged in water, the chalk
+chatterling takes 3 (1d6) acid damage. Maximize this
+damage if the water is soapy.
+actions
+Dust Whip
+.
+Melee Weapon Attack
+: +4 to hit, reach 5 ft., one target.
+Hit
+: 7 (2d4 + 2) slashing damage. Maddening Chatter (Recharge 6).
+Each creature
+within 30 feet of and able to hear the chalk chatterling
+must make a DC 11 Wisdom saving throw, taking 7
+(2d6) psychic damage on a failed save, and half as much
+damage on a successful one. Constructs and undead are
+immune. A creature that fails the saving throw can’t take
+reactions until the end of the chalk chatterling’s next turn.
+===
+Inkfester
+Large construct (shapechanger), unaligned
+Armor Class 12
+Hit Points 60 (8d10 + 16)
+Speed 30 ft., climb 30 ft.
+str dex con int wis cha
+	11	(+0)	15	(+2)	14	(+2)	5	(–3)	10	(+0)	12	(+1)
+Skills
+Stealth +4
+Damage Immunities poison
+Damage Resistances
+bludgeoning, piercing, and
+slashing from nonmagical attacks
+Condition Immunities charmed, exhaustion, grappled,
+paralyzed, petrified, poisoned, prone, restrained
+Senses darkvision 60 ft., passive Perception 10
+Languages —
+Challenge 3 (700 XP)
+Proficiency Bonus +2
+Death Burst
+. When an inkfester dies, it explodes in a
+burst of ink. Any creature within 5 feet of the inkfester
+must succeed on a DC 12 Constitution saving throw or
+be blinded until the end of its next turn.
+Shapechanger.
+The inkfester’s normal form is a two-
+dimensional pattern of runes on a flat surface. Until it
+takes an action or moves, the inkfester is indistinguishable
+from ink on that surface. As part of its action to attack, the
+inkfester can change form.
+Spider Climb.
+The inkfester can climb difficult surfaces,
+including upside down on ceilings, without needing to
+make an ability check.
+Water Weakness
+. If the inkfester is doused in water or
+ends its turn submerged in water, the inkfester takes 3 (1d6)
+acid damage. Maximize this damage if the water is soapy.
+actions
+Fearful Glyphs
+. The inkfester chooses up to two crea-
+tures within 30 ft. of and able to see it. Each target must
+succeed on a DC 12 Wisdom saving throw or take 8 (2d6 + 1)
+psychic damage from disturbing symbolism and imagery.
+Consuming Mist
+. The inkfester takes on the form
+of a cloud of dark ink. In this form the inkfester has a
+fly speed of 20 feet and can hover, and it can occupy a
+hostile creature’s space. In this form, the inkfester has
+advantage on Strength, Dexterity, and Constitution
+saving throws, and it’s immune to nonmagical damage
+other than from acid or water.
+Each creature that starts its turn in the inkfester’s space
+must make a DC 12 Strength or Dexterity saving throw
+(target’s choice). On a failure, a target takes 9 (2d6 + 2)
+acid damage. A Large or smaller creature is also grap-
+pled (escape DC 12). On a successful save, the target
+takes half the damage and isn’t grappled. Any creature
+that remains in the inkfester’s space can’t breathe.
+A creature within 5 feet of the inkfester can pull a creature
+or object out of it by taking an action and succeeding on
+a DC 12 Strength (Athletics) check. However, the rescuer
+takes 3 (1d6) acid damage.

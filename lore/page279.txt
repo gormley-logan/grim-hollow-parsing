@@ -1,0 +1,28 @@
+salvage
+Someone who has proficiency with alchemist’s supplies 
+can brew and refine the blood of one quoxxarie with 
+reagents worth 100 gp to make a 
+potion of relentlessness
+(see chapter 4). The process takes 8 hours, and the 
+alchemist must succeed on a DC 15 Intelligence or 
+Wisdom check.
+lore
+DC 10 Intelligence (History):
+ The four kinds of 
+quoxxarie are distinguished by their different colors. Red is 
+the most common, while gray is the deadliest and rarest.
+DC 15 Intelligence (Nature):
+ Quoxxaries are 
+aggressive, fast, and ruthless. They respond to attacks 
+with crushing blows and are impossible to poison.
+DC 20 Intelligence (Arcana):
+ Four quoxxaries of 
+differing colors fighting alongside one another makes a 
+deadly combination. Their auras complement each other, 
+spelling big trouble for the quoxxaries’ enemies.
+GM Advice:
+ Overlapping auras of quoxxaries can be both 
+powerful and difficult to keep track of, potentially slowing 
+combat. Use them with care. On the other hand, a powerful 
+party that might be difficult to challenge in combats should 
+find multiple quoxxaries can be part of a very tough fight.

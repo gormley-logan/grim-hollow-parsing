@@ -1,0 +1,42 @@
+Malcinder
+“A shadowy form moves silently toward its 
+ prey, stalking with precision. Sudden flames 
+erupt as the malcinder roars and leaps into the 
+air to crush its target to the ground.”
+Infernal Hunters.
+ Malcinders sometimes escaped 
+the Netherworld, forming small hunting packs found in 
+every region. They suppress their infernal nature when 
+hunting and resting for stealth, dusky skin concealing 
+them in the darkness.
+Born in Flames.
+ When a malcinder attacks, its body 
+hardens like cooling lava, and flames glow through its 
+skull. It harnesses this infernal fire within its whiplike 
+tail to hurl flame.
+Burning Leader.
+ The strongest of malcinders leads a 
+pack. This alpha is the largest in the group and the best 
+hunter. A malcinder alpha draws attention so the pack 
+can attack from all sides.
+salvage
+When a malcinder dies, the flames within its body go out, 
+and the corpse hardens like volcanic rock. The claws and 
+fangs from one malcinder corpse make a powder that 
+someone who has proficiency with alchemist’s supplies 
+can make into a 
+potion of speed
+. Doing so requires other 
+reagents worth 1,000 gp, 8 hours of work, and a successful 
+DC 15 Intelligence (Arcana) check.
+lore
+DC 10 Intelligence (Religion:
+ Malcinders are fiends 
+immune to fire.
+DC 15 Intelligence (History):
+ A malcinder alpha 
+coordinates its pack efficiently. Slaying this leader can 
+make the pack much less dangerous.
+Malcinders are prone to following stronger fiends. 
+Therefore, a creature with fiendish ancestry can 
+tame a malcinder.

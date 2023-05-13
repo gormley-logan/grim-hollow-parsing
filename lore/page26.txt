@@ -1,0 +1,60 @@
+Blight Elementals
+“In places where the land is twisted from its natural state, 
+elementals can be affected. Their poison spreads quickly, 
+creating more of their kind, until the blight covers everything.”
+Affront to Nature.
+ Whether through a brush with 
+powerful malevolence or unwise experiments, elementals 
+can be corrupted, turning them into blighted forms. Fey 
+and others with a connection to nature have an instinctive 
+aversion to these creatures.
+Toxic Magic.
+ Blighted elementals are sources of poison, 
+carrying their corruption with them and spreading it to 
+new places. They multiply rapidly and carry death to the 
+unwary. For those with sinister intentions though, they 
+can be an excellent source of dangerous, potent ingredients 
+for potions or poison.
+salvage
+The remains of a blight elemental can be used to produce 
+one of two concoctions. Each elemental leaves enough 
+residue for three doses, which can be divided among 
+the brews created. Someone who has proficiency with 
+alchemist’s supplies or a poisoner’s kit can use one 
+portion of the residue and other materials worth 
+50 gp to produce one pale tincture. Producing the 
+tincture requires 1 day of work and a successful DC 
+13 Intelligence or Wisdom check. Someone who has 
+proficiency with alchemist’s supplies or an herbalism 
+kit can instead use one portion of the residue and other 
+reagents worth 50 gp to make one 
+potion of resistance
+(poison) that also confers the benefits of antitoxin. 
+Making the potion requires the same amount of work 
+and a similar successful check.
+lore
+DC 10 Intelligence (Nature):
+ Blight elementals arise 
+when nature or the substance of an elemental plane 
+is corrupted. These elementals can resemble non- 
+elemental creatures, but they’re still elementals. Blight 
+elementals have elemental resistances, including to 
+nonmagical attacks.
+DC 15 Intelligence (Arcana):
+ A blight elemental is 
+always poisonous, in addition to its other powers. Some, 
+such as deathmoss and forgeblights, have supernatural 
+abilities to spread rot to creatures or objects.
+DC 20 Intelligence (History): 
+Some legends say a lich 
+created the first blight elementals to gain the favor of the 
+Arch Daemon Malikir. If such stories are true, finding 
+the lich’s notes might allow someone to return blight 
+elementals to their original forms.
+GM Advice:
+ You can expand the threat presented by 
+blight elementals by giving them the ability to create new 
+elementals from the corpses of their victims. This gives 
+characters a very short time to stop these elementals, 
+because a single elemental in a populated area could spawn 
+dozens in a matter of minutes.

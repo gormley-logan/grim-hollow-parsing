@@ -1,0 +1,21 @@
+salvage
+The scent glands of a nacambra contain a toxin. Harvesting 
+the glands without releasing noxious fumes requires a 
+successful DC 15 Wisdom (Medicine or Survival) check 
+by someone who has proficiency with a poisoner’s kit. 
+The poisonous substance can then be mixed with fortified 
+wine and turned into a 
+potion of poison
+ with a successful 
+DC 15 Intelligence check in one hour using the kit.
+lore
+DC 10 Intelligence (Arcana):
+ A nacambra is a 
+nocturnal creature and has sensitivity to sunlight.
+DC 15 Intelligence (Arcana):
+ A nacambra has 
+magic resistance.
+DC 20 Intelligence (Arcana):
+ A nacambra can attach 
+itself to a victim’s shadow and magically draw blood 
+through it.

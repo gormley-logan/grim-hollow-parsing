@@ -1,0 +1,66 @@
+Blightscale Dragon
+“Dragons are rare, so seeing one is terrifying. Seeing one 
+rotting before your eyes as it approaches? Mind-shattering!”
+Cursed Dragon
+. The curse of foul blight is potent 
+necromancy when leveled against a hated foe. Some 
+foolish wizard modified the curse of foul blight to affect 
+a dragon who had wronged them, using a single scale 
+from the hated dragon. What this wizard unleashed was 
+a variant of the curse of foul blight known as blightscale, 
+accursed magic that twists and warps a majestic dragon 
+into a loathsome, terrifying beast.
+Humanoids infected with the curse of foul blight 
+become lone wanderers, but the lairing instinct of the 
+blightscale dragon remains true. The dragon no longer 
+bothers to amass wealth or hunt. It makes forays from its 
+living tomb to assuage its suffering by lashing out against 
+any who travel nearby.
+Physical Changes
+. A blightscale dragon’s breath 
+weapon is a stinking exhalation of insects and necrotic 
+bile. The dragon’s armorlike scales split and encrust with 
+thick pus that hardens to the consistency of stone. Fangs 
+crack and rot at the gums, just as deadly but crawling 
+with disease and stained with ichor.
+salvage
+Someone who has proficiency with smith’s tools or 
+leatherworker’s tools can fashion the scales of an adult or 
+ancient blightscale dragon into 
+dragon scale mail
+. Doing 
+so takes 10 days and other materials worth 5,000 gp. The 
+armor offers no protection against Frightful Presence but 
+grants resistance to necrotic damage and poison damage.
+A claw from a young or older blightscale dragon can 
+be fashioned into a 
+dagger of venom
+. Doing so requires 
+proficiency with smith’s tools or woodcarver’s tools, 5 
+days of work, and other materials worth 1,000 gp.
+If the two eye-fangs of an adult or ancient blightscale 
+dragon are treated with a 
+remove curse
+ spell and buried 
+together in soil consecrated with a 
+hallow
+ spell, they grow 
+into a blight drake that emerges from the earth in 3 days. 
+This drake bonds with the first creature to feed it.
+Blood and other fluids of a blightscale dragon can be 
+harvested and used to offset the shadowsteel component 
+when bestowing a curse of foul blight. A wyrmling is 
+worth 250 gp, a young dragon 750 gp, an adult 1,500 gp, 
+and an ancient dragon 3,000 gp.
+lore
+DC 15 Wisdom (History):
+ A blightscale dragon is a 
+dragon that has been subjected to a powerful curse.
+DC 15 Wisdom (Medicine):
+ A blightscale dragon 
+is immune to necrotic damage and poison. Its breath 
+weapon is a swarm of poisonous insects and gas.
+DC 20 Intelligence (Arcana):
+ The curse on the 
+blightscale dragon makes it exude a toxic, cursed gas 
+when it dies, possibly passing on a portion of the curse.

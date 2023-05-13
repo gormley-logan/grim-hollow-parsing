@@ -1,0 +1,46 @@
+===
+Rougaugh
+Large aberration, unaligned
+Armor Class 11 (natural armor)
+Hit Points 175 (14d10 + 98)
+Speed 50 ft.
+str dex con int wis cha
+ 22 (+6) 8 (-1) 24 (+7) 3 (–4) 12 (+1) 1 (–5)
+Skills
+Athletics +10, Survival +5
+Damage Immunities poison
+Condition Immunities charmed, frightened, poisoned
+Senses darkvision 120 ft., passive Perception 11
+Languages --
+Challenge 9 (5,000 XP)
+Proficiency Bonus +4
+Siege Monster.
+The rougaugh deals double damage to
+objects and structures
+.
+Spiney Defense.
+A creature adjacent to the rougaugh that
+attacks it with a melee weapon act takes 5 (1d10) piercing
+damage, regardless of whether the attack hits or misses.
+actions
+Multiattack.
+The rougaugh makes three attacks: one with its head butt and two with its spines.
+Head Butt.
+Melee Weapon Attack
+: +10 to hit, reach 5 ft., one target.
+Hit
+: 15 (2d8 + 6) bludgeoning damage, and the target must succeed on a DC 18 Strength saving
+throw or be knocked prone.
+Spines.
+Melee Weapon Attack
+: +10 to hit, reach 5 ft., one target.
+Hit
+: 13 (2d6 + 6) slashing damage. Spine Splinter (Recharge 6)
+.
+The rougaugh releases
+a torrent of spines from its body. Any creature within
+30 feet of the rougaugh must succeed on a DC 16
+Dexterity saving throw. A creature takes 27 (5d10)
+piercing damage on a failed save, or half as much
+damage on a successful one. Prone creatures have
+disadvantage on the saving throw.

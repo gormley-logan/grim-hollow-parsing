@@ -1,0 +1,46 @@
+Blood Tracker
+“People associate evil predators with the howling of a wolf or 
+the flapping of bat wings. The real sound of terror is the quiet 
+snuffling of a blood tracker.”
+Tainted Blood.
+ Vampires and blood mages can feed hunt-
+ing dogs necromantically tainted blood and meat to create 
+monstrous blood trackers. A blood tracker changes from a 
+normal canine into a large and growth-ridden monster, its 
+nose transformed into a star-shaped appendage, like that of a 
+mole. The diet turns the dog into a murderous monster.
+Blood Bound
+. Those who create and raise blood trackers 
+can feed the creatures their blood. In doing so, a bond 
+forms like the bond between a mage and a familiar. Only 
+one creature can bind a blood tracker in this way.
+salvage
+Blood from a blood tracker bound to a master can be used 
+to make an antidote to that master’s powers. Someone 
+who has proficiency with alchemist’s supplies or an 
+herbalism kit must mix the blood with herbs worth 50 gp. 
+Tradition holds that a good-hearted priest must pray 
+over the mixture as it brews for 4 hours. The brewer must 
+succeed on a DC 13 Intelligence or Wisdom check to 
+make the brew, and the priest allows that roll to be made 
+with advantage if they succeed on a DC 15 Intelligence or 
+Wisdom (Religion) check (priest’s choice). The resulting 
+antidote means the target can’t be charmed, frightened, or 
+possessed by the master for 1 hour. If a target is already 
+charmed, frightened, or possessed by such a creature, 
+the target can make a new saving throw with advantage, 
+ending such effects on a success. The target also has 
+advantage on other saving throws it makes against such 
+effects while the antidote lasts. Regardless, the antidote 
+suppresses the effects for the hour the antidote is active.
+lore
+DC 15 Intelligence (Nature):
+ A blood tracker was 
+once a normal dog, but a vampire or other being adept 
+in blood magic altered it.
+DC 15 Intelligence (Arcana):
+ Blood trackers are 
+supernaturally gifted trackers. One might share a 
+telepathic bond with the monster that created and 
+trained it. The blood tracker’s bite saps life force, and 
+its bay rattles the innards and the senses.

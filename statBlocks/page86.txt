@@ -1,0 +1,141 @@
+86
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+D
+===
+Lesser Gluttony Seraph
+Large celestial, chaotic evil
+Armor Class 15 (natural armor)
+Hit Points 114 (12d10 + 48)
+Speed 30 ft., fly 30 ft.
+str dex con int wis cha
+	18	(+4)	14	(+2)	19	(+4)	12	(+1)	14	(+2)	15	(+2)
+Saving Throws
+Con +7, Wis +5, Cha +5
+Skills
+Insight +5, Perception +5
+Damage Immunities poison
+Damage Resistances
+radiant; bludgeoning, piercing,
+and slashing from nonmagical attacks
+Condition Immunities charmed, exhaustion,
+frightened, poisoned
+Senses darkvision 120 ft., passive Perception 15
+Languages all, telepathy 120 ft.
+Challenge 7 (2,900 XP)
+Proficiency Bonus +3
+Innate Spellcasting
+.
+The seraph’s spellcasting ability
+is Charisma (spell save DC 13). The seraph can innately
+cast the following spells, using only verbal components: At will: detect evil and good
+,
+detect magic
+,
+light
+,
+thaumaturgy
+1/day each: create food and water
+,
+suggestion
+Magic Resistance.
+The seraph has advantage on
+saving throws against spells and other magical effects.
+Seraphic Weapons.
+The seraph’s weapon attacks are
+magical. When the seraph hits with any weapon, the
+weapon deals an extra 1d8 radiant damage (included in
+the attacks).
+actions
+Multiattack.
+The seraph makes three attacks, only one
+of which can be a bite.
+Bite
+.
+Melee Weapon Attack: +7 to hit, reach 5 ft., one
+target.
+Hit
+: 15 (2d10 + 4) piercing damage and 4 (1d8) radiant damage. If the target is a Medium or smaller
+creature, it is grappled (escape DC 15). Until this grapple
+ends, the target is restrained, and the seraph can’t bite
+another target.
+Claw.
+Melee Weapon Attack: +7 to hit, reach 5 ft., one
+target.
+Hit
+: 9 (2d4 + 4) slashing damage and 4 (1d8) radiant damage.
+Tongue.
+Melee Weapon Attack: +7 to hit, reach 15 ft., one
+creature.
+Hit: 6 (1d4 + 4) bludgeoning damage and 4 (1d8)
+radiant damage, and the target is grappled (escape DC 15)
+and pulled to within 5 feet of the seraph. Until the grapple
+ends, the target is restrained, and the seraph can’t use its
+tongue or bite on another target.
+===
+Lesser Avarice Seraph
+Medium celestial, neutral evil
+Armor Class 15 (natural armor)
+Hit Points 105 (14d8 + 42)
+Speed 30 ft., fly 90 ft.
+str dex con int wis cha
+	16	(+3)	18	(+4)	17	(+3)	13	(+1)	15	(+2)	16	(+3)
+Saving Throws
+Con +6, Wis +5, Cha +6
+Skills
+Deception +6, Insight +5, Perception +5
+Damage Resistances
+radiant; bludgeoning, piercing,
+and slashing from nonmagical attacks
+Condition Immunities charmed, exhaustion, frightened
+Senses darkvision 120 ft., passive Perception 15
+Languages all, telepathy 120 ft.
+Challenge 7 (2,900 XP)
+Proficiency Bonus +3
+Innate Spellcasting.
+The seraph’s spellcasting ability
+is Charisma (spell save DC 14). The seraph can innately
+cast the following spells, using only verbal components: At will: detect evil and good
+,
+detect magic
+,
+light
+,
+minor
+illusion
+,
+thaumaturgy
+1/day each: identify
+,
+suggestion
+Magic Resistance.
+The seraph has advantage on
+saving throws against spells and other magical effects.
+Seraphic Weapons.
+The seraph’s weapon attacks are
+magical. When the seraph hits with any weapon, the
+weapon deals an extra 2d8 radiant damage (included in
+the attack).
+actions
+Multiattack.
+The seraph makes three attacks.
+Scimitar.
+Melee Weapon Attack: +7 to hit, reach 5 ft.,
+one target.
+Hit
+: 6 (1d6 + 3) slashing damage and 9 (2d8) radiant damage.
+Tempting Call.
+The seraph calls out a tempting promise
+to one creature that can hear it withing 30 feet. The creature
+must succeed on a DC 14 Charisma saving throw. On a
+failed save, the creature cannot take actions for 1 minute,
+as it dwells on the promise the seraph made. The target can
+repeat the saving throw at the end of each turn, ending the
+effect on a success. Each failed saving throw after the initial
+failure deals 9 (2d8) psychic damage to the target

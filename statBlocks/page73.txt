@@ -1,0 +1,71 @@
+73
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+C
+===
+Crawling Grave
+Large undead, neutral evil
+Armor Class 14 (natural armor)
+Hit Points 85 (10d10 + 30)
+Speed 30 ft.
+str dex con int wis cha
+	16	(+3)	13	(+1)	17	(+3)	6	(–2)	10	(+0)	5	(–3)
+Saving Throws
+Con +5, Wis+2
+Damage Immunities poison
+Damage Resistances
+piercing, slashing
+Condition Immunities charmed, exhaustion,
+frightened, paralyzed, petrified, poisoned, prone,
+restrained, stunned
+Senses darkvision 60 ft., passive Perception 10
+Languages understands all languages it knew in life but
+can’t speak
+Challenge 4 (1,100 XP)
+Proficiency Bonus +2
+Lethal Overrun.
+Whenever the crawling grave enters a
+creature’s space, if the target is incapacitated or dead, the
+crawling grave picks up that creature. The creature moves
+with the crawling grave and has disadvantage on death
+saving throws. A creature that ceases being incapacitated
+or dead can stop moving with the crawling grave.
+A corpse breaks apart in the crawling grave at the end
+of the crawling grave’s second turn carrying that corpse.
+When the corpse breaks apart, the crawling grave regains
+hit points equal to half that corpse’s normal hit point
+maximum, up to 20 hit points, and expels anything the
+corpse was carrying or wearing. Another creature can
+pull a corpse free of the crawling grave before it breaks
+apart by using an action and succeeding on a DC 13
+Strength (Athletics) check. The attempt provokes an
+opportunity attack from the crawling grave.
+Swarmlike.
+The crawling grave can occupy another
+creature’s space and vice versa, and the crawling grave
+can move through any opening large enough for a
+Small humanoid.
+Undead Fortitude.
+If damage reduces the crawling
+grave to 0 hit points, it must make a Constitution saving
+throw with a DC of 5 + the damage taken, unless the
+damage is radiant or from a critical hit. On a success,
+the crawling grave drops to 1 hit point instead.
+actions
+Multiattack.
+The crawling grave makes two slam attacks.
+Slam.
+Melee Weapon Attack: +5 to hit, reach 5 ft., one
+target.
+Hit: 14 (2d10 + 3) bludgeoning damage. If the
+target is a creature, it must succeed on a DC 13 Strength
+or Dexterity saving throw (target’s choice) or fall prone.
+If the crawling grave has half of its hit points or fewer, it
+deals 8 (1d10 + 3) bludgeoning damage and can’t knock
+creatures prone.

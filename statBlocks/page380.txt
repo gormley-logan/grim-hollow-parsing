@@ -1,0 +1,117 @@
+380
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+===
+Vampire Spawn
+Medium undead, chaotic evil
+Armor Class 15 (natural armor)
+Hit Points 75 (10d8 + 30)
+Speed 30 ft., climb 30 ft.
+str dex con int wis cha
+ 16 (+3) 16 (+3) 16 (+3) 11 (+0) 10 (+0) 12 (+1)
+Saving Throws
+Dex +6, Wis +3
+Skills
+Athletics +6, Perception +3, Stealth +6
+Damage Resistances
+necrotic; bludgeoning, piercing,
+and slashing from nonmagical attacks
+Senses darkvision 60 ft., passive Perception 13
+Languages the languages known in life
+Challenge 5 (1,800 XP)
+Proficiency Bonus +3
+Regeneration.
+The vampire regains 10 hit points at
+the start of its turn if it has at least 1 hit point and isn’t in
+sunlight or running water. If the vampire takes radiant
+damage, this trait doesn’t function at the start of the
+vampire’s next turn.
+Spider Climb.
+The vampire can climb difficult
+surfaces, including upside down on ceilings, without
+needing to make an ability check.
+Vampire Weaknesses.
+The vampire has the
+following flaws: Forbiddance.
+The vampire can’t enter a residence
+without an invitation from one of the occupants.
+Running Water.
+The vampire takes 20 acid damage when
+it ends its turn in running water at least the size of a stream.
+Stake to the Heart.
+The vampire dies if a piercing
+weapon made of wood is driven into its heart while it is
+incapacitated in its resting place.
+Sunlight Hypersensitivity.
+The vampire takes 20
+radiant damage when it starts its turn in sunlight.
+While in sunlight, it has disadvantage on attack rolls
+and ability checks.
+actions
+Multiattack.
+The vampire makes three attacks, only
+one of which can be a bite.
+Claws.
+Melee Weapon Attack: +6 to hit, reach 5 ft., one
+target.
+Hit: 10 (2d6 + 3) slashing damage. If the target is
+a creature, the vampire can grapple the target (escape
+DC 14).
+Bite.
+Melee Weapon Attack: +6 to hit, reach 5 ft., one creature.
+Hit: 10 (2d6 + 3) piercing damage and 7 (2d6) necrotic damage.
+The target’s hit point maximum is reduced by an amount
+equal to the necrotic damage taken, and the vampire regains
+hit points equal to that amount. This reduction lasts until the
+target finishes a long rest. The target dies if this effect reduces
+its hit point maximum to 0.
+location
+A vampire pack can be found nearly anywhere. Many
+prefer to lair in places where they can operate undis-
+turbed, such as in abandoned buildings or deep inside
+ruins. Others, especially as they age and grow into their
+powers, find it advantageous to live closer to food sources,
+so they dwell in places near or in settlements or along
+major trade routes.
+food
+Vampires can survive on any blood or blood-laden
+material, but they prefer that of humanoids and have
+distinct tastes. They endeavor to satisfy that specific
+hunger whenever possible.
+A vampire needs one to two liters of blood, five to
+six pounds of fresh meat, or one pound of marrow per
+day. Consuming too little not only causes hunger but
+increases their likelihood of falling into bestial rage.
+Consuming too much can result in the vampire falling
+into unconsciousness while their body digests the extra
+nutrients. This slumber can last anywhere from a few
+days to months or more. A vampire who survives this
+state might find they’ve developed new powers.
+Vampires sometimes recruit willing mortals as blood
+suppliers. This practice is uncommon and hard to maintain.
+Vampires fall prey to their destructive urges easily and
+kill without meaning to. When freed, such willing
+vampire prey are damaged for the rest of their lives,
+plagued by nightmares and worse. Still, they swear they
+entered the arrangement willingly, yet cannot explain
+their motives further.
+motivations
+Early in their lifecycle, a vampire desires only to feed.
+Their lives are chaotic and violent, their desires simple. As
+they age, they refine their tastes and actions, channeling
+their urges in new ways. They might take an interest in
+long-term investments, such as cultivating a blood cult
+or establishing a shipping or travel business in which the
+occasional lost cargo isn’t met with much suspicion.
+vampire ancestry
+The ancestry of a humanoid can affect how vampirism
+manifests. The following sections show how vampires
+of specific species can gain unusual traits based on that
+ancestry. Use them to build your own vampires or as
+inspiration for vampires of other species that you create.

@@ -1,0 +1,70 @@
+331
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+S
+swarmof ears
+Large swarm of Tiny aberrations, chaotic evil
+Armor Class 15
+Hit Points 102 (12d10 + 36)
+Speed 30 ft., fly 30 ft.
+str dex con int wis cha
+ 14 (+2) 20 (+5) 16 (+3) 3 (–4) 6 (–2) 3 (–4)
+Saving Throws
+Int +0, Wis +2, Cha +0
+Skills
+Perception +2
+Damage Resistances
+bludgeoning, piercing, slashing
+Condition Immunities blinded, charmed, exhaustion,
+grappled, paralyzed, petrified, prone, restrained, stunned
+Senses blindsight 120 ft., passive Perception 12
+Languages —
+Challenge 9 (5,000 XP)
+Proficiency Bonus +4
+Keen Hearing.
+The swarm of ears has advantage on
+Wisdom (Perception) checks that rely on hearing.
+Pain Transfer.
+When the swarm takes damage and
+creatures charmed by it are in its space, divide the
+damage in half. The swarm takes one half, and the other
+half is divided among creatures charmed by the swarm
+in its space.
+Sound Dependent.
+While deafened, the swarm
+of ears can’t use its blindsight, and creatures have
+advantage on saving throws against the swarm’s
+Overwhelming Whispers.
+Swarm.
+The swarm of ears can occupy another creature’s
+space and vice versa, and the swarm can move through
+any opening large enough for a Tiny creature. The swarm
+can’t regain hit points or gain temporary hit points.
+Waxy Discharge.
+The swarm’s space is covered with
+viscous wax that dries quickly as the swarm moves. This
+area is difficult terrain for creatures other than swarms of
+ears and creatures charmed by them.
+actions
+Overwhelming Whispers.
+Each creature in the
+swarm’s space must succeed on a DC 15 Wisdom saving
+throw or take 22 (4d10) psychic damage, or 11 (2d10)
+psychic damage if the swarm has half of its hit points or
+fewer, and become charmed until the start of the swarm’s
+next turn by the whispers coming from the movement
+of the ears. A creature charmed in this way must use its
+reaction to move with the swarm, remaining in its space
+if possible. Any movement a creature uses during this
+reaction can’t be used during the creature’s turn.
+Sacrifice.
+If the swarm of ears is in the kokela’s space,
+the swarm can destroy itself. The kokela regains hit
+points equal to the swarm’s current hit points when it
+uses this action.

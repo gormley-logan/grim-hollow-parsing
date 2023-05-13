@@ -1,0 +1,53 @@
+Halfling Vampire
+“They were among us before we knew they were coming, and they 
+easily avoided our weapons, dodging among our legs, tearing with 
+their claws and fangs. When Johan finally got a bead on one, he 
+found he couldn’t shoot such an ‘innocent’ being.”
+Deadly Speed.
+ Halfling vampires are supernaturally 
+agile and their small size does little to decrease their 
+deadliness. A halfling vampire moves easily among larger 
+foes, spreading mayhem while sidestepping reprisals. 
+And if resistance becomes too much, a halfling vampire 
+retreats and hides, returning to the fray on their terms.
+Brash Action.
+ A halfling vampire, especially a spawn 
+or young vampire, is less likely to think before acting 
+than other vampires. They eagerly go for food and 
+pleasure, showing little restraint, and they can kill without 
+intending to. Being so heedless of consequences and 
+focused on immediate reward means halfling vampires 
+have a harder time surviving to older ages than most 
+other vampires.
+Corrupted Fortune.
+ Halflings have uncanny luck, 
+and in part, that fortune is due to the childlike look and 
+nature of many halflings. Halfling vampires use this 
+natural charm as a defense. Those who wish the vampire 
+harm find it difficult to follow through on an attack 
+while looking into the vampire’s big, innocent eyes.
+salvage
+Someone who has proficiency with alchemist’s supplies 
+or brewer’s supplies can distill the blood of a young or 
+older halfling vampire into a 
+potion of speed
+. A young 
+vampire produces enough for one dose, an adult for 
+two, and an ancient for three. Each dose requires 3 days 
+of brewing and other reagents worth 500 gp, and the 
+brewer must succeed on a DC 15 Intelligence or Wisdom 
+check. Drinking one of these potions has the same effect 
+as eating any vampire part.
+Consuming the eye of a young or older halfling vampire 
+also affects the eater as if 
+sanctuary
+ were cast on them.
+lore
+DC 15 Intelligence (History):
+ Halfling vampires 
+are incredibly stealthy and fast. They can attack and 
+disappear before victims realize what’s happening.
+DC 20 Intelligence (Arcana):
+ A halfling vampire 
+can prevent you from attacking them with a look. This 
+defense is a form of enchantment magic.

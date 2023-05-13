@@ -1,0 +1,80 @@
+374
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+Y
+===
+Yggdrasili Crown
+Medium humanoid, lawful evil
+Armor Class 15 (natural armor)
+Hit Points 97 (15d8 + 30)
+Speed 30 ft.
+str dex con int wis cha
+ 13 (+1) 14 (+2) 14 (+2) 20 (+5) 15 (+2) 13 (+1)
+Saving Throws
+Wis +5
+Skills
+Deception +7, Perception +5
+Damage Vulnerabilities
+lightning
+Damage Immunities psychic
+Condition
+Immunities
+charmed
+Senses blindsight 60 ft., passive Perception 15
+Languages all, telepathy 120 ft.
+Challenge 5 (1,800 XP)
+Proficiency Bonus +3
+Aetheric Aura.
+When a creature within 10 feet of the
+yggdrasili crown takes psychic damage, it takes an extra
+5 (2d4) psychic damage.
+Assimilation.
+A creature that drops to 0 hit points or
+fails a death saving throw within 60 feet of an yggdrasili
+crown must succeed on a DC 15 Charisma saving throw
+or become an yggdrasili drone. A creature near enough
+to multiple yggdrasilis needs to make only one saving
+throw at the highest DC among those yggdrasilis. This
+effect can penetrate barriers, but 2 feet of rock, 2 inches
+of any metal other than lead, or a thin sheet of lead or
+barrier of force blocks it.
+Psychic Static.
+Attempts to read an yggdrasili crown’s
+thoughts fail. The creature making the attempt must succeed
+on a DC 15 Intelligence saving throw or take 14 (2d8 + 5)
+psychic damage.
+actions
+Multiattack.
+The yggdrasili crown makes two slam
+attacks. It can use psychic whip instead of making a
+slam attack.
+Slam.
+Melee Weapon Attack: +5 to hit, reach 5 ft., one
+target.
+Hit: 7 (2d4 + 2) bludgeoning damage, 2 (1d4)
+psychic damage, and Aetheric Aura.
+Psychic Whip.
+A creature the yggdrasili crown can
+sense within 120 feet of it must succeed on a DC 15
+Intelligence saving throw or take 14 (2d8 + 5) psychic
+damage and be unable to take reactions until the start
+of its next turn.
+Mind Bomb (Recharges after a Short or Long
+Rest).
+The yggdrasili crown chooses a point it can
+sense within 120 feet of it. Psychic noise explodes in a
+20-foot-radius sphere centered on that point. Creatures
+in that area must make a DC 15 Intelligence saving
+throw, taking 22 (4d10) psychic damage on a failed save,
+or half as much damage on a successful one. A creature
+that fails also can’t take reactions for 1 minute and rolls a
+d4 with every ability check or saving throw, subtracting
+the number rolled from the check or saving throw result.
+A creature can repeat the saving throw at the end of each
+of its turns, ending the effect on itself on a success.

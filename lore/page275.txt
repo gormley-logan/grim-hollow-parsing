@@ -1,0 +1,42 @@
+275
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+Q
+Quiet One
+“When you can’t hear anything, you’ve heard them coming.”
+Horrifying Appearance
+. A quiet one is horrifying to 
+behold. They are vaguely humanoid with grey pebbled 
+skin, a large ovoid head, sharp claws, and a massive, 
+fanged maw.
+Silent Hunters
+. Quiet ones always generate an aura of 
+absolute silence.
+Feed On Fear
+. Quiet ones eat fear and seek to panic 
+their victims as much as possible before killing them.
+salvage
+The brain of a quiet one can be made into a meal for 
+three people with a successful DC 10 Intelligence check 
+by someone proficient with cook’s utensils. Consuming 
+the brain within 24 hours of the quiet one’s death gives 
+the eater advantage on saving throws against effects 
+that cause the frightened condition for 1 week. Crafting 
+this meal takes 2 hours and costs 20 gp.
+lore
+DC 10 Intelligence (History)
+: Quiet ones are so 
+named for the constant aura of silence they generate.
+DC 15 Intelligence (Arcana)
+: A quiet one is immune 
+to psychic and thunder damage.
+DC 20 Intelligence (Arcana)
+: Quiet ones feed on 
+fear and gain temporary hit points from those with the 
+frightened condition.

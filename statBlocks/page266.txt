@@ -1,0 +1,120 @@
+266
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+P
+===
+Seaborn Troll Fogcaller
+Large giant, neutral
+Armor Class 16 (natural armor)
+Hit Points 136 (13d10 + 65)
+Speed 30 ft., swim 30 ft.
+str dex con int wis cha
+ 19 (+4) 16 (+3) 20 (+5) 10 (+0) 15 (+2) 9 (–1)
+Skills
+Perception +5
+Damage Immunities acid
+Senses blindsight 30 ft., darkvision 60 ft., passive Perception 15
+Languages Giant
+Challenge 8 (3,900 XP)
+Proficiency Bonus +3
+Amphibious.
+The troll can breathe air and water.
+Aquatic Camouflage.
+The troll has advantage on
+Dexterity (Stealth) checks made to hide underwater.
+Flexible.
+The troll can enter a space large enough for a
+Medium creature without squeezing.
+Keen Smell.
+The troll has advantage on Wisdom
+(Perception) checks that rely on smell.
+Magic Weapons
+.
+The troll’s weapon attacks are magical.
+Regeneration.
+The troll regains 10 hit points at the
+start of its turn. If the troll takes cold or fire damage, this
+trait doesn’t function at the start of the troll’s next turn.
+The troll dies only if it starts its turn with 0 hit points and
+doesn’t regenerate.
+actions
+Multiattack
+.
+The troll makes three attacks, only
+one of which can be a bite. It can use call fog in place
+of two attacks.
+Bite.
+Melee Weapon Attack: +7 to hit, reach 5 ft., one
+target.
+Hit: 8 (1d8 + 4) piercing damage and 7 (2d6) acid
+damage.
+Claw.
+Melee Weapon Attack: +7 to hit, reach 5 ft., one
+target.
+Hit: 13 (2d8 + 4) slashing damage.
+Spit Acid.
+Ranged Spell Attack
+: +5 to hit, range 30/60 ft., one target.
+Hit
+: 14 (4d6) acid damage. Call Fog.
+The troll creates a 30-foot-radius sphere of fog
+centered on itself. The sphere spreads around corners,
+and its area is heavily obscured. It lasts for 1 minute or
+until a wind of moderate or greater speed (at least 10
+miles per hour) disperses it.
+The troll can choose to make this fog caustic. If it does
+so, a creature that enters the fog for the first time on a
+turn or starts its turn there takes 10 (4d4) acid damage.
+Once the troll makes caustic fog, it can do so again only
+after it finishes a short or long rest.
+===
+Seaborn Troll
+Large giant, neutral
+Armor Class 15 (natural armor)
+Hit Points 105 (10d10 + 50)
+Speed 30 ft., swim 30 ft.
+str dex con int wis cha
+ 18 (+4) 14 (+2) 20 (+5) 9 (–1) 11 (+0) 8 (–1)
+Skills
+Perception +3
+Damage Immunities acid
+Senses blindsight 10 ft., darkvision 60 ft., passive Perception 13
+Languages Giant
+Challenge 6 (2,300 XP)
+Proficiency Bonus +3
+Amphibious.
+The troll can breathe air and water.
+Aquatic Camouflage.
+The troll has advantage on
+Dexterity (Stealth) checks made to hide underwater.
+Flexible.
+The troll can enter a space large enough for a
+Medium creature without squeezing.
+Keen Smell.
+The troll has advantage on Wisdom
+(Perception) checks that rely on smell.
+Regeneration.
+The troll regains 10 hit points at the
+start of its turn. If the troll takes cold or fire damage, this
+trait doesn’t function at the start of the troll’s next turn.
+The troll dies only if it starts its turn with 0 hit points and
+doesn’t regenerate.
+actions
+Multiattack
+.
+The troll makes three attacks: one with its bite and two with its claws.
+Bite.
+Melee Weapon Attack: +7 to hit, reach 5 ft., one
+target.
+Hit: 8 (1d6 + 4) piercing damage and 5 (2d4) acid
+damage.
+Claw.
+Melee Weapon Attack: +7 to hit, reach 5 ft., one
+target.
+Hit: 13 (2d8 + 4) slashing damage.

@@ -1,0 +1,65 @@
+394
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+Elf Vampire
+“She was ancient, tall and gaunt, imperious and fierce. Her 
+skin was translucent and slightly luminous with the crimson 
+fluid beneath lending it a bizarre, vibrating flush. Her anger 
+and sorrow reached from her, sharing the sense of a time before 
+my people cut and burned the forest. I wept.”
+Fey Horror.
+ Vampirism emphasizes fey qualities 
+among elves. The elf becomes wispier, more ephemeral 
+and haunting. An elf vampire’s fey resistances become 
+enhanced to the point that the vampire is hard to turn 
+and can’t be rendered unconscious or charmed. The 
+vampire enters a trance for a few hours instead of 
+sleeping, remaining aware of their surroundings 
+during that time.
+Fey Majesty.
+ Fey ancestry and vampirism combine to 
+give an elf vampire influence over the minds of humanoids 
+and beasts. Legends of vampire enchantments could 
+stem from the powers of elf vampires, who might have 
+been the first to suffer this curse. The power of mental 
+influence also allows the vampire to share sorrow 
+and fear with those the vampire has charmed, or to 
+befuddle their minds.
+Also, those the elf vampire charms for long periods 
+develop an attachment to the vampire, which can grow 
+into a macabre affection even when the creature isn’t 
+charmed. Tales say ancient elf vampires can charm 
+creatures other than humanoids and beasts.
+salvage
+An elf vampire’s flesh turns to glittering powder when 
+the vampire dies. This powder can still be used to make 
+the ointment rendered vampire flesh can make. However, 
+this dust can also be used as a material component for 
+any enchantment spell or spell that deals necrotic damage. 
+If a spellcaster uses the dust in this way, the spell save 
+DC for the spell increases by 2. If the spell requires an 
+attack roll, the caster scores a critical hit on a roll of 
+19 or 20, and any damage die for necrotic damage that 
+rolls a 1 is treated as a 2. One vampire produces enough 
+dust for two uses, plus one use per age category of the 
+vampire beyond spawn.
+lore
+DC 15 Intelligence (History):
+ Elf vampires don’t 
+sleep, so they are aware all the time. And they can’t be 
+charmed or knocked unconscious.
+DC 15 Intelligence (Religion):
+ Fey ancestry combines 
+with vampirism to render elf vampires resistant to effects 
+that turn undead.
+DC 20 Intelligence (Arcana):
+ Elf vampires can 
+manipulate the minds of beasts and people. Legend 
+says that ancient elf vampires can sway the minds of 
+other creatures.

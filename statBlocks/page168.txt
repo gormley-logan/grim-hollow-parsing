@@ -1,0 +1,67 @@
+168
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+H
+===
+Elder Hurrock
+Medium monstrosity, neutral evil
+Armor Class 16 (natural armor, shield arm)
+Hit Points 102 (12d8 + 48)
+Speed 30 ft., burrow 30 ft.
+str dex con int wis cha
+ 18 (+4) 8 (–1) 18 (+4) 5 (–3) 11 (+0) 7 (–2)
+Saving Throws
+Con +7
+Skills
+Perception +3
+Damage Vulnerabilities
+thunder
+Damage Immunities poison
+Damage Resistances
+bludgeoning, piercing, and slashing
+damage from nonmagical attacks that aren’t adamantine
+Condition Immunities exhaustion, paralyzed,
+petrified, poisoned
+Senses darkvision 60 ft., tremorsense 30 ft., passive Perception 13
+Languages understands Dwarvish and Terran but
+can’t speak
+Challenge 6 (2,300 XP)
+Proficiency Bonus +3
+Harrowed Tunneler.
+The elder hurrock can burrow
+through solid rock at half its burrow speed and leaves
+a 10-foot-diameter tunnel in its wake. The tunnel is
+difficult terrain.
+Rubble Walker.
+Difficult terrain composed of rock,
+rubble, or similar debris doesn’t cost the elder hurrock
+extra movement.
+actions
+Multiattack
+. The elder hurrock makes one axe arm
+attack, one beard attack, and one shield arm attack.
+Axe Arm.
+Melee Weapon Attack
+: +7 to hit, reach 5 ft., one target.
+Hit
+: 11 (2d6 + 4) slashing damage. Beard.
+Melee Weapon Attack
+: +7 to hit, reach 5 ft., one target.
+Hit
+: 8 (1d8 + 4) piercing damage. Shield Arm.
+Melee Weapon Attack
+: +7 to hit, reach 5 ft., one target.
+Hit
+: 7 (1d6 + 4) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength
+saving throw or fall prone.
+reactions
+Parry.
+The elder hurrock adds 3 to its AC against one
+melee attack that would hit it. To do so, the hurrock
+must see the attacker and have its shield arm free.

@@ -1,0 +1,43 @@
+89
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+D
+salvage
+The Great College was home to a large collection of 
+magic items. The disembodied somehow recovered some 
+of these objects. A disembodied commoner might carry 
+one common or uncommon magic item. A disembodied 
+arcanist can possess a few such items or one rare one.
+lore
+DC 10 Intelligence (History):
+ The disembodied 
+were once the citizens of a city known as Ulmyr’s Gate. 
+It housed a school of magic called the Great College, 
+but an arcane accident destroyed the metropolis and 
+institution. Years later, citizens of Ulmyr’s Gate and staff 
+and students at the Great College began to reappear, 
+transformed into the disembodied.
+DC 13 Intelligence (Nature):
+ Beasts and other 
+creatures inside and around Ulmyr’s Gate suffered 
+the same fate as the humanoids that lived in the city. 
+Although much rarer, some of these creatures have 
+returned to the region and show innate magical abilities 
+like those of the disembodied.
+DC 13 Intelligence (Arcana):
+ The disembodied can 
+step into the Ethereal Plane. They can also call on magic 
+related to their partially immaterial state.
+GM Advice:
+ Other NPCs or creatures may have disembodied 
+traits. For example, a fighter or paladin, or even a monstrous 
+creature, could be made into a disembodied version by giving 
+them traits similar to the disembodied commoner. A foe’s ability 
+to use blink or blur—in addition to entering an ethereal state—
+can make for an interesting new challenge.

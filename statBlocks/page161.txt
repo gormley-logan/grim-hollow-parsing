@@ -1,0 +1,78 @@
+===
+Hraptnon
+Gargantuan monstrosity, chaotic evil
+Armor Class 18 (natural armor)
+Hit Points 264 (16d20 + 96)
+Speed 40 ft., burrow 20 ft., climb 30 ft.
+str dex con int wis cha
+ 21 (+5) 17 (+3) 22 (+6) 12 (+1) 17 (+3) 12 (+1)
+Saving Throws
+Str +11, Dex +9, Con +12, Wis +9
+Skills
+Athletics +11, Perception +9
+Damage Immunities all damage from spells;
+bludgeoning, piercing, and slashing damage from
+magical weapons
+Condition Immunities charmed, exhaustion,
+frightened, stunned, unconscious
+Senses darkvision 120 ft., passive Perception 19
+Languages Draconic
+Challenge 18 (20,000 XP)
+Proficiency Bonus +6
+Legendary Resistance (3/Day).
+If the hraptnon fails
+a saving throw, it can choose to succeed instead.
+Magic Resistance.
+The hraptnon has advantage on
+saving throws against spells and other magical effects.
+Undying.
+Unless the hraptnon’s Stillborn Heart
+is removed from its pool, the hraptnon’s death is
+temporary. One of its countless xakalonus offspring
+grows into the hraptnon in 24 hours.
+In addition, the hraptnon loses its immunities if
+the Stillborn Heart is removed from the pool.
+actions
+Multiattack.
+The hraptnon makes three melee attacks: one bite and two claws. Alternatively, the hraptnon can
+make two spine attacks.
+Bite.
+Melee Weapon Attack: +11 to hit, reach 5 ft., one
+target.
+Hit: 18 (3d8 + 5) piercing damage, and the target
+must succeed on a DC 20 Constitution saving throw or be
+incapacitated until the end of the hraptnon’s next turn.
+Claws.
+Melee Weapon Attack: +11 to hit, reach 10 ft.,
+one target.
+Hit: 27 (4d10 + 5) slashing damage.
+Spine.
+Melee Ranged Attack: +11 to hit, range 60 ft., one
+target.
+Hit: 23 (4d8 + 5) piercing damage, and the target
+must succeed on a DC 20 Dexterity saving throw. On a
+failed save, the target is knocked prone and restrained.
+The target must escape (DC 20) to remove the restrained
+condition and be able to stand.
+reactions
+Spawn Xakalonus.
+If the hraptnon takes 20 points of
+damage or more from a single attack, it can spawn a xaka-
+lonus, which appears in a space adjacent to the hraptnon
+and attacks on the same initiative count as the hraptnon.
+legendary actions
+The hraptnon can take 3 legendary actions, choosing from
+the options below. Only one legendary action option can
+be used at a time and only at the end of another creature’s
+turn. The hraptnon regains spent legendary actions at the
+start of its turn.
+Claw.
+The hraptnon makes a claw attack.
+Baneful Howl (Costs 2 Actions).
+The hraptnon casts
+bane
+as a 3rd level spell (DC 20 to resist).
+Life Drain (Costs 3 Actions).
+One xakalonus within
+30 feet of the hraptnon dies. The hraptnon regains hit points
+equal to half the hit points of the xakalonus that died.

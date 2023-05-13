@@ -1,0 +1,76 @@
+276
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+Q
+===
+Red Quoxxarie
+Large fiend, chaotic evil
+Armor Class 15 (natural armor)
+Hit Points 102 (12d10 + 36)
+Speed 40 ft.
+str dex con int wis cha
+ 19 (+4) 15 (+2) 17 (+3) 5 (–3) 12 (+1) 7 (–2)
+Saving Throws
+Int +0, Wis +4, Cha +1
+Skills
+Acrobatics +5, Athletics +7
+Damage Immunities poison
+Damage Resistances
+cold, fire, lightning
+Condition Immunities poisoned
+Senses darkvision 120 ft., passive Perception 11
+Languages Infernal
+Challenge 6 (2,300 XP)
+Proficiency Bonus +3
+Aggressive.
+As a bonus action, the red quoxxarie can
+move up to its speed toward a hostile creature that it
+can see.
+Aura of Wrath.
+Provided the red quoxxarie isn’t
+incapacitated, any creature (including another red
+quoxxarie) that starts its turn within 30 feet of one or
+more red quoxxaries can grant itself advantage on
+attack rolls until the start of its next turn. Attack rolls
+against the creature also have advantage until then. If the
+creature is hostile to the quoxxarie and uses this aura, the
+creature also has disadvantage on Intelligence, Wisdom,
+and Charisma checks until the start of its next turn.
+Charge.
+If the red quoxxarie moves at least 20 feet
+straight toward a target and then hits it with a ram attack
+on the same turn, the target takes an extra 11 (2d10)
+bludgeoning damage. If the target is a creature, it must
+succeed on a DC 15 Strength saving throw or fall prone.
+Magic Resistance.
+The red quoxxarie has advantage on
+saving throws against spells and other magical effects.
+Slippery.
+The red quoxxarie has advantage on ability
+checks and saving throws made to escape a grapple.
+actions
+Multiattack.
+The red quoxxarie makes one ram attack
+and one attack with its hooves.
+Ram.
+Melee Weapon Attack: +7 to hit, reach 5 ft.,
+one target.
+Hit: 15 (2d10 + 4) bludgeoning damage.
+Hooves.
+Melee Weapon Attack: +7 to hit, reach 5 ft.,
+one target.
+Hit: 20 (3d10 + 4) bludgeoning damage.
+reactions
+Get the Horns.
+If the red quoxxarie takes 25 or more
+damage from one creature out of the quoxxarie’s reach,
+the quoxxarie can take the Disengage action and move
+up to half its speed toward that creature. If the creature
+is then within reach, the quoxxarie can make a ram
+attack against it with advantage on the attack roll.

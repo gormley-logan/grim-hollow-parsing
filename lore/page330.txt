@@ -1,0 +1,25 @@
+Svangras
+“In a world fraught with danger, sometimes 
+even the underfoot flora is deadly.”
+Cursed Grass.
+ Stories claim that imps plant svangras, 
+but it really grows in places where travelers died, 
+particularly from exhaustion. Svangras is a bulb plant 
+that looks like a large onion that can move on small 
+tendrils. When svangras forms, grass in its area falls 
+under its control. Anyone walking on svangras is said 
+to be doomed to unending exhaustion.
+salvage
+Where svangras grows, treasure and remains might be 
+found. Finding valuables could require searching the 
+area, and a search could turn up almost anything. The 
+value tends to be 50 gp or fewer.
+lore
+DC 10 Intelligence (Nature) or Wisdom (Survival):
+Svangras can easily be mistaken for an ordinary onion.
+DC 15 Intelligence (Nature):
+ Svangras is immune to 
+being blinded, deafened, and frightened.
+DC 20 Intelligence (Arcana):
+ Being close to svangras 
+allows the plant to sap your life force.

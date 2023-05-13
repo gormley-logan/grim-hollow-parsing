@@ -1,0 +1,67 @@
+194
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+L
+Living Crucible
+“I’ve got lotions, potions, dusts, draughts, tinctures, and even a 
+balm or two. What do you need? I’ve tested them all myself!”
+Brewing Advantage. 
+Most warriors spend their entire 
+lives perfecting their skill with their weapons, but a few 
+lack the focus, skill, dedication, or patience for such a 
+path. These warriors seek any edge over their foes, no 
+matter the cost. Trickery or magic can provide that edge. 
+Some turn to alchemy.
+Chemical Augmentation.
+ Potions are not a strange 
+sight on the battlefield. Adventurers rarely leave the safety 
+of town without at least a few healing potions, and some of 
+the more exotic ones if they can afford it. Gaining the title of 
+“Living Crucible” is a different matter. These warriors use 
+alchemy to alter their own bodies in search of greater battle 
+prowess. While this takes a toll on them in the long run, 
+it also allows them to ingest unusual combinations of 
+alchemical reagents for a quick boost in combat.
+salvage
+When looting a drug-crazed warrior, there is the possibility 
+of finding 1d4 chemical compounds, like the ones they 
+use in battle. Anyone consuming one of these compounds 
+must make a DC 13 Constitution save or be poisoned for 
+1 minute. On a natural 1 on the save, the creature dies. 
+After 1 day, the compounds become inert and lose all 
+special properties.
+lore
+DC 10 Intelligence (History):
+ Certain warriors take 
+up alchemy to supplement their fighting skills with 
+potent alchemical concoctions. They’re often festooned 
+in bandoliers of potions and vials, an array that lets them 
+react to different situations with different potions.
+DC 15 Intelligence (Nature):
+ Beyond mere potion 
+users, the warriors known as “Living Crucibles” alter 
+their own physiology to better absorb alchemical 
+reagents. Much like acclimating to a poison, they 
+repeatedly subject themselves to extreme chemical 
+compounds until their bodies adapt to the strain.
+DC 20 Intelligence (Arcana): 
+The alchemical com-
+pounds used by Living Crucibles are toxic to anyone else. 
+It is only through their unique physiologies that such 
+poisons offer any benefit. These raw substances must be 
+consumed within a day or they lose their efficacy.
+GM Advice:
+ Other humanoid creatures who rely on melee attacks 
+might be turned into living crucibles, to offer a wider array of choices 
+for enemies to put in front of characters. Make the humanoid resistant 
+or immune to poison, and then provide them with one of more of the 
+bonuses from Battle Draught.
+Living crucibles might also be so besotted with volatile chemicals that 
+interactions with extra heat, electricity, acid, or other agents could cause 
+them to explode, with a devastating effect for anyone near them.

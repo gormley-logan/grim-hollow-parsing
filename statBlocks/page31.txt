@@ -1,0 +1,121 @@
+a blightscale dragon’s lair
+Blightscale dragons create temporary lairs in which they
+suffer the curse in rage and despair. Whether a cave or a
+building, the dragon pulls easy entrances down so that
+none can view it in its agonized state. The air inside is
+rank, and those who draw a full breath become nauseated.
+The curse attracts insects that construct colonies resembling
+yellow, congealed lumps.
+lair actions
+On initiative count 20 (losing initiative ties), an adult or
+ancient blightscale dragon takes a lair action to cause one
+of the following effects. The dragon can’t use the same
+effect two rounds in a row.
+•
+Insects burst from a hive built on a surface that the
+dragon can see within 120 feet of it. Any creature
+within 20 feet of the hive must succeed on a DC 15
+Constitution saving throw, taking 10 (3d6) piercing
+damage on a failed save, or half as much damage
+on a successful one. A creature that ends its turn in
+the cloud takes 10 (3d6) piercing damage. The insects
+disperse on initiative count 20 of the next round. They
+disperse early if subjected to intense wind or a damaging
+area effect.
+•
+Puslike fluid erupts in a 20-foot radius centered on a
+point on the ground the dragon can see within 120 feet
+of it. That area becomes difficult terrain, and a creature
+moving through this terrain must succeed on a DC 15
+Strength saving throw or be grappled (escape DC 15) by
+the sucking glop and restrained while grappled in this
+way. Another creature can pull a restrained target free
+by taking an action and succeeding on a DC 15 Strength
+(Athletics) check. The ground dries sufficiently to return
+to normal on initiative count 20 of the next round.
+•
+Foul gas belches forth in a 20-foot-radius sphere from
+a point the dragon can see within 120 feet of it. The
+cloud spreads around corners, and its area is heavily
+===
+Ancient Blightscale Dragon
+Gargantuan dragon (cursed), neutral evil
+Armor Class 21 (natural armor)
+Hit Points 420 (24d20 + 168)
+Speed 40 ft., fly 80 ft.
+str dex con int wis cha
+27	(+8)	10	(+0)	25	(+7)	16	(+3)	13	(+1)	8	(–1)
+Saving Throws
+Dex +7, Wis +8, Cha +6
+Skills
+Insight +8, Perception +15, Stealth +7
+Damage Immunities necrotic, poison
+Condition Immunities poisoned
+Senses blindsight 60 ft., darkvision 120 ft., passive Perception 25
+Languages One national language, Draconic
+Challenge 22 (41,000 XP)
+Proficiency Bonus +7
+Accursed Death.
+When the dragon dies, it exudes a
+cloud of sickening, accursed gas. Each creature within
+30 feet of the dragon must succeed on a DC 22 Constitution
+saving throw or become poisoned for 1 minute. A creature
+can repeat the saving throw at the end of each of its turns,
+ending the effect on itself on a success. However, a creature
+that fails two of these saving throws becomes cursed.
+A creature cursed in this way takes 22 (4d10) necrotic
+damage and can’t regain hit points, and the creature’s hit
+point maximum is reduced by an amount equal to the
+necrotic damage taken. Every 24 hours, the cursed creature
+takes 22 (4d10) necrotic damage with similar reduction
+to the creature’s hit point maximum. If the curse reduces
+the target’s hit point maximum to 0, the target dies.
+Legendary Resistance (3/Day).
+If the dragon fails a
+saving throw, it can choose to succeed instead.
+actions
+Multiattack.
+The dragon can use its sickening presence.
+It then makes three attacks: one with its bite and two with its claws.
+Bite.
+Melee Weapon Attack: +15 to hit, reach 15 ft.,
+one target.
+Hit: 21 (2d12 + 8) piercing damage and 10
+(3d6) necrotic damage.
+Claw.
+Melee Weapon Attack: +15 to hit, reach 10 ft.,
+one target.
+Hit: 17 (2d8 + 8) slashing damage and 5 (2d4)
+poison damage.
+Tail.
+Melee Weapon Attack: +15 to hit, reach 20 ft.,
+one target.
+Hit: 19 (2d10 + 8) bludgeoning damage.
+Sickening Presence.
+Each creature within 60 feet of
+the dragon must succeed on a DC 22 Constitution saving
+throw or become poisoned until the end of the dragon’s
+next turn. On a successful saving throw, the creature is
+immune to the dragon’s Sickening Presence for 1 hour.
+Swarm Breath (Recharge 5–6).
+The dragon exhales
+a 90-foot cone of poisonous insects and vile gas. Each
+creature in that area must make a DC 22 Constitution
+saving throw, taking 35 (10d6) piercing damage and 42
+(12d6) poison damage on a failed save, or half as much
+damage on a successful one.
+legendary actions
+The dragon can take 3 legendary actions, choosing from the
+options here. Only one legendary action can be used at a
+time and only at the end of another creature’s turn. The
+dragon regains spent legendary actions at the start of its turn.
+Detect.
+The dragon makes a Wisdom (Perception) check.
+Tail Attack.
+The dragon makes a tail attack.
+Wing Attack (Costs 2 Actions).
+The dragon beats its
+wings. Each creature within 15 feet of the dragon must
+succeed on a DC 23 Dexterity saving throw or take
+17 (2d8 + 8) bludgeoning damage and fall prone. The
+dragon can then fly up to half its flying speed.

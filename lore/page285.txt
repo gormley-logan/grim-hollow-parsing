@@ -1,0 +1,80 @@
+285
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+R
+Restless Lumberer
+“Huge thumps from across the street woke me. All night 
+long, I swear. Next day, I go to say something to the 
+noisy thumpers. Everyone there was dead, and strange 
+arcane marks covered the walls.”
+Dream Protectors
+. Lanky, long-limbed, and stooped, 
+a restless lumberer is a giant scarred by contact with 
+the Aetheric Kindred. Restless lumberers once cast their 
+slumbering minds abroad into the far reaches of the 
+multiverse, communing with cosmic beings in somnolent 
+bliss. This left them vulnerable to the nightmares of 
+the Kindred as they waged war on the gods of Etharis, 
+which shattered the minds of the restless lumberers.
+Having seen cosmic horrors firsthand, some restless 
+lumberers seeks to thwart the Kindred’s influence by 
+denying them the dreams of mortals. Other restless 
+lumberers work to restore the Kindred, seeing resistance 
+to their immense power as pointless. They collect strange 
+sleepers for this purpose.
+Literal Sleepers
+. The most infamous restless lumberer 
+dwelt in the abandoned vaults of Stehlenwald in the 
+Rauland province of the Bürach Empire. Other cities 
+house restless lumberers, but they largely keep to 
+themselves. The different factions are, however, known 
+to fight each other, causing minor earthquakes and 
+sinkholes. They lair in old cellars, bricked-up vaults, and 
+derelict tunnels, often burying themselves in sleepless 
+hibernation, contemplating the collections of strange 
+objects and items of eldritch significance taken from 
+dreamers’ homes that predict when the Kindred’s 
+dreams seep into the nightmares of mortal sleepers.
+No Sleep for the Dreamers
+. Lumberers who 
+fight against the Kindred keep dreamers awake by 
+rattling foundations, knocking on walls, or shouting 
+to prevent them from sleeping until the dreams pass. 
+They may kidnap sleeping people out of their beds, 
+taking them to their lair. Restless lumberer devotees 
+of M’rorcameleth are particularly fond of people with 
+peculiar or mystical dreams.
+salvage
+A restless lumberer’s lair is home to its collection of arcane 
+curios and eldritch paraphernalia and might contain any 
+number of spell components, spell foci, or magic scrolls.
+The brain of a restless lumberer has been molded and 
+washed over by countless waves of psychic energy from 
+the Aetheric Kindred. A proficient jeweler can take the 
+powdered brain of a restless lumberer and combine it 
+with 1000 gp of components to create a 
+ring of nightmares
+(see Chapter 4). This requires 5 days of work and a successful 
+DC 20 Intelligence (Arcana) check.
+lore
+DC 10 Intelligence (History)
+: Local sightings report 
+hearing houses groaning and rattling and feeling the 
+ground thump with an irregular beat.
+DC 15 Intelligence (History)
+: The merchants league 
+found their secure vault empty recently, including their 
+collection of ancient temple scrolls. The entire floor 
+was gone and a gaping tunnel leading deep into the 
+undercity left in its place.
+DC 20 Intelligence (Arcana)
+: Legend says the lumber-
+er was once a dream-walking giant who witnessed a gods’ 
+death and now lurks in forgotten vaults beneath the city 
+collecting interesting dreamers.

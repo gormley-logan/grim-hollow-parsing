@@ -1,0 +1,48 @@
+===
+Braerog
+Small fey, chaotic neutral
+Armor Class 13
+Hit Points 18 (4d6 + 4)
+Speed 30 ft., burrow 10 ft., climb 30 ft.
+str dex con int wis cha
+	8	(–1)	17	(+3)	13	(+1)	6	(–2)	12	(+1)	7	(–2)
+Skills
+Perception +3, Stealth +5
+Damage Vulnerabilities
+fire
+Senses darkvision 60 ft., passive Perception 13
+Languages understands Sylvan but can’t speak
+Challenge 1/4 (50 XP)
+Proficiency Bonus +2
+Fey Ancestry.
+The braerog has advantage on saving
+throws against being charmed, and magic can’t put it
+to sleep.
+Tree Stride (1/Round).
+The braerog can use 10 feet
+of its movement to magically step into one living tree
+within 5 feet of it and emerge from a second living tree
+within 60 feet of the first, appearing in an unoccupied
+space within 5 feet of the second tree. Both trees must
+be Medium or larger.
+actions
+Beak.
+Melee Weapon Attack: +5 to hit, reach 5 ft.,
+one target.
+Hit: 6 (1d6 + 3) piercing damage.
+Claw.
+Melee Weapon Attack: +5 to hit, reach 5 ft.,
+one target.
+Hit: 5 (1d4 + 3) slashing damage.
+Briar Patch (Recharge 6)
+. Thorny vines sprout from
+the ground in a 20-foot square starting from a point within
+5 feet of the braerog. The briar patch is difficult terrain
+and lasts for 1 minute, until the braerog creates another
+patch, until the braerog uses a bonus action to dismiss the
+patch, or until the braerog becomes incapacitated or dies.
+The braerog can designate creatures immune to the vines
+when creating the patch. Any other creature that enters
+the area or starts its turn there must succeed on a DC 11
+Strength saving throw or be grappled by the thorny vines
+(escape DC 11) and restrained while grappled in this way.

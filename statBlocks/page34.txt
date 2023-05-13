@@ -1,0 +1,82 @@
+34
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+B
+===
+Blood Brooder
+Large aberration, neutral evil
+Armor Class 14 (natural armor)
+Hit Points 105 (10d10 + 50)
+Speed 30 ft., climb 30 ft.
+str dex con int wis cha
+	16	(+3)	13	(+1)	20	(+5)	4	(–3)	12	(+1)	5	(–3)
+Condition Immunities prone
+Senses blindsight 30 ft., darkvision 60 ft.,
+passive Perception 11
+Languages —
+Challenge 4 (1,100 XP)
+Proficiency Bonus +2
+Blood Exchange.
+As a bonus action, the blood brooder
+can give hit points to blood bulbs within 5 feet of it, los-
+ing hit points so the bulbs gain them. The brooder can’t
+use this trait if it has fewer than half its hit points.
+Bulb Pouches.
+Up to eight blood bulbs can take refuge
+in pouches on the blood brooder’s sides, entering or exit-
+ing a pouch using 5 feet of movement. Bulbs in a pouch
+are in the brooder’s space and move with the brooder.
+Blood bulbs have three-quarters cover in these pouches.
+actions
+Multiattack.
+The blood brooder makes three
+spines attacks.
+Spines.
+Melee or Ranged Weapon Attack: +5 to hit, reach
+5 ft. or range 30/120 ft., one target.
+Hit: 10 (2d6 + 3)
+piercing damage.
+===
+Blood Bulb
+Small aberration, neutral evil
+Armor Class 13
+Hit Points 11 (2d6 + 4)
+Speed 10 ft., fly 30 ft. (hover)
+str dex con int wis cha
+	10	(+0)	16	(+3)	15	(+2)	3	(–4)	10	(+0)	3	(–4)
+Condition Immunities blinded, prone
+Senses blindsight 60 ft. (blind beyond this radius),
+passive Perception 10
+Languages —
+Challenge 1/4 (50 XP)
+Proficiency Bonus +2
+Blood Exchange.
+As a bonus action, the blood bulb
+can give hit points to one blood brooder or another blood
+bulb within 5 feet of it, losing hit points so the other
+creature gains them. The bulb can’t use this trait if it has
+fewer than half its hit points.
+actions
+Attach.
+Melee Weapon Attack: +5 to hit, reach 5 ft., one
+creature.
+Hit: 5 (1d4 + 3) bludgeoning damage. If the target
+is Medium or smaller, the blood bulb enters its space and
+attaches to it. Also, if the blood bulb has advantage on the
+attack roll, it attaches by engulfing the target’s head. Such
+a target is blinded and unable to breathe while the blood
+bulb is attached in this way.
+While attached to the target, the blood bulb can attack
+only the target but has advantage on its attack rolls to do
+so. On a hit, the target loses an extra 2 (1d4) hit points to
+blood loss. The blood bulb moves with the target, and if
+it moves on its own, it detaches. Doing so costs the blood
+bulb 5 feet of movement.
+A creature can use an action to detach a blood bulb. Doing
+so requires a successful DC 13 Strength (Athletics) check.

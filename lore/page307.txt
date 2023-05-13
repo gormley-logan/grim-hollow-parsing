@@ -1,0 +1,21 @@
+salvage
+Firearms recovered from skeleton troopers are nonfunc-
+tional, but parts of them might be useful. Each firearm 
+recovered can reduce the cost of making a similar firearm 
+by 10%, up to 50%.
+lore
+DC 10 Intelligence (Religion):
+ Necromancers 
+with advanced training and hefty resources can make 
+skeletons that are linked in death to their firearms.
+DC 15 Intelligence (Religion):
+ A commander leads 
+some platoons of skeleton troopers. This skeleton directs the 
+attacks and enhances the efficiency of its undead underlings.
+GM Advice:
+Skeletal troopers are effective when used as 
+minions in the army of a higher-level threat. Cinematic 
+battles focused on sieges or large battles are perfect for 
+troopers. In these cases, having the troopers immune to 
+turning until their powerful leader is defeated prevents 
+anticlimactic encounters.

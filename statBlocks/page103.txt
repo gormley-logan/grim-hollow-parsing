@@ -1,0 +1,93 @@
+103
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+E
+eaterof orbs
+Medium humanoid (demon, shapechanger),
+any evil alignment
+Armor Class 15 (studded leather)
+Hit Points 84 (13d8 + 26)
+Speed 35 ft.
+str dex con int wis cha
+ 13 (+1) 16 (+3) 14 (+2) 13 (+1) 12 (+1) 18 (+4)
+Skills
+Insight +4, Deception +7, Perception +4,
+Performance +7, Intimidation +7, Stealth +6
+Condition Immunities charmed
+Senses darkvision 120 ft. passive Perception 14
+Languages Any three languages
+Challenge 5 (1,800 XP)
+Proficiency Bonus +3
+Cunning Action.
+The eater can use a bonus action to
+take the Dash, Disengage, or Hide action.
+Fiendish Palaver.
+If the eater has consumed a human-
+oid’s eye, the eater can apply its proficiency bonus to
+any Charisma check to impersonate that person. If the
+proficiency bonus already applies, apply it again, up to
+doubling the bonus.
+Fiendish Precision.
+When the eater doesn’t have
+disadvantage on a melee weapon attack roll and hits the
+target, the eater deals 3 extra dice of the weapon’s damage
+(included in actions).
+Fiendish Sight.
+Magical darkness doesn’t impede the
+eater’s darkvision.
+Shapechanger.
+The eater can use its action to polymorph
+into a humanoid whose eye the eater last ate or back into
+the eater’s true form. Its statistics are the same in each form.
+Any equipment it is wearing or carrying isn’t transformed.
+The eater reverts to its true form if it dies.
+Spellcasting
+. The eater of orbs is an 8th-level spellcaster.
+Its spellcasting ability is Charisma (spell save DC 14).
+The eater of orbs knows the following bard spells or spells
+that are bard spells for it: Cantrips (at will): mage hand, prestidigitation, vicious mockery
+1st level (4 slots): charm person
+,
+disguise self
+,
+hideous laughter
+2nd level (3 slots): calm emotions, detect thoughts,
+knock, suggestion
+3rd level (3 slots): fear
+,
+nondetection
+,
+tongues
+4th level (2 slots): confusion
+actions
+Multiattack
+. The eater makes two rapier attacks.
+Rapier
+.
+Melee Weapon Attack
+: +6 to hit, reach 5 ft., one target.
+Hit
+: 7 (1d8 + 3) piercing damage, and if the eater doesn’t have disadvantage on the attack roll, the attack
+deals an aditional 13 (3d8) piercing damage. If the eater
+scores a critical hit, the eater can extract one of the
+target’s eyes.
+Eat Eye.
+The eater consumes an eye that was extracted
+from a living humanoid no more than 1 minute before,
+regaining 25 hit points. The eater can then polymorph
+into that person, per Shapechanger, as part of this action.
+reactions
+Uncanny Dodge
+. When an attacker the eater can see
+hits the eater with an attack, the eater can use its reaction
+to halve the attack’s damage to the eater.
+gms advice: Any humanoid creature that might serve a
+warlock can be turned into an eater of orbs by giving them
+the ability to extract eyes and then change shape after
+eating them.  An eaten eye would heal 5 hit points per CR.

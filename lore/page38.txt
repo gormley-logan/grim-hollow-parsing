@@ -1,0 +1,45 @@
+Bloodwood Giants
+“There was little we could do. Even Miklas’s healing 
+light couldn’t staunch the blood welling from the 
+wound torn by the giant’s spear.”
+Masters of Forest Depths
+. Tainted by evil, these 
+giants guard well their dark forested homes. Their dark 
+mottled skin blends easily into the dappled light of 
+shadowy woods.
+Vicious Hunters
+. The giants live in small clans, usually 
+led by their strongest warrior. They wield great spears 
+roughly carved from bloodwood trees that tear ragged 
+wounds which even skilled healers have trouble mending.
+Ancient Bargains
+. These giants pay reverence to dark, 
+long-forgotten spirits. Their shamans the vine callers, 
+make blood-filled promises to ancient entities, hoping to 
+reclaim lands they believe were stolen from them.
+Cunning Giants. 
+Though not as strong as their giant 
+cousins, bloodwood giants are far more cunning. Experts 
+at woodcraft, they can evade all but the most skilled 
+trackers in their woodland homes.
+Vine Caller
+. Vine callers use ancient magic to conjure 
+dark vines from the earth, stealing vitality from their victims. 
+Though they rarely lead clans, no giant dares dispute their 
+words for fear of the dark magic at their disposal.
+Chieftan
+. Most chieftains earn the grudging respect of 
+their tribe by being their greatest hunter. Vine callers often 
+tutor promising youth they foresee becoming clan leaders.
+salvage
+The massive bloodwood spears used by these giants 
+are too large to be effectively wielded by Medium or 
+smaller creatures.
+However, individuals proficient in carpenter’s tools 
+who succeed on a DC 12 Dexterity (Nature) check can 
+reduce the size of the giant’s spear to the equivalent of 
+a pike (1d10 piercing damage) and which inflicts the 
+bleeding condition if targets fail a DC 12 Constitution 
+saving throw (see 
+Grim Hollow Campaign Guide
+).

@@ -1,0 +1,29 @@
+Malefic Broker
+“The sound of coins clanking together is music to the ears of 
+some. In the hands of a malefic broker, it’s a death knell.”
+Disciples of Gorodyn.
+ A rare fiend, the malefic broker 
+is an example of a diabolic middleman. Taking the form of a 
+humanoid, the malefic broker hones its skills in negotiation 
+and acquisition rather than its fiendish might. Greed 
+motivates a malefic broker, who scrambles to acquire more 
+souls for Gorodyn through deception and persuasion.
+Soul Shards.
+ Despite a disdain for mortal wealth, 
+a malefic broker carries gems, which the fiend uses to 
+siphon pieces of souls fleeing the dying. When cornered, 
+a malefic broker consumes these soul shards to gain 
+eldritch might it can use to defend itself.
+salvage
+Soul shards taken from the malefic broker fetch 250 gp 
+each, or more, from rich collectors and arcanists. If crushed, 
+added to water, and imbibed, each soul shard acts as a 
+potion of superior healing
+. A malefic broker carries jewels 
+worth at least 500 gp to turn into more soul shards.
+lore
+DC 15 Intelligence (Religion):
+ Malefic brokers collect 
+souls, either through fiendish contracts or being near 
+those who die. The soul shards they carry can power 
+their fiendish abilities.

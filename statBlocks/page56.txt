@@ -1,0 +1,81 @@
+===
+Corporeal Cauchemange
+Medium aberration, neutral evil
+Armor Class 14 (natural armor)
+Hit Points 44 (8d8 + 8)
+Speed 30 ft.
+str dex con int wis cha
+	10	(+0)	15	(+2)	12	(+1)	11	(+0)	15	(+2)	16	(+3)
+Skills
+Intimidation+5, Perception+4
+Condition Immunities frightened
+Senses darkvision 120 ft, passive Perception 14
+Languages the languages of its host, telepathy 30 ft.
+Challenge 2 (450 XP)
+Proficiency Bonus +2
+Grappler.
+The cauchemange has advantage on attack
+rolls against any creature grappled by it.
+Hallucinatory Hold.
+The corporeal cauchemange needs
+only to touch a creature to deal damage, grappling a creature
+by force of presence rather than physical strength. A creature
+grappled by the cauchemange can also use Wisdom
+(Insight) to escape. The creature believes the damage
+the cauchemange deals to be of a type appropriate to the
+nightmare form the cauchemange takes.
+Happiness Susceptibility.
+If a creature within 30 ft.
+of the corporeal cauchemange uses an action to make a
+DC 13 Charisma (Performance) check and succeeds,
+creating a presentation that inspires happiness or hope, the
+cauchemange has disadvantage on attack rolls until the
+end of the performing creature’s next turn.
+Nightmare Aura.
+Each creature of the corporeal
+cauchemange’s choice that starts its turn within 30 ft. of
+the cauchemange must succeed on a DC 13 Wisdom saving
+throw or sense the cauchemange as something to be feared,
+becoming frightened until the start of the creature’s next turn.
+On a successful saving throw, the creature is immune to the
+Nightmare Aura of all cauchemanges for 1 hour.
+Psychic Teleport (Recharge 5–6).
+As its movement,
+the cauchemange can teleport to an unoccupied space within
+30 ft. of it, provided that the space is within 10 ft. of a
+creature with an Intelligence score of 3 or higher. The
+cauchemange doesn’t need to see the destination.
+actions
+Touch.
+Melee Weapon Attack: +5 to hit, reach 5 ft. one
+creature.
+Hit: 12 (2d8 + 3) psychic damage. If the target
+is a creature, it is grappled (escape DC 13).
+Drain.
+The cauchemange uses its touch attack on a creature
+grappled by it. On a hit, in addition to the damage, the
+target must succeed on a DC 13 Charisma saving throw
+or its hit point maximum is reduced by an amount equal
+to the damage taken. This reduction lasts until the target
+finishes a long rest. The target dies if this effect reduces its
+hit point maximum to 0. If this effect kills a humanoid, a
+cauchemange larva emerges from the corpse 8 hours later.
+Glamor.
+The corporeal cauchemange targets one
+humanoid it can see within 30 ft. of it. If the target can
+see the cauchemange, the target must succeed on a DC 13
+Wisdom saving throw against this magic or be charmed,
+seeing the cauchemange as something or someone
+desirable. The charmed target regards the cauchemange
+as a trusted friend to be heeded and protected. The target
+isn’t under the cauchemange’s control, but it takes the
+cauchemange’s requests and actions in the most favorable
+light, it is a willing target for the cauchemange’s touch,
+and it becomes a willing host for a cauchemange larva,
+which the target also sees as something desirable.
+Each time the cauchemange or the cauchemange’s allies
+do anything harmful to the target, it can repeat the saving
+throw, ending the effect on itself on a success. Otherwise,
+the effect lasts 24 hours, or until the cauchemange is
+destroyed, is on a different plane of existence than the
+target, or takes a bonus action to end the effect.

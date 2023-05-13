@@ -1,0 +1,44 @@
+244
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+0
+Oozing Vulture
+“The squawking and flapping of wings didn’t cause me 
+to flee. The blood-dripping feathers and gnarled beak? 
+A whole different story.”
+Oozing Feathers
+. Oozing vultures appear as avian 
+creatures with red-tinged feathers that drip blood 
+when they’re hunting. This blood often attracts other 
+predators, which the oozing vulture attacks when they 
+approach expecting an easy meal.
+Attracted to Blood
+. The oozing vulture can smell an 
+open wound over great distances, and the smell of blood 
+causes it to slip into a ravenous frenzy.
+Semi-Social
+. While oozing vultures are frequently 
+found in groups, their blood frenzy keeps them from 
+working together as a flock like other avian creatures. 
+However, they might enter symbiotic relationships with 
+ground-dwelling creatures to maximize their hunting 
+prospects. If caught and trained, oozing vultures can act 
+as excellent guards or hunters.
+salvage
+An oozing vulture’s feathers are prized by tailors and 
+arcanists alike. A character can collect 2d10 feathers with a 
+successful DC 10 Dexterity (Nature) check. Each feather is 
+worth 3 gp.
+lore
+DC 10 Intelligence (Nature)
+: Oozing vultures have a 
+vicious bite that can knock their victims prone.
+DC 15 Intelligence (Nature)
+: Oozing vultures can 
+track the smell of blood over great distances.

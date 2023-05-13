@@ -1,0 +1,51 @@
+400
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+Laneshi Vampire
+“The creature’s flesh was loose and wrinkled, like he had soaked 
+too long. His hair was tangled, matted with seaweed and sand. He 
+had a wild look, and he made a slurping sound as he charged in.”
+Cursed Waters
+. The Llana’Shi Empire is no stranger to 
+the dark tales of vampires. Vampirism has been among 
+laneshi for ages, despite the protection of the sea. With 
+more laneshi visiting lands above the waves, the curse 
+has spread further. Old legends among laneshi speak 
+of warriors falling under the curse for misdeeds, or 
+of mystics transformed due to missteps or intentional 
+arcane experiments
+Blood Drinkers.
+ More than other vampires, laneshi 
+vampires prefer to drink their sustenance. Their feed-
+ing method leaves victims who survive parched. 
+This connection to water gives a laneshi vampire some 
+benefits. Running water never bothers laneshi vampires, 
+and holy water is less effective against them. The 
+downside to these advantages is that laneshi vampires 
+can’t survive without immersion in water.
+salvage
+Someone who consumes part of a laneshi vampire can 
+breathe water for 1 hour, in addition to other benefits 
+and drawbacks.
+lore
+DC 10 Intelligence (Nature):
+ Laneshi vampires prefer 
+to drink their sustenance and can rarely resist consuming 
+blood if they see or smell it.
+DC 15 Intelligence (Arcana):
+ Vampirism makes 
+laneshi agile fighters who move easily in and out of 
+combat. They retain water-related advantages, including 
+not only swimming, but also no weakness to running 
+water other vampires have and a resistance to holy 
+water. A laneshi’s bite leaves a victim parched.
+DC 20 Intelligence (Religion):
+ A laneshi vampire can 
+die if unable to immerse in water or feed. The vampire’s 
+body disintegrates if it dies in this way.

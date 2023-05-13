@@ -1,0 +1,816 @@
+Amorphous Horror
+
+Whipskein Horror
+
+Shifting Hulk
+
+Angel of Empyreus
+
+Anguisher
+
+Animated Flame Tongue
+
+Apparmarole
+
+Tallow Toad
+
+Chalk Chatterling
+
+Inkfester
+
+Inquisitor Hunter
+
+Inquisitor Knight
+
+Inquisitor Priest
+
+Inquisitor Judge
+
+Inquisitor Warder
+
+Faith Finch
+
+Pox Dog
+
+Sitri Cat
+
+Bladewhirl
+
+Blazehorn
+
+Blightwind
+
+Deathmoss
+
+Bogfoul
+
+Forgeblight
+
+Ancient Blightscale Dragon
+
+Adult Blightscale Dragon
+
+Young Blightscale Dragon
+
+Blightscale Dragon Wyrmling
+
+Blood Brooder
+
+Blood Bulb
+
+Blood Ooze
+
+Blood Tracker
+
+Bloodwood Giant
+
+Bloodwood Chieftain
+
+Bloodwood Vine Caller
+
+Bloody Avenue
+
+Bog Crawler
+
+Bolejack
+
+Bone Trader
+
+Braerog
+
+Rage-Infected Bugbear
+
+Bugbear Thrall of Tormach
+
+Cadeer
+
+Candlelight Daemon
+
+Thornlamm
+
+Caprathorn
+
+Carvaloth
+
+Catacomb Haunt
+
+Corporeal Cauchemange
+
+Incorporeal Cauchemange
+
+Cauchemange Larva
+
+Blightwalker
+
+Champion of Filth
+
+Chapped Brute
+
+Chapped Brute Abomination
+
+Awakened Chapped Brute
+
+Chiropteran Behemoth
+
+The Churning
+
+Coldfire Ooze
+
+Mourning Minstrel
+
+Dirgemaster
+
+Coral Grazer Larva
+
+Coral Grazer
+
+Corpse Walker
+
+Ancient Corpse Walker
+
+ Corpse Wisp
+
+Crawling Grave
+
+Tormach Cultist
+
+Tormach Zealot
+
+Champion of Tormach
+
+Daemon Oak Thrall
+
+Daemon Oak
+
+Danxoni
+
+Dark Mist Stalker
+
+Darkfeather
+
+Dawndrinker
+
+Death Cap
+
+Avarice Seraph
+
+Lesser Gluttony Seraph
+
+Lesser Avarice Seraph
+
+Gluttony Seraph
+
+Disembodied Arcanist
+
+Disembodied Commoner
+
+Doom Boar
+
+Doomcaller
+
+Downcast Mercenary
+
+Downcast Apostate
+
+Downcast Sangromancer
+
+Drab Sludge
+
+Blight Drake
+
+Sea Drake
+
+Sky Drake
+
+Prismatic Drake
+
+Living Dream
+
+Living Nightmare
+
+Katoche
+
+Dreamer Somnolist
+
+Dreamer Snoop
+
+Eagal Sithe
+
+Eater of Orbs
+
+Ebon Knight Steed
+
+Ebon Knight
+
+Eldritch Herald
+
+Eldritch Priest
+
+Empyrean Brazen Bull
+
+Epachrach
+
+Andora
+
+Clockwork Horror
+
+Llanna Deyern
+
+Gillian Hammerstorm
+
+Claunt Mamona
+
+Abree Simoni
+
+Grimaldo Simoni
+
+Faevlin
+
+Fate Cat
+
+Infernal Tormentor
+
+Infernal Contractor
+
+Fractured Noble
+
+Fractured Socialite
+
+Fzeglaich
+
+Fzeg
+
+Garish Augment
+
+Gasdra
+
+Giant Gasdra
+
+Gasper
+
+Gegazol
+
+Beast Gnoll
+
+Venomous Gnoll
+
+Gnoll Brute
+
+Rampage Gnoll
+
+Gore Elemental
+
+Gozomite
+
+Grief Eater
+
+Grim Piper
+
+Grinstagger
+
+Gripper
+
+Swarm of Grotesquerie Minions
+
+Grotesquerie
+
+Grudgel
+
+Grudgel Strategist
+
+Grudgel Battlemind
+
+Hag-Blighted
+
+Harvester of Lies
+
+Hedron
+
+Ring of Fire
+
+Hell’S Reach
+
+Hermit Skull
+
+Hive Haunt
+
+Hivewolf Matriarch
+
+Hivewolf
+
+Horror Flit Breeder
+
+Horror Flit Swarm
+
+Horror Flit Hunter
+
+Horror-Out-the-Box
+
+Hourglass Widow
+
+Hraptnon
+
+Carnivorous Cow
+
+Edacious Equine
+
+Esurient Elephant
+
+Dread Llama
+
+Hungerer Snake
+
+Hungerer Elk
+
+Hungerer Wolf
+
+Hurrock
+
+Elder Hurrock
+
+Ancient Hurrock
+
+Inkwalker
+
+Insic
+
+Stormborn Ithjar
+
+Ithjar
+
+Jespaith
+
+Keppmir
+
+Keppmir Stalker
+
+Keppmir King
+
+Knifetooth Warlord
+
+Knifetooth Slayer
+
+Knifetooth Hunter
+
+Knifetooth Firebrand
+
+Kokela
+
+The Laethlyn
+
+Laneshi Necromancer
+
+Laneshi Soldier
+
+Leeching Willow
+
+Lenchtahg
+
+Lich Troll
+
+Zombie Troll
+
+Lindwyrm
+
+Lithobel
+
+Drug-Crazed Marauder
+
+Alchemical Berserker
+
+Living Toxin
+
+Lupilisk
+
+Lupilisk Elder
+
+Lupilisk Whelp
+
+Werewolf Ravager
+
+Werebear Ascetic
+
+Lyfaren
+
+Magebane Ooze
+
+Thunderblossom
+
+Lightning Vine
+
+Flash Freeze
+
+Maiden’S Hair, Lesser
+
+Maiden’S Hair, Greater
+
+Malcinder
+
+Malcinder Alpha
+
+Malefic Broker
+
+Malikirian Imp
+
+Marra
+
+Maskenmagier
+
+Jungeist
+
+Mausgeist
+
+Memori Lich
+
+Young Meyana
+
+Meyana
+
+Mjork
+
+Mjork Charger
+
+Mjork Burner
+
+Mjork Asher
+
+Mjork Sootling Swarm
+
+Mjork Sootling
+
+Kobold
+
+Morbus Kobold Elder
+
+Mothfolk
+
+Mouruge
+
+Kindled Mouruge
+
+Mud Zombie
+
+Mukad Larva
+
+Mukad Worker
+
+Mukad Droner
+
+Mukad Warrior
+
+Mukad Larva Swarm
+
+Mukad Progenitor
+
+Nacambra
+
+Nacambraan Sorcerer
+
+Nether Spider
+
+Night Serpent
+
+Nolidir
+
+Nolid
+
+Oblivion Leaper
+
+Oblivion Whistler
+
+Oblivion Brute
+
+Oblivion Juggernaut
+
+Ogre of the Vale
+
+Ogre Swine
+
+Ogresh Sage
+
+Ogresh Champion
+
+Oozing Vulture
+
+Ordeal Tree
+
+Master Outlaw
+
+Outlaw
+
+Pactbreaker
+
+Panjaian Alondon
+
+Panjaian Morakeshi
+
+Panjaian Citrolachi
+
+Panjaian Gormadraugon
+
+Panjaian Ilharan
+
+Blightworm Ascendant
+
+Blightworm Warlock
+
+Blightworm
+
+Pesta
+
+Master Plague Doctor
+
+Plague Doctor
+
+Poffer
+
+Poppet
+
+Poppet Fiend
+
+Potbelly
+
+Fireborn Troll Flamecaller
+
+Fireborn Troll
+
+Seaborn Troll Fogcaller
+
+Seaborn Troll
+
+Stoneborn Troll Contemplative
+
+Stoneborn Troll
+
+Windborn Troll Infiltrator
+
+Windborn Troll
+
+Puck
+
+Puck Tree
+
+Puck Shrub
+
+Putrefaction Slug
+
+Putrid Giant
+
+Quake Drake
+
+Quiet One
+
+Red Quoxxarie
+
+White Quoxxarie
+
+Black Quoxxarie
+
+Gray Quoxxarie
+
+Rabenhex
+
+Raven of Ill Omen
+
+Elder Red Hag
+
+Red Hag
+
+Remorseful Storm
+
+Restless Lumberer
+
+Resurrection Horror
+
+Returned Hunter
+
+Rime Hunger
+
+Rougaugh
+
+Runa Banasár
+
+Sand Giant
+
+Sand Giant Monarch
+
+Sand Giant Caller
+
+Scream Thief
+
+Psychic Fragment Swarm
+
+Psychic Fragment
+
+Celestial Campaigner
+
+Celestial Celebrant
+
+Eye of Zabriel
+
+Empyrean Knight
+
+The Bloodied
+
+Shadow Mauler
+
+Shadowsteel Ghast
+
+Shadowsteel Ghoul
+
+Shatter Corpse
+
+Shrieking Mandrake
+
+Skeleton Rifler
+
+Skeleton Cannoneer
+
+Skeleton Commander
+
+Skinweaver
+
+Skywailer
+
+Sleep Gulper
+
+Slimm
+
+Slumbering Titan
+
+Young Snarite
+
+Old Snarite
+
+Adult Snarite
+
+Soman Vampire Berserker
+
+Soman Vampire Sangromancer
+
+Soman Vampire Noble
+
+Spythronar Sac
+
+Spythronar Web
+
+Spythronar Swarm
+
+Withered Steed
+
+Ghost Mustang
+
+Crimson Stallion
+
+Stygian Bat
+
+Styrkvisnar
+
+Sunwraith
+
+Suture Golem
+
+Svangras
+
+Swarm of Ears
+
+Tachna Gallery
+
+Tachna
+
+Tangle Weed
+
+Tar Creep
+
+Tar Juggernaut
+
+Thornhost
+
+Toymaker
+
+Box-Bound Jack
+
+Dolly
+
+Marie O’Nett
+
+Bloody Teddy
+
+Trennensel
+
+Unfinished
+
+Corpsejaw
+
+Eye Crawler
+
+Eye Crow
+
+Flatback Beetle
+
+Goldmane Boar
+
+Frostbite Fox
+
+Jelly
+
+Knifewing
+
+Mold Spider
+
+Ormwurm
+
+Scuttling Maw
+
+Shieldhead
+
+Sloth Galloper
+
+Torcheater
+
+Urban Ooze
+
+Diminished Urban Ooze
+
+Giant Urban Ooze
+
+Vessel Shard
+
+Vitebriate
+
+Vooran
+
+Wandering Head
+
+Wechselkind Glamourist
+
+Wechselkind Cutpurse
+
+Wechselkind Plague Cultist
+
+Weeping Lord
+
+Weeping Zombie
+
+Whelmer
+
+Witch Owl Cultist
+
+Witch Owl Hexta
+
+Witch Owl
+
+Wolfentroika
+
+Wood Weird Trapper
+
+Wood Weird Seeder
+
+Worms-in-the-Walls Swarm
+
+Worm-in-the-Wall
+
+Wretched Reveler
+
+Wretched Driver
+
+Wretched Master of Ceremonies
+
+Xakalonus
+
+Yggdrasili Drone
+
+Yggdrasili Cloud
+
+Yggdrasili Crown
+
+Zabrielite Truthseeker
+
+Vampire Spawn
+
+Young Vampire
+
+Adult Vampire
+
+Ancient Vampire
+
+Bugbear Vampire (Young)
+
+Vampire, Downcast (Adult)
+
+Dragonborn Vampire (Young)
+
+Dreamer Vampire (Adult)
+
+Dwarf Vampire (Adult)
+
+Elf Vampire (Ancient)
+
+Gnome Vampire (Adult)
+
+Halfling Vampire (Young)
+
+Laneshi Vampire (Adult)
+
+Ogresh Vampire (Adult)
+

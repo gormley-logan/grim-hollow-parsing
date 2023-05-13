@@ -1,0 +1,88 @@
+===
+Empyrean Brazen Bull
+Huge celestial, lawful good
+Armor Class 16 (natural armor)
+Hit Points 162 (12d12 + 84)
+Speed 50 ft., fly 30 ft.
+str dex con int wis cha
+ 26 (+8) 10 (+0) 25 (+7) 14 (+2) 17 (+3) 21 (+5)
+Saving throws
+Str +12, Con +11, Wis +7, Cha +9
+Skills
+Athletics +12, Perception +7
+Damage Resistances
+acid, cold, lightning; bludgeoning,
+piercing, slashing damage from nonmagical weapons
+Damage Immunities fire, necrotic, poison, radiant
+Condition Immunities charmed, exhaustion,
+frightened, prone, restrained
+Senses darkvision 120 ft., passive Perception 17
+Languages Celestial
+Challenge 10 (5900 XP)
+Proficiency Bonus +4
+Celestial Arsenal.
+The Empyrean brazen bull’s
+weapon attacks are magical. When it hits with any
+weapon, the weapon deals an extra 18 (4d8) radiant
+damage (included in the attack).
+Death Throes.
+When the Empyrean brazen bull dies,
+it explodes, and each creature within 20 feet of it must
+make a DC 17 Dexterity saving throw, taking 21 (6d6)
+fire and 21 (6d6) radiant damage on a failed save, or half
+as much damage on a successful one.
+Soulfire Nimbus.
+At the start of each of the Empyrean
+brazen bull’s turns, each creature within 5 feet of it takes
+10 (3d6) radiant damage. A creature that touches the
+Empyrean brazen bull or hits it with a melee attack while
+within 5 feet of it takes 10 (3d6) radiant damage.
+Siege Monster.
+The Empyrean brazen bull deals
+double damage to objects and structures.
+Unrelenting Charge.
+If the Empyrean brazen bull
+moves at least 20 feet straight toward a creature and then
+hits it with a gore attack on the same turn, that target
+must succeed on a DC 20 Strength saving thrown or
+be knocked prone. If the target is prone, the Empyrean
+brazen bull can make one attack with its bite or hooves
+against it as a bonus action.
+actions
+Bite.
+Melee Weapon Attack
+: +12 to hit, reach 10 ft., one target.,
+Hit
+: 24 (3d10 + 8) bludgeoning damage plus 18 (4d8) radiant damage. If the target is a creature, it is
+grappled (escape DC 20). Until this grapple ends, the
+target is restrained, and the Empyrean brazen bull can’t
+bite another target.
+Gore.
+Melee Weapon Attack
+: +12 to hit, reach 10 ft., one target.
+Hit
+: 27 (3d12 + 8) piercing damage and 18 (4d8) radiant damage.
+Hooves
+.
+Melee Weapon Attack
+: +12 to hit, reach 5 feet., one target.
+Hit
+: 24 (3d10 + 8) bludgeoning damage and 18 (4d8) radiant damage.
+Swallow.
+The Empyrean brazen bull makes one bite at-
+tack against a Medium or smaller creature it is grappling.
+If the attack hits, that creature takes the bite’s damage and
+is swallowed, and the grapple ends. While swallowed,
+the creature is blinded and restrained, it has total cover
+against attacks and other effects outside the Empyrean
+brazen bull, and it takes 21 (6d6) fire damage at the start
+of each of theEmpyrean brazen bull’s turns.
+If the Empyrean brazen bull takes 30 damage or more
+on a single turn from a creature inside it, the Empyrean
+brazen bull must succeed on a DC 15 Constitution saving
+throw at the end of that turn or regurgitate all swallowed
+creatures, which fall prone in a space within 10 feet
+of the empyrean brazen bull. If the Empyrean brazen
+bull dies, a swallowed creature is no longer restrained
+by it and can escape from the corpse using 15 feet of
+movement, exiting prone.

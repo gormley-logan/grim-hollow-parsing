@@ -1,0 +1,40 @@
+Whelmer
+“Helping people is all well and good on dry land, 
+but you won’t see me diving to the rescue of 
+anyone in the water. Not after last time.”
+Illusory Lure.
+ A corrupted water elemental, a whelmer 
+likes to lurk in or near a body of water close to areas 
+inhabited by humanoids. When people pass, a whelmer 
+creates the illusion of a drowning person. Rather than wait 
+in the water, the whelmer might rest motionless on a path 
+to a beach or lake, waiting to ensnare would-be rescuers.
+Fey Ties.
+ The whelmers’ powers of illusion stem from 
+fey ties. Some water elementals wanted to meddle in the 
+realms of mortals. Curious about these strange creatures, 
+fey saw a chance for mischief and taught these rogue 
+elementals how to lure people with illusions.
+Elemental Nature.
+ A whelmer doesn’t require air, 
+food, drink, or sleep.
+salvage
+If somebody casts 
+gentle repose
+ on the remains of a 
+whelmer within 1 minute, someone who has proficien-
+cy with alchemist’s supplies can boil the water down 
+over 1 hour and add other materials worth 25 gp. If the 
+alchemist succeeds on a DC 13 Intelligence or Wisdom 
+check, the result is one 
+potion of water breathing
+.
+lore
+DC 10 Intelligence (History): 
+Whelmers are evil 
+elementals that drag their victims into water to drown 
+them. These elementals are stealthy and lie in wait as still 
+pools of water.
+DC 15 Intelligence (Arcana):
+ Whelmers lure their 
+prey with illusions of drowning humanoids.

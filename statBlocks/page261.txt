@@ -1,0 +1,61 @@
+261
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+P
+===
+Poppet
+Tiny construct, chaotic evil
+Armor Class 12
+Hit Points 21 (6d4 + 6)
+Speed 40 ft.
+str dex con int wis cha
+ 5 (–3) 14 (+2) 13 (+1) 11 (+0) 10 (+0) 13 (+1)
+Saving Throws
+Wis +2
+Skills
+Stealth +4
+Damage Immunities poison, psychic
+Damage Resistances
+bludgeoning, piercing, and
+slashing from nonmagical attacks that aren’t adamantine
+Condition Immunities charmed, exhaustion,
+frightened, paralyzed, petrified, poisoned, unconscious
+Senses darkvision 60 ft., passive Perception 10
+Languages One national language, telepathy 30 ft.
+Challenge 1 (200 XP)
+Proficiency Bonus +2
+Devil’s Sight.
+Magical darkness doesn’t impede the
+poppet’s darkvision.
+Eerie Laugh.
+As a bonus action, the poppet laughs,
+and each creature within 30 feet of and able to hear the
+poppet must succeed on a DC 11 Wisdom saving throw.
+On a failure, the creature becomes frightened of the
+poppet for 1 minute. If the saving throw fails by 5 or
+more, the target’s speed is halved while it’s frightened
+in this way. A frightened target can repeat the saving
+throw at the end of each of its turns, with disadvantage
+if the poppet is within line of sight, ending the effect on
+itself on a success. If a target’s saving throw is successful
+or the effect ends for it, the target is immune to the Eerie
+Laugh of any poppet for the next 24 hours
+False Appearance.
+While the poppet remains motionless,
+it’s indistinguishable from an ordinary doll.
+Turning Susceptibility.
+The poppet can be turned
+as if it were undead. However, it can’t be destroyed by
+effects that turn undead.
+actions
+Embrace.
+Melee Weapon Attack: +4 to hit, reach 5 ft.,
+one target.
+Hit: 2 (1d4) bludgeoning damage and 5 (2d4)
+psychic damage.

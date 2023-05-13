@@ -1,0 +1,22 @@
+402
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+ogresh vampire customization
+An ogresh vampire is agile for their mass, but less so than
+a typical vampire of their age (lower Dexterity and AC).
+The vampire makes up for the slowdown with sheer
+durability (higher Constitution and hit points) and higher
+Charisma. An ogresh vampire also gains its proficiency
+bonus on Constitution saving throws but lacks it on
+Dexterity saves. These vampires are immune to disease
+and poison, and they can’t be charmed. However, an
+ogresh vampire can use Charm on others but lacks Beast
+Form. Ancient ogresh vampires can affect any sort of
+creature with their Charm, not only humanoids or beasts.
+Ogresh vampires gain the Massive trait in their later years.

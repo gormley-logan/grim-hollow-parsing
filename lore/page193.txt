@@ -1,0 +1,44 @@
+193
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+L
+Lithobel
+“The two-headed, four-armed, blood-covered statue 
+moves forward, weapons at the ready.”
+Duels in Tormach’s Honor.
+ With the rise of the Cult 
+of Tormach throughout Unterland, the bloody ambitions 
+of Speaker Schlei have come to fruition more and more. 
+Under his orders, cultists devoted to the demented Arch 
+Daemon of war fight one another to the death in single 
+combat as an offering of sacrificial bloodshed. If both 
+combatants die from their wounds and their combat is 
+glorious, Tormach grants the devotees special favor.
+Commemorated for Eternity.
+ Tormach grafts 
+combatants honored for their bloodthirsty sacrifice, 
+together forming a four-armed, two-headed creature 
+known as a lithobel. The creature’s skin is transmuted 
+into rough stone, and it is granted massive stone weapons 
+capable of slaughtering a draft horse in a single swing. 
+The hulking creature is then turned loose on the hapless 
+population of Etharis, possessing only the drive to maim 
+and kill any living creature unlucky enough to cross its path.
+salvage
+The powdered stone of a lithobel’s heads can be used in 
+place of diamond dust for the 
+stoneskin
+ spell. One lithobel 
+produces powder worth 1,000 gp.
+lore
+DC 15 Intelligence (Religion):
+ This foul creature is 
+the result of a battle to the death between two followers 
+of Tormach. It wants only blood. Poison is ineffective, 
+and nonmagical attacks do the creature less harm.

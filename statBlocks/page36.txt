@@ -1,0 +1,60 @@
+36
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+B
+===
+Blood Tracker
+Large monstrosity, lawful evil
+Armor Class 14 (natural armor)
+Hit Points 95 (10d10 + 40)
+Speed 50 ft.
+str dex con int wis cha
+	19	(+4)	13	(+1)	18	(+4)	6	(–2)	16	(+3)	7	(–2)
+Skills
+Perception +6, Survival +6
+Senses blindsight 30 ft., darkvision 120 ft., passive Perception 15
+Languages understands one language but can’t speak
+Challenge 5 (1,800 XP)
+Proficiency Bonus +3
+Blood Master.
+The blood tracker can be bound to one
+other evil creature, a master, by eating the master’s blood
+for 13 days. While the master is within 100 ft. of the blood
+tracker, the two can communicate telepathically. As an
+action, provided the blood tracker is within 300 ft. of
+the master, the master can use the tracker’s senses until
+the start of the master’s next turn. The master can’t use
+its own senses during this time.
+Blood Tracker.
+The blood tracker has advantage
+on Wisdom checks to track living creatures. If such a
+creature has lost any hit points, magic can’t prevent the
+blood tracker from tracking the creature.
+Keen Hearing and Smell.
+The blood tracker has
+advantage on Wisdom (Perception) checks that rely
+on hearing or smell.
+actions
+Multiattack
+. The blood tracker makes one bite attack
+and uses blood bay.
+Bite.
+Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+Hit: 13 (2d8 + 4) piercing damage and 7 (2d6) necrotic
+damage. If the target is a creature, it must succeed on a
+DC 15 Strength saving throw or fall prone.
+Blood Bay.
+The blood tracker chooses one creature it can
+sense within 60 feet of it. That creature must make a DC 13
+Wisdom saving throw with disadvantage if the creature
+is not at full hit points. On a failure, the creature takes 13
+(3d8) thunder damage, or 19 (3d12) thunder damage if not
+at full hit points, and it becomes frightened until the end
+of the blood tracker’s next turn. While frightened in this
+way, the creature’s speed drops to 0.

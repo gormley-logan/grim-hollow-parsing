@@ -1,0 +1,35 @@
+Doomcaller
+“Despair, the end is nigh!”
+Apocalyptic Prophet
+. Wrapped in bandages and 
+a cloak, the fiend plays at being a prophet predicting 
+dark times ahead. With the presence of a doomcaller, its 
+predictions are all too real.
+Tongue of Tongues
+. When the doomcaller speaks, all 
+understand, and it understands all that is said.
+One of Many
+. When the doomcaller needs to reinforce 
+its pronouncements of doom, it summons succubi or 
+other fiends to spread fear and despair.
+salvage
+When slain, the eyes of a doomcaller harden into gems 
+worth 2000 gp each.
+When a creature holding one of these gems makes 
+an attack roll, ability check, or saving throw, they can 
+consume it to improve their fortunes. After the roll has 
+been made, but before the GM has announced the result 
+of the roll, the player can expend one gem and reroll the 
+roll. Once done, the player must use the new result, the 
+gem shatters and becomes worthless.
+lore
+DC 10 Intelligence (Religion)
+: Doomcallers are 
+powerful spellcasting fiends.
+DC 15 Intelligence (History)
+: A doomcaller can 
+summon succubi or barbed devils.
+DC 20 Intelligence (Arcana)
+: Doomcallers are 
+resistant to cold, fire, lightning, and nonmagical 
+weapons. They are immune to acid and poison.

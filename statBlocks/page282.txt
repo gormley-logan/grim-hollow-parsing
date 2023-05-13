@@ -1,0 +1,48 @@
+red hag coven
+Red hags form covens, although few other hags are will-
+ing to work with red hags, and so such a coven is usually
+of three red hags. Red hags are more cooperative than
+other hags, so their coven can function more cohesively
+and efficiently.
+Shared Spellcasting.
+While all three members of a
+hag coven are within 30 feet of one another, they can each
+cast the following spells from the wizard’s spell list. For
+casting these spells, each hag is a 10th-level spellcaster
+that uses Intelligence as her spellcasting ability. The spell
+save DC is 11 + the hag’s Intelligence modifier, and the
+spell attack bonus is 3 + her Intelligence modifier. The
+three hags share the indicated spell slots among them: 1st level (4 slots): charm person, detect magic, identify
+2nd level (3 slots): invisibility, misty step, suggestion
+3rd level (3 slots): bestow curse, counterspell, nondetection
+4th level (3 slots): arcane eye, charm monster
+5th level (2 slots): mislead, scrying
+Steal Body.
+A red hag coven can allow one of its members
+to steal a humanoid’s body. The target of this ritual must be
+a humanoid one of the hags cursed to be voiceless, and only
+the hag who stole that voice can take the body. The ritual
+requires the target to be incapacitated or restrained, and
+the red hag taking the body is paralyzed during the ritual,
+which takes 1 hour to complete.
+Any magic that protects the target from possession
+prevents the ritual from succeeding. The target can also
+make a DC 14 Charisma saving throw, preventing the
+ritual’s completion on a success. A successful save also
+means the target is immune to the effects of the ritual
+for 24 hours.
+If the ritual works, the target’s soul departs the body,
+the red hag’s body dies, and her soul possesses the target’s
+body. The hag has the target’s Strength, Dexterity, and
+Constitution, but otherwise, she retains her statistics.
+The hag’s new body has three levels of exhaustion when
+the ritual ends, and each level can be removed only by a
+long rest. Further, until this exhaustion ends, any effect
+that ends or prevents possession causes the new body to
+become paralyzed for the effect’s duration as the hag’s
+mental connection to the body breaks.
+Once the exhaustion ends, the hag’s soul and the new
+body unite. Over the course of three years and three days,
+the new body changes back into the hag’s original form.
+The hag still gains the benefit of the body’s age when she
+took possession of it.

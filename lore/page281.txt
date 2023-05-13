@@ -1,0 +1,56 @@
+281
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+R
+Raven of Ill Omen
+“Ravens can be a sign of bad tidings, but their 
+monarchs bring mischief and upheaval.”
+Raven “Rulers.” 
+Ravens of ill omen are larger than 
+normal ravens. A plume of feathers, red and white, and 
+alabaster eyes set it further apart from its kin. These regal 
+ravens also have magical influence over fortune. This 
+prescience causes misfortune for the raven’s enemies and 
+good luck for fellow corvids.
+Ravens are harbingers of misfortune. A raven of 
+ill omen is the embodiment of this belief. When one 
+appears, battlefield deaths increase, pestilence spreads 
+quickly, and misery abounds.
+Cunning Deceivers.
+ Contrary to popular superstition, 
+ravens of ill omen aren’t beasts. These mischievous 
+creatures are fey who actively spread misfortune. They 
+influence ravens and sometimes ally with other fey, 
+drawing unwitting creatures into traps and nasty 
+schemes through mimicry and other tricks.
+salvage
+Many people believe the crown feather of the raven of 
+ill omen bestows good fortune, while others insist the 
+opposite is true. Someone can sit with such a feather 
+for 1 hour and attempt to attune to it, making a DC 10 
+Charisma check. On a success, the feather acts as a 
+stone 
+of good luck
+. On a failure, the feather seems to be a 
+stone 
+of good luck
+, but the GM secretly subtracts 2 from ability 
+checks and saving throws after the player adds the 
+“luckstone’s” +1. The ill-fortune feather is cursed. Until 
+the curse is removed, the attuned user can’t discard it. 
+The good-fortune feather crumbles to dust if the user 
+lore
+DC 10 Intelligence (History):
+ The raven of ill omen is 
+a creature that can speak and mimic sounds and voices. 
+Those the raven deems enemies might quickly find that 
+luck has abandoned them.
+DC 15 Intelligence (Arcana):
+ This raven is no beast, but 
+rather a devious fey keen to bestow misfortune on mortals.

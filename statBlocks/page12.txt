@@ -1,0 +1,67 @@
+12
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+A
+===
+Animated Flame Tongue
+Small construct, unaligned
+Armor Class 18 (natural armor)
+Hit Points 31 (9d6)
+Speed 0 ft., fly 50 ft. (hover)
+str dex con int wis cha
+	14	(+2)	16	(+3)	10	(+0)	1	(-5)	5	(-3)	1	(-5)
+Saving Throws
+Dex +5
+Damage Resistances
+fire
+Damage Immunities poison, psychic
+Condition Immunities blind
+,
+charmed, deafened,
+frightened, paralyzed, petrified, poisoned
+Senses blindsight 60 ft. (blind beyond this radius),
+passive Perception 7
+Languages ---
+Challenge 2 (450 XP)
+Proficiency Bonus +2
+Antimagic Susceptibility
+. The flame tongue is
+incapacitated while in the area of an
+antimagic field
+. If
+targeted by
+dispel magic
+, the flame tongue must succeed on
+a Constitution saving throw against the caster’s spell save
+DC or fall unconscious for 1 minute.
+False Appearance.
+While the flame tongue remains
+motionless and isn’t flying, it is indistinguishable from a
+normal sword.
+Magic Weapons
+.
+The flame tongue’s weapon attacks
+are magical.
+actions
+Longsword.
+Melee Weapon Attack
+: +5 to hit, reach 5 ft., one target.
+Hit
+: 7 (1d8 + 3) slashing damage and 7 (2d6) fire damage.
+Frenzy (1/Day).
+The animated flame tongue strikes out
+in a series of wild attacks against a single creature. The
+animated flame tongue makes three longsword attacks
+against a single target.
+reactions
+Parry and Riposte.
+The animated flame tongue adds
+3 to its AC against one melee attack that would hit it. If
+the attack misses, the animated flame tongue can make
+one melee attack against the attacker if it is within reach.

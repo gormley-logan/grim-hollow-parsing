@@ -1,0 +1,78 @@
+35
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+B
+===
+Blood Ooze
+Large ooze, unaligned
+Armor Class 11
+Hit Points 150 (20d10 + 40)
+Speed 20 ft., climb 20 ft.
+str dex con int wis cha
+	17	(+3)	13	(+1)	15	(+2)	3	(–4)	10	(+0)	3	(–4)
+Skills
+Stealth +4
+Condition Immunities blinded, deafened,
+exhaustion, prone
+Senses blindsight 60 ft. (blind beyond this radius),
+passive Perception 10
+Languages —
+Challenge 7 (2,900 XP)
+Proficiency Bonus +3
+Amorphous.
+The blood ooze can move through a space
+as narrow as 1 inch wide without squeezing.
+Blood Scent.
+Double the blood ooze’s blindsight for
+detecting living creatures that lack all their hit points. The
+blood ooze can use a bonus action to make a pseudopod
+attack against or take the Dash action to move toward
+such a creature.
+Spider Climb.
+The blood ooze can climb difficult
+surfaces, including upside down on ceilings, without
+needing to make an ability check.
+actions
+Multiattack.
+The blood ooze makes two pseudopod
+attacks. It can use engulf in place of one of these attacks.
+Pseudopod.
+Melee Weapon Attack: +6 to hit, reach 5 ft.,
+one target.
+Hit: 12 (2d8 + 3) bludgeoning damage and
+7 (2d6) necrotic damage. If the target is a Medium or
+smaller creature, it is grappled (escape DC 14). Until this
+grapple ends, the target is restrained. The blood ooze can
+grapple up to two creatures at a time.
+Engulf.
+One creature grappled by the blood ooze must
+succeed on a DC 14 Strength saving throw or be pulled into
+the ooze’s body. An engulfed target is blinded, restrained,
+unable to breathe, and has total cover from effects that
+originate outside the ooze. At the start of each of the ooze’s
+turns, the engulfed creature takes 18 (4d8) acid damage.
+The ooze can have only one creature engulfed at a time.
+An engulfed creature can try to escape by taking an
+action to make its choice of a DC 14 Strength (Athletics)
+or Dexterity (Acrobatics) check. On a success, the creature
+escapes and uses 5 ft. of movement to enter a space of its
+choice within 5 ft. of the ooze.
+If the ooze dies, an engulfed creature is no longer
+restrained by it and can escape from the corpse by using
+10 feet of movement. The creature also gains an infusion
+of the ooze’s life force, regaining 16 (3d10) hit points, gaining
+any excess as temporary hit points that last 24 hours. If
+a living creature dies within 24 hours of this infusion,
+the corpse dissolves into a blood ooze over the next hour.
+Magic that cures disease or removes a curse not only
+prevents this change, but also removes temporary hit
+points gained from the infusion.
+If a creature dies while engulfed by the ooze, the
+creature’s body dissolves inside the ooze. The ooze
+expels anything the creature wore or carried.

@@ -1,0 +1,96 @@
+===
+Lupilisk Elder
+Large fiend, neutral evil
+Armor Class 15 (natural armor)
+Hit Points 97 (13d10 + 26)
+Speed 50 ft.
+str dex con int wis cha
+ 18 (+4) 16 (+3) 15 (+2) 6 (–2) 14 (+2) 8 (–1)
+Skills
+Perception +5, Stealth +6
+Damage Immunities poison
+Damage Resistances
+cold, fire
+Condition Immunities poisoned
+Senses darkvision 120 ft., passive Perception 15
+Languages can learn languages but can’t speak
+Challenge 6 (2,300 XP)
+Proficiency Bonus +3
+Keen Hearing and Smell.
+The lupilisk elder has
+advantage on Wisdom (Perception) checks that rely on
+hearing or smell.
+Pack Tactics.
+The lupilisk elder has advantage on
+an attack roll against a creature if at least one of the
+lupilisk’s allies is within 5 feet of the creature and the
+ally isn’t incapacitated.
+actions
+Bite.
+Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+Hit: 13 (2d8 + 4) piercing damage and 9 (2d8) poison
+damage. If the target is a creature, it must succeed on a
+DC 13 Constitution saving throw or become poisoned
+and restrained while poisoned in this way. The creature
+must repeat the saving throw at the end of its next turn.
+On a success, the effect ends. If the save fails again, the
+creature is permanently petrified.
+Pack Attack (Recharge 5–6).
+One lupilisk or lupilisk
+whelp the lupilisk elder can see within 30 feet of it can
+use a reaction to move up to half its speed and make
+a bite attack. The target must be able to hear or see the
+elder. The lupilisk elder then makes one bite attack.
+===
+Lupilisk Whelp
+Medium fiend, neutral evil
+Armor Class 12
+Hit Points 33 (6d8 + 6)
+Speed 40 ft.
+str dex con int wis cha
+ 13 (+1) 14 (+2) 12 (+1) 3 (–4) 11 (+0) 6 (–2)
+Skills
+Perception +2, Stealth +4
+Damage Immunities poison
+Damage Resistances
+cold, fire
+Condition Immunities poisoned
+Senses darkvision 120 ft., passive Perception 12
+Languages can learn languages but can’t speak
+Challenge 1 (200 XP)
+Proficiency Bonus +2
+Keen Hearing and Smell.
+The lupilisk whelp has
+advantage on Wisdom (Perception) checks that rely on
+hearing or smell.
+Pack Tactics.
+The lupilisk whelp has advantage on
+an attack roll against a creature if at least one of the
+lupilisk’s allies is within 5 feet of the creature and the
+ally isn’t incapacitated.
+actions
+Bite.
+Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+Hit: 7 (2d4 + 2) piercing damage and 5 (2d4) poison damage.
+If the target is a creature, it must succeed on a DC 11
+Constitution saving throw or become poisoned and
+restrained while poisoned in this way. The creature
+must repeat the saving throw at the end of its next turn.
+On a success, the effect ends. If the save fails again, the
+creature is petrified for 24 hours.
+Lupilisks prefer to play with their food, chasing and
+tormenting it before turning it to stone. The lupilisk then
+eats the rocky remains. As with a basilisk, the lupilisk’s
+gullet reverses the petrification, turning stone to flesh
+once it reaches the creature’s stomach.
+Family Pack.
+In the wild, lupilisks gather in packs. A
+dominant elder couple leads the pack, and other pack
+members are that couple’s offspring. Juvenile males seek
+mates from other packs, while juvenile females decide
+whether to take visiting males as mates. A lupilisk pack
+is a family, its adult children leaving to form new packs.
+Trained Mounts.
+A lupilisk is more beast than fiend.
+They’re aggressive and cruel, but they can be controlled
+if trained with firm discipline.

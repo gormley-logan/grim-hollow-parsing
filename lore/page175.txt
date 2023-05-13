@@ -1,0 +1,33 @@
+175
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+j
+salvage
+Many collectors of bizarre objects prize the fossils 
+that make up a jespaith’s skeleton, and poisoners and 
+alchemists covet them for deadlier purposes. Grinding 
+jespaith bones and adding them to poison increases 
+the poison’s saving throw DC by 1. One jespaith can 
+produce 10 doses of such powder. Two doses can affect 
+one poison with a cumulative DC increase, but further 
+additions of the powder have no further effect.
+lore
+DC 10 Intelligence (Arcana)
+: The jespaith is immune 
+to acid, necrotic, and poison damage but vulnerable to 
+radiant damage.
+DC 15 Intelligence (Nature)
+: The jespaith turns the 
+ground around it into broken shards and upturned earth, 
+making the monster easy to track.
+DC 20 Intelligence (History)
+: Not only can the jespaith 
+spit a caustic stream of poison, but it can also grab and 
+engulf creatures within its mass, crushing them with its 
+strange, rocky skeleton and dissolving their flesh with acid.

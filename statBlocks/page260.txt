@@ -1,0 +1,26 @@
+===
+Poffer
+Small monstrosity, unaligned
+Armor Class 10
+Hit Points 7 (2d6)
+Speed 40 ft.
+str dex con int wis cha
+ 10 (+0) 11 (+0) 11 (+0) 2 (–4) 10 (+0) 5 (–3)
+Senses passive Perception 10
+Languages —
+Challenge 1/8 (25 XP)
+Proficiency Bonus +2
+Flock Static.
+A creature other than a poffer that
+ends its turn within 5 feet of two or more poffers takes
+2 lightning damage plus 1 lightning damage for each
+additional poffer within 5 feet of the creature. A creature
+that takes 4 or more lightning damage from poffers in
+one turn must succeed on a DC 10 Constitution saving
+throw or fall prone and become incapacitated until the
+end of its next turn.
+actions
+Hooves.
+Melee Weapon Attack: +2 to hit, reach 5ft., one
+prone creature.
+Hit: 2 (1d4) bludgeoning damage.

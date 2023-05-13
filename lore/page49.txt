@@ -1,0 +1,39 @@
+Candlelight Daemon
+“A candlelight daemon remains for the duration 
+of a cursed candle’s flame. That’s long enough 
+for a host of sinister deeds.”
+Candle Bound
+. The candlelight daemon can be sum-
+moned only by the lighting of a specially prepared candle, 
+and then only at night. Once the candle is snuffed or 
+burns out, the daemon must return to the Netherworld. 
+But such daemons can do their job in a short time.
+Despicable Cost.
+ To create a candle to summon a 
+candlelight daemon, a spellcaster must make a candle 
+during the new moon using the rendered fat of one 
+murderer, the ashes of three humanoids who burned 
+alive, and the blood of thirteen cats. The caster must also 
+expend a 6th-level spell slot.
+salvage
+The melted leavings of a candlelight daemon’s candle 
+act as 
+oil of sharpness
+ against aberrations, celestials, fey, 
+and fiends, as well as against the creature that created 
+the candle.
+lore
+DC 10 Intelligence (Religion):
+ Candlelight daemons 
+return to the Netherworld if their candle goes out.
+DC 15 Intelligence (Arcana):
+ Candlelight daemons 
+have immunities and resistances typical of fiends, in-
+cluding immunity to poison and resistance to cold, fire, 
+lightning, and nonmagical weapon attacks. The daemon is 
+also resistant to magic and capable of countering spells.
+DC 20 Intelligence (Arcana):
+ A candlelight daemon 
+is most effective in shadows or darkness, which allow 
+the fiend to hide easily and bring its murderous talents 
+to bear.

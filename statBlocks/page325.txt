@@ -1,0 +1,41 @@
+===
+Stygian Bat
+Large monstrosity, neutral evil
+Armor Class 13 (natural armor)
+Hit Points 75 (10d10 + 20)
+Speed 20 ft., fly 60 ft.
+str dex con int wis cha
+ 16 (+3) 15 (+2) 14 (+2) 4 (–3) 13 (+1) 5 (–3)
+Senses blindsight 120 ft., darkvision 60 ft., passive Perception 11
+Languages —
+Challenge 4 (1,100 XP)
+Proficiency Bonus +2
+Echolocation.
+The stygian bat can’t use its blindsight
+while deafened.
+Keen Senses.
+The stygian bat has advantage on
+Wisdom (Perception) checks that rely on hearing.
+Swoop.
+If the stygian bat flies at least 20 feet straight
+toward a creature and then hits it with a claw attack
+on the same turn, that target must succeed on a DC 13
+Strength saving throw or fall prone.
+actions
+Multiattack.
+The stygian bat makes one attack with its
+bite and one with its claws.
+Bite.
+Melee Weapon Attack: +5 to hit, reach 5 ft., one
+target.
+Hit: 10 (2d6 + 3) piercing damage. If the stygian
+bat has advantage on the attack roll against a creature,
+that target takes an extra 7 (2d6) necrotic damage. The
+target’s hit point maximum is reduced by an amount
+equal to the necrotic damage taken. This reduction lasts
+until the target finishes a long rest. The target dies if this
+effect reduces its hit point maximum to 0.
+Claws.
+Melee Weapon Attack: +5 to hit, reach 5 ft., one
+target.
+Hit: 10 (2d6 + 3) slashing damage.

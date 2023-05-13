@@ -1,0 +1,38 @@
+Drab Sludge
+“Their stench fills your nostrils and cloys in the mouth. 
+I wish that were the worst thing about these disgusting sludges.”
+Smelly Sliders
+. It’s difficult to describe the repulsive 
+stench that emanates from a drab sludge. It’s like something 
+between a day’s old corpse and a rancid latrine, and 
+somehow worse. And the way this deep brownish-green 
+muck sloshes upon surfaces, making a roiling and splashing 
+sound akin to that produced by propelled vomit, only adds 
+to its disgusting nature. These sludges seem more liquid than 
+other oozes, but they can slosh on walls and ceilings in 
+inexplicable ways, adding to their strange and revolting nature.
+Unrelenting Splitters
+. As if its rancid being weren’t 
+horrid enough, these oozes split into smaller oozes. 
+When they do, their stench changes, as if sacks of 
+fouler-smelling stuff are torn open in the process.
+Ooze Nature
+. A drab sludge doesn’t require sleep.
+salvage
+The smell of a drab sludge is so powerful it can revive 
+the unconscious. Using the remains of a drab sludge, 
+someone who has proficiency with alchemist’s supplies 
+can make a 
+resuscitation bomb
+ (see chapter 4). Doing so 
+requires materials worth 50 gp, 4 hours of work, and a 
+successful DC 13 Wisdom (Medicine) check.
+lore
+DC 10 Intelligence (Nature)
+: These sludges emit a 
+terrible smell that sickens those who venture near.
+DC 15 Intelligence (Arcana)
+: Damage eventually 
+causes a drab sludge to split, which unleashes an altered 
+stench, forcing those around it to contend with smaller 
+but nearly as potent oozes.

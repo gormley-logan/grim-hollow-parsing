@@ -1,0 +1,38 @@
+Harvester of Lies
+“Don’t lie to me, or the harvester will steal your tongue!”
+Lie Detectors
+. Infamous liars sometimes return as 
+harvesters of lies after they die. These undead beings are 
+capable of unerringly detecting falsehoods. The more lies 
+one tells, the more attractive the liar’s tongue becomes to 
+the harvester.
+Macabre Collection
+. The harvester of lies is compelled to 
+collect the tongues of liars and sew them into a long coat that 
+it wears. This coat is the creature’s most prized possession 
+and without it, it cannot use its innate spellcasting.
+Skulker
+. Harvesters of lies are stealthy hunters that slip 
+into their target’s home, harvest the victim’s tongue, and 
+leave without alerting others. The harvester appears as 
+a normal humanoid, but its skin is mottled and purple, 
+and its eyes sunken and glaring.
+salvage
+If defeated, the harvester’s
+ coat of lies 
+(see Chapter 4) can 
+be claimed.
+lore
+DC 10 Intelligence (History)
+: Harvesters of lies can 
+detect when a lie is uttered from 1 mile away. They are 
+attracted to lies, the more frequent the lies and the more 
+outlandish, the greater the attraction.
+DC 15 Intelligence (Arcana)
+: Harvesters are resistant 
+to nonmagical weapons and necrotic damage, and immune 
+to poison.
+DC 20 Intelligence (Arcana)
+: The harvester wears a 
+coat made of the severed tongues of its victims that allow 
+it to cast several spells.

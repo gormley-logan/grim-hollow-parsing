@@ -1,0 +1,47 @@
+Mausgeist
+“
+“In the case of the mausgeist, the pursuit of  
+power corrupts in ways only a fiend knows.”
+Fiendish Rodent.
+ A mausgeist appears when a powerful 
+spellcaster makes an infernal pact for immortality. Magic 
+imbues each of a mausgeist’s long whiskers, making the 
+creature a deadly opponent.
+A mausgeist hungers for humanoid flesh, wandering 
+cemeteries at night to dig up hearts and livers to feast upon. 
+Breaking the curse of a mausgeist’s existence requires it 
+to refrain from killing or devouring humanoid flesh 
+for a thousand days.
+Shifty Appearance.
+ A mausgeist can change its appear-
+ance through magical means. The creature retains some 
+rodent characteristics even in humanoid form.
+Jungeist.
+ A jungeist is a mausgeist before any pact 
+gives it more power. This fiend is still a formidable foe, 
+but it’s easier to dispatch than a mausgeist.
+salvage
+A mausgeist is a creature born of a hunger for undying 
+power. Its remains can be harvested for their magical 
+properties. Within the liver of a mausgeist is a 
+pearl of power
+.
+Someone who has proficiency with leatherworker’s 
+tools or weaver’s tools can incorporate the hide of a 
+mausgeist into a 
+cloak of the mausgeist
+ (see chapter 4). 
+Doing so requires 10 days of work, extra materials 
+worth 2,000 gp, and a successful DC 15 Intelligence 
+(Arcana)
+check.
+lore
+DC 10 Intelligence (Arcana):
+ A mausgeist is a 
+fiend immune to poison and resistant to weapons that 
+aren’t silvered.
+DC 15 Intelligence (History):
+ A mausgeist can take 
+humanoid form, but it still resembles a rodent in such a 
+disguise. Even in that form, each of the fiend’s whiskers 
+can create a magical effect.

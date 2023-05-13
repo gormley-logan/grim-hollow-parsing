@@ -1,0 +1,92 @@
+336
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+T
+===
+Tar Juggernaut
+Huge elemental, chaotic evil
+Armor Class 15 (natural armor)
+Hit Points 230 (20d12 + 100)
+Speed 40 ft.
+str dex con int wis cha
+ 23 (+6) 9 (–1) 20 (+5) 5 (–3) 10 (+0) 5 (–3)
+Damage Immunities poison
+Damage Resistances
+bludgeoning, piercing, and
+slashing from nonmagical attacks
+Condition Immunities exhaustion, paralyzed,
+petrified, poisoned, prone, unconscious
+Senses darkvision 60 ft., tremorsense 60 ft., passive Perception 10
+Languages —
+Challenge 12 (8,400 XP)
+Proficiency Bonus +4
+Amorphous.
+The tar juggernaut can move through a
+space as narrow as 1 inch wide without squeezing.
+Engulfing Charge.
+If the tar juggernaut moves at least
+20 feet straight toward a creature and then hits it with a
+slam attack on the same turn, that target must succeed
+on a DC 18 Strength saving throw or fall prone. If the
+target is prone and a Medium or smaller creature, the
+juggernaut can use Engulf against it as a bonus action.
+Kindle.
+When a tar juggernaut takes fire damage,
+it ignites. The juggernaut’s slam attacks then adhere
+flaming pitch to foes, dealing an extra 11 (2d10) fire
+damage and igniting them, too. In either case, until an
+ignited creature takes an action to douse the fire, the
+creature takes 11 (2d10) fire damage at the start of each
+of its turns.
+Siege Monster.
+The tar juggernaut deals double
+damage to objects and structures.
+actions
+Multiattack.
+The tar juggernaut makes three slam
+attacks. It can use engulf in place of any attack.
+Slam.
+Melee Weapon Attack: +10 to hit, reach 15 ft., one
+target.
+Hit: 22 (3d10 + 6) bludgeoning damage. If the target
+is a Medium or smaller creature, it is grappled (escape DC
+18). Until this grapple ends, the target is restrained. The
+tar creep can grapple up to two creatures at a time.
+Engulf.
+One Medium or smaller creature grappled by or
+prone within 5 feet of the tar juggernaut must succeed on
+a DC 18 Strength saving throw or be pulled into the jug-
+gernaut’s body. An engulfed target is blinded, restrained,
+unable to breathe, and has total cover from effects that
+originate outside the juggernaut. At the start of each of
+the juggernaut’s turns, the engulfed creature takes 22
+(4d10) bludgeoning damage and the same fire damage the
+juggernaut takes from Kindle, if any. The juggernaut can
+have up to one large or two medium or smaller creatures
+engulfed at a time.
+An engulfed creature can try to escape by taking an
+action to make its choice of a DC 18 Strength (Athletics)
+or Dexterity (Acrobatics) check. On a success, the creature
+escapes and uses 5 feet of movement to enter a space of its
+choice within 5 feet of the juggernaut.
+If the juggernaut dies, an engulfed creature is no
+longer restrained by it and can escape from the corpse by
+using 10 feet of movement.
+If a creature dies while engulfed by the juggernaut,
+the creature’s body dissolves inside the elemental. The
+juggernaut expels anything the creature wore or carried.
+Tar Juggernaut.
+Tar creeps grow as they absorb
+organic material. They can become massive. In such
+a form, the juggernaut, fearing nothing, gives up all
+subtlety. It rolls over foes, killing indiscriminately and
+without remorse.
+Elemental Nature.
+A tar creep doesn’t require air,
+food, drink, or sleep.

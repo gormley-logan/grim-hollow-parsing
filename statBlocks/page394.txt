@@ -1,0 +1,10 @@
+elf vampire customization
+As shown in the following stats, young and older elf
+vampires gain Turn Resistance and immunity to being
+charmed or rendered unconscious. Although some wood
+elves are an exception, most elf vampires do not take on
+animal form and, therefore, lack the Beast Form action.
+Young and older elf vampires also gain the Fey Majesty
+action, but until the vampire is ancient, as is the one in
+the stat block, they can affect only humanoids and beasts
+with this power.

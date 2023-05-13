@@ -1,0 +1,48 @@
+===
+Wood Weird Seeder
+Medium plant, unaligned
+Armor Class 12 (natural armor)
+Hit Points 38 (7d8 + 7)
+Speed 30 ft.
+str dex con int wis cha
+  15 (+2) 13 (+1) 13 (+1) 4 (–3) 10 (+0) 10 (+0)
+Damage Vulnerabilities
+fire
+Damage Resistances
+piercing
+Condition Immunities blinded, deafened
+Senses blindsight 60 ft, passive Perception 10
+Languages —
+Challenge 1 (200 XP)
+Proficiency Bonus +2
+False Appearance
+. While the wood weird seeder is
+motionless, it is indistinguishable from an inanimate
+tangle of woody vines shaped like a humanoid.
+actions
+Multiattack
+. The wood weird seeder uses its alluring
+spores, and then it makes a slam attack.
+Slam
+.
+Melee Weapon Attack
+: +4 to hit, reach 5 ft. one target.
+Hit
+: 7 (2d4 + 2) bludgeoning damage. If the target is a creature, it must succeed on a DC 12 Strength saving
+throw or fall prone.
+Alluring Spores.
+The wood weird seeder targets one
+humanoid it can sense within 10 feet of it. The target must
+succeed on a DC 11 Wisdom saving throw or be charmed
+by the wood weird seeder. While charmed in this way, a
+target can take no reactions and can use its action only to
+Dash. If the charmed target is more than 5 feet from the
+seeder, the target must move as far as it can toward the
+seeder, trying to come within 5 feet. The target avoids
+obvious danger, including opportunity attacks. If the target
+can’t avoid such danger, the target can repeat the saving
+throw before entering the dangerous area. The target also
+repeats the saving throw if the target takes damage and at
+the end of each of the target’s turns. If any saving throw is
+successful, the effect ends on the target. The effect also ends
+in 1 minute or if the wood weird seeder is destroyed.

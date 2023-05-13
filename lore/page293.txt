@@ -1,0 +1,15 @@
+lore
+DC 10 Intelligence (Nature):
+ Having adapted to the 
+hot desert, sand giants are inured to many of its travails, 
+from temperature swings and too little sustenance to 
+difficult terrain. Their coloration and skill make them 
+good at hiding in sandy landscapes despite their size.
+DC 10 Intelligence (History):
+ Sand giants enslave 
+weaker creatures they encounter, forcing them to cook, 
+clean, and haul spoils.
+DC 15 Intelligence (Arcana):
+ Efreet have a long 
+history of enslaving sand giants. In retribution, sand 
+giants attack efreet on sight and leave no survivors.

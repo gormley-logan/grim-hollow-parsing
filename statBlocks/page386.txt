@@ -1,0 +1,8 @@
+downcast vampirecustomization
+A downcast vampire often has higher Wisdom than other
+vampires, although the change into vampiric form costs
+the vampire their celestial magic. Downcast vampires
+lack the Beast Form and Mist Form actions, although the
+creature still turns to mist if close to destruction. They also
+have the Turn Resistance trait. Young and older downcast
+vampires have the Dirge action.

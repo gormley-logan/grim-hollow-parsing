@@ -1,0 +1,33 @@
+Urban Ooze
+“I thought I’d found a place under the street where no 
+one would find me, but then the sewage moved.”
+Tainted Waste.
+ In the polluted recesses of urban 
+environments, masses of sewage and trash sometimes 
+congeal with the leavings of other oozes to form an 
+urban ooze. These repulsive creatures are nearly 
+invisible in the cesspools they live in.
+Disgusting Death.
+The ooze’s fetid form is filled 
+with pestilence. Being near it can be dangerous. But the 
+creature is a hunter. Prey it doesn’t kill and devour, it 
+drags to the bottom of cesspits to bury beneath layers of 
+putrefaction for later consumption.
+Ooze Nature.
+ An urban ooze doesn’t require sleep.
+salvage
+Someone who has proficiency with a poisoner’s kit can 
+use the remains of a diminished urban ooze and other 
+reagents worth 25 gp to make one dose of basic poi-
+son. This poison remains potent for 1 hour instead of 
+1 minute. Making one dose takes 4 hours and requires a 
+successful DC 13 Intelligence or Wisdom check.
+lore
+DC 10 Intelligence (Nature):
+ An urban ooze is living 
+waste. The stinking air around it is full of pestilence, and 
+so is its touch.
+DC 15 Intelligence (Nature):
+ When wounded, 
+an urban ooze can break into smaller oozes. One can 
+quickly become four.

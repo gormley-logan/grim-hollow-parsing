@@ -1,0 +1,52 @@
+===
+Nether Spider
+Large fiend, neutral evil
+Armor Class 14 (natural armor)
+Hit Points 67 (9d10 + 18)
+Speed 30 ft., climb 30 ft.
+str dex con int wis cha
+ 15 (+2) 17 (+3) 14 (+2) 3 (–4) 12 (+1) 6 (–2)
+Skills
+Stealth +5
+Damage Resistances
+fire
+Senses blindsight 30 ft., darkvision 60 ft., passive Perception 11
+Languages understands Infernal but can’t speak
+Challenge 3 (700 XP)
+Proficiency Bonus +2
+Devil’s Sight.
+Magical darkness doesn’t impede the
+nether spider’s darkvision.
+Spider Climb.
+The nether spider can climb difficult
+surfaces, including upside down on ceilings, without
+needing to make an ability check.
+Web Sense.
+While in contact with a web, the nether
+spider knows the exact location of any other creature in
+contact with the same web.
+Web Walker.
+The nether spider ignores movement
+restrictions caused by webbing.
+actions
+Bite.
+Melee Weapon Attack: +5 to hit, reach 5 ft., one
+creature.
+Hit
+: 10 (2d6 + 3) piercing damage, and the target must make a DC 12 Constitution saving throw,
+taking 7 (2d6) fire and 9 (2d8) poison damage on a failed
+save, or half as much damage on a successful one. If
+damage from this fiery poison reduces the target to 0 hit
+points and the target dies, the body reduces to hot, ashy
+sludge that powders to ash when it cools.
+Web (Recharge 5–6).
+Ranged Weapon Attack: +5 to hit,
+range 30/60 ft., one creature.
+Hit: The target is grappled
+by webbing (escape DC 12) and restrained while grappled
+in this way. The web creates magical darkness and
+difficult terrain in a 5-foot space for 1 minute, even if it
+misses the target. This darkness dispels magical light
+created by a spell of 2nd or lower level. The webbing has
+AC 10; hp 10; vulnerability to cold damage; immunity to
+bludgeoning, fire, poison, and psychic damage.

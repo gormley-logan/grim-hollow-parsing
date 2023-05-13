@@ -1,0 +1,70 @@
+===
+Fate Cat
+Tiny undead, lawful neutral
+Armor Class 13
+Hit Points 26 (4d4+16)
+Speed 40 ft., climb 30 ft.
+str dex con int wis cha
+ 3 (-4) 16 (+3) 18 (+4) 10 (+0) 20 (+5) 10 (+0)
+Saves
+Dex +5, Con +6, Wis +7, Cha +2
+Skills
+Perception +7, Stealth +5, Survival +9
+Damage Immunities necrotic, poison, psychic
+Condition Immunities charmed, frightened,
+exhaustion, paralyzed, poisoned, stunned
+Senses truesight 60 ft., passive Perception 19
+Languages understands all language but cannot speak
+Challenge 4 (1,100 XP)
+Proficiency Bonus +2
+Innate Spellcasting.
+The fate cat’s innate spellcasting
+ability is Wisdom (spell save DC 15). It can innately cast
+the following spells, requiring no components: At will: bestow curse
+,
+counterspell, hellish rebuke
+,
+invisibility
+,
+minor illusion
+1/day each: contagion, teleport
+,
+plane
+shift
+,
+Keen Smell.
+This fate cat has advantage on Perception
+checks that rely on smell.
+Regeneration.
+The fate cat regains 5 hit points at the
+start of its turn. If the fate cat takes radiant damage, this
+trait doesn’t function at the start of the fate cat’s next
+turn. The fate cat’s body is destroyed only if it starts its
+turn with 0 hit points and doesn’t regenerate.
+Rejuvenation.
+When the fate cat’s body is destroyed,
+its soul lingers. After 24 hours, the soul inhabits and
+animates another cat corpse on the same plane of
+existence and regains all its hit points. While the soul
+is bodiless, a
+wish
+spell can be used to force the soul to
+go to the afterlife and not return.
+Sin Tracker.
+The fate cat knows the distance to
+and direction of any creature that wronged it, even if
+the creature and the fate cat are on different planes of
+existence. If the creature it’s tracking dies, then the fate
+cat dies as well.
+Turn Immunity.
+The fate cat is immune to effects that
+turn undead.
+actions
+Multiattack
+. The fate cat can make two claw attacks.
+Claw
+.
+Melee Weapon Attack
+: +5 to hit, reach 5ft., one target.
+Hit
+: 5 (1d4+3) slashing damage. 

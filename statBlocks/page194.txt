@@ -1,0 +1,63 @@
+===
+Drug-Crazed Marauder
+Medium humanoid (any), any alignment
+Armor Class 14 (breastplate)
+Hit Points 19 (3d8 + 6)
+Speed 30 ft.
+str dex con int wis cha
+ 15 (+2) 11 (+0) 14 (+2) 10 (+0) 11 (+0) 9 (-1)
+Saving Throws
+Dex +2
+Skills
+Athletics +4, Intimidation +1
+Damage Resistances
+poison
+Senses passive Perception 10
+Languages any two languages
+Challenge 1/2 (100 XP)
+Proficiency Bonus +2
+Battle Draught (1/Day).
+As a bonus action, the ma-
+rauder may consume an unstable chemical compound.
+For the next minute, the marauder gains one of the follow-
+ing abilities: resistance to damage from spells; resistance to bludgeoning, piercing, and slashing damage; or +1d4
+damage with weapon attacks.
+actions
+Longsword.
+Melee Weapon Attack: +4 to hit, reach 5 ft.,
+one creature.
+Hit: 7 (1d10+2) slashing damage.
+===
+Alchemical Berserker
+Medium humanoid (any), any alignment
+Armor Class 16 (chain mail)
+Hit Points 75 (10d8 + 30)
+Speed 30 ft.
+str dex con int wis cha
+ 17 (+3) 11 (+0) 16 (+3) 12 (+1) 11 (+0) 12 (+1)
+Saving Throws
+Dex +2
+Skills
+Athletics +5, Intimidation +3
+Damage Immunities poison
+Senses passive Perception 10
+Languages any two languages
+Challenge 4 (1,100 XP)
+Proficiency Bonus +2
+Battle Draught (3/Day).
+As a bonus action, the berserker
+may consume an unstable chemical compound. For the
+next minute, the berserker gains two of the following
+abilities: resistance to damage from spells; resistance to bludgeoning, piercing, and slashing damage; 20 temporary
+hit points, or +1d8 damage with weapon attacks. Choosing
+the same ability twice can extend the duration but has no
+other effect.
+actions
+Multiattack.
+The alchemical berserker makes three
+longsword attacks.
+Longsword
+.
+Melee Weapon Attack: +5 to hit, reach 5 ft.,
+one creature.
+Hit: 8 (1d10+3) slashing damage.

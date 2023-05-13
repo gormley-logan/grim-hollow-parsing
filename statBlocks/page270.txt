@@ -1,0 +1,141 @@
+270
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+P
+===
+Puck
+Tiny fey, neutral evil
+Armor Class 15
+Hit Points 14 (4d4 + 4)
+Speed 10 ft., fly 30 ft.
+str dex con int wis cha
+ 3 (–4) 20 (+5) 12 (+1) 12 (+1) 13 (+1) 17 (+3)
+Skills
+Deception +5, Perception+3, Stealth +7
+Senses darkvision 60 ft., passive Perception 13
+Languages Sylvan, telepathy 120 ft. (plants only)
+Challenge 1 (200 XP)
+Proficiency Bonus +2
+Fey Evasion.
+If the puck is subjected to an effect
+that allows it to make a saving throw to take only half
+damage, the puck instead takes no damage if it succeeds
+on the saving throw, and only half damage if it fails.
+Magic Resistance.
+The puck has advantage on saving
+throws against spells and other magical effects.
+Innate Spellcasting.
+The puck’s innate spellcasting
+ability is Charisma (spell save DC 13). It can innately
+cast the following spells, requiring only puck’s dust as
+a component: At will: dancing lights
+,
+druidcraft, entangle
+3/day: phantasmal force
+1/day each: bestow curse, charm monster
+(plant creatures only),
+detect evil and good
+,
+detect thoughts
+,
+dispel magic
+,
+polymorph
+Plant Bond.
+Given 8 hours to be within 20 feet of a
+Huge or smaller plant, the puck can use puck’s dust to
+form a bond with that plant. The target must have no
+Intelligence score and gains an Intelligence of 3. The
+target also gains the ability to understand Sylvan and
+to move its limbs, roots, vines, creepers, and so forth. It
+gains blindsight in a 60-foot radius but is blind beyond
+that range. The plant becomes a puck version of an
+animated plant, such as a puck tree or puck shrub.
+A puck can have only one plant charmed in this way
+at a time. The condition ends if the puck harms the plant,
+and the plant can make a DC 10 Wisdom saving throw to
+end the condition if a request from the puck guarantee’s
+the plant’s destruction. Plants freed from the charm leave
+the puck’s grove, becoming inanimate again once 300
+or more feet away for 24 hours. Otherwise, the plant is
+charmed by the puck for 30 days, after which time the
+plant becomes the puck’s willing servant (it’s no longer
+charmed) even when threatened with death.
+The puck is emotionally bonded with each plant it
+has animated, charmed, and enthralled. Provided such a
+plant is within 1 mile, the puck is aware when the plant
+takes damage and knows its location. If such a plant is
+destroyed, the puck is incapacitated until the end of its
+next turn as it grieves.
+Plant Manifestation.
+As a bonus action, the puck
+can cause a plantlike manifestation of itself to emerge
+from the plant material of one plant charmed or
+enthralled by the puck within 120 feet of it. The puck
+can act through this duplicate until the end of its turn,
+then the duplicate disappears.
+actions
+Superior Invisibility.
+The puck magically turns
+invisible until its concentration ends (as if concentrating
+on a spell). Any equipment the puck wears or carries is
+invisible with it.
+reactions
+Uncanny Dodge.
+The puck halves the damage it takes
+from an attack that hits it. It must be able to see the attacker.
+•
+Grasping vines and roots manifest in the lair. Each
+creature hostile to the puck in the lair must succeed
+on a DC 14 Strength or Dexterity saving throw
+(target’s choice) or be moved up to 20 feet to another
+unoccupied space in the lair and knocked prone.
+•
+Inanimate plants in the lair twist and sprout thorns.
+The area becomes difficult terrain to creatures hostile
+to the puck until initiative count 20 on the next round.
+When such a creature moves more than half its speed
+(as dictated by the difficult terrain) in the area, it takes
+5 (2d4) piercing damage and must succeed on a DC
+14 Constitution saving throw or become poisoned for
+1 minute. A poisoned creature can repeat the saving
+throw at the end of each of its turns, ending the effect
+on itself on a success.
+regional effects
+A natural environment containing a puck’s lair is
+warped by the puck’s presence, which creates one or
+more of the following effects: •
+Plants within 1 mile of the lair darken in hue and look
+underwatered. Sap from these plants has a bloodlike
+tinge. This sap seeps from oddly shaped holes that
+resemble parts of despairing faces or wounds. Fruits
+are deformed and oddly colored but are otherwise
+normal in taste and nutrition. Traversing this area is
+hard and time consuming—roots trip, vines block the
+way, underbrush is dense and thorny.
+•
+Animals and other wild creatures within 1 mile of
+the lair are unnaturally aggressive, especially toward
+creatures hostile to the puck. However, animals are
+absent within 600 feet of the lair. The puck uses them
+to fertilize the grove
+•
+Creatures that spend 10 minutes or more within this
+area feel their negative emotions heightened. Effects
+that cause debilitating negative emotions double in
+duration. Effects that provide bravery, joy, hope, and
+similar emotions, such as the spells
+aid
+or
+heroism
+,
+halve in duration. A
+calm emotions
+spell ends either
+effect for that spell’s normal duration.

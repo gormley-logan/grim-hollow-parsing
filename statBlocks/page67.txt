@@ -1,0 +1,136 @@
+===
+Mourning Minstrel
+Medium humanoid (any race), any alignment
+Armor Class 14 (studded leather)
+Hit Points 60 (11d8 + 11)
+Speed 30 ft.
+str dex con int wis cha
+	10	(+0)	14	(+2)	12	(+1)	13	(+1)	14	(+2)	17	(+3)
+Skills
+Deception +5, Perception +4, Performance +5
+Senses passive Perception 14
+Languages any two languages
+Challenge 4 (1,100 XP)
+Proficiency Bonus +2
+Danse Macabre (Recharges after a Short or
+Long Rest).
+As a bonus action on each of its turns, the
+mourning minstrel can perform a magical requiem for
+1 minute. Each undead of the minstrel’s choice within
+30 feet of and able to see or hear the minstrel rolls 1d4
+with any ability check or saving throw, adding the number
+rolled to the result. A creature can be affected by only one
+effect of this type, including
+bless
+.
+Spellcasting.
+The mourning minstrel is a 6th-level
+spellcaster. Its spellcasting ability is Charisma (spell
+save DC 13, +5 to hit with spell attacks). It knows the
+following bard spells: Cantrips (at will): dancing lights
+,
+minor illusion
+1st level (4 slots): faerie fire
+,
+hideous laughter
+,
+silent image
+2nd level (3 slots): blindness/deafness
+,
+invisibility
+,
+shatter
+3rd level (3 slots): animate dead
+,
+major image
+,
+speak with dead
+actions
+Rapier.
+Melee Weapon Attack: +4 to hit, reach 5 ft., one
+target.
+Hit: 6 (1d8 + 2) piercing damage and 4 (1d8)
+necrotic damage.
+Death Note.
+Ranged Spell Attack: +5 to hit, range 30 ft.,
+one creature.
+Hit: 9 (2d8) psychic damage.
+===
+Dirgemaster
+Medium humanoid (any race), any alignment
+Armor Class 16 (breastplate)
+Hit Points 93 (17d8 + 17)
+Speed 30 ft.
+str dex con int wis cha
+	10	(+0)	15	(+2)	13	(+1)	14	(+2)	15	(+2)	18	(+4)
+Skills
+Deception +7, Perception +5, Performance +7
+Senses passive Perception 15
+Languages any three languages
+Challenge 8 (3,900 XP)
+Proficiency Bonus +3
+Death Marked.
+A creature that takes damage from
+a dirgemaster’s attacks or spells can’t regain hit points
+until the end of the dirgemaster’s next turn.
+Macabre Dirge (Recharges after a Short or Long
+Rest).
+As a bonus action on each of its turns, the dirge-
+master can perform a magical lamentation for 1 minute.
+Each undead or construct of the dirgemaster’s choice
+within 30 feet of and able to see or hear the dirgemaster
+rolls 1d4 with any ability check or saving throw, adding
+the number rolled to the result. Each other creature of
+the dirgemaster’s choice within 30 feet of and able to see
+or hear the dirgemaster rolls 1d4 with any ability check
+or saving throw, subtracting the number rolled from the
+result. The dirge can’t negatively affect creatures that
+can’t be frightened. A creature can be affected by only one
+effect of this type, including
+bless
+and
+bane
+.
+Spellcasting.
+The dirgemaster is a 11th-level
+spellcaster. Its spellcasting ability is Charisma (spell
+save DC 15, +7 to hit with spell attacks). It knows the
+following bard spells: Cantrips (at will): dancing lights
+,
+minor illusion
+1st level (4 slots): faerie fire
+,
+hideous laughter
+,
+silent image
+2nd level (3 slots): blindness/deafness
+,
+enthrall
+,
+shatter
+3rd level (3 slots): animate dead
+,
+counterspell
+,
+major image
+,
+speak with dead
+4th level (3 slots): confusion
+,
+greater invisibility
+5th level (2 slots): animate objects
+,
+insect plague
+6th level (1 slot): eyebite
+actions
+Rapier.
+Melee Weapon Attack: +5 to hit, reach 5 ft., one
+creature.
+Hit: 6 (1d8 + 2) piercing damage, 13 (3d8)
+necrotic damage, and Death Marked.
+Death Knell.
+Ranged Spell Attack: +7 to hit, range 60 ft.,
+one creature.
+Hit: 13 (3d8) psychic damage, or 19 (3d12)
+psychic damage if the creature has half its hit points or
+fewer, and Death Marked.

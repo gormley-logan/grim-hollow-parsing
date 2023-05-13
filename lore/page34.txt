@@ -1,0 +1,39 @@
+Blood Brood
+“If you spot small, spiny orbs of blood flying around, beware 
+their mum, who’ll be on the ground but not far behind.”
+Shared Blood.
+ The blood brooder gets its name from 
+the fact that it looks like an armored, spined collection of 
+blood and viscera, and it births smaller orbs called blood 
+bulbs. These offspring are less armored but as sapient 
+and predatory as their parent. With malign guile, these 
+aberrations hunt for other creatures and devour them. 
+Members of this brood protect one another not only by 
+coordinating to defeat foes, but also by exchanging the 
+fluid that makes up their bodies.
+Roaming Family.
+ While the brooder rests and births, 
+blood bulbs roam, searching for more prey. They split 
+into packs to hunt, and then report back to their kin. 
+When on the move, the brooder often carries bulbs in 
+pouches on its sides.
+salvage
+Someone who has proficiency with leatherworker’s tools 
+can use the hide and spines of a blood brooder to fashion 
+spike armor
+ (see Chapter 4). Doing so takes 5 days of work 
+and other materials worth 50 gp.
+lore
+DC 10 Intelligence (History):
+ Members of the blood 
+brood are oozelike aberrations. They aren’t as fluid as 
+oozes, but they can’t be knocked prone.
+DC 15 Intelligence (Arcana):
+ Blood bulbs, which are 
+thought to be infant blood brooders, can attach to prey 
+and engulf the head. They can also hide in pouches on 
+the side of a blood brooder.
+DC 20 Intelligence (Arcana):
+ The blood brood can 
+exchange blood when close, each supporting the survival 
+of others.

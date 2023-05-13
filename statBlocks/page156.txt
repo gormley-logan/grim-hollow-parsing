@@ -1,0 +1,48 @@
+156
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+H
+===
+Horror Flit Breeder
+Large aberration, chaotic evil
+Armor Class 16 (natural armor)
+Hit Points 90 (12d10 + 24)
+Speed 40 ft., climb 40 ft., swim 40 ft.
+str dex con int wis cha
+ 15 (+2) 17 (+3) 15 (+2) 3 (–4) 10 (+0) 5 (–3)
+Condition Immunities blinded, prone
+Senses blindsight 60 ft. (blind beyond this radius),
+passive Perception 10
+Languages —
+Challenge 6 (2,300 XP)
+Proficiency Bonus +3
+Amphibious.
+The horror flit breeder can breathe air
+and water.
+Breed.
+When the horror flit breeder kills a Small or
+larger creature, a new horror flit swarm emerges from
+the corpse 1d4 hours later.
+Spider Climb.
+The horror flit breeder can climb
+difficult surfaces, including upside down on ceilings,
+without needing to make an ability check.
+actions
+Multiattack.
+The horror flit breeder makes two
+bite attacks.
+Bite.
+Melee Weapon Attack: +6 to hit, reach 5 ft.,
+one target.
+Hit: 13 (3d6 + 3) piercing damage.
+reactions
+Vomit Swarm (Recharges after a Long Rest).
+When the breeder drops to half its hit points or fewer,
+the breeder opens its mouth, and a horror flit swarm
+emerges in a space within 5 feet of the breeder.

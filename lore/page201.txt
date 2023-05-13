@@ -1,0 +1,68 @@
+M
+201
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+Magebane Ooze
+“For every action, there’s an equal and opposite  
+reaction by an angry wizard.”
+Made for Spite
+. Magebane oozes were created by an 
+irritable wizard to wreak havoc on rivals. Unfortunately 
+for him, his creations got loose before he could unleash 
+them, making him their first victim.
+Devourers of Magic
+. Magebane oozes feed on magical 
+energies. Although they can survive for years without 
+feeding, they do so by going dormant. An active ooze 
+shrivels quickly if it lacks a source of magic.
+Unusually Intelligent
+. Because their creator intended 
+them to attack other wizards, he experimented to provide 
+them greater intellect than most oozes. As a result, they 
+strategize and can set traps for their prey.
+Inquisition Tool
+. The Arcanist Inquisition has recently 
+learned of the existence of magebane oozes, and inquisitors 
+are in the process of capturing the strange oozes to use 
+against their magic-wielding foes.
+salvage
+Magebane oozes are a terrifying risk for even well-
+equipped adventurers. Even in death, some of their 
+corrosive properties persist. Someone who makes a 
+successful DC 15 Dexterity (Sleight of Hand) check can 
+carefully collect the remaining potent ooze into a vial. 
+This can be turned into a 
+magebane bomb
+ (see Chapter 4). 
+Making this item requires a proficient arcanist to spend 
+4 hours, use 100 gp of components, and succeed on a DC 
+15 Intelligence (Arcana) check.
+lore
+DC 12 Intelligence (Arcana)
+: Magebane oozes feed 
+on magic and quickly reduce magical weapons and armor 
+to regular, non-magical versions of those weapons.
+DC 15 Intelligence (History)
+: Magebane oozes were 
+created by a vengeful wizard who lost control of them 
+before he could unleash them on his rivals.
+DC 20 Intelligence (Arcana)
+: Some arcanists speak in 
+hushed whispers of a particular mutation that occurs after 
+magebane oozes have managed to devour enough magic. 
+These magebane evolutions are nearly indestructible and 
+can not only strip away magic, but store and then direct it 
+back at the unlucky caster who loosed it.
+GM Advice:
+ Magic is such a powerful force in the game that 
+twisting it to use against characters can sometimes seem to be the 
+only thing that can scare a character. A more powerful form of 
+magebane ooze that collects and harnesses the destructive nature 
+of magic used against them would be a terrifying prospect for 
+high-level magic-wielding characters.

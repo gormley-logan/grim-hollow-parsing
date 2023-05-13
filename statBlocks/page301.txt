@@ -1,0 +1,44 @@
+===
+Shadow Mauler
+Large aberration, neutral evil
+Armor Class 15 (natural armor)
+Hit Points 90 (12d10 + 24)
+Speed 50 ft.
+str dex con int wis cha
+ 17 (+3) 16 (+3) 15 (+2) 3 (–4) 14 (+2) 7 (–2)
+Skills
+Perception +5, Stealth +6
+Damage Vulnerabilities
+radiant
+Damage Resistances
+bludgeoning, piercing, and
+slashing from nonmagical attacks
+Condition Immunities grappled, paralyzed, petrified,
+restrained
+Senses darkvision 120 ft., passive Perception 15
+Languages Deep Speech
+Challenge 6 (2,300 XP)
+Proficiency Bonus +3
+Shadow Escape.
+In dim light or darkness, the
+shadow mauler can take the Disengage or Hide action
+as a bonus action.
+Shadow Shape.
+In dim light or darkness, the shadow
+mauler can move through a space as small as 1 inch wide
+without squeezing.
+Shadow Sight.
+Magical darkness doesn’t impede the
+shadow mauler’s darkvision.
+Sunlight Vulnerability.
+While in sunlight, the shadow
+mauler loses its damage resistances and condition
+immunities. It also has disadvantage on attack rolls, as
+well as on Wisdom (Perception) checks that rely on sight.
+actions
+Multiattack.
+The shadow mauler makes two bites attacks.
+Bites.
+Melee Weapon Attack: +6 to hit, reach 10 ft., one
+target.
+Hit: 19 (3d10 + 3) piercing damage.

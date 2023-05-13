@@ -1,0 +1,55 @@
+38
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+B
+===
+Bloodwood Giant
+Huge giant, neutral evil
+Armor Class 14 (natural armor)
+Hit Points 115 (11d12 + 44)
+Speed 40 ft.
+str dex con int wis cha
+	20	(+5)	10	(+0)	19	(+4)	8	(-1)	10	(+0)	8	(-1)
+Skills
+Perception +3
+Senses passive Perception 13
+Languages Giant
+Challenge 6 (1,800 XP)
+Proficiency Bonus +3
+Bleeding Strikes
+. A creature that takes damage from
+the giant’s blood spear attack must succeed at a DC 14
+Constitution saving throw or gain the bleeding condition
+(see
+Grim Hollow Campaign Guide
+).
+Forest Camouflage
+. The giant has advantage on
+Dexterity (Stealth) checks made to hide in forested terrain.
+Innate Spellcasting
+. The giant’s spellcasting ability is
+Wisdom (spell save DC 11, +3 to hit with spell attacks).
+The giant can innately cast the following spells, requiring
+no material components: At will: druidcraft
+1/day each: detect poison and disease, find traps
+actions
+Multiattack
+. The giant makes two blood spear attacks.
+Blood Spear
+.
+Melee or Ranged Weapon Attack
+: +8 to hit, reach 15 ft. or range 60/240 ft., one target.
+Hit
+: 21 (3d10 + 5) piercing damage.
+Rock
+.
+Ranged Weapon Attack
+: +8 to hit, range 60/240 ft., one target.
+Hit
+: 21 (3d10 + 5) bludgeoning damage. 

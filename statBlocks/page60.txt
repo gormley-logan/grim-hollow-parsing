@@ -1,0 +1,31 @@
+===
+Chapped Brute
+Medium humanoid, any nongood alignment
+Armor Class 13 (natural armor)
+Hit Points 95 (10d8 + 50)
+Speed 30 ft.
+str dex con int wis cha
+	18	(+4)	12	(+1)	20	(+5)	7	(–2)	10	(+0)	7	(–2)
+Skills
+Athletics +6
+Damage Resistances
+necrotic
+Condition Immunities blinded
+Senses blindsight 60 ft. (blind beyond this radius),
+passive Perception 10
+Languages understands one national language but
+can’t speak
+Challenge 4 (1,100 XP)
+Proficiency Bonus +2
+Keen Hearing.
+The chapped brute has advantage on
+Wisdom (Perception) checks that rely on hearing. While
+deafened, the brute can’t use its blindsight.
+actions
+Multiattack
+. The chapped brute makes two slam attacks.
+Slam.
+Melee Weapon Attack: +6 to hit, reach 5 ft., one
+target.
+Hit
+: 11 (2d6 + 4) bludgeoning damage. 

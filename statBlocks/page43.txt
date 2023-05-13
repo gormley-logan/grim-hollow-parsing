@@ -1,0 +1,68 @@
+43
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+B
+===
+Bone Trader
+Medium fey, neutral evil
+Armor Class 12 (15 with bone armor)
+Hit Points 22 (5d8)
+Speed 30 ft.
+str dex con int wis cha
+	10	(+0)	14	(+2)	11	(+0)	14	(+2)	15	(+2)	18	(+4)
+Saving Throws
+Con +2
+Skills
+Perception +4, Animal Handling +4
+Condition Immunities charmed
+Senses darkvision 60 ft., passive Perception 14
+Languages Sylvan, two other languages
+Challenge 1 (200 XP)
+Proficiency Bonus +2
+Bone Armor (1/Day).
+A bone trader in its lair can use a
+bonus action to summon a temporary suit of bone armor
+that lasts for ten minutes or until dismissed by the bone
+trader. While wearing its bone armor, a bone trader has
+advantage on Wisdom saving throws and Charisma
+(Intimidation) checks.
+Speak with Beasts.
+The bone trader can communicate
+with beasts as if they shared a language.
+actions
+Bone Club.
+Melee Weapon Attack
+: +4 to hit, reach 5 ft., one creature.
+Hit
+: 6 (1d8+2) bludgeoning damage. Skelesuck.
+Melee Weapon Attack
+: +4 to hit, reach 5 ft., one creature.
+Hit
+: 4 (1d4 + 2) piercing damage. The target must succeed on a DC 10 Constitution saving throw or
+have one of its bones sucked out, resulting in the piercing
+damage becoming a reduction in maximum hit points
+until magical healing is applied.
+Fey Charm.
+The bone trader targets one humanoid,
+goblinoid, fey, or beast it can see within 30 feet of it.
+The target must succeed on a DC 14 Wisdom saving
+throw or be magically charmed. The charmed creature
+regards the bone trader as a trusted friend to be heeded
+and protected. Although the target isn’t under the bone
+trader’s control, it takes the bone trader’s requests or
+actions in the most favorable way . Each time the bone
+trader or its allies do anything harmful to the target, it
+can repeat the saving throw, ending the effect on itself
+on a success. Otherwise, the effect lasts 24 hours or until
+the bone trader dies, is on a different plane of existence
+from the target, or ends the effect as a bonus action. If a
+target’s saving throw is successful, the target is immune
+to the bone trader’s fey charm for the next 24 hours.
+The bone trader can have no more than one humanoid
+charmed at a time, along with up to three beasts.

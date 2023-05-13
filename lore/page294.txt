@@ -1,0 +1,78 @@
+294
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+S
+Scream Thief
+“It appeared from the darkness: a faceless wraith whose 
+outstretched arms sought purchase on my mortal frame. In 
+desperation, I cried to my companions for aid, but my voice was 
+silent. When it stole my words, I knew my doom was at hand.”
+Retribution
+. A scream thief springs forth when a human 
+dies while stopping another creature from fulfilling an im-
+portant goal. The phantom is cursed to an eternal undeath 
+of having memories lie torturously out of reach, but the 
+weight of their desire to remember their lives incites vio-
+lence against mortals who intrude on their immortal prison.
+Cursed Locations. 
+The site of their death is tainted 
+with hate and regret. Psychic fragments, souls of the 
+creatures the scream thief has killed, linger nearby, 
+taunting the spirit with nonsensical murmurings.
+Spiritual Victims
+. When a scream thief kills an intel-
+ligent creature, tortured fragments of its spirit linger 
+as vaporous orbs. The touch of these haunting forms 
+withers the flesh, potentially adding another death to a 
+cursed location.
+Uncanny Voices
+. Psychic fragments call to the living. 
+They yearn to join their fractured essence with a complete 
+soul. They utter nonsensical words or phrases once 
+spoken in life.
+Maddening Gatherings. 
+When a scream thief lingers 
+in one location, the fragments of the many spirits it has 
+killed can swarm together, creating a frightening ghostly 
+orb. A mind-numbing chattering of the individual 
+fragments can confound the unwary.
+salvage
+The bones of a mortal transformed into a scream thief 
+remain imbued with its undead aura. A skilled magic item 
+crafter using 200 gp of magical regents, and spending at 
+least 5 days of effort, can create a 
+wand of silence
+ (see Chapter 
+4) if they succeed on a DC 15 Intelligence (Arcana) check.
+A spellcaster can capture a psychic fragment’s essence 
+before it dissipates after death. The spellcaster requires 
+a container worth at least 100 gp. Anyone who succeeds 
+on a DC 13 Intelligence (Arcana) check can capture a 
+portion of the defeated psychic fragment. The container 
+can store up to 10 hit die worth of undead essence for 
+8 hours before they dissipate.
+As an action, a container holding this spiritual essence 
+can be thrown up to 20 feet, shattering on impact. All 
+creatures within 5 feet of the broken container must 
+make a DC 12 Constitution saving throw. A failed saving 
+throw results in 1d4 necrotic damage per hit die of essence 
+stored, while a success deals half as much damage.
+lore
+DC 10 Intelligence (Religion)
+: The scream thief is 
+immune to necrotic and poison. The incorporeal nature 
+of psychic fragments makes them resistant to non-
+magical weapons.
+DC 15 Intelligence (Religion)
+: The touch of a scream 
+thief drains life that magic cannot heal; only time and 
+rest can.
+A scream thief remains trapped in its place of death, 
+often accompanied by spirit fragments of the creatures it 
+has killed.

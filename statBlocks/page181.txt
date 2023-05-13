@@ -1,0 +1,113 @@
+===
+Kokela
+Gargantuan aberration, chaotic evil
+Armor Class 18 (natural armor)
+Hit Points 410 (20d20 + 200)
+Speed 0 ft.
+str dex con int wis cha
+ 17 (+3) 6 (–2) 30 (+10) 15 (+2) 18 (+4) 21 (+5)
+Saving Throws
+Int +9, Wis +11, Cha +12
+Damage Immunities poison; bludgeoning, piercing,
+and slashing from nonmagical attacks
+Condition Immunities blinded, charmed, exhaustion,
+frightened, grappled, incapacitated, paralyzed, poisoned,
+restrained, stunned
+Senses truesight 120 ft., passive Perception 14
+Languages all, telepathy 120 ft.
+Challenge 22 (41,000 XP)
+Proficiency Bonus +7
+Nightmare Aura.
+Terrain within 150 feet of the kokela
+looks like whatever horrid, squirming vista the kokela
+currently dreams. Each creature that enters the aura for
+the first time or starts its turn there must succeed on a
+DC 20 Wisdom saving throw or become frightened until
+the start of its next turn. Within 20 feet of the kokela, a
+creature takes 11 (2d10) psychic damage and can move at
+no more than half its speed.
+The nightmare aura doesn’t match reality and can
+conceal danger, so those moving through the terrain see
+through the illusion if they use an action and succeed
+on a DC 20 Intelligence (Investigation) check to examine
+the area. Those who succeed on this check see the dream
+world vaguely superimposed over the real terrain. Such
+creatures have advantage on saving throws against
+the aura’s frightening effect and against the Alien Sun
+legendary action.
+If a creature drops to 0 hit points in the aura, one of its
+ears detaches and flies away.
+Eldritch Distortion.
+Each time the kokela is targeted
+by a
+magic missile
+spell, a line spell, or a spell that
+requires a ranged attack roll, roll a d6. On a 1 to 3,
+the kokela is affected normally. On a 4 to 6, the effect
+rebounds at the caster as if it originated from the kokela.
+Eternal Slumber.
+The kokela is unconscious but can
+sense its surroundings and take actions, bonus actions,
+legendary actions, and reactions while in this state. It
+seldom speaks in this state, but it can.
+Sound Reliant.
+While the kokela is deafened, it has
+disadvantage on attack rolls, and it can’t use Hum or
+Swarm Song.
+Legendary Resistance (3/Day).
+If the kokela fails
+a saving throw, it can choose to succeed instead.
+actions
+Multiattack.
+The kokela makes two slam attacks and
+uses hum.
+Slam.
+Melee Weapon Attack: +10 to hit, reach 20 ft., one
+target.
+Hit: 25 (5d8 + 3) bludgeoning damage.
+Hum.
+Each creature within 60 feet of the kokela must
+make a DC 20 Constitution saving throw, taking 22
+(4d10) thunder damage on a failed save, or half as much
+damage on a successful one. This vibration transcends
+hearing, and so magical silence and being unable to hear
+don’t protect a creature.
+reactions
+Counterspell.
+When a creature within 60 feet of the
+kokela casts a spell of 5th level or lower, that spell fails
+and has no effect. The kokela makes a Charisma check
+(DC 10 + the spell’s level) to counter higher-level spells.
+legendary actions
+The kokela can take 3 legendary actions, choosing from
+the options here. Only one legendary action option can be
+used at a time and only at the end of another creature’s
+turn. The kokela regains spent legendary actions at the
+start of its turn.
+Attack.
+The kokela makes one slam attack.
+Dream Movement.
+The kokela teleports up to 60 feet.
+It can arrive in spaces other creatures occupy, and each
+of those creatures is shunted to the nearest unoccupied
+space within 5 feet of the kokela.
+Swarm Song (Costs 2 Actions, Recharge 6).
+The kokela calls for a swarm of ears. The swarm rolls
+initiative and arrives on that initiative the next round in
+an unoccupied space 90 feet from the kokela.
+Alien Sun (Costs 3 Actions, 1/Day).
+An alien sun
+rises in the kokela’s aura. Each creature in that area must
+make a DC 20 Constitution saving throw. On a failure, a
+creature takes 39 (6d12) radiant damage and is blinded
+for 1 minute. If the save succeeds, the creature takes half
+as much damage and isn’t blinded. A blinded target can
+repeat the saving throw at the end of each of its turns,
+ending the blinded condition on itself on a success.
+DC 20 Intelligence (Arcana): Using magic on the kokela
+is risky. It can reflect at the caster, or the kokela might
+dream it out of existence. The kokela can suddenly disappear
+and reappear elsewhere in its bizarre environment.
+DC 25 Intelligence (History): Tales tell of a priest
+who silenced the kokela for a time by rendering it unable
+to hear.

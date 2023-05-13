@@ -1,0 +1,64 @@
+===
+the Churning
+Gargantuan ooze, neutral
+Armor Class 10 (natural armor)
+Hit Points 310 (20d20 + 100)
+Speed 30 ft., climb 30 ft., swim 30 ft.
+str dex con int wis cha
+	30	(+10)	2	(–4)	20	(+5)	3	(–4)	10	(+0)	3	(–4)
+Damage Immunities poison
+Condition Immunities charmed, deafened, exhaustion,
+frightened, grappled, paralyzed, petrified, poisoned,
+prone, restrained, unconscious
+Senses passive Perception 10
+Languages —
+Challenge 16 (15,000 XP)
+Proficiency Bonus +5
+Enormous Space.
+The Churning has a space 60 feet on
+a side and takes up that entire space. Other creatures can
+enter this space, but a creature that does so is subjected
+to the Churning’s Engulf.
+Magic Resistance.
+The Churning has advantage on
+saving throws against spells and other magical effects.
+Siege Monster.
+The Churning deals double damage to
+objects and structures.
+Unstoppable.
+The Churning ignores difficult terrain,
+and nothing can reduce its speed or stop it from moving
+on its turn.
+actions
+Pseudopod.
+Melee Weapon Attack: +15 to hit, reach 20 ft.,
+one target.
+Hit: 24 (4d6 + 10) bludgeoning damage. If the
+target is a creature, it must succeed on a DC 23 Strength
+or Dexterity saving throw (target’s choice) or be pulled
+within 5 feet of the Churning.
+Engulf.
+The Churning moves up to its speed and can
+enter creatures’ spaces. The creature must make a DC
+23 Strength or Dexterity saving throw (target’s choice).
+On a successful save, the creature chooses to leave the
+Churning’s path or it fails the save. On a failed save,
+the creature takes 40 (10d6 + 5) bludgeoning damage
+and is engulfed. The engulfed creature can’t breathe,
+is blinded, is restrained, and has total cover from effects
+that originate outside the Churning. At the start of each
+of the Churning’s turns, engulfed creatures take 42 (12d6)
+bludgeoning damage. When the Churning moves,
+engulfed creatures move with it.
+An engulfed creature can escape (DC 23). On a success,
+the creature escapes and uses 15 feet of movement to enter
+a space of its choice within 5 feet of the Churning.
+If the Churning dies, an engulfed creature is no longer
+restrained by it. If a creature dies inside the Churning,
+the creature’s body breaks up. The Churning keeps
+inside it anything the dead creature wore or carried.
+reactions
+Reactive Grab.
+A creature that moves while within the
+Churning’s reach provokes an opportunity attack. The
+Churning can make four opportunity attacks each round.

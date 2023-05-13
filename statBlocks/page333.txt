@@ -1,0 +1,113 @@
+===
+Tachna Gallery
+Huge aberration, chaotic evil
+Armor Class 19 (natural armor)
+Hit Points 250 (20d12+ 120)
+Speed -
+str dex con int wis cha
+ 18 (+4) 15 (+3) 22 (+6) 18 (+4) 16 (+3) 22 (+6)
+Saving Throws
+Dex +9, Con +8, Wis +12, Cha +12
+Skills
+Deception +12, Stealth +9
+Damage Immunities poison, psychic; bludgeoning,
+piercing, and slashing from nonmagical attacks
+Condition Immunities charmed, exhaustion,
+frightened, paralyzed, poisoned, sleep
+Senses truesight 120 ft., passive Perception 13
+Languages -
+Challenge 19 (22,000 XP)
+Proficiency Bonus +6
+Legendary Resistance (3/Day).
+If the tachna gallery
+fails a saving throw, it can choose to succeed instead.
+Demiplane
+. The subject content of the tachna becomes
+a 60 ft. by 60 ft., sentient demiplane, designed to lure and
+trap victims of the tachna gallery’s bloodthirsty appe-
+tite. Creatures examining or touching any art within the
+tachna gallery must make a DC 20 Charisma saving throw
+or be pulled into the tachna gallery’s demiplane, in a random
+location, chosen by the DM. Those touching a tachna are
+pulled in without a save. Once trapped inside, the only
+way to leave is to defeat the tachna, which can be attacked
+from inside it.
+A creature who succeeds on the saving throw is
+immune to this trait for 1 hour.
+Psychic Aura.
+At the start of each of the tachna gallery’s
+turns, each creature within its demiplane takes 21 (6d6)
+psychic damage.
+actions
+Multiattack
+. The tachna uses tremor and makes three
+tentacle attacks.
+Tentacle
+.
+Melee Weapon Attack
+: +18 to hit, reach 60 ft., one target.
+Hit
+: 22 (4d8+ 4) slashing damage. Tremor
+. The tachna gallery shakes violently. Every
+creature must succeed on a DC 20 Strength saving throw
+or be knocked prone.
+Mind Blast (Recharge 6).
+The tachna gallery emits
+psychic energy targeting all creatures within 60 feet. Each
+creature must succeed on a DC 20 Intelligence saving throw
+or take 54 (12d8) psychic damage and be stunned for one
+minute. A creature can repeat the saving throw at the end
+of each of its turns, ending the effect on itself on a success.
+===
+Tachna
+Small aberration, chaotic evil
+Armor Class 15 (natural armor)
+Hit Points 66 (12d6+ 24)
+Speed 0 ft., fly 20 ft.
+str dex con int wis cha
+ 8 (-1) 17 (+3) 14 (+2) 10 (+0) 12 (+1) 14 (+2)
+Skills
+Deception +5, Stealth +6
+Damage Immunities poison, psychic
+Condition Immunities charmed, exhaustion,
+frightened, paralyzed, poisoned, sleep
+Senses truesight 120 ft., passive Perception 13
+Languages -
+Challenge 6 (2,300 XP)
+Proficiency Bonus +3
+Demiplane
+. The subject content of the tachna becomes
+a 40 ft. by 40 ft., sentient demiplane, designed to lure
+and trap victims of the tachna’s bloodthirsty appetite.
+Creatures examining or touching a tachna must make
+a DC 13 Charisma saving throw or be pulled into the
+tachna’s demiplane, in a random location, chosen by
+the DM. Those touching a tachna are pulled in without
+a save. Once trapped inside, the only way to leave is to
+defeat the tachna, which can be attacked from inside it.
+A creature who succeeds on the saving throw is
+immune to this trait for 1 hour.
+actions
+Multiattack
+. The tachna uses tremor (if available) and
+makes two tentacle attacks.
+Tentacle
+.
+Melee Weapon Attack
+: +6 to hit, reach 10 ft., one target.
+Hit
+: 13 (2d8+ 4) slashing damage. Tremor (Recharge 5-6)
+. The demiplane shakes
+violently. Every creature must succeed on a DC 15
+Strength saving throw or be knocked prone.
+Any equipment worn or carried by previous victims of
+the tachna are ejected when the creatures is killed.
+There’s a 10% chance that any tachna comprised of paint
+or dye leaks forth a substance that can be transformed
+into
+marvelous pigments
+. The process involves someone
+proficient with painter’s tools succeeding on a DC 20
+Intelligence (Arcana) check after spending 3 days
+and 500 gp worth of components. This creates 1 pot
+of the pigment.

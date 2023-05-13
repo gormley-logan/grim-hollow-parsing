@@ -1,0 +1,33 @@
+Corpse Wisp
+“Some crypts are lit by lanterns.  
+Others by the fragments of lost souls.”
+Soul Remnants.
+ Sometimes a soul stays in the mortal 
+world to haunt the living. More often, wicked spiritual 
+remnants stay behind to haunt the body’s final rest. These 
+remnants form weird, dead lights—corpse wisps—that 
+float in graveyards and other places of death, searching 
+for the living to feed on.
+These fragments have little sense of the creatures they 
+once were. Still, they cling to the body they once inhabit-
+ed. Hunger can’t destroy them, but they crave life force.
+Undead Nature.
+ A corpse wisp doesn’t require air, 
+drink, food, or sleep.
+salvage
+When a corpse wisp is destroyed, it leaves behind a soft, 
+black rock the size of a coin. This “coal” can be used as 
+an extra material component when casting a spell that 
+deals necrotic damage. Used in this manner, the coal 
+causes the spell to deal an extra 1d4 necrotic damage. 
+Using the coal in this way consumes it.
+lore
+DC 10 Intelligence (History):
+ These lights, called 
+corpse wisps, are undead spirit fragments caught 
+between life and the great beyond.
+DC 15 Intelligence (Religion):
+ Corpse wisps are 
+nearly immaterial. Radiant damage is most effective 
+against them, while poison, necrotic, and damage from 
+nonmagical attacks are least effective.

@@ -1,0 +1,47 @@
+306
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+S
+===
+Skeleton Rifler
+Medium undead, lawful evil
+Armor Class 13 (rotting buff coat)
+Hit Points 26 (4d8 + 8)
+Speed 30 ft.
+str dex con int wis cha
+ 10 (+0) 15 (+2) 15 (+2) 7 (–2) 10 (+0) 5 (–3)
+Skills
+Perception +2
+Damage Immunities poison
+Damage Vulnerabilities
+bludgeoning
+Condition Immunities exhaustion, poisoned
+Senses darkvision 60 ft., passive Perception 12
+Languages understands languages it knew in life but
+can’t speak
+Challenge 1/2 (100 XP)
+Proficiency Bonus +2
+Dead Rifle.
+The rifle a skeleton rifler carries is
+nonfunctional as a ranged weapon for a creature other
+than a skeleton rifler. For the skeleton rifler, the rifle
+never needs to be reloaded.
+actions
+Bayonet
+.
+Melee Weapon Attack
+: +4 to hit, reach 5 ft., one target.
+Hit
+: 5 (1d6 + 2) piercing damage and 3 (1d6) necrotic damage.
+Dead Rifle
+.
+Ranged Weapon Attack
+: +4 to hit, range 40/120 ft., one target.
+Hit
+: 8 (1d12 + 2) piercing damage and 3 (1d6) necrotic damage.

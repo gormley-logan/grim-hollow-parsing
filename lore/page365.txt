@@ -1,0 +1,54 @@
+365
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+W
+Wolfentroika
+“Three wolves attacked in unison, and we focused our attacks 
+on the one we thought was the leader. But it refused to die no 
+matter how many times we hit it.”
+Beast’s Corruption.
+ The mutative powers of the 
+Beast spawn terrible creatures, but one of the more 
+unusual is the wolfentroika. When the Beast corrupts 
+a wolf carrying unborn pups, the wolf gives birth to 
+triplets. Born strong, tough, malevolent, and clever, the 
+trio eats their way out of their mother. Then, they grow 
+to enormous proportions.
+Three Bodies, One Soul.
+ The three wolves share life 
+force and awareness. They don’t willingly stray more 
+than 100 feet from one another, and if forced to do so, 
+salvage
+The acid glands of a wolfentroika trio contain magic. 
+Someone with proficiency in the Medicine skill succeeding 
+on a DC 10 Wisdom (Medicine) check can harvest these 
+glands within 1 hour of death. Somebody who has pro-
+ficiency with alchemist’s supplies can use the acid from 
+all three wolfentroikas from one trio to create a 
+potion of 
+life sharing
+ (see chapter 4). Making the potion takes 1 day 
+of work and reagents worth 200 gp, and the alchemist 
+must succeed on a DC 13 Intelligence or Wisdom check 
+to create the potion.
+lore
+DC 10 Intelligence (History):
+ Where the presence of 
+the Beast has been rumored, mutated wolves with acidic 
+saliva might be encountered. These giant monstrosities 
+come in trios, and they are notoriously difficult to kill.
+DC 15 Intelligence (Nature):
+ ): A wolfentroika trio 
+works perfectly together, better than a wolf pack.
+DC 20 Intelligence (Arcana):
+ Wolfentroikas share 
+life force and consciousness. What one knows, the others 
+know. To kill one, you must kill all three within seconds. 
+To affect one with certain types of magic, you must affect 
+all simultaneously.

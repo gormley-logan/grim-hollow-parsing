@@ -1,0 +1,48 @@
+Putrefaction Slug
+“While all slugs and such slick sliders are creepy, 
+one type in particular transforms other creatures to 
+something even more disgusting.”
+Repulsively Quick
+. Slithering along faster than you’d 
+expect on a glistening trail as clumpy and green as plague 
+victim’s snot, the putrefaction slug’s brownish-red bodies 
+writhe unnaturally, as if their innards are itching to 
+escape. Their slithering mass vibrates and shakes loose 
+a strange and dusty yellow miasma just before they spit, 
+emitting a sulfuric stench.
+Fates Worse than Death
+. Slugs target their victims 
+with bile-colored spit, causing unfortunates to dissolve 
+in a matter of moments. A slug’s hunger is also its 
+weakness. Once they’ve spewed their digestive juices 
+and flesh begins to putrefy, a slug’s instincts take over, 
+and it begins to feed. That’s not good for the victim, but 
+the slug focuses on little other than the eating, which is 
+an excellent time to strike for the kill.
+salvage
+Putrefaction slugs ignore what they can’t devour, making 
+any treasure they possess incidental. But the glands that 
+generate their digestive acid are prized by alchemists.
+Removing an intact slug gland requires a successful 
+DC 12 Intelligence (Nature) or Wisdom (Medicine) 
+check. Once removed, the gland must be stored in 
+alcohol or similar preservative agents. Using four such 
+glands, a person can create a more potent version of acid 
+that renders a target that takes damage from the acid 
+vulnerable to bludgeoning damage until the end of the 
+thrower’s next turn.
+These enhanced acids are called sluggers, cost 40 gp, 
+and weigh the same as a standard vial of acid. Creating 
+a slugger requires proficiency with alchemist’s supplies 
+and a successful DC 13 Intelligence check to use them in 
+a process that takes 4 hours. Failure creates normal acid, 
+while failure by 5 or more renders a useless result.
+lore
+DC 10 Intelligence (Nature):
+ A putrefaction slug 
+spits acid. This acid can dissolve a creature into a 
+puddle of goo.
+DC 15 Intelligence (Nature):
+ The slug’s digestive 
+acid softens tissue, making it vulnerable to crushing 
+and tearing. Water helps dilute this acid.

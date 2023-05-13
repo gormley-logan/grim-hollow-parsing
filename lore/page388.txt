@@ -1,0 +1,46 @@
+Dragonborn Vampire
+“The vampire had golden scales and glittering eyes. It breathed 
+fire, charring and rotting flesh at the same time.”
+Precise Predator.
+ Dragonborn subjected to vampirism 
+become calculating killers. They enjoy the hunt and the 
+fight, but they approach each with cunning and skill. 
+Even dragonborn vampire spawn are calmer and more 
+precise than is normal for vampires of that age. This love 
+of the hunt and battle, nevertheless, makes dragonborn 
+vampires more likely to take risks, which their pack mates 
+take advantage of. Many dragonborn vampires perish in 
+confrontations before aging into more power. 
+Rotting Breath.
+ Vampirism pollutes the draconic bloodline 
+with a curse of undeath. This corruption strengthens 
+the dragonborn’s breath weapon, allowing it to deal the 
+damage it dealt before alongside life-withering necrosis. 
+A dragonborn vampire can also use this breath more 
+often than living counterparts
+.
+salvage
+A dragonborn vampire’s teeth hold magic more readily 
+than other vampires. Someone who has proficiency with 
+smith’s tools can fashion a vampire’s fang into a 
+corrupted-
+tusk-dagger
+ (see chapter 4). Making the weapon requires 
+5 days of work and other materials worth 250 gp. To 
+utilize the teeth properly, the smith or somebody assisting 
+them must have proficiency in the Arcana, Nature, or 
+Religion skill.
+lore
+DC 10 Intelligence (History):
+ Dragonborn vam-
+pires are reputed to be cunning and precise hunters 
+who relish combat.
+DC 15 Intelligence (Religion)
+: Vampirism heightens 
+the draconic ancestry of a dragonborn, who retains the 
+resistances and breath weapon of that line. 
+DC 20 Intelligence (Arcana): 
+A dragonborn vampire’s 
+breath weapon not only deals elemental damage, but 
+also withers life, and the vampire can use that breath 
+more often than typical for dragonborn.

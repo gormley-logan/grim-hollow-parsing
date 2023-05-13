@@ -1,0 +1,93 @@
+Primordial Troll
+“What’s worse than a troll? 
+A smart troll with elemental powers!”
+Nature Incarnates.
+ Trolls infused with elemental 
+forces serve the primordials. These primordial trolls are 
+more cunning than their troll cousins, and their elemental 
+nature affects their regeneration. Each type of primordial 
+troll has abilities based on the primordial the trolls serve 
+or have connections to.
+Fireborn.
+ Favored by Lady Morakesh, fireborn trolls 
+have a similar mercurial temperament. Their black eyes 
+flash red when the troll is angered, in stark contrast to 
+their charred, warty skin.
+Small clans of fireborn trolls can be found in mountainous 
+regions across Etharis, but they’re most common around 
+Mount Vengeance and in the mist-covered expanse of 
+southern Charneault. Fireborn trolls have been seen accompa-
+nying elves traveling to the Temple of the Mists, though 
+the elves haven’t said why.
+Fireborn trolls fight with their fangs and claws, 
+like their normal kin, but a fireborn troll has a body 
+hot enough to burn other creatures. Their leaders can 
+summon magic flame and throw fiery spells at all who 
+threaten them.
+Seaborn.
+ As with their Primordial Lord Alondo, seaborn 
+trolls prefer to be left alone. Their small familial communes 
+are hidden along remote storm-wracked coasts, where 
+the trolls hunt the waters.
+Seaborn troll skin ranges from slate blue to mossy 
+green. They are built to easily navigate surging coastal 
+tides. Among the waves, they hunt using wicked claws 
+and an acidic bite.
+The most powerful seaborn trolls wield powers of 
+acid and mist. They can conjure thick and sometimes 
+caustic fog. These seaborn trolls spit acid at foes before 
+disappearing into the mists.
+Stoneborn.
+ Rarely seen on the surface, stoneborn 
+trolls are native to the underground realm of Stonereach. 
+Therein, they grudgingly pledge fealty to Citrolach, 
+lord of the underground realms, but their contemplatives 
+ponder an existence unbeholden to the primordial 
+lord’s stubbornness.
+Stoneborn trolls are hulking, musclebound creatures 
+sheathed in grey, warty skin as tough as rock. Their 
+claws and teeth are harder than normal, as well, and can 
+sheer through metal and flesh.
+Contemplative stoneborn trolls lead small clans of 
+stoneborn. Though introspective, they aren’t pacifists. 
+Numerous unfortunate explorers who stumbled into the 
+giant’s territory have discovered that fact.
+Windborn.
+ Ilhara, the Queen of Air and Shadow, has 
+a dedicated following of windborn trolls. They carry 
+powerful confidence in their stormy souls. Windborn trolls 
+are impatient to help their matron ascend to control Etharis.
+Mighty windborn can twist shadows, creating minor 
+illusions to trick their enemies. The coloring of their 
+smooth skin adjusts to their surroundings, making them 
+difficult to spot and find. These infiltrators subtly pursue 
+Ilhara’s agenda. However, if subterfuge fails, they are 
+cunning fighters who can hurl lightning.
+salvage
+Nodules inside primordial trolls empower them with 
+elemental traits. Someone who has proficiency in the 
+Arcana or Medicine skill can extract these “organs” with 
+a successful DC 13 Intelligence (Arcana) or Wisdom 
+(Medicine) check. Somebody who has proficiency with 
+alchemist’s supplies can take the nodules from one troll, 
+along with other reagents worth 100 gp, to refine an 
+elixir 
+of elemental spittle
+ (see chapter 4). Making one elixir takes 
+1 day of work.
+lore
+DC 10 Intelligence (Nature):
+ Most primordial trolls 
+have natural weapons empowered with elemental 
+damage. Stoneborn trolls don’t, but their strength and 
+resilience make up for this lack.
+DC 15 Intelligence (Arcana):
+ Powerful primordial trolls 
+have magical abilities tied to their ancestry and traditions.
+DC 15 Intelligence (Arcana or Nature):
+ Only the 
+windborn troll’s regeneration is sensitive to acid and fire 
+like normal trolls. Cold and acid damage affect fireborn 
+trolls, while seaborn trolls are susceptible to fire and 
+magical cold. And acid and thunder temporarily shut 
+down a stoneborn troll’s regeneration.

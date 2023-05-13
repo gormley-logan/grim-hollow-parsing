@@ -1,0 +1,102 @@
+===
+Mukad Worker
+Small aberration, lawful evil
+Armor Class 13 (natural armor)
+Hit Points 18 (4d6 + 4)
+Speed 30 ft., burrow 10 ft., climb 30 ft.
+str dex con int wis cha
+ 10 (+0) 14 (+2) 12 (+1) 4 (–3) 10 (+0) 5 (–3)
+Senses blindsight 30 ft., darkvision 60 ft.,
+passive Perception 10
+Languages Mukad, telepathy 30 ft.
+Challenge 1/2 (100 XP)
+Proficiency Bonus +2
+Magic Resistance.
+The mukad has advantage on
+saving throws against spells and other magical effects.
+Spider Climb.
+The mukad can climb difficult surfaces,
+including upside down on ceilings, without needing to
+make an ability check.
+Tunneler.
+The mukad can burrow through solid rock
+at half its burrowing speed. When it burrows, it leaves a
+5-foot-diameter tunnel in its wake.
+actions
+Multiattack.
+The mukad makes two attacks: one with its bite and one with its claws.
+Bite.
+Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+Hit: 4 (1d4 + 2) piercing damage and 2 (1d4) poison
+damage. If the target is a creature, it must succeed on a
+DC 11 Constitution saving throw or become poisoned
+for 1 minute. The target can repeat the saving throw at
+the end of each of its turns, ending the effect on itself
+on a success. If the creature drops to 0 hit points while
+poisoned in this way, it becomes stable, but it is poisoned
+for 1 hour and paralyzed while poisoned in this way.
+Claws.
+Melee Weapon Attack: +4 to hit, reach 5 ft.,
+one target.
+Hit
+: 5 (1d6 + 2) slashing damage. ===
+Mukad Droner
+Small aberration, lawful evil
+Armor Class 13 (natural armor)
+Hit Points 36 (8d6 + 8)
+Speed 30 ft., burrow 10 ft., climb 30 ft.
+str dex con int wis cha
+ 10 (+0) 14 (+2) 12 (+1) 6 (–2) 11 (+0) 13 (+1)
+Senses blindsight 30 ft., darkvision 60 ft.,
+passive Perception 10
+Languages Mukad, telepathy 30 ft.
+Challenge 1 (200 XP)
+Proficiency Bonus +2
+Aetheric Drone.
+As a bonus action, the mukad strums
+its legs together, making a low, psionic buzz that transcends
+hearing. Each non-aberration within 30 feet of the mukad
+must succeed on a DC 11 Wisdom saving throw or become
+charmed by the mukad. Creatures fighting the mukad or
+its allies have advantage on this save. While charmed
+in this way, a creature has disadvantage on Wisdom
+(Perception) checks made to perceive any creature other
+than the mukad droner using this action. The effect
+ends if the droner ends it (no action required), becomes
+incapacitated, or fails to use a bonus action to continue it.
+Magic Resistance.
+The mukad has advantage on
+saving throws against spells and other magical effects.
+Spider Climb.
+The mukad can climb difficult surfaces,
+including upside down on ceilings, without needing to
+make an ability check.
+Tunneler.
+The mukad can burrow through solid rock
+at half its burrowing speed. When it burrows, it leaves a
+5-foot-diameter tunnel in its wake.
+actions
+Multiattack.
+The mukad makes two attacks: one with its bite and one with its claws.
+Bite.
+Melee Weapon Attack: +4 to hit, reach 5 ft., one target.
+Hit: 4 (1d4 + 2) piercing damage and 2 (1d4) poison
+damage. If the target is a creature, it must succeed on
+a DC 11 Constitution saving throw or become poisoned
+for 1 minute. The target can repeat the saving throw at
+the end of each of its turns, ending the effect on itself
+on a success. If the creature drops to 0 hit points while
+poisoned in this way, it becomes stable, but it is poisoned
+for 1 hour and paralyzed while poisoned in this way.
+Claws.
+Melee Weapon Attack: +4 to hit, reach 5 ft., one
+target.
+Hit
+: 5 (1d6 + 2) slashing damage. Aetheric Scream (Recharge 5–6).
+The mukad
+unleashes a psychic scream in a 30-foot-radius sphere
+centered on it. The scream goes around corners. Each
+non-aberration in the area must succeed on a DC 11
+Wisdom saving throw or take 10 (3d6) psychic damage
+and be unable to take reactions until the end of the
+mukad’s next turn.

@@ -1,0 +1,713 @@
+411
+Chapter 4: MagiC iteMs and salvage
+arcane crafting is many times more valuable than 
+any single magic weapon she could produce.
+This heightens the characters (and their players) 
+appreciation for, and attention to, the NPCs they 
+encounter. NPCs are no longer cardboard cutouts that 
+sit idly by, waiting for rescue from danger, while the 
+heroes go about their business. The lives of these NPCs 
+are much more important to the characters, and to the 
+unfolding narrative of the campaign, when they have 
+important information and assistance to offer.
+NPCs, when they gain this increased importance 
+in the success of the characters, enrich the campaign’s 
+setting. A calculating villain whose weak point can be 
+exploited by the creations of an expert alchemist is much 
+more likely to target the alchemist than the characters—
+and this brings a new dynamic to a campaign.
+saLvage and CraFting ruLes
+The salvage rules for monsters includes not just what 
+can be taken from the monsters; what can be crafted 
+with those items is also stated.
+Crafting these items takes into account four elements, 
+in addition to the salvaged components:
+• Crafting time
+• Necessary proficiencies or spells
+• Ability checks
+• Other components
+Each of these elements is described in greater detail 
+below. Remember: these elements are suggestions. Any 
+or all of them can be changed to best fit your campaign.
+CraFting tiMe
+The necessary time for item crafting is based on the type 
+of item and its rarity. Items like weapons, armor, or 
+clothing generally take longer than potions. However, 
+powerful magic also adds complexity—and therefore 
+time—to the crafting period. A simple potion might 
+only take a few hours, while the most powerful arcane 
+implement takes several days, weeks, or even months of 
+constant work.
+The length of time listed for crafting items from 
+salvage passes whether the item is created successfully 
+or not. The time assumes that the crafters work 16-hour 
+days, and then take the mandatory 8 hours of a long rest. 
+Remember that during the time spent crafting, the 
+crafters must still eat, rest, and take care of themselves. 
+This might incur expenses renting space, buying food, 
+etc. Those who aren’t crafting can, of course, take steps 
+to provide those resources.
+If crafting is going to play an important role in your 
+campaign, providing characters (or even NPCs) with 
+rules-based abilities to perform crafting might be just as 
+valuable as combat-based abilities. For example, offering 
+feats like the ones below might be valuable:
+adrOit CraFter
+Prerequisite: Proficiency in a skill or tool
+You’ve trained in crafting items using a skill or tool that 
+you’re proficient with, and the steps in crafting have become 
+second nature to you. You gain the following benefits:
+• The time it takes to create an item using your proficient 
+skills or tools is halved.
+• If you fail to successfully craft the item and would lose 
+the components, you retain the components instead.
+CareFuL CraFter
+Prerequisite: Proficiency in a skill or tool
+You’ve trained in crafting items using a skill or tool 
+that you’re proficient with, and your creations are 
+known for being well made and reliable. You gain the 
+following benefits:
+• You make all ability checks for crafting with advantage.
+• Anyone assisting you in crafting an item gains 
+advantage on their ability checks for crafting.
+• If you fail to successfully craft the item, the amount of 
+time it took to complete the process is halved.
+neCessary prOFiCienCies 
+Or speLLs
+Crafting items sometimes requires a character or NPC 
+with a certain proficiency to take part in the crafting. A 
+person proficient with weaponsmith’s tools must create 
+the sword or mace if a magical weapon is being crafted. 
+This proficiency is separate from the ability check that 
+must be successfully made to craft the item.
+For example, creating arcane oil from a xakalonus 
+requires a successful DC 15 Intelligence (Arcana) check 
+by a proficient alchemist. If a single person meets both 
+conditions (proficient with alchemist’s supplies AND 
+proficient in the Arcana skill), they can craft the oil by 
+themselves. However, two people can also work together 
+if each is proficient in only one of the necessary skills or 
+tools. In this case, they must each spend the entire time 
+required for crafting.
+abiLity CheCKs
+The ability check associated with a crafting should be 
+made at the end of the crafting period. If the check is a 
+success, the item is successful crafted. On a failure, the 
+item is not crafted successful, and all the components 
+that went into the crafting are consumed (unless 
+otherwise stated).
+Only people who take part in the entire process, and 
+who are proficient in the skill called for, can attempt this 
+check. If multiple people involved are proficient with 
+the skill, they can roll individually, or they can assist 
+someone else, giving them advantage on the check.
+Magic that provides bonuses for a limited time—such 
+as guidance—cannot be used to affect the ability check 
+unless it is active for the entirety of the crafting process.
+412
+Grim Hollow monster Grimoire
+In some cases, rather than calling for a certain skill or 
+ability check, the crafting of an item requires repeated 
+casting of a particular spell. In these cases, someone must 
+be available and willing to take part in the process for at 
+least 1 hour of the day that the crafting takes place. This 
+spell might be provided from a scroll, magic item, NPC, 
+or some other source. Spells provided by a source other 
+than a character might require payment, which could 
+be in the form of coin, favors, or whatever else you can 
+imagine that makes for a memorable story.
+aLternative FaiLure systeM
+Some players may bristle at a system where one failed 
+check might have great repercussions in terms of time 
+and components lost. If this is the case, a graduated 
+failure system like the one below can take away some of 
+the sting of failure. 
+1-3 lower than DC: No components are lost, and only 
+half the time of crafting is spent.
+4-6 lower than DC: Half the components are lost, and 
+75% of the time are spent.
+7-9 lower than DC: All components and time is lost.
+10+ lower than DC: All components and time are 
+lost, and all participants gain 2 levels of exhaustion (or 
+alternative arcane mishap occurs).
+New Magic Items
+T
+he following magic items can be crafted from 
+salvage taken from the monsters detailed in this 
+book. The process for creating them is detailed in 
+the salvage section of the monster entry.
+You can, of course, simply present these items to 
+your players as treasure taken from enemies—or even 
+gifted or sold by NPCs or other elements of your game. 
+However, presenting the items rather than encouraging 
+the players (or their NPC associates) to craft them takes 
+away from the objective of showing how valuable skills 
+and proficiencies are in Etharis.
+adder stOne
+Wondrous item, rare
+While you carry this glassy stone, which has a natural 
+hole in it and is the size of a small fruit, you have 
+advantage on saving throws against effects that cause 
+you to become paralyzed. These stones are often found 
+near the place where a marra is slain. When the adder 
+stone prevents someone from becoming paralyzed 
+(one saving throw would fail and the other succeed), it 
+shatters into worthless shards.
+arCane OiL
+Potion, rare
+This substance is created by distilling the jelly that encases 
+the brain of a xakalonus. As an action, you can coat one 
+weapon or 20 pieces of ammunition with the substance. 
+If the coated objects are not magical, for the next minute, 
+your attacks with the coated weapon or ammunition gain 
+a +2 bonus to attack and damage rolls.
+If the coated objects are magical, the oil does not affect 
+attack or damage rolls with them. However, your attacks 
+against the hraptnon can fully damage that creature for 
+one minute. 
+brazen arMOr
+Armor (plate), very rare (requires attunement)
+This armor, fashioned from the body of an Empyrean 
+brazen bull, gleams brightly in direct sunlight. While 
+wearing this armor, you gain a +1 bonus to AC. In 
+addition, you have resistance to fire and radiant damage.
+Cap OF bravery
+Wondrous item, uncommon
+Woven into a cap from the remains of an old snarite, this 
+cap provides the wearer with a sense of magical peace 
+and calm that emanates from them. When the wearer 
+succeeds on a saving throw against the frightened condition, 
+allies within 30 feet gain advantage on saving throws 
+against the same effect.
+A Note on Time as a Resource
+This game is, to some extent, a game about resource 
+management: defeat all the enemies in your path before 
+you run out of hit points, spells slots, ki points, rages, etc. 
+Many memorable campaigns make time as valuable a 
+resource as any other.
+To make these time-valuable campaigns work, you 
+must integrate the drama of time passing into the 
+unfolding story. For example, it might be necessary for 
+the characters to create a certain item to defeat a looming 
+opponent, but other tasks are also pressing. The decision 
+of whether to create the item, take on the other tasks, or 
+split the party becomes important.
+It’s of the utmost importance to remember, however, 
+that forcing players to sit out even parts of sessions to 
+watch others play might not provide the most fun. In cases 
+like this, you have options. If two of the characters are 
+needed to create an item, and the rest of the characters go 
+off to perform a task, you have options to keep the players 
+of the crafting characters involved. Companion characters 
+can be hired to join the party for a mission. (A few interesting 
+options are provided in this book.) Players can be allowed 
+to make decisions and roll dice for the monsters the other 
+characters are fighting on their side-mission. Just because 
+the characters are absent doesn’t mean the players can’t 
+participate in significant and fun ways.
+413
+Chapter 4: MagiC iteMs and salvage
+CarvaLOth sCaLe arMOr
+Armor (scale mail), uncommon
+While you wear this red-tinged armor made from the 
+scales of several carvaloths, Wisdom (Perception) checks 
+made to see you have disadvantage, and you have 
+advantage on Dexterity (Stealth) checks made to hide 
+from sight, as the armor’s color shifts to camouflage you. 
+CaustiC rapier
+Weapon (rapier), rare (requires attunement)
+This strange weapon is fashioned from the mandibles 
+of a hivewolf. While you wield this weapon, you have 
+a +2 bonus to attack and damage rolls made with this 
+weapon. When you roll a 19-20 on your attack roll with 
+this weapon, that attack does an additional 7 (2d6) acid 
+damage. In addition, you are immune to acid damage 
+while wielding the weapon.
+COat OF Lies
+Wondrous item, rare (requires attunement by a spellcaster)
+This coat made of the severed tongues of a harvester’s 
+victims provides a +1 bonus to your AC, and you have 
+advantage on Charisma (Deception) checks. 
+Also, as a bonus action three times per day, you can 
+activate the magic of the cloak. If you do, the next spell 
+you cast before the start of your next turn can be cast 
+without any somatic or verbal components.
+CLOaK OF the Listener
+Wondrous item, rare
+This is a cloak made of ears that were once part of a 
+swarm of ears. It pulses gently and oozes yellow fluid 
+from its many holes. While wearing this cloak, you can 
+call upon its magic with an action to create two effects:
+Ooze. Upon tugging the cloak, you can cause the 
+cloak to create a 10 ft. puddle of waxy material onto 
+the ground within 10 ft. of you. Creatures entering or 
+starting their turn in the area must succeed on a DC 15 
+Dexterity saving throw or become grappled by the wax 
+(escape DC 15). This wax remains for 1 minute.
+Hide. Upon completely hiding your head with the 
+cloak, you gain blindsense up to 120 ft. and can hear 
+all conversations within that range regardless of 
+obstructions. These effects last for 1 minute.
+After using each of these effects once, they can be 
+used again after the wearer finishes a long rest.
+CLOaK OF the Mausgeist
+Wondrous item, very rare (requires attunement)
+This fine garment is made of mausgeist fur with a silk 
+lining. While wearing it, you gain the following benefits:
+• You have advantage on Wisdom (Perception) checks 
+that rely on hearing.
+• You have advantage on saving throws against spells 
+and other magical effects.
+• You can use an action to cast the charm person spell 
+(save DC 13). The spell affects any creature within 
+30 feet of you. Once used, this property of the cloak 
+can’t be used again until the next dawn.
+CLOaK OF the stygian bat
+Wondrous item, rare (requires attunement)
+This cloak is made from the hide of stygian bats, bristling 
+with coarse black hairs. While wearing the cloak, you 
+have advantage on Wisdom (Perception) checks that rely 
+on hearing. 
+In addition, you can activate the cloak to gain a fly 
+speed of 30 feet for one minute. While it is active, you 
+also have blindsight (120 ft.) and have advantage on 
+Dexterity saving throws while in the air. The cloak cannot 
+be activated again until the wearer finishes a long rest.
+CLOaK OF therianthrOpy
+Wondrous Item, rare (requires attunement)
+This spotted grey cloak is made of cured styrkvisnar 
+hide. While wearing this cloak, you have advantage on 
+Strength (Athletics) checks. 
+As an action, you can command the cloak to transform 
+you into a wolf, eagle, or seal for up to 1 hour. The 
+transformation otherwise functions as the polymorph 
+spell, but you can use a bonus action to revert to your 
+normal form. The cloak can’t be used this way again 
+until the next dawn.
+COLdrazOr
+Weapon (handaxe), legendary (requires attunement)
+This magical handaxe is wielded by the memori lich 
+known as Runa Banasár. It appears to be made of ice, 
+carved with runes and studded with tiny, glittering 
+gems of various types.
+You gain a +3 bonus to attack rolls and damage rolls 
+made with this weapon. On a successful attack, the 
+weapon does an additional 14 (4d6) cold damage. If a 
+single attack does more than 20 points of cold damage, 
+the target must succeed on a DC 15 Constitution saving 
+throw or be stunned until the end of its next turn.
+Additionally, the attuned wielder can call Coldrazor 
+back to their hand immediately after throwing it.
+COrrupted tusK-dagger 
+Weapon (dagger), rare
+This dagger is fashioned from the fangs of a dragonborn 
+vampire. When a wielder scores a critical hit with the 
+dagger, the weapon damage is 4d4 instead of 1d4. In 
+addition, on a critical hit, the target must succeed on a 
+DC 15 Constitution saving throw or be stunned until the 
+end of its next turn.
+414
+Grim Hollow monster Grimoire
+CrOwn OF the KeppMir King
+Wondrous item, very rare (requires attunement)
+The platinum crown is adorned with black gems 
+and shells. When worn, the crown increases your 
+Constitution to 20. You have resistance to cold and can 
+breathe underwater. 
+Curse. This crown is cursed, a fact revealed only 
+when an identify spell is cast on the crown or you attune 
+to it. Attuning to the crown curses you until you are 
+targeted by the remove curse spell or similar magic; it is 
+impossible to remove the crown. While cursed, you turn 
+into a keppmir after 2d10 days.
+eLixir OF eLeMentaL spittLe
+Potion, rare
+This foul-smelling liquid is made from the saliva of 
+an elemental troll. When consumed, you can use a 
+bonus action to spit energy at a creature within 5 feet 
+for 1 minute. The target must succeed on a DC 12 
+Dexterity saving throw or take 7 (2d6) damage of a type 
+corresponding to the troll whose spittle was used to craft 
+the potion. No damage is inflicted on a successful save.
+If the target of the spell rolls a natural 20 on their 
+saving throw, the potion explodes inside you, doing 6d6 
+damage of the potion’s energy type to you. The potion 
+becomes ineffective after the explosion.
+eLixir OF LiFe prOteCtiOn
+Potion, rare
+When you drink this thick, chalky mixture, your 
+maximum hit points cannot be reduced by a melee 
+weapon attack from an undead creature for 10 minutes.
+enChanted Feather
+Wondrous Item, uncommon
+This magical feather can sometimes be found growing 
+from a rabenhex. As an action while the feather is on 
+your person, you can cast remove curse on one creature 
+or object. If the object is a cursed magic item, its curse 
+remains, but the spell breaks its owner’s attunement 
+to the object so it can be removed or discarded. The  
+feather’s magic is expended after the curse is removed, 
+whereupon the feather becomes nonmagical.
+FLaMMabLe tinCture
+Potion, uncommon
+This swirling mixture of red and white liquid is formed 
+from the remains of a coldfire ooze. As an action, the vial 
+of flammable tincture can be hurled up to 30 feet at a 
+target, which must succeed one a DC 10 Dexterity saving 
+throw or be covered with the liquid. For 1 minute, the 
+creature is vulnerable to fire damage. This overrides any 
+previous immunity or resistance.
+gLass-studded arMOr
+Armor (studded leather), rare (requires attunement)
+While wearing this armor, you have resistance to radiant 
+damage. Each time a creature makes a melee attack against 
+you, it takes 3 piercing damage. A creature can choose to 
+make an attack with disadvantage to avoid this damage.
+gOLd bOar ring
+Ring, uncommon
+The ring, made from the bristles of the gold mane boar, 
+sheds bright light in a 20-foot radius and dim light for an 
+additional 20 feet. This light shines even in areas where 
+magic does not function normally, or where magical 
+light would normally be suppressed.
+grenade OF reMOrse
+Wondrous item, rare
+This substance, harvested from the tears of a remorseful 
+storm, proves toxic to creatures of unnatural origins. 
+You can throw the grenade up to 30 feet as an action, 
+and all creatures within 20 feet of the point of impact are 
+covered in the grenade’s contents. 
+Upon contact with this liquid, all fiends, aberrations, 
+or undead creatures must succeed on a DC 17 Constitu-
+tion saving throw, taking 28 (8d6) psychic damage on a 
+failed save, or half as much damage on a successful one. 
+All other creature types take no damage.
+gristaLine
+Potion, uncommon
+This gruesome mixture is made from ground mouruge 
+bones, along with rotten meat and mud. When consumed, 
+your Strength score changes to 19 for one hour. The potion 
+has no effect on you if your Strength is greater than 19. 
+You also have disadvantage on Intelligence ability checks 
+and saving throws for the duration.
+hOgs’ wash
+Potion, rare
+This foul-tasting tea is brewed from the powdered tusks 
+of doom boars. If you drink this potion, it acts as a remove 
+curse. Additionally, hogs’ wash can be used as a component 
+in removing stronger curses that cannot be removed 
+with a normal remove curse casting. (See Grim Hollow: The 
+Campaign Guide for more details on curse removal.)
+KniFewing Cape
+Wondrous item, rare (requires attunement)
+While wearing this cloak made from the skin of 20 
+knifewings, you gain a +1 bonus to AC. In addition, 
+when you fall while wearing this cloak, you descend 
+60 feet per round and take no damage from falling.
+415
+Chapter 4: MagiC iteMs and salvage
+LindwyrM venOM
+Potion (poison), very rare
+This terrible venom is extracted and distilled from the 
+deadly lindwyrm. It can be delivered via ingestion or a 
+wound. A creature exposed to the venom must succeed 
+on a DC 18 Constitution saving throw or take 36 (8d8) 
+poison damage and be poisoned for 1 minute. While 
+poisoned, the creature has disadvantage on Strength and 
+Dexterity skill checks and saving throws.
+Living net
+Weapon (net), uncommon 
+This net is made of wire and thread from a suture golem. 
+The net coils and moves on its own as if it were alive. 
+The net moves and tightens to better restrain a creature 
+caught within. A DC 15 Strength check is required to 
+break free, and it has an AC of 15. Dealing 15 points of 
+slashing damage also frees the trapped creature. Addi-
+tionally, if the net is destroyed, the threads reconnect and 
+repair after 1 minute.
+LyCanthrOpy antidOte
+Potion, rare
+This silvery potion, made with fzeg blood, is dotted with 
+flecks of red. Drinking this liquid removes the curse of 
+werewolf lycanthropy.
+LyCan weapOn
+Weapon (any), rare
+Made from the claws, teeth, and bones of lycanthropes, 
+these weapons are particularly effective against other 
+lycanthropes or vampires. You gain a +2 bonus to attack 
+and damage rolls made with this weapon.
+Additionally, on a successful attack against a 
+lycanthrope, the target is forced back into its human 
+form unless it succeeds on a DC 10 Charisma saving 
+throw. Also, damage done to vampires with lycan 
+weapons cannot be regenerated until the creature finishes 
+a short rest.
+Magebane bOMb
+Wondrous item, rare
+This bubbling liquid is distilled from the remains of 
+a magebane ooze. You can throw the container at an 
+enemy’s weapon or armor, or at a spellcaster. 
+Make a simple ranged weapon attack. On a hit, the 
+target takes 3 (1d6) acid damage, and their weapon takes a 
+-1 penalty to attacks and damage or their armor takes a -1 
+penalty to the AC it offers until they complete a long rest.
+If the target is a spellcaster and you hit them with 
+the bomb, for 1 minute they take a -1 penalty to hit with 
+spell attacks, and the DCs of their saving throws against 
+spells they can decrease by 1.
+MaLLeus MaCabre
+Weapon (greatclub), very rare (requires attunement by a 
+fighter or barbarian)
+This weapon is a blunt but jagged-edged bludgeon that 
+is the object form of a kokela. You gain a +4 bonus to 
+damage rolls made with this weapon, and attack rolls 
+made with this weapon score a critical hit on a roll of 
+19 or 20. If you have abilities that increase your critical 
+range with melee weapon attacks, this weapon scores a 
+critical hit on a roll of 17-20.
+Curse. This weapon is cursed. Attuning to it curses 
+you until you spend one year at least a mile away from 
+the weapon. While you remain cursed, you’re unwilling 
+to part with the club, always keeping it within reach. 
+You also have disadvantage on attack rolls with weapons 
+other than this one, unless no foe is within 60 feet of you 
+that you can see or hear.
+Whenever you roll a critical hit with this weapon, after 
+damage is normally dealt, there is a 25% chance the malleus 
+macabre casts a 9th-level cloudkill spell centered on you. 
+MasK OF the MaestrO
+Wondrous Item, uncommon
+Carved from yew, this mask is shaped in the likeness 
+of a beast’s visage and has 3 charges. While wearing 
+the mask, you can expend 1 charge and use the mask to 
+cast the polymorph spell on yourself. The magic lasts for 
+only 1 minute.
+Curse. This item is cursed. Wearing it curses you until 
+you are targeted by a remove curse spell or similar magic. 
+While you remain cursed, you cannot remove the mask.
+MOrOse MOnOCLe
+Wondrous item, uncommon
+While wearing this opaque, grey eyepiece, you can see 
+any humanoid creature experiencing significant pain, 
+sorrow, or guilt, as well as any grief eaters within 60 
+ft. of you. These creatures are seen as white silhouettes 
+that shine brighter the stronger their emotional turmoil. 
+However, the wearer cannot discern anything else looking 
+through the monocle, and creatures with one eye using 
+the monocle are considered blind while looking through 
+the eyepiece.
+While wearing the monocle, you also gain advantage 
+on Wisdom (Insight) checks made to gauge a creature’s 
+emotions.
+MusCLe graFt
+Wondrous item, very rare (requires attunement)
+Created through a gruesome process using the treated 
+muscle tissue of a bugbear vampire, this magical prosthetic 
+can be grafted to a living creature. When you do this, 
+you gain a +2 bonus to your Strength score. 
+However, you are also overwhelmed with a deep desire 
+for raw blood and rare meat, and each week for a year you 
+must succeed on a DC 10 Constitution saving throw or else 
+become a vampire spawn with no progenitor. The process 
+416
+Grim Hollow monster Grimoire
+of grafting the muscle is quite dangerous requiring, a DC 
+15 Constitution saving throw during attunement. Failing 
+this saving throw weakens the body, causing you to lose 2 
+points of Constitution.
+net OF Maiden’s hair
+Wondrous item, rare (requires attunement)
+Sewn from the plant creature known as maiden’s hair, 
+this sweet-smelling piece of headgear bestows lingering 
+magical properties.
+While wearing the net on your head, you have advantage 
+on Charisma (Persuasion) checks. Additionally, you can 
+use a bonus action instead of an action to escape grapples, 
+and you have advantage on such checks.
+nightMare staFF
+Staff, uncommon (requires attunement)
+This twisted staff is created from the remains of a marra. 
+It has 3 charges and regains its expended charges daily at 
+dusk. When a creature you can see within 60 feet of you 
+damages you while you hold this staff, you can use your 
+reaction to expend 1 of the staff’s charges to force the 
+creature to succeed on a DC 13 Intelligence saving throw. 
+On a failure, the creature sees a phantasm that causes it 
+to be frightened of you until the end of its next turn. If 
+the creature is already frightened, it also takes 7 (2d6) 
+psychic damage.
+paraLyzing bOLt 
+Weapon (ammunition), uncommon
+These serpent tooth-tipped crossbow bolts cause the 
+target’s muscles to become rigid, paralyzing the target 
+until the end of your next turn unless they succeed on a 
+DC 10 Constitution saving throw. Once it hits a target, 
+the ammunition is no longer magical.
+pigsKin arMOr
+Armor (hide), uncommon
+This strong, flexible armor made from the hide of ogre 
+swine is surprisingly supple. It counts as light armor 
+rather than medium armor, and it has a 20% chance of 
+protecting the wearer from the extra damage done by a 
+critical hit.
+While wearing the armor, however, you snore uncon-
+trollable while sleeping, and your food intake doubles.
+pOtiOn OF gLaCiaL resistanCe
+Potion, rare
+This brew is made from the ground horns of keppmirs. 
+When consumed, this potion allows you to breathe 
+underwater for one hour, during which time you gain 
+resistance to cold damage. It tastes salty and gives off a 
+slight warmth.
+pOtiOn OF harM
+Potion, rare
+This concoction is the result of a failed attempt to make 
+a potion of heal from the remains of a downcast vampire. 
+When you imbibe this potion, roll 1d4. That becomes 
+your new hit point total.
+If the potion of harm is given to a creature with 0 hit 
+points, they instantly gain one failed death save and 
+begin dying if they are stable.
+pOtiOn OF heaL
+Potion, rare
+This very rare liquid is made from the remains of a 
+downcast vampire. When you imbibe this potion, 
+you regain hit points so that you are at your hit point 
+maximum value.
+pOtiOn OF LiFe sharing
+Potion, rare
+This shimmering liquid changes colors constantly within 
+its vial. Made from the acid glands of the dreaded 
+wolfentroika, this potion allows you to share your life 
+force with others.
+For 1 minute after drinking the potion, you can target 
+one creature within 30 feet of you that you can see or 
+hear. As a bonus action, you can remove up to 20 hit 
+points from your own total, healing the targeted creature 
+for that amount. At the end of the minute, you gain a 
+level of exhaustion.
+pOtiOn OF MaLiCe
+Potion, rare
+This brew is made from the spore sacs of three grippers. 
+When consumed, this potion causes the imbiber to give 
+off spores that anger enemies within 10 feet. Those 
+enemies must succeed on a DC 10 Wisdom saving throw 
+or they must target the imbiber with their attacks for 1 
+minute. All weapon attacks are made with disadvantage.
+pOtiOn OF reLentLessness
+Potion, very rare
+When you drink this viscous potion made of quoxxarie 
+blood, you are harder to knock unconscious. When 
+damage would reduce you to 0 hit points, you spend 
+a hit die and are at 1 hit point instead. The effect of the 
+potion lasts for 1 minute, and at the end of that time you 
+gain a level of exhaustion for each hit die spent unless 
+you succeed on a DC 15 Constitution saving throw.
+quaKesCaLe arMOr
+Armor (scale mail), uncommon
+Fashioned from the scales of a quake drake, this armor 
+rumbles softly with the sound of thunder during storms. 
+While wearing it, you have resistance to thunder damage.
+417
+Chapter 4: MagiC iteMs and salvage
+ready gunK
+Wondrous item, rare
+This sticky paste is fashioned from the powdered bone 
+armor of a bone trader. When you treat a weapon, shield, 
+or other item that can be wielded in one or two hands, 
+you can use a bonus action to summon and equip it, as 
+long as the item is within 30 feet of you. After using the 
+magic of the paste three times, it loses its potency.
+resusCitatiOn bOMb
+Potion, rare
+This foul-smelling concoction is made from the remains of 
+stinking sludge. As an action, the vial holding this brew 
+can be dropped in a space within 10 feet of the wielder. 
+The vial breaks, releasing a noxious vapor that spreads to 
+a 30-foot radius. Any unconscious, sleeping, incapacitated, 
+or stunned creature is instantly awakened, removing 
+those conditions. A dying creature gains advantage on 
+their next death saving throw. Creatures not suffering 
+from those conditions or dying must succeed on a DC 15 
+Constitution saving throw or be poisoned for 1 minute.
+ring OF nightMares
+Ring, rare (requires attunement by spellcaster)
+This ring, crafted using the powdered brain of a restless 
+lumberer, has 3 charges, and it regains 1d3 expended 
+charges daily at dawn. While wearing the ring, you can use 
+a bonus action to expend 1 charge to change the damage 
+type of a spell you cast before the end of your turn to psychic 
+damage.
+In addition, while attuned to the ring, you’re immune 
+to spells or magical abilities that interfere with your sleep 
+or cause nightmares while you sleep.
+sizzLing seruM
+Potion, uncommon
+Created from the ichor in a potbelly’s stomach-pot, this 
+volatile concoction is effective at damaging inorganic 
+substances. As an action, you can hurl the serum up 
+to 30 feet at a construct or dump it onto an object. A 
+construct or object must succeed on a DC 15 Constitution 
+saving throw or take 35 (10d6) fire damage, or half as 
+much on a successful save.
+staFF OF briars
+Staff, uncommon
+This wooden staff is made from the harvested claws of 
+braerog. It has 10 charges when it is created. While holding 
+it, you can use an action to expend 1 charge from the staff 
+and cause thorny vines to sprout from a patch of earth or 
+soil in a 20-foot square within 5 feet of you, or from the staff 
+itself. Unless you choose a specific kind of briar plant, the 
+staff creates a rose patch. These plants turn the ground in 
+the area into difficult terrain. The briar patch is nonmagical, 
+and it grows or withers as a normal plant would.
+The staff regains 1d6 + 4 expended charges daily at 
+dawn. If you expend the last charge, roll a d20. On a 1, 
+the staff turns into rose petals and is lost forever.
+suit OF the LaMb
+Wondrous item, rare
+This suit of comfortable woolen clothes, made from the 
+wool of the rare and dangerous poffer, includes a shirt, 
+trousers or a kilt, and thick socks. While wearing the suit, 
+you have resistance to lightning damage, and you don’t 
+suffer effects from extreme cold weather.
+taLisMan OF tOrMaCh
+Wondrous item, rare (requires attunement)
+The dreadful talisman is crafted from the skull at the 
+center of a gore elemental. When a creature wearing the 
+talisman strikes a killing blow with a melee weapon, 
+that creature gains 10 temporary hit points for 1 minute. 
+While it has those temporary hit points, its melee weapon 
+attacks deal an additional 3 (1d6) necrotic damage.
+teLLtaLe heart
+Wondrous Item, uncommon (requires attunement)
+This cherry-sized bloodstone heart is the beating center 
+of a poppet. While on your person, you have advantage 
+on saving throws against becoming frightened. If an 
+effect causes you to be frightened without a saving 
+throw, you receive a DC 15 Wisdom saving throw to 
+avoid the condition.
+Also, when you make an Intelligence ability check 
+while holding the stone, you can listen to it, gaining 
+unusual insight or access to esoteric lore. If you do so, 
+you gain advantage on that Intelligence check. The 
+telltale heart can’t be used this way again until you finish 
+a long rest.
+tOrMaCh’s bLessed weapOn
+Weapon (any melee), common
+Dedicated followers of Tormach sometimes gain the 
+blessing of the Lord of Blood Oaths. When they do, their 
+weapons gain a spark of the Marauder’s power. On 
+a successful attack, the wielder can force the target to 
+succeed on a DC 10 Strength saving throw or be knocked 
+prone. This ability can be used again when the wielder 
+finishes a long rest.
+At the start of each day there is a 10% chance that the 
+spark leaves the weapon, making it a normal item.
+wand OF siLenCe
+Wand, uncommon (requires attunement by a spellcaster)
+This wand has 7 charges. While holding it, you can use 
+an action to expend 1 charge to cast the silence spell (save 
+DC 15). The wand regains 1d6+1 expended charges daily 
+at dawn. If you expend the wand’s last charge, roll a d20. 
+On a 1, the wand crumbles into ashes and is destroyed.

@@ -1,0 +1,121 @@
+===
+Panjaian Citrolachi
+Medium humanoid (any race, elemental), any alignment
+Armor Class 12 (natural armor)
+Hit Points 82 (11d8 + 33)
+Speed 25 ft., burrow 25 ft.
+str dex con int wis cha
+ 17 (+3) 9 (–1) 16 (+3) 10 (+0) 13 (+1) 11 (+0)
+Saving Throws
+Str +5, Con +5
+Skills
+Athletics +5, Intimidation +2
+Damage Resistances
+poison
+Senses darkvision 60 ft., tremorsense 30 ft., passive Perception 11
+Languages Primordial and two other languages
+Challenge 3 (700 XP)
+Proficiency Bonus +2
+Earth Glide.
+The panjaian citrolachi can burrow through
+nonmagical, unworked earth and stone. While doing so, the
+citrolachi doesn’t disturb the material it moves through.
+Innate Spellcasting.
+The panjaian citrolachi’s innate
+spellcasting ability is Wisdom. It can innately cast the
+following spells, requiring no material components: 1/day each: stoneskin
+,
+stone shape
+actions
+Multiattack.
+The panjaian citrolachi makes two
+slam attacks.
+Slam.
+Melee Weapon Attack: +5 to hit, reach 5 ft.,
+one target.
+Hit: 12 (2d8 + 3) bludgeoning damage.
+Earth Slam.
+The panjaian citrolachi chooses a point
+it can see within 30 feet of it. Each creature within 10
+feet of that point, other than the citrolachi, must succeed
+on a DC 13 Dexterity saving throw or take 10 (2d6 + 3)
+bludgeoning damage and fall prone.
+Control Earth.
+The panjaian citrolachi chooses dirt
+or stone it can see within 30 feet of it. It can move one
+5-foot cube of loose dirt up to 5 feet. The citrolachi
+can also make one 5-foot cube of dirt or stone difficult
+terrain, or vice versa.
+===
+Panjaian Gormadraugon
+Medium humanoid (any race, elemental), any alignment
+Armor Class 15 (natural armor)
+Hit Points 78 (12d8 + 24)
+Speed 30 ft., fly 30 ft.
+str dex con int wis cha
+ 17 (+3) 16 (+3) 15 (+2) 12 (+1) 13 (+1) 15 (+2)
+Saving Throws
+Wis +4
+Skills
+Acrobatics +6, Intimidation +5, Perception +4,
+Persuasion +5
+Damage Immunities cold
+Damage Resistances
+acid, fire, lightning, thunder;
+bludgeoning, piercing, and slashing from nonmagical attacks
+Senses darkvision 60 ft., tremorsense 30 ft., passive Perception 14
+Languages Primordial and two other languages
+Challenge 6 (2,300 XP)
+Proficiency Bonus +3
+Coldfire Crisis.
+As a bonus action, the panjaian
+gormadraugon causes the area within a 30-foot
+sphere centered on it to become icy difficult terrain.
+Nonmagical flames in that area go out. Creatures of
+the gormadraugon’s choice that start their turn in
+that area lose their resistance to cold damage or treat
+their cold immunity as resistance to cold damage.
+This loss of resistance or immunity lasts until the start
+of the creature’s next turn. The aura lasts until the
+gormadraugon becomes incapacitated, dies, or uses an
+action or bonus action to end it.
+Ignite.
+If a creature or a flammable object takes cold
+damage from the panjaian gormadraugon, the target
+ignites. Until the target is dealt fire damage, it takes 3
+(1d6) cold damage at the start of each of its turns.
+Innate Spellcasting.
+The panjaian gormadraugon’s
+innate spellcasting ability is Constitution (spell save DC
+13). It can innately cast the following spells, requiring no
+material components: At will: faerie fire
+1/day: wall of ice
+Regeneration.
+The panjaian gormadraugon regains
+10 hit points at the start of its turn. If the gormadraugon
+takes fire damage, this trait doesn’t function at the start
+of the gormadraugon’s next turn. The gormadraugon
+dies only if it starts its turn with 0 hit points and
+doesn’t regenerate.
+actions
+Multiattack.
+The panjaian gormadraugon makes
+two attacks.
+Slam.
+Melee Weapon Attack: +6 to hit, reach 5 ft., one
+target.
+Hit: 6 (1d6 + 3) bludgeoning damage, 10 (2d6 + 3)
+cold damage, and Ignite.
+Hurl Coldfire.
+Ranged Spell Attack: +6 to hit, range 60
+ft., one target.
+Hit: 13 (3d6 + 3) cold damage and Ignite.
+reactions
+Prismatic Flash.
+When the panjaian gormadraugon
+fails a saving throw, its skin flashes with prismatic scales,
+it rerolls the saving throw, and it uses the higher roll. If
+the reroll causes the save to succeed, creatures within
+30 feet of the gormadraugon must succeed on a DC 13
+Constitution saving throw or be blinded until the end of
+their next turn.

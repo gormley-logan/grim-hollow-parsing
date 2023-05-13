@@ -1,0 +1,66 @@
+===
+Blightworm
+Tiny aberration, neutral evil
+Armor Class 15 (natural armor)
+Hit Points 40 (16d4)
+Speed 40 ft.
+str dex con int wis cha
+) 2 (–4) 17 (+3) 10 (+0) 13 (+1) 12 (+1) 18 (+4)
+Skills
+Perception +5
+Senses darkvision 120 ft., passive Perception 15
+Damage Resistances
+bludgeoning, piercing, and
+slashing from nonmagical attacks
+Languages understands the languages of its original
+host but can’t speak
+Challenge 2 (450 XP)
+Proficiency Bonus +4
+Otherworldly Nimbleness.
+The blightworm can
+move through the space of any creature larger than it is.
+Slippery.
+The blightworm has advantage on ability
+checks and saving throws made to escape a grapple.
+Symbiotic Proficiency.
+The blightworm has a
+proficiency bonus equal to that of its original blightworm
+ascendant host (usually +4).
+actions
+Bite.
+Melee Weapon Attack: +7 to hit, reach 5 ft., one target.
+Hit: 5 (1d4 + 3) piercing damage and the blightworm enters
+the target’s space and attaches to the target, moving with
+the target until detached. While attached to the target,
+the blightworm can bite no other creature but has advantage
+on attack rolls to bite. Another creature, including the target,
+can use an action to detach the blightworm but must
+succeed on a DC 15 Strength (Athletics) or Dexterity
+(Acrobatics) check to do so. The blightworm can detach
+as part of its movement and does so automatically if it
+becomes incapacitated or dies.
+If the blightworm hits a humanoid it’s attached to
+with its bite, the humanoid must succeed on a DC 15
+Constitution saving throw, or the blightworm burrows in.
+While burrowed in, the blightworm has total cover from
+effects that originate outside the humanoid and can’t be
+detached. If it hits with its bite while burrowed in, it scores
+a critical hit. If it rolls a 20 on its attack roll, it deals 16 (the
+maximum of 2d4 + 4 plus another 1d4) piercing damage.
+The target can repeat the saving throw at the end of each
+of the blightworm’s turns. On a success, the blightworm is
+ejected into a space of its choice within 5 feet of the target.
+A
+lesser restoration
+or
+protection from evil and good
+spell cast
+on the target also expels the blightworm.
+If the humanoid dies with a blightworm inside it, its
+soul departs at the start of the blightworm’s next turn.
+The blightworm’s original blightworm ascendant host
+then reincarnates using the humanoid’s body, which
+becomes the ascendant’s body. (The target’s body is,
+in essence, destroyed, remade into another creature’s
+body.) The arisen ascendent has half its hit points and
+two levels of exhaustion.

@@ -1,0 +1,65 @@
+170
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+===
+Inkwalker
+Small monstrosity, neutral evil
+Armor Class 13
+Hit Points 18 (4d6 + 4)
+Speed 25 ft.
+str dex con int wis cha
+ 10 (+0) 16 (+3) 12 (+1) 10 (+0) 11 (+0) 14 (+2)
+Skills
+Deception +4
+Damage Immunities acid
+Condition Immunities prone
+Senses passive Perception 10
+Languages can mimic sounds it has heard, and from
+prey it has eaten
+Challenge 1 (200 XP)
+Proficiency Bonus +2
+Adhesive (All Forms)
+. The inkwalker adheres to anything
+that touches it. A Large or smaller creature adhered to the
+inkwalker is also grappled by it (escape DC 13). Ability
+checks made to escape this grapple have disadvantage.
+Ambusher.
+In the first round of a combat, the
+inkwalker has advantage on attack rolls against any
+creature it surprised.
+Grappler
+. The inkwalker has advantage on attack rolls
+against any creature grappled by it.
+Mimicry
+. The inkwalker can mimic sounds it has heard,
+including voices and animal noises. A creature that
+hears the sound it makes can tell they are imitations with
+a successful Wisdom (Insight) check opposed by the
+inkwalker’s Charisma (Deception) check.
+Shapechanger
+. The inkwalker can use its action to
+polymorph into a CR 1/2 or lower beast or back into
+its true, amorphous shape. Its statistics are the same in
+each form. Any equipment it is wearing or carrying is
+transformed. It reverts to its true form if it dies.
+Wall Walker
+. The inkwalker can climb difficult
+surfaces, including upside down on ceilings, without
+needing to make an ability check.
+actions
+Bite
+.
+Melee Weapon Attack
+: +5 to hit, reach 5 ft., one target. Hit
+: 7 (1d8 + 3) piercing damage plus 4 (1d8) acid damage. Pseudopod
+.
+Melee Weapon Attack
+: +5 to hit, reach 5 ft., one target.
+Hit
+: 5 (1d8 + 3) bludgeoning damage. The target is subjected to its Adhesive trait.

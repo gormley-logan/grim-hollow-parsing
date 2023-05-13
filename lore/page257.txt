@@ -1,0 +1,55 @@
+Pesta
+“Each season, a fieldhand sees a hazy shimmer and 
+thinks it’s just the heat. They go out to work, and they 
+never come back. It ain’t the heat shimmering out there.”
+Heat Haze.
+ Appearing as yellowish, humanoid-
+shaped clouds, pestas can be hard to spot due to their 
+incorporeal form. During hot days, a pesta and a heat 
+shimmer appear identical.
+Pestas are also called “the farmer’s shade.” Most of 
+their victims are found in or around fields. They blend 
+in with the wheat and corn, and farmers have mistaken 
+a pesta for a cloud of dust.
+Bearers of Disease.
+ Pestas are the risen souls of 
+people who died of a disease while working under the 
+hot sun. In their final moments, they cursed their life 
+being cut short. This emotion kept their soul anchored 
+as an angry reflection of what they were in life, bound 
+to spread the disease that claimed them .
+Diseased Corpses.
+ The victims of a pesta appear 
+drained of vitality and have an unhealthy yellow hue 
+to their skin. No matter how vigorous they were in 
+life, in death they look as if they spent months battling 
+a horrid disease. Such bodies are wrapped in cloth to 
+avoid touching them and burned soon after they’re found. 
+The pesta might be long gone, but the diseased corpse left 
+behind can spawn another and continue to wreak havoc.
+salvage
+Legend says that if you listen carefully, succeeding on a 
+DC 15 Wisdom (Perception) check if you’re within 10 feet 
+of the pesta when it perishes, the pesta reveals a cherished 
+secret as it dissipates. Someone might also intuit this 
+information with a successful DC 15 Wisdom (Insight) 
+check. This knowledge could lead to something valuable.
+lore
+DC 15 Intelligence (Religion):
+ The pesta can emit a 
+noxious cloud that can infect victims with terrible diseases.
+Variant: Weeping Pesta
+Some pestas are the undead victims of the Weeping 
+Pox, carrying that disease. Those diseased by such a 
+pesta’s Plague Cloud or poisoned by its aura are infected 
+with the Weeping Pox. A humanoid infected with this 
+disease must repeat a DC 15 Constitution saving throw 
+every 24 hours, increasing its exhaustion level by one 
+on a failure. This exhaustion can’t be reduced until the 
+disease is cured by magic. 
+Until the first level of exhaustion sets in, however, the 
+victim has sharpened senses. When making an ability 
+check or saving throw against anything other than the 
+disease, they can add a d4 to ability checks or saving 
+throws. A slight fever and overexcitement are the only 
+signs this condition comes from Weeping Pox.

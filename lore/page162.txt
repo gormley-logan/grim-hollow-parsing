@@ -1,0 +1,65 @@
+162
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+H
+Hunger-Cursed 
+Carnivores
+“Simple, peaceful animals turn into something horrifying 
+when they fall prey to the Curse of Ravenous Hunger.”
+Insatiable Transformation.
+ The Curse of Ravenous 
+Hunger is reviled not only because of its destructiveness, 
+but also due to the horrid transformation of victims. 
+Before such unfortunates mature into their ultimate 
+form, the curse compels them to devour all manner of 
+creatures before the realization that only humanoid 
+flesh fulfills their needs.
+The curse isn’t limited to people. It can affect animals, 
+including herbivores. Due to the influence of the Beast, 
+these previously docile animals change drastically. They 
+grow fangs and develop bizarre traits to match their new 
+dietary needs.
+Carnivorous Cow.
+ Ordinarily, one would never look 
+twice at a dairy cow, but a carnivorous cow’s larger 
+horns and sharp hooves warrant attention. These bovines 
+have rows of sharklike teeth but prefer to patiently devour 
+slain prey. It’s enough to make a hardy adventurer shudder 
+when hearing a moo.
+Dread Llama.
+ The dread llama could never be 
+mistaken for its docile kin. Its woolly coat turns bright, 
+eye-catching red. Weavers prize this vermillion wool.
+Edacious Equine.
+ The three-eyed gaze of the fearsome 
+beast known as the edacious equine can addle the mind, 
+preventing escape. The horse’s maw resembles that of an 
+alligator more than that of a friendly mare.
+Esurient Elephant.
+ The thunderous rumbling sound 
+of a charging elephant bearing down on an enemy is 
+scary enough. An elephant hunting for humanoid flesh 
+and launching quills at its prey through its trunk can 
+drive even the brave to terror.
+salvage
+Wealthy epicures prize the meat of hunger-cursed carni-
+vores, claiming it tastes better than anything else. Someone 
+who has proficiency with cook’s utensils can carve a beast’s 
+choice cuts in 1 hour, or 4 hours for an elephant. This meat 
+fetches 100 gp times the creature’s Challenge in the right 
+markets. It spoils in hours if not preserved.
+Dread llama wool is worth 25 gp per llama. Someone 
+who has proficiency in Animal Handling or Survival 
+can sheer a slain llama correctly, as can someone who 
+has proficiency with weaver’s tools.
+lore
+DC 15 Intelligence (Nature):
+ Beasts who fall victim to 
+the Curse of Ravenous Hunger transform into a hunger-
+cursed carnivore at an intermediate stage of the curse.

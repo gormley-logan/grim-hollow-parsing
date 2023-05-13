@@ -1,0 +1,106 @@
+===
+Grinstagger
+Large giant, neutral evil
+Armor Class 16 (natural armor)
+Hit Points 266 (28d10 + 112)
+Speed 20 ft., fly 30 ft.
+str dex con int wis cha
+ 20 (+5) 7 (–2) 18 (+4) 14 (+2) 13 (+1) 19 (+4)
+Saving Throws
+Con +10, Int +8, Wis +7, Cha +10
+Skills
+Arcana +8, Deception +10, Perception +7
+Senses darkvision 120 ft., passive Perception 17
+Languages Elvish, Giant, Sylvan
+Challenge 17 (18,000 XP)
+Proficiency Bonus +6
+Brute.
+A melee weapon deals one extra die of its damage
+when Grinstagger hits with it (included in the attack).
+Accursed Attacks.
+Grinstagger’s weapon attacks
+are magical. If the target of such an attack is a creature,
+it must succeed on a DC 18 Charisma saving throw or
+become cursed for 24 hours. While cursed, the target has
+disadvantage on Dexterity (Stealth) checks and takes an
+extra 4 (1d8) psychic damage from Grinstagger’s attacks.
+If a creature succeeds on this save, it’s immune to this
+curse for 24 hours.
+Innate Spellcasting.
+Grinstagger’s innate
+spellcasting ability is Charisma (spell save DC 18).
+Grinstagger can innately cast the following spells,
+requiring no material components: At will: charm person
+,
+darkness
+,
+detect magic
+,
+faerie fire
+,
+invisibility
+,
+misty step
+,
+speak with dead
+1/day each: calm emotions
+,
+cone of cold
+(7th level),
+eyebite
+,
+gaseous form
+,
+mislead
+,
+sleep
+Regeneration.
+Grinstagger regains 10 hit points at the
+start of his turn if he has at least 1 hit point.
+Ring of Mind Shielding.
+Grinstagger wears an
+invisible ring of
+mind shielding
+. He is immune to
+magic that allows other creatures to read his thoughts,
+determine whether he’s lying, know his alignment, or
+know his creature type. Creatures can telepathically
+communicate with him only if he allows it.
+Legendary Resistance (3/Day).
+If Grinstagger fails
+a saving throw, he can choose to succeed instead.
+actions
+Multiattack.
+Grinstagger makes three attacks.
+Claw.
+Melee Weapon Attack: +11 to hit, reach 5 ft., one
+target.
+Hit: 14 (2d8 + 5) slashing damage, 4 (1d8) psychic
+damage, and Accursed Attacks.
+Eldritch Bolt.
+Ranged Spell Attack: +10 to hit, range
+120 ft., one target.
+Hit: 15 (2d10 + 4) force damage and
+Accursed Attacks.
+Change Shape.
+Grinstagger magically polymorphs
+into a Small or Medium humanoid, into a Large giant, or
+back into his true form. Other than his size, his statistics
+are the same in each form, and any form he takes retains
+his cursed appearance. Weapons he carries change size
+to remain useful in his new form. If Grinstagger dies, he
+reverts to his true form, and his weapons revert to their
+normal form.
+legendary actions
+Grinstagger can take 3 legendary actions, choosing from
+the options here. Only one legendary action option can be
+used at a time and only at the end of another creature’s
+turn. Grinstagger regains spent legendary actions at the
+start of his turn.
+Move.
+Grinstagger moves up to his speed without
+provoking opportunity attacks.
+Attack.
+Grinstagger makes one attack.
+Cast (Costs 2 Actions).
+Grinstagger casts an at-will spell.

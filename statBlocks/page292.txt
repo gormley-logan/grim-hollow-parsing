@@ -1,0 +1,42 @@
+===
+Sand Giant
+Huge giant, lawful evil
+Armor Class 16 (natural armor)
+Hit Points 149 (13d12 + 65)
+Speed 40 ft.
+str dex con int wis cha
+ 22 (+6) 14 (+2) 20 (+5) 10 (+0) 12 (+1) 10 (+0)
+Saving Throws
+Dex +5, Wis +4
+Skills
+Athletics +9, Perception +4, Survival +4
+Senses passive Perception 14
+Languages Giant and one other language
+Challenge 7 (2,900 XP)
+Proficiency Bonus +3
+Desert Hardened.
+The giant has advantage on saving
+throws against dehydration, thirst, and hunger, and it
+needs half as much food and water as a normal creature of
+its size. Also, the giant is adapted to extreme heat and cold.
+Desert Stride.
+The giant ignores difficult terrain due to
+sand, rubble, or similar debris.
+Sand Camouflage.
+The giant has advantage on
+Dexterity (Stealth) checks made to hide in sandy or
+sandstone terrain.
+actions
+Multiattack.
+The giant makes two attacks.
+Longsword.
+Melee Weapon Attack: +9 to hit, reach 10 ft.,
+one target.
+Hit: 19 (3d8 + 6) slashing damage, or 22 (3d10
++ 6) slashing damage if used with two hands.
+Rock.
+Ranged Weapon Attack: +9 to hit, reach 60/240 ft.,
+one target.
+Hit
+: 16 (3d6 + 6) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength
+saving throw or fall prone.

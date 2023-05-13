@@ -1,0 +1,23 @@
+398
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+halfling vampire customization
+A halfling vampire is Small and has less practical Strength
+than Medium vampires, along with smaller claws and
+teeth. But a halfling vampire shows amazing alacrity
+(higher Dexterity), moving with amazing grace past other
+creatures and disappearing with little cover—see Cunning
+Action and Nimble Stealth. When converting the Hit Dice
+to d6s for a Small creature, keep the hit point maximum
+as close to the same as possible. Halfling vampires have a
+childlike aspect that supernaturally influences other crea-
+tures to refrain from harming the vampire in the Innocent
+Eyes reaction. Vampirism also accentuates halfling brav-
+ery, making the vampire fearless. But halfling vampires
+lack Beast Form.

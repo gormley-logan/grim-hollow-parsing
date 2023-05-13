@@ -1,0 +1,76 @@
+152
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+H
+ringof fire
+Medium swarm of Tiny plants, unaligned
+Armor Class 5
+Hit Points 22 (5d8)
+Speed 0 ft.
+str dex con int wis cha
+ 3 (–4) 1 (–5) 10 (+0) 1 (–5) 3 (–4) 1 (–5)
+Damage Immunities fire
+Damage Resistances
+bludgeoning, piercing, slashing
+Condition Immunities blinded, charmed, deafened,
+frightened, grappled, paralyzed, petrified, prone,
+restrained, stunned
+Senses blindsight 30 ft. (blind beyond this radius),
+passive Perception 6
+Languages —
+Challenge 1 (200 XP)
+Proficiency Bonus +2
+False Appearance.
+While the ring of fire remains
+motionless, it is indistinguishable from an ordinary
+cluster of mushrooms.
+Fiery Swarm.
+A creature that touches the ring of fire
+or hits it with a melee attack while within 5 feet of it
+takes 5 (2d4) fire damage, or 2 (1d4) fire damage if the
+ring of fire has half of its hit points or fewer.
+Swarm.
+The ring of fire can occupy another creature’s
+space and vice versa. The swarm can’t regain hit points
+or gain temporary hit points.
+actions
+Touch.
+Melee Weapon Attack: +0 to hit, reach 5 ft., one
+creature.
+Hit: 10 (4d4) fire damage, or 5 (2d4) fire damage
+if the ring of fire has half of its hit points or fewer.
+===
+Hell’s Reach
+Tiny plant, unaligned
+Armor Class 5
+Hit Points 5 (2d4)
+Speed 0 ft.
+str dex con int wis cha
+ 1 (–5) 1 (–5) 10 (+0) 1 (–5) 3 (–4) 1 (–5)
+Damage Immunities fire
+Condition
+Immunities
+blinded, deafened, frightened
+Senses blindsight 30 ft. (blind beyond this radius),
+passive Perception 6
+Languages —
+Challenge 1/4 (25 XP)
+Proficiency Bonus +2
+False Appearance.
+While the hell’s reach remains mo-
+tionless, it is indistinguishable from an ordinary mushroom.
+Fiery Body.
+A creature that touches the hell’s reach or
+hits it with a melee attack while within 5 feet of it takes
+1 fire damage.
+actions
+Touch.
+Melee Weapon Attack: +0 to hit, reach 5 ft., one
+target.
+Hit: 2 (1d4) fire damage.

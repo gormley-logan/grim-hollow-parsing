@@ -1,0 +1,38 @@
+144
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+G
+swarmof grotesquerie minions
+Medium swarm of Tiny aberrations, chaotic evil
+Armor Class 12
+Hit Points 22 (5d8)
+Speed 20 ft., climb 20 ft.
+str dex con int wis cha
+ 5 (–3) 14 (+2) 10 (+0) 1 (–5) 7 (–2) 1 (–5)
+Damage Immunities acid
+Damage Resistances
+bludgeoning, piercing, slashing
+Condition Immunities charmed, frightened, grappled,
+paralyzed, petrified, prone, restrained, stunned
+Senses blindsight 10 ft., darkvision 60 ft., passive Perception 8
+Languages —
+Challenge 1/2 (100 XP)
+Proficiency Bonus +2
+Swarm.
+The swarm can occupy another creature’s
+space and vice versa, and the swarm can move through
+any opening large enough for a Tiny creature.
+actions
+Bite
+.
+Melee Weapon Attack
+: +4 to hit, reach 0 ft., one target in the swarm’s space.
+Hit
+: 10 (4d4) piercing damage and 5 (2d4) acid damage, or 5 (2d4) piercing damage and 2 (1d4)
+acid damage if the swarm has half of its hit points or fewer.

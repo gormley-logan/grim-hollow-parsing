@@ -1,0 +1,43 @@
+Gasper
+“
+While travelin’ in the wilds, pack more food’n water’n ya think 
+ya need, keep yer tinder dry, and don’t disturb tranquil pools, 
+as every wayfarer worth their salt knows.”
+Sacred Sites.
+ Powerful fey want certain pools, 
+natural springs, and waterfalls to be left pristine and 
+undisturbed. These fey created gaspers to ensure areas 
+of sacred water remain undefiled. Gaspers don’t harm 
+those who respect the water. They do attack those who 
+pollute or defile the water or area near it.
+Small Clues.
+ Gaspers protect the area surrounding 
+their sacred water by drowning and dissolving their 
+victims. A cautious traveler might glimpse bits of bone 
+in the water from those slain there. The gasper discards 
+lost equipment where it won’t pollute the water. Anyone 
+who disturbs the gasper’s sensitivities might notice their 
+reflection in the water scowls at them just before the 
+gasper attacks.
+salvage
+Water that fills a victim’s lungs and mouth while 
+grappled by a gasper is expelled when the grapple is 
+broken. If a creature took acid damage from the gasper 
+and captures this water in a container, it can be used as 
+a reagent for a 
+potion of acid resistance
+. Someone who has 
+proficiency with alchemist’s supplies can brew the water 
+with other materials worth 20 gp in a process that takes 
+4 hours, making one dose of this potion.
+lore
+DC 10 Intelligence (Nature):
+ A gasper might attack 
+anyone who it thinks has defiled the water it guards. 
+Anything that happens in or near the water might provoke 
+the creature.
+DC 15 Intelligence (Nature):
+ A gasper understands 
+Sylvan but rarely speaks to those it deems enemies. 
+But promising to leave a protected area might convince 
+a gasper to cease attacking.

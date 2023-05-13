@@ -1,0 +1,54 @@
+===
+Dawndrinker
+Large monstrosity, unaligned
+Armor Class 15 (natural armor)
+Hit Points 114 (12d10 + 48)
+Speed 40 ft.
+str dex con int wis cha
+	18	(+4)	14	(+2)	19	(+4)	3	(–4)	11	(+0)	7	(–2)
+Skills
+Stealth +5
+Damage Immunities radiant
+Damage Resistances
+fire
+Senses blindsight 120 ft., darkvision 240 ft.,
+passive Perception 10
+Languages —
+Challenge 5 (1,800 XP)
+Proficiency Bonus +3
+Drink Light.
+The dawndrinker can take a bonus action
+to drink light within 30 feet of it. If it does so, nonmagical
+light sources in this area go out, extinguishing any flames
+that are the source of the light. Provided the light comes
+from an effect of 3rd level or lower, or a creature of CR 7
+or lower, magical bright light becomes dim light, and
+magical dim light goes out. If a magical effect’s light is
+extinguished, the effect is dispelled. A creature’s or object’s
+inherent light returns to normal after 1 minute. The
+dawndrinker can dim or extinguish stronger effects
+by succeeding on a Constitution check with a DC of 10 +
+the effect’s level or 5 + the creator’s CR, whichever is lower.
+Light Sense.
+The dawndrinker can sense any light
+source within 120 feet of it. This sense penetrates most
+barriers, but it is blocked by 3 feet of wood or dirt, 1 foot
+of stone, or 1 inch of metal.
+Radiant Absorption.
+Whenever the dawndrinker is
+subjected to radiant damage, it takes no damage and in-
+stead regains hit points equal to the radiant damage dealt.
+Shadow Cunning.
+In dim light or darkness, the
+dawndrinker can take a bonus action to use the
+Disengage or Hide actions.
+actions
+Multiattack.
+The dawndrinker makes two slam attacks.
+Slam.
+Melee Weapon Attack: +7 to hit, reach 5 ft., one
+target.
+Hit: 8 (1d8 + 4) bludgeoning damage and 7 (2d6)
+cold damage. If the target is a creature, it must succeed
+on a DC 13 Constitution saving throw or be blinded until
+the end of the dawndrinker’s next turn.

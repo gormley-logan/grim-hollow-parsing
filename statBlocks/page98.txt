@@ -1,0 +1,57 @@
+98
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+D
+===
+Living Dream
+Medium undead, neutral
+Armor Class 12
+Hit Points 36 (8d8)
+Speed 0 ft., fly 40 ft. (hover)
+str dex con int wis cha
+	7	(–2)	15	(+2)	11	(+0)	10	(+0)	14	(+2)	16	(+3)
+Damage Immunities poison
+Damage Resistances
+acid, cold, fire, lightning,
+necrotic, thunder; bludgeoning, piercing, and slashing
+from nonmagical attacks
+Condition Immunities charmed, exhaustion, grappled,
+paralyzed, petrified, poisoned, prone, restrained
+Senses darkvision 60 ft., passive Perception 12
+Languages understands all languages but can’t speak
+Challenge 2 (450 XP)
+Proficiency Bonus +2
+Incorporeal Movement.
+The living dream can move
+through other creatures and objects as if they were
+difficult terrain. It takes 5 (1d10) force damage if it ends
+its turn inside an object.
+Nimble Escape.
+The living dream can use a bonus
+action to take the Disengage or Hide action.
+Innate Spellcasting.
+The living dream’s innate
+spellcasting ability is Charisma (spell save DC 13). It can
+innately cast the following spells, requiring no components: At will: minor illusion
+,
+silent image
+3/day each: charm person
+,
+major image
+,
+phantasmal force
+1/day: hypnotic pattern
+actions
+Dream Strike.
+Melee or Ranged Spell Attack: +5 to hit,
+reach 5 ft. or range 60 ft., one creature.
+Hit: 12 (2d8 + 3)
+psychic damage, and the target has disadvantage on the
+next attack roll or ability check it makes before the end of
+its next turn.

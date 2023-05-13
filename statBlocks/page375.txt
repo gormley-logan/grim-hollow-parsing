@@ -1,0 +1,65 @@
+===
+Zabrielite Truthseeker
+Large celestial, lawful neutral
+Armor Class 16
+Hit Points 147 (14d10 + 70)
+Speed 30 ft., fly 80 ft.
+str dex con int wis cha
+ 18 (+4) 23 (+6) 20 (+5) 19 (+4) 23 (+6) 22 (+6)
+Saving throws
+Dex +9, Wis +9, Cha +9
+Skills
+Insight +9, Investigation +7, Perception +9
+Damage Resistances
+bludgeoning, piercing, and
+slashing damage from nonmagical weapons
+Damage Immunities necrotic, poison, radiant
+Condition Immunities charmed, exhaustion,
+frightened, poisoned
+Senses truesight 120 ft., passive Perception 19
+Languages All, telepathy 120 ft.
+Challenge 7 (2900 XP)
+Proficiency Bonus +3
+Inscrutable
+. The Zabrielite truthseeker is immune
+to any effect that would sense its emotions or read
+its thoughts, as well as any divination spell that it
+refuses. Wisdom (Insight) checks made to determine
+the Zabrielite truthseeker’s intentions or sincerity have
+disadvantage.
+Magic Resistance
+. The Zabrielite truthseeker has
+advantage on saving throws against spells and other
+magical effects.
+actions
+Multiattack
+. The Zabrielite truthseeker can make two
+attacks: one with its eye beams and one with its talons. Eye Beams
+.
+Ranged Spell Attack
+: +9 to hit, range 120 ft., one target.
+Hit
+: 27 (5d10) radiant damage. This attack does not suffer disadvantage if the truthseeker is
+adjacent to an enemy and it ignores all but total cover.
+Talons
+.
+Melee Weapon Attack
+: +9 to hit, reach 5 ft., one target.
+Hit
+22 (3d10 + 6) slashing damage.
+Transfixing Gaze
+. The Zabrielite truthseeker chooses
+one creature within 60 feet that it can see and gazes upon
+its soul. The target must succeed on a DC 17 Wisdom
+saving throw or become paralyzed. While the creature is
+paralyzed, the Zabrielite truthseeker can read its mind
+to learn the creature’s surface thoughts and gain insight
+into the creature’s motivations, emotional state, and
+major concerns. At the end of each of the creature’s turns
+it may make another Wisdom saving throw. On a success
+the effect ends.
+The Zabrielite truthseeker must maintain concentration
+as if concentrating on a spell for the duration of the effect
+and the effect ends if it stops concentration. While using
+its transfixing gaze the Zabrielite truthseeker cannot
+attack with its eye beams.

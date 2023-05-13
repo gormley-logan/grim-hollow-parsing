@@ -1,0 +1,38 @@
+260
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+P
+Poffer
+“You see these fellas in the wild and think, ‘aw, look at them sheep 
+with cute bushy wool!’ But step closer and they’ll fall upon you 
+like a storm, and where there’s storms, there’s lightning.”
+Rambunctious Ruminants.
+ Poffers are sheeplike 
+creatures named after the typical poffer’s bushy woolen 
+coat. Alone, a poffer is docile and can make a nice, low-
+maintenance pet. But flocks of poffers are aggressive, 
+charging other creatures that come too close.
+Worthwhile Wool.
+ Ranching poffers is worth the 
+risk. Although a flock of poffers can be dangerous, 
+their wool is insulating in multiple ways. It can make 
+warm, comfortable clothing that also protects the 
+wearer from shocks.
+salvage
+People prize poffer wool for its insulating properties. 
+Someone who has proficiency with weaver’s tools can 
+use the wool of five poffers to make one 
+suit of the lamb
+(see chapter 4). Creating the suit takes 3 days.
+lore
+DC 10 Intelligence (Nature):
+ Multiple poffers in 
+proximity to another creature can cause an incapacitating 
+shock. The creatures are aggressive in flocks, and they 
+trample fallen foes.

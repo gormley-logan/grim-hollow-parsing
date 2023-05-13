@@ -1,0 +1,45 @@
+183
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+L
+salvage
+Rumors in ancient texts have it that planting the Laethlyn’s 
+heart in soil that has never been trodden upon by mortal 
+foot and watering it daily for 30 days will grow a single 
+sapling of great power. Any druid that subsequently 
+expends 10 spell slots of 4th level or higher on the living 
+sapling can magically shape it into a
+ staff of the woodlands
+.
+lore
+DC 10 Intelligence (History)
+: The old forests are 
+sometimes protected by powerful fey like the Laethlyn, 
+and travelers who enter without permission are often 
+never heard from again.
+DC 15 Intelligence (Nature)
+: Magical plants like 
+thunderblossoms and lightning vines are sometimes 
+grown by the fey as a form of defense against intrusions 
+into their domain.
+DC 15 Wisdom (Animal Handling)
+: Intelligent beasts 
+are often companions of druids and fey creatures, which 
+sometimes awaken them fully into sentient beings. The 
+Laethlyn surrounds themselves with such creatures.
+DC 20 Intelligence (Nature or History)
+: The 
+Laethlyn has lived for centuries and has destroyed 
+more than a few mortals, celestials, and fiends who 
+sought their fealty.
+DC 25 Intelligence (Nature)
+: The Laethlyn supposedly 
+knows where to find nature artifacts of great power that 
+were hidden in their woods long ago. What properties 
+these artifacts have is something only they know.

@@ -1,0 +1,55 @@
+Hive Haunt
+“As the insects swarm over their victim, the poor 
+man is unable to move. Only moments pass before 
+he tumbles to the ground, his skin turning a mottled 
+green as venom courses through his veins.”
+Undead Swarms
+. Servants of necromancers, hive 
+haunts are undead swarms of eusocial insects whose 
+drive to obey a queen has been replaced by controlling 
+power of an animating spirit. A hive haunt is difficult to 
+construct. Adventurers dealing with such a swarm best 
+be wary of its creator, who might have further unseen 
+traps lying in wait.
+Horrific Sacrifice
+. Not only is the creation of a hive 
+haunt a complex feat of magic, but it’s also cruel. The 
+necromancer must catch a large hive of eusocial insects 
+and ritually feed them into a sacrificial victim, taking 
+care to keep the insects and the victim alive. Spells 
+enacted force the insects to devour the victim’s soul 
+from the inside, usurping it as the hive’s new queen. 
+The necromancer must then consume the original insect 
+queen to seal command over their creation.
+Dispersed Intelligence
+. The creation of a hive haunt 
+erases the animating spirit’s personality and, in most 
+cases, its memory. But it doesn’t reduce its intelligence. 
+With their ability to send individual members of the 
+hive into secure locations unnoticed, hive haunts can 
+be employed as spies or stealthy assassins. Strong-
+stomached necromancers have been known to carry 
+hive haunts hidden in clothing, appearing unarmed 
+to a casual observer.
+Hunger for Flesh
+. To maintain the animating spirit’s 
+potency, a hive haunt must frequently feed on the flesh 
+and spirit of the living. Sapient creatures are more sustaining 
+than animals. A necromancer in command of such a hive is 
+driven to greater acts of kidnapping and violence.
+Undead Nature
+. The hive haunt it requires neither air 
+nor sleep.
+salvage
+Once a hive haunt is defeated, its animating spirit departs 
+the swarm, leaving behind only rotting insect carcasses. 
+These bodies can be pounded into a small quantity of a 
+valuable, colorfast green or red dye worth 50 gp.
+lore
+DC 15 Intelligence (Religion)
+: An undead spirit 
+powers a hive haunt. The hive haunt has traits like other 
+undead creatures and swarms.
+DC 20 Wisdom (Medicine)
+: The hive haunt injects a 
+restraining poison and drains a victim’s life force.

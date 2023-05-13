@@ -1,0 +1,73 @@
+329
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+S
+===
+Suture Golem
+Large construct, unaligned
+Armor Class 13
+Hit Points 102 (12d10 + 36)
+Speed 40 ft.
+str dex con int wis cha
+ 17 (+3) 16 (+3) 17 (+3) 5 (–3) 12 (+1) 4 (–3)
+Skills
+Athletics +6
+Damage Immunities poison; bludgeoning and
+piercing from nonmagical attacks that aren’t adamantine
+Damage Resistances
+slashing from nonmagical
+attacks that aren’t adamantine
+Condition Immunities charmed, exhaustion,
+frightened, petrified, poisoned
+Senses darkvision 60 ft., passive Perception 11
+Languages understands the languages of its creator but
+can’t speak
+Challenge 5 (1,800 XP)
+Proficiency Bonus +3
+Immutable Form.
+The suture golem is immune to any
+spell or effect that would alter its form.
+Magic Resistance.
+The suture golem has advantage
+on saving throws against spells and other magical
+effects.
+Magic Weapons.
+The suture golem’s weapon attacks
+are magical.
+Suture Constrict.
+The suture golem can’t attack
+creatures restrained by it, but it can use a bonus action
+to deal 8 (2d4 + 3) bludgeoning damage to each creature
+restrained by it.
+actions
+Multiattack
+. The suture golem makes two attacks.
+Slam.
+Melee Weapon Attack
+: +6 to hit, reach 5 ft., one target.
+Hit
+: 8 (2d4 + 3) bludgeoning damage and 5 (2d4) piercing damage.
+Suture Whip.
+Melee Weapon Attack
+: +6 to hit, reach 10 ft., one target.
+Hit
+: 8 (2d4 + 3) slashing damage. If the target is a Medium or smaller creature, it is
+grappled (escape DC 14) and pulled to within 5 feet
+of the suture golem, and the suture golem can’t use its
+suture whip on another target until the grapple ends.
+If the golem hits the creature again while it’s already
+grappled by the suture whip, the grapple ends, and
+the creature is pulled into the golem’s space, sutured
+to the golem, and restrained. A creature restrained in
+this way moves with the golem, which can move at its
+full speed while restraining one creature or at half its
+speed while restraining two. A creature restrained by
+the golem can escape as if from the original grapple but
+has disadvantage to do so. If the golem is destroyed,
+creatures are no longer restrained by it.

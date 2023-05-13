@@ -1,0 +1,65 @@
+110
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+E
+Epachrach
+“Beware the epachrach, an enormous fey tusker. 
+They make giant boars seem friendly and warm.”
+Fey Fury.
+ An epachrach is a creature of fey fury and 
+might. Empowered by the strength of ancient oaks, it 
+crashes through the forest, seeking those who defile 
+places of primal power. It can abruptly manifest, like 
+a sudden storm of woody skin and twisting tusks, 
+bringing pain and death.
+Primal Guardian.
+ Epachrachs seem like forces of 
+uncontrolled rage, but their wrath has purpose. Each 
+epachrach, or a herd of such creatures, guards a sacred 
+natural place. Powerful druids bind some to protect 
+sacred groves from enemies. Other epachrachs defend 
+a place where primal forces naturally gather. Whatever 
+the nature of this spot, the epachrachs guard it with 
+their lives.
+salvage
+The leaves and bark that form an epachrach’s skin are 
+as durable as steel but much lighter and more flexible, 
+making them ideal for creating scale mail. Someone who 
+has proficiency with smith’s tools or woodcarver’s tools 
+can use the hide to craft scale mail that allows a wearer a 
+maximum Dexterity bonus to AC of +3 and doesn’t cause 
+the wearer to have disadvantage on Dexterity (Stealth) 
+checks. This armor takes 10 days to make, requires other 
+materials worth 250 gp, and weighs 25 pounds.
+lore
+DC 10 Intelligence (Nature):
+ This plantlike boar is 
+really a fey creature and guardian of places of primal 
+power. Its woody hide is vulnerable to fire and resistant 
+to bludgeoning and piercing attacks.
+DC 15 Intelligence (Arcana):
+ Legends say that 
+epachrachs can disappear suddenly or appear from 
+nowhere. The truth is that they can teleport through 
+areas of living plants.
+DC 15 Intelligence (History):
+ Several tales tell of 
+those who stumble into an area epachrachs watch over. 
+Leaving the guarded area or proving no harmful intent 
+saved wily heroes in those stories.
+GM Advice:
+ In general, monsters that knock characters 
+prone are best paired with monsters that perform melee 
+rather than ranged attacks, since ranged attacks against 
+prone targets are made with disadvantage.
+Creating encounter areas where prone creatures are 
+grabbed by creeping vines and restrained until they escape 
+is a great way to increase the challenge of an encounter 
+with epachrachs. This also gives the epachrachs plenty of 
+opportunities to use their Plant Stride ability.

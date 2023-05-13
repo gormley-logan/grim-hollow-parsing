@@ -1,0 +1,33 @@
+Insic
+“Don’t go blowing into any old instrument without 
+giving it a good look. Might be something in there 
+you’d rather not inhale…”
+Bard Enemy.
+ Finding an old instrument can be cause 
+for great excitement for a bard, but an insic quickly puts a 
+damper on that feeling. This undead inhabits abandoned 
+instruments. It jealously guards its silent home, preferring 
+to keep the echoes of long-lost music to itself.
+Musical Magic.
+ Many insics are born from the spirits 
+of musicians torn apart by their craft or so dedicated to it 
+that death couldn’t stop them. Insics retain a connection 
+to musical magic. They can also overpower the mind of a 
+kindred spirit to perform again for a short time.
+salvage
+Insics prefer fine, old instruments that are valuable or 
+would be if restored. Some such instruments are magical.
+lore
+DC 15 Intelligence (Arcana):
+ An insic is a mass of 
+shadows that likes to live inside old musical instruments. 
+The best way to check for an insic is to shine a light into 
+an instrument. If shadows persist, an insic could be there.
+DC 20 Intelligence (History): 
+An old story tells of 
+a famous musician who performed without rest, barely 
+sleeping or eating for the better part of two years. He 
+passed away from exhaustion. His lyre became the 
+home of an insic soon after. Some suspect he had been 
+possessed by one, perhaps the same one. Others think 
+his spirit became the insic that inhabited his lyre.

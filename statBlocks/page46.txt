@@ -1,0 +1,53 @@
+===
+Rage-Infected Bugbear
+Medium humanoid (goblinoid), chaotic evil
+Armor Class 14 (hide armor)
+Hit Points 39 (6d8 + 12)
+Speed 35 ft.
+str dex con int wis cha
+	16	(+3)	14	(+2)	14	(+2)	7	(–2)	10	(+0)	8	(–1)
+Saving Throws
+Str +5
+Skills
+Athletics +5, Intimidation +3, Survival +2
+Senses darkvision 60 ft, passive Perception 10
+Languages Goblin
+Challenge 2 (450 XP)
+Proficiency Bonus +2
+Brute.
+A melee weapon deals one extra die of its
+damage when the rage-infected bugbear hits with it
+(included in the attack).
+Keen Smell.
+The rage-infected bugbear has advantage
+on Wisdom (Perception) checks that rely on smell.
+Rampage.
+When the rage-infected bugbear reduces a
+creature to 0 hit points with a melee attack on its turn,
+the bugbear can take a bonus action to move up to half
+its speed and make a bite attack.
+Tormach’s Rage.
+The disease Tormach’s Rage causes
+a rage-infected bugbear to be chaotic evil and grants
+the bugbear an extra 2 (1d4) damage on Strength-based
+attacks (included in the attacks). Also, at the start of
+its turn, the bugbear can gain advantage on all melee
+weapon attack rolls it makes until the start of its next
+turn, but attack rolls against it have advantage until the
+start of its next turn.
+Any bugbear that comes into physical contact with
+the rage-infected bugbear must succeed on a DC 14
+Constitution saving throw or contract this disease. Only
+greater restoration
+, similarly powerful magic, or a special
+herbal concoction (see Salvage) can cure this disease.
+actions
+Bite.
+Melee Weapon Attack: +5 to hit, reach 5 ft.,
+one target.
+Hit: 8 (2d4 + 3) piercing damage and, if
+the target is a bugbear, Tormach’s Rage.
+Greataxe.
+Melee Weapon Attack: +5 to hit, reach 5 ft.,
+one target.
+Hit: 18 (2d12 + 1d4 + 3) slashing damage.

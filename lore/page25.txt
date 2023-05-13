@@ -1,0 +1,37 @@
+Blazehorn
+“I’m sure some alchemist’s to blame for this.”
+Flame Throwers.
+ Blazehorns are hulking, hoofed 
+mammals whose bodies produce a substance like alche-
+mist’s fire. A blazehorn can launch this volatile material 
+from a hump on its back. With an unending supply of 
+fire, blazehorns love spreading destruction. Their young 
+thrive in burned areas, feeding on scorched plant material, 
+burnt resinous trees, and ash.
+Destruction Untamed.
+ Numerous alchemists have 
+sought to tame blazehorns to simplify the creation of 
+their volatile elixirs. Every attempt has ended in failure. 
+The fiery nature of a blazehorn has proven impossible to 
+curb for long.
+salvage
+From one dead blazehorn, someone who succeeds at 
+a DC 13 Intelligence (Arcana or Nature) or Wisdom 
+(Animal Handling or Medicine) check can harvest 
+enough tar to create three flasks of alchemist’s fire. 
+However, if the check to harvest the material fails by 
+5 or more, treat it as if the blazehorn’s Firebomb action 
+went off at a point on the edge of the blazehorn’s space 
+closest the harvester. This event destroys all the tar that 
+could have been harvested from that blazehorn.
+lore
+DC 10 Intelligence (Nature):
+ Blazehorns are hulking 
+ruminants that produce a tar like alchemist’s fire. They 
+prefer scorched plants and ash for food.
+DC 15 Intelligence (Arcana):
+ A blazehorn is immune 
+to fire damage.
+DC 20 Intelligence (Nature): 
+When wounded, a 
+blazehorn can emit a retaliatory firebomb.

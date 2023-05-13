@@ -1,0 +1,40 @@
+24
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+B
+Bladewhirl
+“After the bladewhirl had its way with them, there weren’t 
+nothing left but tiny pieces and blood on the walls.”
+Rolling Death.
+ A bladewhirl is a mass of blades that 
+rapidly spins to burrow into its victims. The fell intelli-
+gence animating a bladewhirl exists only to hunt and kill.
+Last Resort.
+ An evil wizard created the first bladewhirls 
+to end a siege on her fortress. Once a bladewhirl is un-
+leashed, it doesn’t stop killing. And the construct doesn’t 
+discriminate among viable targets. It kills everything.
+salvage
+When defeated, a bladewhirl falls apart into several 
+shortswords and scimitars, along with shattered bits of 
+such weapons. One or more of these blades might be a 
+magic weapon.
+lore
+DC 10 Intelligence (History):
+ Bladewhirls are 
+murderous constructs made from numerous blades.
+DC 15 Intelligence (Arcana):
+ A bladewhirl is fast 
+and able to jump to great heights. It always attacks the 
+creature closest to it. Once a bladewhirl is free to roam 
+and attack, it doesn’t stop.
+DC 15 Intelligence (Arcana):
+ A bladewhirl is immune 
+to poison and psychic damage, and it’s resistant to fire. It 
+takes magic weapons to harm one effectively.

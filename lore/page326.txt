@@ -1,0 +1,46 @@
+326
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+S
+Styrkvisnar
+“The appearance of the tripart styrkvisnar terrifies 
+anyone viewing it, but it’s presence hints at a 
+master even more terrifying.”
+Monstrous Servant.
+ When a powerful being of great 
+evil, such as a memori lich, is created, residual power 
+courses out into the world, changing and attracting nearby 
+creatures. One such result is a styrkvisnar, a monster 
+appearing to be part wolf, part eagle, and part seal.
+Corrupt Connection.
+ Styrkvisnars bond with potent 
+evil beings, becoming servants and scouts. Such a bond 
+takes 24 hours to establish. Once the bond forms, the 
+styrkvisnar makes every effort to carry out the wishes 
+of its new master. It uses its shapechanger ability to 
+accomplish tasks for which a monstrous form won’t do.
+salvage
+Someone who has proficiency with leatherworker’s 
+tools can fashion the hide of a styrkvisnar into a 
+cloak 
+of therianthropy
+ (see chapter 4). Doing so takes 10 days, 
+other materials worth 2,000 gp, and a successful DC 15 
+Intelligence or Wisdom check.
+lore
+DC 10 Intelligence (History):
+ A styrkvisnar is 
+a monstrous blend of a wolf, eagle, and seal. It can 
+shapechange into a humanoid.
+DC 15 Intelligence (Arcana):
+ Styrkvisnars are created 
+by or attracted to the welling of power at points where 
+mighty and wicked creatures permanently transform 
+into a monstrous being, such as a lich. The styrkvisnar 
+serves the reborn being.

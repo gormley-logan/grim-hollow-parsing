@@ -1,0 +1,70 @@
+Hungerer Beasts
+“Those infected with Tears of the Hungerer feel as if 
+they’re starving. The disease drives them to look for other 
+beings to bite. Some beasts seem to reach an agreement with 
+the disease, exchanging survival for a mutated carrier form.”
+Magical Hunger.
+ The disease Tears of the Hungerer 
+can turn a once prosperous area into a wasteland. The 
+affliction mostly affects humanoids, but animals might 
+be infected, too. If so, they grow bolder in their efforts to 
+survive. Herbivore’s hunt fleshy prey, and predators raid 
+graveyards to dig up corpses to eat.
+Mutated Form.
+ Hungerer beasts don’t become how 
+they are by succumbing to the disease. That would be a 
+natural end to these creatures, but little natural remains 
+in them. The body changes to fit the extreme situation, 
+turning a creature once skittish and peaceful into a 
+ravenous predator.
+Some hungerer beasts resemble starving animals, with 
+an unhealthy coat and a spark of desperation in their eyes. 
+Others change in monstrous ways, becoming new beasts. 
+As with the hungerer snake and its tail blade, a beast can 
+develop new traits. An attack from such a beast might 
+transmit Tears of the Hungerer.
+The change is so drastic that feeding a beast isn’t 
+enough to return it to the animal it once was. Only 
+powerful magic can restore a transformed beast. Some 
+hungerer beasts breed their affliction into their offspring. 
+Even greater magic is required to alter that change.
+Abnormal Behavior.
+ Hungerer beasts can be different 
+in form, but they are united in their monstrousness and 
+behavior. They are extremely aggressive. Pain doesn’t 
+faze them. They face fire and threats with fierceness. It 
+quickly becomes clear to anyone dealing with such a 
+beast that it wasn’t created by nature.
+salvage
+Someone who has proficiency with alchemist’s supplies or 
+a poisoner’s kit can use venom harvested from the hungerer 
+snake to create one 
+potion of poison
+ that also exposes the drinker 
+to Tears of the Hungerer. Producing the poison takes 
+2 hours, reagents worth 50 gp, and a successful DC 13 
+Intelligence (Arcana) check.
+lore
+DC 10 Intelligence (Nature):
+ Hungerer beasts change 
+under the influence of the Tears of the Hungerer disease. 
+The infection might not kill, but it makes the animal 
+an extremely aggressive carrier of the illness. Under 
+this influence, even creatures that were once docile 
+become dangerous.
+DC 15 Intelligence (Nature):
+ Hungerer beasts leap 
+into battle and can rush prey with incredible speed. The 
+smell of blood can drive some berserk.
+Unusual features distinguish a hungerer creature. The 
+bright blue body, crimson head, and daggerlike tail make 
+a hungerer snake easy to identify, for instance.
+DC 15 Intelligence (Arcana):
+ Healing magic such 
+as 
+greater restoration
+ or mightier healing can restore a 
+hungerer creature to its normal state unless it was bred 
+with the affliction, as hungerer snakes are. Only a 
+wish
+can undo that change.

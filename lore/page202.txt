@@ -1,0 +1,69 @@
+202
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+M
+Mageplants
+“Why do common folk hate magic? Look at the experiments of 
+those with magical power! Consider mageplants: picking 
+a flower could be either a delight or a deadly trap!”
+Creations of Magic
+. Mageplants don’t come into 
+being by ordinary means. Each was the result of magical 
+experimentation or intentional cultivation by arcanists, 
+druids, or other powerful creatures.
+A Deadly Surprise
+. Mageplants usually look like 
+mundane plant life, making them a particularly nasty 
+hazard for those not trained in the differences. When 
+that rose begins spitting fire or a vine drags you into the 
+earth, it’s not likely to be a good day.
+Thunderblossoms
+. These explosive plants look like small 
+rose bushes that grow low to the ground. When active, 
+they scuttle in and out of the fray, allowing their blooms to 
+explode, sending seeds (and destruction) everywhere.
+Lightning Vines
+. These masses of vines grow small blue 
+blooms that hum with electricity. They lash out, grappling 
+living creatures to deliver heart-stopping shocks.
+Flash Freezes
+. These white-barked trees bear frosty 
+blue leaves and snow-white blossoms. They enjoy leaching 
+the warmth out of nearby living creatures.
+salvage
+The seeds from three thunderblossoms, two lightning 
+vines, or one flash freeze can be worked into an oil that, 
+when placed on a weapon, can allow that weapon to do 
+damage corresponding to the nature of the plant. Making 
+this oil requires someone proficient with the Nature skill 
+to succeed on a DC 15 Intelligence (Arcana) check after 
+spending 12 hours and 100 gp of components. This oil, 
+when put on a melee weapon, deals an additional 6 (1d12) 
+damage of the type based on the plant for 24 hours.
+lore
+DC 10 Intelligence (Nature)
+: All mageplants are 
+created rather than occurring naturally. Most often 
+druids or wizards are responsible for planting them in 
+areas they want to protect.
+DC 10 Intelligence (History)
+: Thunderblossoms are 
+a useful early warning system for identifying intruders. 
+Planting a border of them can make it hard for someone 
+to walk up on their creator undetected.
+DC 15 Intelligence (Nature)
+: Lightning vines are faster 
+than most people suspect and can pick off incautious 
+stragglers before anyone realizes they’ve fallen.
+DC 20 Intelligence (Arcana)
+: Flash freeze trees are 
+hard to stabilize without killing the original plant and thus 
+relatively rare among mageplants. Powerful spellcasters 
+sometimes awaken such trees to make them an even 
+deadlier threat.

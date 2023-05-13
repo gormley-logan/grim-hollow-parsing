@@ -1,0 +1,173 @@
+===
+Blightworm Ascendant
+Medium humanoid (any race), any evil alignment
+Armor Class 13 (16 with
+mage armor
+)
+Hit Points 104 (16d8 + 32)
+Speed 35 ft.
+str dex con int wis cha
+) 11 (+0) 16 (+3) 15 (+2) 13 (+1) 12 (+1) 18 (+4)
+Skills
+Deception +8, Perception +5
+Senses darkvision 120 ft., passive Perception 15
+Languages any two languages
+Challenge 9 (5,000 XP)
+Proficiency Bonus +4
+Blightworm Rebirth.
+When the blightworm ascendant
+dies, a blightworm uses 5 feet of movement to emerge
+in a space within 5 feet of the corpse at the start of the
+ascendant’s next turn. (This blightworm is part of the
+ascendant’s Challenge.)
+Blightworm Whispers.
+The blightworm ascendant
+has advantage on saving throws against being charmed,
+deafened, frightened, stunned, and knocked unconscious.
+Innate Spellcasting.
+The blightworm ascendant’s
+innate spellcasting ability is Charisma. It can innately
+cast the following spells (spell save DC 16), requiring
+no material components: At will: detect magic
+,
+disguise self
+,
+mage armor
+,
+silent image
+1/day each: finger of death
+,
+mass suggestion
+,
+mind blank
+Spellcasting.
+The blightworm ascendant is a 16th-level
+spellcaster. Its spellcasting ability is Charisma (spell save
+DC 16, +8 to hit with spell attacks). It regains its expended
+spell slots when it finishes a short or long rest. It knows
+the following warlock spells: Cantrips (at will): eldritch blast
+,
+mage hand
+,
+minor illusion
+,
+poison spray
+1st–5th level (3 5th-level slots): consume mind
+,
+contact
+other plane
+,
+counterspell
+,
+creeping touch
+,
+dimension door,
+serpent tongue
+,
+shatter
+,
+suggestion
+,
+vampiric touch
+Spell Siphon (Recharges after a Short or Long
+Rest).
+When the blightworm ascendant successfully
+uses
+counterspell
+on a spell of 5th level or lower, the
+ascendant doesn’t expend the spell slot used and copies
+the countered spell. Until the ascendant uses this reaction
+again, the ascendant can cast the copied spell using a
+warlock spell slot.
+actions
+Dagger.
+Melee or Ranged Weapon Attack: +7 to hit,
+reach 5 ft. or range 20/60 ft., one target.
+Hit: 5 (1d4 + 3)
+piercing damage.
+===
+Blightworm Warlock
+Medium humanoid (any race), any alignment
+Armor Class 11 (14 with
+mage armor
+)
+Hit Points 71 (11d8 + 22)
+Speed 30 ft.
+str dex con int wis cha
+ 9 (–1) 12 (+1) 15 (+2) 13 (+1) 11 (+0) 16 (+3)
+Skills
+Deception +6, Perception +3
+Senses darkvision 120 ft., passive Perception 13
+Languages any two languages
+Challenge 5 (1,800 XP)
+Proficiency Bonus +3
+Blightworm Whispers.
+The blightworm warlock
+has advantage on saving throws against being charmed,
+deafened, frightened, stunned, and knocked unconscious.
+Innate Spellcasting.
+The blightworm warlock’s
+innate spellcasting ability is Charisma. It can innately
+cast the following spells (spell save DC 14), requiring
+no material components: At will: detect magic
+,
+disguise self
+,
+mage armor
+,
+silent image
+1/day each: mass suggestion
+Spellcasting.
+The blightworm warlock is an 11th-level
+spellcaster. Its spellcasting ability is Charisma (spell
+save DC 14, +6 to hit with spell attacks). It regains its
+expended spell slots when it finishes a short or long rest.
+It knows the following warlock spells: Cantrips (at will): eldritch blast
+,
+mage hand
+,
+minor illusion
+,
+poison spray
+1st–5th level (3 5th-level slots): consume mind
+,
+contact
+other plane
+,
+counterspell
+,
+creeping touch
+,
+dimension door,
+serpent tongue
+,
+shatter
+,
+suggestion
+,
+vampiric touch
+Spell Siphon (1/Day).
+When the blightworm warlock
+successfully uses
+counterspell
+on a spell of 5th level or
+lower, the warlock doesn’t expend the spell slot used
+and copies the countered spell. Until the warlock uses
+this trait again, the warlock can cast the copied spell
+using a warlock spell slot.
+actions
+Dagger.
+Melee or Ranged Weapon Attack: +4 to hit,
+reach 5 ft. or range 20/60 ft., one target.
+Hit: 3 (1d4 + 1)
+piercing damage.
+DC 15 Intelligence (Arcana): Blightworms exist to
+consume energy, draining worlds until they are depleted
+husks. Their hosts gain limited ability to siphon magic
+from their foes. The parasite does the same to its host,
+eventually merging into a unified being.
+DC 20 Intelligence (Arcana): The blightworm can
+survive the death of its host. It emerges from the corpse
+and attempts to infest a new body. The new host’s soul
+departs and that of the original warlock takes its place,
+a horrific reward for service to otherworldly forces.

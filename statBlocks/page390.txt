@@ -1,0 +1,21 @@
+dreamer vampire customization
+A dreamer vampire needs to eat the psychic energy from
+others, and does so in small ways via dreams. Dreamer
+vampires are resistant to psychic damage instead of
+necrotic. They are a little less agile and more analytical
+than vampires of a similar age. All dreamer vampires
+have the Nightmare Walker trait. A young or older
+dreamer vampire trades in illusion instead of reality and
+can’t change their shape. Instead, they have the Dreamer
+Escape reaction. Young and older dreamer vampires
+have the Nightmare Killer action, too.
+A dreamer vampire might be more ponderous than
+other vampires of their age (lower Dexterity and AC).
+But the vampire makes up for that loss with resilience
+(higher Constitution and hit points).
+Horrid tales speak of ancient dreamer vampires who
+can use Nightmare Killer on multiple targets. To make this
+legend true, once per day, the ancient dreamer vampire
+can use Nightmare Killer on creatures of its choice within
+a 30-foot radius sphere centered on a point the vampire
+chooses within range of the effect.

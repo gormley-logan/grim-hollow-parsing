@@ -1,0 +1,37 @@
+269
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+P
+a puck’s lair
+Soil within a puck’s lair occasionally twinkles as if filled
+with sparkling fertilizer. Many of the trees and plants are
+likely to be the puck’s thralls, and allied plant creatures
+might also dwell there. Within the lair, only creatures of
+the puck’s choice leave tracks. Tracking such creatures is
+possible only with magic.
+A puck makes their hidden home in small crevices
+beneath the interlaced roots of plant thralls. These roots
+act as labyrinthine hallways connecting all parts of the
+grove, which the puck uses to sneak around. While
+hidden in this maze, the puck whispers to the trees and
+telepathically commands them. Hiding and commanding
+the plants to protect the puck is crucial, for it knows that
+despite its great power, it is physically frail.
+lair actions
+On initiative count 20 (losing initiative ties), while the
+puck is inside its grove, it can take a lair action to cause
+one of the following effects. A puck can’t use the same
+effect two rounds in a row: •
+Six images of the puck appear in multiple locations
+in the lair, each moving and speaking independently
+during the puck’s turn. At the start and end of
+the puck’s turn, and one time during the puck’s
+movement, it can teleport to the location of one of
+these images. The images remain until initiative count
+20 on the next round.

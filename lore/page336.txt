@@ -1,0 +1,33 @@
+salvage
+The remains of a tar creep can be used as the main ingredient 
+for alchemist’s fire. The remains of one tar creep provides 
+enough pitch to cut the cost of making ten flasks of 
+alchemist’s fire by 50%. A tar juggernaut provides enough 
+material to cut the cost for twenty-five flasks.
+lore
+DC 10 Intelligence (Arcana):
+ Tar creeps are 
+elementals with resistances to nonmagical damage and 
+immunity to poison.
+DC 15 Intelligence (Arcana):
+ A tar creep isn’t 
+vulnerable to fire, but it continues to burn if it ignites. 
+This fire hurts the tar creep, but it can also ignite the 
+elemental’s foes.
+GM Advice:
+ Ranged attacks might be important for more 
+powerful monsters to have, especially if the powerful characters 
+they oppose have a variety of ways to attack from a distance. The 
+tar juggernaut’s Engulfing Charge may help in such cases, but 
+other options can be helpful. If you find the tar juggernaut needs 
+a ranged attack, consider the following:
+Hurl Tar
+.
+Ranged Weapon Attack:
+ +10 to hit, range 50/150 
+ft., one target. 
+Hit:
+ 22 (3d10 + 6) bludgeoning damage. If the 
+target is a Large or smaller creature, it is grappled (escape DC 
+18). Until this grapple ends, the target makes ranged weapon or 
+spell attacks with disadvantage.

@@ -1,0 +1,105 @@
+===
+Chiropteran Behemoth
+Huge monstrosity, neutral evil
+Armor Class 19 (natural armor)
+Hit Points 287 (25d12+ 125)
+Speed 40 ft., fly 120 ft.
+str dex con int wis cha
+	22	(+6)	20	(+5)	20	(+5)	5	(–3)	20	(+5)	7	(–2)
+Skills
+Perception +11, Stealth +11
+Condition Immunities blinded, charmed, frightened
+Senses truesight 120 ft., passive Perception 21
+Languages understands one language but can’t speak
+Challenge 20 (25,000 XP)
+Proficiency Bonus +6
+Darkness Aura.
+The chiropteran behemoth can use
+a bonus action to create darkness in a 40-foot radius centered
+on itself. This darkness moves with the behemoth. A
+creature with darkvision can’t see through this magical
+darkness, and nonmagical light can’t illuminate it.
+A light-producing spell of 2nd level or lower is dispelled
+if its area overlaps the darkness’s area. This darkness
+lasts until the start of the behemoth’s next turn or until
+the behemoth dies.
+Flyby.
+The chiropteran behemoth doesn’t provoke
+opportunity attacks when it flies out of an enemy’s reach.
+Regeneration.
+The chiropteran behemoth regains 20 hit
+points at the start of its turn. If the behemoth is exposed
+to an
+undoing elixir
+, this trait doesn’t function at the start
+of the behemoth’s next turn. The behemoth dies only if it
+starts its turn with 0 hit points and doesn’t regenerate.
+Keen Hearing.
+The chiropteran behemoth has advantage
+on Wisdom (Perception) checks that rely on hearing.
+Legendary Resistance (3/Day).
+If the chiropteran behe-
+moth fails a saving throw, it can choose to succeed instead.
+Magic Resistance.
+The chiropteran behemoth has
+advantage on saving throws against spells and other
+magical effects.
+Potent Weapons.
+The chiropteran behemoth’s weapon
+attacks are magical and they ignore any resistance to their
+damage types.
+Swoop.
+If the chiropteran behemoth flies at least 20 feet
+straight toward a creature and then hits it with a claw
+attack on the same turn, that target must succeed on a
+DC 20 Strength saving throw or fall prone.
+actions
+Multiattack.
+The chiropteran behemoth makes a bite
+attack and two claw attacks.
+Bite.
+Melee Weapon Attack: +12 to hit, reach 5 ft., one target.
+Hit: 33 (6d8 + 6) piercing damage. If the chiropteran
+behemoth has advantage on the attack roll against a creature,
+that target takes an extra 17 (5d6) necrotic damage. The
+target’s hit point maximum is reduced by an amount
+equal to the necrotic damage taken. This reduction lasts
+until the target finishes a long rest. The target dies if this
+effect reduces its hit point maximum to 0.
+Claw.
+Melee Weapon Attack: +12 to hit, reach 10 ft.,
+one target.
+Hit: 20 (4d6 + 6) slashing damage. If the
+chiropteran behemoth scores a critical hit against a
+target, the target takes 48 (12d6 + 6) slashing damage.
+If a creature dies due to damage from such a critical hit,
+it’s head or another vital body part is severed or destroyed.
+Shriek (Recharge 6).
+The chiropteran behemoth emits
+a shriek in a 60-foot cone. Each creature in that area must
+succeed on a DC 19 Intelligence saving throw or take 45
+(7d12) psychic damage and be paralyzed for 1 minute.
+A creature can repeat the saving throw at the end of each
+of its turns, ending the effect on itself on a success.
+legendary actions
+The chiropteran behemoth can take 3 legendary actions,
+choosing from the options here. Only one legendary
+action option can be used at a time and only at the end
+of another creature’s turn. The behemoth regains spent
+legendary actions at the start of its turn.
+Detect.
+The chiropteran behemoth makes a Wisdom
+(Perception) check.
+Claw.
+The chiropteran behemoth makes a claw attack.
+Swoop (Costs 2 Actions).
+The chiropteran behemoth
+moves up to half its speed and makes a claw attack.
+Wing Buffet (Costs 2 Actions).
+The chiropteran
+behemoth beats its wings. Each creature within 15 feet
+of the behemoth must succeed on a DC 20 Strength
+saving throw or take 20 (4d6 + 6) bludgeoning damage
+and be pushed up to 10 feet away from the behemoth. If
+the save fails by 5 or more, the creature also falls prone.
+The behemoth can then fly up to half its flying speed.

@@ -1,0 +1,37 @@
+Dark Mist Stalker
+“As we made camp the mist rolled in. Lassiter screamed, but 
+we didn’t see anything. Then another scream. And an arrow. 
+Then another. No twang of a bow, just the sharp sound of 
+impact. A full retreat was ordered and we all ran for our lives. 
+At least the three of us who weren’t dead.”
+Trespassers Beware
+. In places where the fey courts 
+claim dominance in the mortal world, guards were placed 
+to keep out trespassers. Then the Mists came. The noble 
+fey guards were turned into dark versions of their past 
+selves. They no longer serve their fey patrons—instead, 
+they kill any interlopers.
+salvage
+The hunting bows of the dark mist stalkers are renowned 
+for their accuracy and ranges so much so that foolish 
+adventurers and hunters of all skill levels attempt to 
+recover them. A slain dark mist stalker has a 10% chance 
+to be carrying a weapon that can be turned into an 
+oathbow.
+ Such a weapon can be altered by a proficient 
+weaponsmith, who must succeed on a DC 25 Intelligence 
+(Arcana) check after spending 10 days and 7500 gp 
+of components.
+lore
+DC 10 Intelligence (History)
+: Dark mist stalkers hide 
+in the woods and always come with the mist! Avoid the 
+mists to avoid your death!
+DC 15 Intelligence (Nature)
+: Dark mist stalkers can 
+hide in the rain and see you without light. Find another 
+way to find them.
+DC 20 Intelligence (Arcana)
+: The bow shot of a stalk-
+er can knock you back, and the touch of their knives can 
+cause a wound that can’t be staunched.

@@ -1,0 +1,107 @@
+===
+Dragonborn Vampire (Young)
+Medium undead, any evil alignment
+Armor Class 16 (natural armor)
+Hit Points 119 (14d8 + 56)
+Speed 30 ft., climb 30 ft.
+str dex con int wis cha
+ 18 (+4) 17 (+3) 18 (+4) 12 (+1) 13 (+1) 13 (+1)
+Saving Throws
+Dex +7, Wis +5
+Skills
+Athletics +8, Perception +5, Religion +5, Stealth +7
+Damage Resistances
+fire, necrotic, poison; bludgeoning,
+piercing, and slashing from nonmagical attacks
+Senses darkvision 90 ft., passive Perception 15
+Languages the languages known in life
+Challenge 9 (5,000 XP)
+Proficiency Bonus +4
+Brutal Attacks.
+When the vampire scores a critical
+hit with a melee weapon attack, it can roll one of the
+weapon’s damage dice one additional time and add it to
+the extra damage of the critical hit.
+Regeneration.
+The vampire regains 15 hit points at
+the start of its turn if it has at least 1 hit point and isn’t in
+sunlight. If the vampire takes radiant damage, this trait
+doesn’t function at the start of the vampire’s next turn.
+Spider Climb.
+The vampire can climb difficult
+surfaces, including upside down on ceilings, without
+needing to make an ability check.
+Vampire Weaknesses.
+The vampire has the
+following flaws: Forbiddance.
+The vampire can’t enter a residence
+without an invitation from one of the occupants.
+Stake to the Heart.
+The vampire dies if a piercing
+weapon made of wood is driven into its heart while it
+is incapacitated in its resting place.
+Sunlight Hypersensitivity.
+The vampire takes 15
+radiant damage when it starts its turn in sunlight.
+While in sunlight, it has disadvantage on attack
+rolls and ability checks.
+actions
+Multiattack.
+The vampire makes three attacks, only
+one of which can be a bite.
+Claws.
+Melee Weapon Attack: +8 to hit, reach 5 ft., one target.
+Hit: 11 (2d6 + 4) slashing damage. If the target is a creature,
+the vampire can grapple the target (escape DC 15).
+Bite.
+Melee Weapon Attack: +8 to hit, reach 5 ft., one creature.
+Hit: 11 (2d6 + 4) piercing damage and 10 (3d6) necrotic
+damage. The target’s hit point maximum is reduced by
+an amount equal to the necrotic damage taken, and the
+vampire regains hit points equal to that amount. This
+reduction lasts until the target finishes a long rest. The
+target dies if this effect reduces its hit point maximum to 0.
+Breath Weapon (Recharge 5–6).
+Each creature
+in a 15-foot cone must make a DC 16 Dexterity saving
+throw, taking 14 (4d6) fire damage and 10 (3d6) necrotic
+damage on a failed save, or half as much damage on a
+successful one.
+Mist Form.
+If the vampire isn’t in sunlight, it
+polymorphs into a Medium cloud of mist, or back into
+its true form. Anything it wears or carries transforms
+with it. It is weightless, has a flying speed of 30 feet,
+can hover, and can enter a hostile creature’s space and
+stop there. In addition, if air can pass through a space,
+the mist can do so without squeezing, but it can’t pass
+through water. It has advantage on Strength, Dexterity,
+and Constitution saving throws. A vampire in mist
+form is immune to nonmagical damage, except damage
+from sunlight, and has resistance to damage other than
+radiant. The vampire reverts to its true form if it dies.
+reactions
+Misty Escape.
+When it drops to 0 hit points outside
+its resting place, the vampire transforms into its Mist
+Form instead of falling unconscious. If the vampire can’t
+transform, it dies.
+While it has 0 hit points in mist form, the vampire
+dies if it takes damage three times or radiant damage
+once. It can’t willingly revert to its vampire form, and it
+must reach its resting place within 2 hours or die. Once
+in its resting place, it reverts to its vampire form. It is
+then paralyzed until it regains at least 1 hit point. After
+spending 1 hour in its resting place with 0 hit points, it
+regains 1 hit point.
+legendary actions
+The vampire can take 2 legendary actions, choosing
+from the options here. Only one legendary action option
+can be used at a time and only at the end of another
+creature’s turn. The vampire regains spent legendary
+actions at the start of its turn.
+Move.
+The vampire moves up to its speed without
+provoking opportunity attacks.
+Claws.
+The vampire attacks once with its claws.

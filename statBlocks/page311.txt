@@ -1,0 +1,72 @@
+311
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+S
+===
+Slimm
+Medium ooze, unaligned
+Armor Class 12
+Hit Points 82 (11d8 + 33)
+Speed 20 ft., climb 20 ft.
+str dex con int wis cha
+ 12 (+1) 14 (+2) 17 (+3) 2 (–4) 9 (–1) 4 (–3)
+Skills
+Stealth +4
+Damage Immunities acid
+Damage Resistances
+lightning, piercing,
+slashing, thunder
+Condition Immunities charmed, deafened,
+exhaustion, frightened, prone
+Senses blindsight 30 ft., darkvision 60 ft., passive Perception 9
+Languages —
+Challenge 3 (700 XP)
+Proficiency Bonus +2
+Amorphous.
+The slimm can move through a space as
+narrow as 1 inch wide without squeezing.
+Corrosive Body.
+A creature that touches the slimm or
+hits it with a melee attack while within 5 feet of it takes 5
+(2d4) acid damage.
+Humanoid Shape.
+While the slimm remains still,
+it can pass for humanoid to anyone who fails a DC 14
+Perception check. If the slimm is in bright light, those
+looking at it have advantage on this check.
+Nimble Ooze.
+The slimm can move through the space
+of any creature larger than the slimm. If the slimm moves
+through a creature’s space, that creature must succeed
+on a DC 12 Dexterity saving throw to avoid touching the
+slimm’s Corrosive Body.
+actions
+Pseudopod.
+Melee Weapon Attack: +4 to hit, reach 5 ft.,
+one target.
+Hit: 3 (1d4 + 1) bludgeoning damage and 7
+(3d4) acid damage.
+reactions
+Explosive Split.
+If a Medium slimm takes lightning
+damage, slashing damage, thunder damage, or 10 or
+more damage during any one turn, and has at least 10 hit
+points remaining, it violently splits. Each creature within
+20 feet of the slimm must make a DC 13 Dexterity saving
+throw, taking 7 (3d4) acid damage on a failed save, or
+half as much damage on a successful one. Two Small
+slimms appear in unoccupied spaces on the ground on
+opposite sides of the area, 40 feet apart. Each new slimm
+has hit points equal to half the original slimm’s.
+Rejoin.
+If a Small slimm ends its turn within 5 feet of
+another Small slimm, both use a reaction to rejoin into a
+Medium slimm in one of the two spaces. They add their
+hit points together to determine the hit points of the new
+Medium slimm.

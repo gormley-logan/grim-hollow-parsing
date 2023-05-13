@@ -1,0 +1,46 @@
+126
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+G
+Garish Augment
+“Unnatural growths and limbs protrude from this creature, 
+which might have once been a person but is now a monster.”
+Patchwork Body.
+ Some people do anything for power. 
+Those who become garish augments make deals with 
+otherworldly powers or experiment with vile magic to 
+enhance themselves. Such pursuits often go terribly wrong.
+A garish augment might fight with an enormous claw, 
+acid spit, quills, or all the above. None are identical. Every 
+augment is different, and few who see one ever mistake 
+another for it.
+Unquenchable Need. 
+A garish augment never ceases 
+its quest to kill and harvest appendages and organs from 
+other creatures to incorporate into its own makeup.
+Fiendish or Aberrant Aid.
+ The alchemical processes 
+necessary to successfully augment doesn’t come from 
+magic alone. At some point, the garish augment delved 
+into forbidden knowledge, either fiendish or aberrant in 
+nature, to successfully bond parts of their victims to their 
+living body.
+salvage
+With 1 hour of work and a successful DC 15 Wisdom 
+(Survival) check, the acid- or poison-producing organ of 
+a garish augment can be harvested to provide one vial 
+of acid or two doses of basic poison.
+However, unless fiendish pieces of the creature are 
+burned, the fiend whom the garish augment dealt with 
+might come seeking payment from the augment’s killers.
+lore
+DC 15 Intelligence (Religion or Arcana):
+ This 
+creature’s strange augmentations give it a variety of 
+attacks and means of movement.

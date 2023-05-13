@@ -1,0 +1,71 @@
+===
+Corpsejaw
+Cousins to mountain lions, corpsejaws are battlefield
+scavengers. Their powerful jaws allow them to tear
+through most armor, so they can eat carrion other
+scavengers leave behind. Military organizations such as
+the Free Swords issue bounties on corpsejaws to prevent
+damage to valuable salvage.
+===
+Corpsejaw
+Medium monstrosity, unaligned
+Armor Class 12
+Hit Points 18 (4d8)
+Speed 40 ft.
+str dex con int wis cha
+ 15 (+2) 14 (+2) 10 (+0) 3 (–4) 13 (+1) 7 (–2)
+Senses darkvision 60 ft., passive Perception 11
+Languages —
+Challenge 1/4 (50 XP)
+Proficiency Bonus +2
+Adamantine Jaws.
+The corpsejaw’s bite works as if
+made of adamantine. The bite scores a critical hit on a
+roll of 19 or 20.
+Keen Smell.
+The corpsejaw has advantage on Wisdom
+(Perception) checks that rely on smell.
+Pounce.
+If the corpsejaw moves at least 20 feet straight
+toward a creature and then hits it with a claw attack
+on the same turn, that target must succeed on a DC 12
+Strength saving throw or fall prone. If the target is prone,
+the corpsejaw can make one bite attack against it as a
+bonus action.
+actions
+Bite.
+Melee Weapon Attack: +4 to hit, reach 5 ft., one
+target.
+Hit: 6 (1d8 + 2) piercing damage. If the corpsejaw
+scores a critical hit and the target wears nonmagical
+armor, the armor takes a permanent and cumulative −1
+penalty to the AC it offers. Armor reduced to an AC of
+10 is destroyed.
+Claw.
+Melee Weapon Attack: +4 to hit, reach 5 ft., one
+target.
+Hit: 4 (1d4 + 2) slashing damage.
+===
+Eye Crawler
+Tiny aberration, chaotic neutral
+Armor Class 11
+Hit Points 2 (1d4)
+Speed 30 ft., climb 30 ft.
+str dex con int wis cha
+ 3 (–4) 13 (+1) 10 (+0) 6 (–2) 11 (+0) 5 (–3)
+Skills
+Perception +2, Stealth +5
+Senses darkvision 60 ft., passive Perception 12
+Languages —
+Challenge 0 (10 XP)
+Proficiency Bonus +2
+Keen Sight.
+The eye crawler has advantage on Wisdom
+(Perception) checks that rely on sight.
+===
+Eye Crawler
+An eye crawler is an ambulatory eye that observes
+everything. It might be spying for something else. An
+eye crawler has no effective attacks. Mages theorize
+eye crawlers derive sustenance from light or ambient
+magical energy.

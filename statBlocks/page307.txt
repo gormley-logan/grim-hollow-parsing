@@ -1,0 +1,112 @@
+307
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+S
+===
+Skeleton Cannoneer
+Medium undead, lawful evil
+Armor Class 14 (rotting buff coat)
+Hit Points 52 (8d8 + 16)
+Speed 30 ft.
+str dex con int wis cha
+ 12 (+1) 16 (+3) 15 (+2) 8 (–1) 13 (+1) 5 (–3)
+Skills
+Perception +3
+Damage Vulnerabilities
+bludgeoning
+Damage Immunities poison
+Condition Immunities exhaustion, poisoned
+Senses darkvision 120 ft., passive Perception 13
+Languages understands languages it knew in life but
+can’t speak
+Challenge 2 (450 XP)
+Proficiency Bonus +2
+Dead Firearms.
+The cannon and pistol a skeleton
+cannoneer uses are nonfunctional as ranged weapons
+for a creature other than a skeleton cannoneer. For the
+skeleton cannoneer, the pistol never needs to be reloaded
+actions
+Load
+. The skeleton cannoneer loads the dead cannon.
+Dead Cannon
+. The skeleton cannoneer fires its loaded
+cannon at a point it can see within 500 feet of it, but no
+closer than 50 feet from it. Each creature within 15 feet
+of that point must make a DC 13 Dexterity saving throw,
+taking 7 (2d6) bludgeoning damage and 7 (2d6) necrotic
+damage on a failed save, or half as much damage on a
+successful one.
+Alternatively, the cannoneer can choose the cannon as
+the point of fire. Doing so means the shot goes off inside
+the cannon, destroying it and increasing each type of
+damage by 3 (1d6).
+Pistol Club.
+Melee Weapon Attack: +5 to hit, reach 5 ft.,
+one target. Hit: 5 (1d6 + 2) bludgeoning damage and 3 (1d6) necrotic damage.
+Dead Pistol.
+Ranged Weapon Attack
+: +5 to hit, range 30/90 ft., one target.
+Hit
+: 8 (1d10 + 3) piercing damage plus 3 (1d6) necrotic damage.
+===
+Skeleton Commander
+Medium undead, lawful evil
+Armor Class 17 (battered splint mail)
+Hit Points 65 (10d8 + 20)
+Speed 30 ft.
+str dex con int wis cha
+ 16 (+3) 10 (+0) 15 (+2) 11 (+0) 12 (+1) 14 (+2)
+Saving Throws
+Wis +3
+Skills
+Insight +3, Perception +3
+Damage Immunities poison
+Damage Vulnerabilities
+bludgeoning
+Condition Immunities exhaustion, poisoned
+Senses darkvision 60 ft., passive Perception 13
+Languages understands languages it knew in life but
+can’t speak
+Challenge 3 (700 XP)
+Proficiency Bonus +2
+actions
+Multiattack
+. The skeleton commander makes two
+pike attacks.
+Pike
+.
+Melee Weapon Attack
+: +5 to hit, reach 10 ft., one target.
+Hit
+: 8 (1d10 + 3) piercing damage and 5 (2d4) necrotic damage.
+Warlord Strike (Recharge 5–6).
+The skeleton com-
+mander makes one pike attack. The commander can use
+a bonus action to direct another undead who can see or
+hear the commander to attack the target the commander
+attacked this turn. That undead can use a reaction to
+make the attack, adding the commander’s proficiency
+bonus to the damage roll.
+reactions
+Brandish Standard
+. If an undead the skeleton
+commander can see within 30 feet of the commander
+makes an attack roll or saving throw, the commander
+can brandish the tattered banner on its pike. If the
+commander does so, the target can add a d4 to its roll,
+provided it can see the commander and isn’t receiving
+this benefit from another commander.
+Effective Commanders
+. A sufficiently powerful
+necromancer can use the corpse of an officer to raise a
+skeleton commander. Infusing the skeleton’s bones with
+an approximation of its knowledge and presence in life
+takes a great deal of power, but it allows a necromancer
+to better direct and inspire an army of the dead.

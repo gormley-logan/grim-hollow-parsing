@@ -1,0 +1,61 @@
+===
+Bloody Avenue
+Huge construct, unaligned
+Armor Class 17 (natural armor)
+Hit Points 184 (16d12 + 80)
+Speed 40 ft.
+str dex con int wis cha
+	23	(+6)	8	(–1)	20	(+5)	5	(–3)	12	(+1)	5	(–3)
+Skills
+Perception +5
+Damage Immunities poison
+Condition Immunities charmed, exhaustion, fright-
+ened, paralyzed, petrified, poisoned, prone, unconscious
+Senses darkvision 60 ft., tremorsense 60 ft., passive Perception 15
+Languages understands one language but can’t speak
+Challenge 10 (5,900 XP)
+Proficiency Bonus +4
+Disguised Appearance.
+While the bloody avenue
+remains motionless, it is indistinguishable from a normal
+roadway. Other creatures can occupy the avenue’s space
+while it remains motionless. A creature who uses an
+action to examine the roadway and succeeds on a DC
+15 Intelligence (Arcana or Investigation) check spots the
+blood-tinged mortar with bits of bone and tiny runes on the
+cobbles, which can give the nature of the avenue away.
+Mire.
+The ground within 40 feet of the bloody avenue is
+difficult terrain for creatures of the avenue’s choice. Such
+a creature that enters that area for the first time on a turn
+or starts its turn there must succeed on a DC 17 Strength
+saving throw or become grappled by the ground (escape
+DC 17). A creature that fails by 5 or more is restrained
+while grappled in this way.
+Rise.
+On the bloody avenue’s first turn, as it acts, it takes
+a serpentine form. When it does, each other creature in
+its space must make a DC 18 Dexterity saving throw.
+On a failure, the creature is pushed to an unoccupied
+space within 5 feet of the avenue and knocked prone. If
+the save succeeds, the creature can choose the space it is
+pushed into and doesn’t fall prone.
+actions
+Multiattack.
+The bloody avenue makes two attacks.
+Slam.
+Melee Weapon Attack: +10 to hit, reach 10 ft., one
+target.
+Hit: 28 (4d10 + 6) bludgeoning damage.
+Hurl Rubble.
+Ranged Weapon Attack: +10 to hit,
+range 60 ft./120 ft., one target.
+Hit: 24 (4d8 + 6)
+bludgeoning damage.
+reactions
+Alarum (Recharges after a Short or Long Rest).
+When trigger conditions are met, such as specific,
+identifiable creatures arriving on or near the bloody
+avenue, the avenue can alert another creature within
+1 mile. That creature receives a telepathic image of the
+reason the avenue sent the alert.

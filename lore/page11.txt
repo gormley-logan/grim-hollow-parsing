@@ -1,0 +1,43 @@
+11
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+A
+Anguisher
+“Some suffering never ends. It coalesces 
+in cold darkness, gaining alien sapience.”
+Aberrant Torment.
+ Mental suffering can last far 
+longer than physical damage. Psychic energy from 
+those who die in extreme anguish might open a portal, 
+allowing consciousness from beyond the veil to meld 
+with psychic residue.
+Old Wounds.
+ The touch or aura of an anguisher calls 
+old wounds and tormentors to mind. The creature uses 
+invisibility and stealth to lurk around potential victims, 
+slowly draining them of life through this recalled suffering.
+salvage
+An anguisher discorporates into thick, black goo when 
+slain. Someone who has proficiency with alchemist’s 
+supplies can refine and dehydrate this goo in a process 
+that takes 1 day of work and a successful DC 10 Intelligence 
+or Wisdom check. If it succeeds, the process creates 
+dust 
+of disappearance
+.
+lore
+DC 10 Intelligence (History):
+ Anguishers are 
+semisolid horrors from beyond reality.
+DC 15 Intelligence (Arcana):
+ An anguisher shares 
+many traits and immunities with semicorporeal undead, 
+such as shadows. If an anguisher slays a sapient creature, 
+a new anguisher emerges into the world near the corpse 
+3 days later.

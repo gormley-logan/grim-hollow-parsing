@@ -1,0 +1,26 @@
+===
+Hermit Skull
+Tiny undead, any evil alignment
+Armor Class 13 (natural armor)
+Hit Points 14 (4d4 + 4)
+Speed 30 ft.
+str dex con int wis cha
+ 6 (–2) 14 (+2) 12 (+1) 8 (–1) 10 (+0) 9 (–1)
+Skills
+Perception +2
+Damage Immunities poison
+Condition Immunities exhaustion, poisoned
+Senses darkvision 60 ft., passive Perception 12
+Languages understands languages it knew in life but
+can’t speak
+Challenge 1/4 (50 XP)
+Proficiency Bonus +2
+Ambusher.
+The hermit skull has advantage on attack
+rolls against any creature it has surprised.
+actions
+Ectoplasmic Tendril.
+Melee Weapon Attack: +4 to hit,
+reach 10 ft., one target.
+Hit
+: 7 (2d4 + 2) necrotic damage.

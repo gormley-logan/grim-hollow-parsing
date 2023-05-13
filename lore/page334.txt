@@ -1,0 +1,51 @@
+334
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+T
+Tangle Weed
+“Tangle weed, tangle weed, grows in the lake.
+Tangle weed, tangle weed, your neck will break. 
+Tangle weed, tangle weed, pulls you down.
+Tangle weed, tangle weed, you will drown.”
+-children’s nursery rhyme
+Hiding in Plain Sight
+. Tangle weeds grow in 
+stagnant lakes and slow-moving rivers amidst other 
+plants and algae. The long, feathery strands are difficult 
+to differentiate from less dangerous lake plants.
+Drowning Danger
+. While tangle weed constricts its 
+prey, the real danger is the environment. Tangle weed 
+drags its prey underwater where drowning is possible.
+Whipping Strands
+. Pulling a victim free of the tangle 
+weed is harder than it looks. The plant makes attacks 
+against any creature pushed, pulled, or shoved out of its 
+grasp, often grabbing the victim again before allies move 
+them clear.
+salvage
+The strands of a tangle weed can be gathered and com-
+bined with 25 gp of components to create a 
+potion of 
+growth
+. This requires a proficient arcanist to succeed on a 
+DC 15 Intelligence (Nature) check after 4 hours of work.
+lore
+DC 10 Intelligence (History)
+: Tangle weed looks like 
+normal lake-grown seaweed, but it feeds on the rotting 
+corpses of those it drags into stagnant lakes.
+DC 15 Intelligence (Nature)
+: Tangle weed constricts 
+its victims, dragging them underwater.
+DC 20 Intelligence (Nature)
+: When a creature is 
+broken out the tangle weed’s grapple, it makes another 
+attack against them as a reaction to potentially grapple 
+them again.

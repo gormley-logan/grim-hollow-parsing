@@ -1,0 +1,67 @@
+198
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+L
+Lycanthrope
+“During full moons, inhabitants of Etharis stay inside with the 
+doors barred and windows tightly shut. Even then, they look at 
+those indoors with them with a suspicious eye. One never knows.”
+Nighttime Horror
+. Travelers who brave the wilds of 
+Etharis plan their routes to avoid camping in the wilds on 
+nights of the full moon. All know of the savage werewolves 
+and other lycanthropes that roam the wilderness in search 
+of victims, and few are willing to venture forth for fear of a 
+bite from one of these creatures.
+Cursed Existence
+. Lycanthropy is not a disease, but a 
+magical curse that spreads when one of its bearers bites a 
+victim. Most lycanthropes live a pained existence, constantly 
+at war with the primal instincts that drive them to kill.
+Savage Control
+. Regions like the Valikan Clans attempt 
+to bring the curse under control. The strong druidic 
+traditions make strides in dealing with cursed individuals. 
+Those in tune with nature sometimes master the beast that 
+rages within them, finding a spiritual side that transforms 
+the curse into a blessing. But this ability is attainable by 
+few, and even then, only after years of training.
+Variant Lycanthropes
+. The typical presentation 
+of lycanthropy leaves its victims dangerous enough, 
+but sometimes there are alternate forms, even more 
+dangerous than a typical cursed victim.
+salvage
+Lycanthropes exist in a state of perpetual mental turmoil, 
+and over time their memories fragment. As a result, 
+many carry keepsakes of their past lives to strengthen 
+the memories they do not want to lose. The pelt of a 
+lycanthrope is prized by certain mages for the crafting 
+of magical cloaks, particularly cloaks that allow a person 
+to change their form such as the cloak of the bat or the 
+cloak of the manta ray.
+Weapons made from the fangs or claws of deceased 
+lycanthropes have special properties and are known as 
+lycan weapons (see Chapter 4). These weapons require 
+a successful DC 15 Intelligence (Arcana) check by a 
+proficient weaponsmith, consuming 500 gp worth of 
+components, and requiring 10 days of work.
+lore
+DC 10 Intelligence (Nature)
+: Lycanthropy is a common 
+affliction in Etharis. The source is a curse that twists mind 
+and body into that of a savage beast. Though they can 
+change at will, the light of the full moon triggers the 
+transformation no matter what.
+DC 15 Intelligence (Nature)
+: In addition to the normal 
+transmission of the curse through the bite of a lycanthrope, 
+certain druidic sects also perform rituals to create new 
+lycanthropes. This ritual is known as the Lunar Sacrament, 
+used as a tool to protect druid groves from invasion.

@@ -1,0 +1,30 @@
+Crawling Grave
+“This thing was born from a mass grave? 
+Makes you wonder who the real monster is, doesn’t it?”
+Undead Victims. 
+Unspeakable violence leads to the 
+creation of mass graves, where the dead lie lost and 
+forgotten. The energy from this cruelty can coalesce 
+into tangles of bones that rise to seek out and add new 
+skeletons to the hideous mass.
+Undead Nature.
+A crawling grave doesn’t require air, 
+food, drink, or sleep.
+salvage
+Someone who has proficiency with alchemist’s supplies 
+can use powdered bones from a destroyed crawling grave 
+to brew a death-defying potion. If a creature drinks the 
+potion, the first time they would drop to 0 hit points 
+within 8 hours after drinking they instead drop to 1 hit 
+point. Brewing the potion takes 2 days and materials 
+worth 50 gp, and brewing it correctly requires a successful 
+DC 13 Intelligence (Arcana) check. One crawling grave 
+has enough bones to refine into four doses of this potion.
+lore
+DC 10 Intelligence (History):
+ Tales tell of mass 
+graves that spawn massive undead due to the violent 
+energy that surrounds them.
+DC 15 Intelligence (Religion):
+ A crawling grave can 
+absorb a corpse and add the bones to its mass.

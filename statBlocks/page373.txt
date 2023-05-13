@@ -1,0 +1,134 @@
+===
+Yggdrasili Drone
+Medium humanoid, lawful evil
+Armor Class 11
+Hit Points 18 (4d8)
+Speed 30 ft.
+str dex con int wis cha
+ 12 (+1) 13 (+1) 10 (+0) 17 (+3) 11 (+0) 12 (+1)
+Saving Throws
+Wis +2
+Skills
+Deception +5, Perception +2
+Damage Vulnerabilities
+lightning
+Damage Resistances
+psychic
+Condition
+Immunities
+charmed
+Senses blindsight 15 ft., passive Perception 12
+Languages all, telepathy 30 ft.
+Challenge 1/2 (100 XP)
+Proficiency Bonus +2
+Assimilation.
+A creature that drops to 0 hit points or
+fails a death saving throw within 15 feet of an yggdrasili
+drone must succeed on a DC 13 Charisma saving throw
+or become an yggdrasili drone. A creature near enough
+to multiple yggdrasilis needs to make only one saving
+throw at the highest DC among those yggdrasilis. This
+effect can penetrate barriers, but 2 feet of rock, 2 inches
+of any metal other than lead, or a thin sheet of lead or
+barrier of force blocks it.
+Psychic Feedback.
+When the yggdrasili drone takes
+psychic damage, creatures within 5 feet of it must succeed
+on a DC 13 Wisdom saving throw or take the same
+amount of psychic damage. If withing 5 feet of multiple
+yggdrasilis, a creature attempts the save only once and
+takes only the highest amount of psychic damage.
+Psychic Static.
+Attempts to read an yggdrasili drone’s
+thoughts fail. The creature making the attempt must
+succeed on a DC 13 Intelligence saving throw or take 8
+(2d4 + 3) psychic damage.
+actions
+Slam.
+Melee Weapon Attack: +3 to hit, reach 5 ft., one
+target.
+Hit: 3 (1d4 + 1) bludgeoning damage.
+Psychic Lash.
+A creature the yggdrasili drone can sense
+within 30 feet of it must succeed on a DC 13 Intelligence
+saving throw or take 8 (2d4 + 3) psychic damage.
+===
+Yggdrasili Cloud
+Huge monstrosity, lawful evil
+Armor Class 14
+Hit Points 65 (10d12)
+Speed 30 ft., fly 30 ft. (hover)
+str dex con int wis cha
+ 6 (–2) 19 (+4) 10 (+0) 18 (+4) 14 (+2) 13 (+1)
+Saving Throws
+Wis +5
+Skills
+Perception +5, Stealth +7
+Damage Vulnerabilities
+lightning
+Damage Immunities poison, psychic
+Damage Resistances
+bludgeoning, slashing, and
+piercing from nonmagical attacks
+Condition Immunities blinded, charmed, deafened,
+exhaustion, grappled, poisoned, prone, restrained
+Senses blindsight 30 ft., passive Perception 15
+Languages all, telepathy 60 ft.
+Challenge 5 (1,800 XP)
+Proficiency Bonus +3
+Assimilation.
+A creature that drops to 0 hit points or
+fails a death saving throw within 30 feet of an yggdrasili
+cloud must succeed on a DC 15 Charisma saving throw
+or become an yggdrasili drone. A creature near enough
+to multiple yggdrasilis needs to make only one saving
+throw at the highest DC among those yggdrasilis. This
+effect can penetrate barriers, but 2 feet of rock, 2 inches
+of any metal other than lead, or a thin sheet of lead or
+barrier of force blocks it.
+Cloud.
+The yggdrasili cloud can occupy another
+creature’s space and vice versa, and the cloud can move
+through any opening large enough for air to enter, but it
+can’t enter or move through liquid.
+Misty Stealth.
+While in misty conditions, in the sky
+among clouds, or underwater, the yggdrasili cloud has
+advantage on Dexterity (Stealth) checks made to hide,
+and it can take the Hide action as a bonus action.
+Psychic Static.
+Attempts to read an yggdrasili cloud’s
+thoughts fail. The creature making the attempt must
+succeed on a DC 15 Intelligence saving throw or take
+11 (2d6 + 4) psychic damage.
+actions
+Multiattack.
+The yggdrasili cloud uses psychic thrash
+twice. With each use, the cloud can target up to two crea-
+tures, provided one of those creatures is in the cloud’s space.
+Psychic Thrash.
+A creature the yggdrasili cloud can sense
+within 60 ft. of it must succeed on a DC 15 Intelligence saving
+throw or take 11 (2d6 + 4) psychic damage. If the saving
+throw fails by 5 or more, the creature is also incapacitated
+for 1 minute. The creature ceases being incapacitated
+if it takes damage, or another creature uses an action
+to shake the incapacitated creature from its stupor. An
+incapacitated creature can also repeat the saving throw
+at the end of each of its turns, ending the effect on itself
+on a success.
+possess the minds of mortals. Yggdrasilis have resistance
+or immunity to psychic damage.
+DC 13 Intelligence (Arcana): Yggdrasilis are wary of
+storms. They avoid going outside if they’ve recently seen
+lightning or heard thunder. That’s because all yggdrasilis
+are vulnerable to lightning damage.
+DC 15 Intelligence (Religion): A living yggdrasili
+drone can be turned back into its former self if it’s
+deprived of contact with the hivemind for 24 hours.
+Someone must cast
+remove curse
+or
+greater restoration
+on
+the drone, or use similar magic.

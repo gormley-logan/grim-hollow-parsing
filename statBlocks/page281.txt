@@ -1,0 +1,58 @@
+ravenof ill omen
+Small fey, chaotic neutral
+Armor Class 12
+Hit Points 21 (6d6)
+Speed 10 ft., fly 50 ft.
+str dex con int wis cha
+ 7 (–2) 15 (+2) 11 (+0) 10 (+0) 14 (+2) 11 (+0)
+Skills
+Deception +4, Perception +4
+Senses darkvision 60 ft., passive Perception 14
+Languages Sylvan and one other language
+Challenge 1 (200 XP)
+Proficiency Bonus +2
+Affect Fortunes.
+As a bonus action, the raven of ill
+omen can select up to six other creatures it can see within
+60 feet of it. The raven assigns each creature a bane or
+boon for 1 minute, until the raven dies, or until it uses
+this trait again. A creature given a bane must make a
+DC 12 Charisma saving throw. On a failure, when the
+creature makes an ability check or a saving throw while
+the bane lasts, the creature must roll a d4 and subtract
+the number rolled from the result. When a target given a
+boon makes an ability check or a saving throw while the
+boon lasts, the target can roll a d4 and add the number
+rolled to the result. These effects don’t stack with similar
+ones, such as the
+bane
+and
+bless
+spells.
+Baneful Attack.
+The raven of ill omen has advantage
+on attack rolls against any creature with a bane from
+Affect Fortunes.
+Flyby.
+The raven of ill omen doesn’t provoke
+opportunity attacks when it flies out of an enemy’s reach.
+Mimicry.
+The raven of ill omen can mimic voices and
+other sounds it has heard. A creature that hears the
+mimicked sounds can tell they are an imitation with a
+successful DC 14 Wisdom (Insight) check.
+actions
+Multiattack.
+The raven of ill omen attacks once with
+its beak and once with its talons.
+Beak.
+Melee Weapon Attack: +4 to hit, reach 5 ft.,
+one target.
+Hit: 4 (1d4 + 2) piercing damage.
+Talons.
+Melee Weapon Attack: +4 to hit, reach 5 ft.,
+one target.
+Hit: 5 (1d6 + 2) slashing damage.
+rolls a 1 on a death saving throw. The ill-fortune feather
+crumbles, ending the curse, if the user rolls a 20 on a
+death saving throw.

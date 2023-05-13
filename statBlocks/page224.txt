@@ -1,0 +1,73 @@
+224
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+M
+===
+Mothfolk
+Medium fey, chaotic evil
+Armor Class 15 (natural armor)
+Hit Points 60 (8d8+24)
+Speed 20 ft., fly 120 ft. (hover)
+str dex con int wis cha
+ 19 (+4) 16 (+3) 16 (+3) 12 (+1) 16 (+3) 16 (+3)
+Saves
+Dex +5
+Skills
+Athletics +7, Perception +5
+Damage Vulnerabilities
+radiant
+Damage Resistance
+piercing, slashing, and
+bludgeoning from nonmagical attacks
+Damage Immunities psychic
+Senses darkvision 120 ft., passive Perception 15
+Languages understands Sylvan but can’t speak
+Challenge 4 (1,100)
+Proficiency Bonus +2
+Fey Ancestry
+. The mothfolk have advantage on
+saving throws against being charmed, and magic
+can’t put it to sleep.
+Disaster Sense
+. The mothfolk have a natural
+understanding of when disaster may strike. The
+mothfolk get advantage on initiative rolls and Dexterity
+saving throws against effects that they can see and
+cannot be surprised.
+Flyby
+. The mothfolk doesn’t provoke opportunity
+attacks when it flies out of an enemy’s reach.
+actions
+Multiattack
+. The mothfolk makes two kick attacks.
+Kick
+.
+Melee Weapon Attack
+: +6 to hit, reach 5 ft., one target.
+Hit
+: 8 (1d6 + 5) slashing damage. Mothfolk Curse
+. The mothfolk’s red eyes glow with
+horrid magic. The mothfolk chooses one creature within
+300 feet of it. That creature must succeed a DC 13 Wisdom
+saving throw. On a success, the target is immune to the
+Mothfolk Curse for 24 hours. A creature that is blind is
+immune as well.
+On a failure, the creature is under the effect of the
+Mothfolk Curse for 1 minute. When under the curse, the
+target’s eyes turn red and it is charmed and frightened of
+any mothfolk it can see. The target gains the flaw “Get me
+away from those monsters hiding everywhere!” A
+remove
+curse
+,
+lesser restoration
+, or similar spell remove this curse.
+The target can attempt another Wisdom saving throw
+after 1 minute. On a success, the curse ends. On a failed
+save, the curse is permanent until removed.

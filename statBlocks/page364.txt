@@ -1,0 +1,122 @@
+===
+Witch Owl Cultist
+Medium humanoid (any race), any evil alignment
+Armor Class 14 (studded leather armor)
+Hit Points 18 (4d8)
+Speed 30 ft.
+str dex con int wis cha
+ 10 (+0) 14 (+2) 10 (+0) 10 (+0) 11 (+0) 12 (+1)
+Saving Throws
+Wis +2
+Skills
+Athletics +2, Deception +3, Perception +2
+Senses passive Perception 12
+Languages One national language and one other language
+Challenge 1/4 (50 XP)
+Proficiency Bonus +2
+Nimble Escape.
+The witch owl cultist can use a bonus
+action to take the Disengage or Hide action.
+Sneak Attack (1/Turn).
+The witch owl cultist deals
+an extra 7 (2d6) damage when it hits a target with a
+weapon attack and has advantage on the attack roll, or
+when the target is within 5 feet of an ally of the cultist
+that isn’t incapacitated, and the cultist doesn’t have
+disadvantage on the attack roll.
+actions
+Dagger
+.
+Melee or Ranged Weapon Attack
+: +4 to hit, reach 5 ft. or range 20/60 ft., one creature.
+Hit
+: 4 (1d4 + 2) piercing damage.
+===
+Witch Owl Hexta
+Medium monstrosity, neutral evil
+Armor Class 13 (natural armor)
+Hit Points 66 (12d8 + 12)
+Speed 20 ft., fly 40 ft.
+str dex con int wis cha
+ 12 (+1) 14 (+2) 13 (+1) 8 (–1) 14 (+2) 12 (+1)
+Skills
+Deception +5, Stealth +4 (+6 when flying)
+Senses darkvision 120 ft., passive Perception 12
+Languages understands one national language but
+can’t speak
+Challenge 2 (450 XP)
+Proficiency Bonus +2
+Flyby.
+The witch owl hexta doesn’t provoke opportunity
+attacks when it flies out of an enemy’s reach.
+Illusory Appearance
+. The witch owl hexta can cast
+disguise self
+at will without components. Wisdom is the
+witch-owl hexta’s spellcasting ability for this spell (spell
+save DC 12).
+Keen Hearing and Sight.
+The witch owl hexta has
+advantage on Wisdom (Perception) checks that rely
+on hearing or sight.
+Mimicry
+. The witch owl hexta can mimic owl sounds
+and humanoid voices. A creature that hears the sounds
+can tell they’re imitations with a successful DC 13
+Wisdom (Insight) check.
+actions
+Multiattack.
+The witch owl hexta attacks once with its
+bite and once with its talons.
+Bite.
+Melee Weapon Attack
+: +4 to hit, reach 5 ft., one target.
+Hit
+: 7 (2d4 + 2) slashing damage. Talons
+.
+Melee Weapon Attack
+: +4 to hit, reach 5 ft., one target.
+Hit
+: 9 (2d6 + 2) slashing damage. If the target is a humanoid, it must succeed on a DC 11 Charisma saving
+throw or be cursed to become a witch owl.
+===
+Witch Owl
+Medium monstrosity, neutral evil
+Armor Class 11
+Hit Points 44 (8d8 + 8)
+Speed 20 ft., fly 40 ft.
+str dex con int wis cha
+ 11 (+0) 13 (+1) 12 (+1) 6 (–2) 12 (+1) 7 (–2)
+Skills
+Deception +2, Stealth +3 (+5 while flying)
+Senses darkvision 120 ft., passive Perception 11
+Languages understands one national language but
+can’t speak
+Challenge 1 (200 XP)
+Proficiency Bonus +2
+Flyby.
+The witch owl doesn’t provoke opportunity
+attacks when it flies out of an enemy’s reach.
+Keen Hearing and Sight.
+The witch owl has advantage on
+Wisdom (Perception) checks that rely on hearing or sight.
+Mimicry
+. The witch owl can mimic owl sounds and
+humanoid voices. A creature that hears the sounds can
+tell they’re imitations with a successful DC 10 Wisdom
+(Insight) check.
+actions
+Multiattack.
+The witch owl attacks once with its bite
+and once with its talons.
+Bite.
+Melee Weapon Attack
+: +3 to hit, reach 5 ft., one target.
+Hit
+: 4 (1d6 + 1) slashing damage. Talons
+.
+Melee Weapon Attack
+: +3 to hit, reach 5 ft., one target.
+Hit
+: 6 (2d4 + 1) slashing damage. If the target is a humanoid, it must succeed on a DC 11 Charisma saving
+throw or be cursed to become a witch owl.

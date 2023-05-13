@@ -1,0 +1,88 @@
+===
+Toymaker
+Medium fey, chaotic evil
+Armor Class 16 (natural armor)
+Hit Points 150 (20d8 + 60)
+Speed 30 ft.
+str dex con int wis cha
+ 18 (+4) 15 (+2) 17 (+3) 11 (+0) 16 (+3) 12 (+1)
+Saving Throws
+Wis +7
+Skills
+Perception +7, Sleight of Hand +6, Survival +7
+Damage Resistances
+cold
+Senses darkvision 120 ft., passive Perception 17
+Languages Sylvan
+Challenge 9 (5,000 XP)
+Proficiency Bonus +4
+Innate Spellcasting.
+The toymaker’s spellcasting
+ability is Wisdom (spell save DC 15). It can innately cast
+the following spells, requiring no material components: At will: enlarge/reduce, knock, mending
+2/day: pass without trace
+Magic Resistance.
+The toymaker has advantage on
+saving throws against spells and other magical effects.
+Naughty List.
+The toymaker knows if a humanoid it
+can see has committed a serious crime and whether the
+person has been punished for the crime.
+Winter Footing.
+The toymaker ignores difficult terrain
+created by ice or snow.
+actions
+Multiattack.
+The toymaker makes three claw attacks.
+Claw.
+Melee Weapon Attack
+: +8 to hit, reach 5 ft., one target.
+Hit
+: 13 (2d8 + 4) slashing damage. If the target is a Medium or smaller creature, it is grappled (escape DC 16).
+The toymaker can grapple only one creature at a time.
+Beard Spines (Recharge 5–6).
+The toymaker launch-
+es spines from its chin in a 30-foot cone. Each creature
+in that area must succeed on a DC 15 Dexterity saving
+throw, taking 26 (4d12) piercing damage on a failed save,
+or half as much damage on a successful one.
+Bag of Toys (Recharges after a Toy is Destroyed).
+The toymaker reaches into its bag and pulls out one ran-
+dom toy (roll 1d4)—1 Bloody Teddy, 2 Box-Bound Jack,
+3 Dolly, 4 Marie O’Nett—and tosses the toy into an
+unoccupied space within 10 feet. This toy is the toymaker’s
+ally, and it takes its turn just after the toymaker. The toy
+obeys the toymaker’s verbal commands (no action for
+the toymaker). If issued no commands, the toy attacks a
+creature that isn’t the toy’s ally.
+reactions
+Bag.
+If a creature grappled by the toymaker fails to
+escape, the creature must succeed on its choice of a DC 16
+Strength or Dexterity saving throw or the grapple ends,
+and the creature is stuffed into the bag the toymaker
+carries. While in the bag, the target is blinded and
+restrained, and it has total cover against anything that
+originates outside the bag.
+If the toymaker uses the Bag of Toys action, any
+creature inside the bag is released, falling prone in a
+space within 5 feet of the toymaker. The same result
+occurs if the bag takes 25 damage or more on a single
+turn from a creature inside it. In this case, the toymaker
+can’t use its Bag of Toys action until the bag is repaired.
+If the toymaker dies, a creature is no longer restrained
+in the bag and can escape from it by using 10 feet of
+movement, exiting prone.
+proficiency with leatherworker’s tools can apply fresh oils
+produced by someone who has proficiency with alchemist’s
+supplies, using materials worth 100 gp. Someone must
+also cast
+remove curse
+on the bag. The process takes 8 hours,
+and the leatherworker and alchemist must succeed on a
+DC 13 Intelligence check with their tools. If
+remove curse
+isn’t cast on the bag, or the alchemist’s check fails, the
+bag can, if the GM chooses, become a
+bag of devouring
+.

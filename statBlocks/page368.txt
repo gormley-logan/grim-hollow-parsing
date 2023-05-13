@@ -1,0 +1,92 @@
+368
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+W
+===
+Worms-in-the-Walls Swarm
+Large swarm of Tiny aberrations, neutral evil
+Armor Class 14 (natural armor)
+Hit Points 39 (6d10 +6)
+Speed 30 ft.
+str dex con int wis cha
+ 8 (-1) 12 (+1) 12 (+1) 18 (+4) 12 (+1) 14 (+2)
+Skills
+Deception +4, Persuasion +4, Stealth +3
+Damage Resistances
+bludgeoning, piercing, slashing
+Condition Immunities charmed, frightened, grappled,
+paralyzed, petrified, prone, restrained, stunned
+Senses blindsight 60 ft., passive Perception 11
+Languages telepathy 60 ft.
+Challenge 3 (700 XP)
+Proficiency Bonus +2
+Aetheric Resilience
+. The swarm has advantage on
+Intelligence, Wisdom, and Charisma saving throws.
+Aura of Psychic Disruption
+. The swarm deals 5
+psychic damage to any creature that ends its turn in the
+same space or within 5 feet of the swarm.
+Innate Spellcasting (Psionics)
+. The swarm’s innate
+spellcasting ability is Intelligence (spell save DC 14, +6
+with spell attacks). It can innately cast the following
+spells, requiring no components: At Will: vicious mockery
+(at 5th level)
+1/day each: consume mind, detect thoughts, suggestion,
+unseen servant
+Swarm
+. The swarm can occupy another creature’s space
+and vice versa, and the swarm can move through any
+opening large enough for a Tiny worm. The swarm can’t
+regain hit points or gain temporary hit points.
+actions
+Bites
+.
+Melee Weapon Attack
+: +3 to hit, reach 0 ft., one target in the swarm’s space.
+Hit
+: 10 (2d8+1) piercing damage and 9 (2d8) psychic damage, or 10 (2d8+1)
+piercing damage if the swarm has half of its hit
+points or fewer, and the target must make a DC 14
+Constitution saving throw or be poisoned until the
+end of their next turn.
+Frightful Presence
+. Each creature of the swarm’s
+choice that is within 60 feet of the swarm and aware of
+it must succeed on a DC 14 Wisdom saving throw or
+become frightened for 1 minute. A creature can repeat
+the saving throw at the end of each of its turns, ending
+the effect on itself on a success. If a creature’s saving
+throw is successful or the effect ends for it, the creature
+is immune to the swarm’s Frightful Presence for the
+next 24 hours.
+===
+Worm-in-the-Wall
+Tiny aberration, neutral evil
+Armor Class 14 (natural armor)
+Hit Points 1 (1d4-1)
+Speed 10 ft.
+str dex con int wis cha
+ 2 (-4) 10 (+0) 8 (-1) 10 (+0) 8 (-1) 8 (-1)
+Skills
+Stealth +2
+Senses blindsight 30 ft., passive Perception 9
+Languages telepathy 30 ft.
+Challenge 0 (10 XP)
+Proficiency Bonus +2
+actions
+Bite
+.
+Melee Weapon Attack
+. +2 to hit, reach 5 ft., one
+creature.
+Hit
+: 1 piercing damage and the target must make a DC 9 Constitution saving throw or take 2 (1d4) psychic
+damage and be poisoned until the end of their next turn.

@@ -1,0 +1,26 @@
+Slimm
+“The ooze dripping from the tall person in the 
+grey clothing indicates something is amiss.”
+Rare Ooze.
+ A new strain of ooze dubbed the slimm has 
+been seen in the ruins of Etharis, particularly in areas 
+struck by the Weeping Pox. This fluid creature takes 
+a form reminiscent of a tall, lanky person. Its coloring 
+makes it resemble a man wearing a black coat over a 
+gray suit. The protoplasm forming “exposed skin” is a 
+waxy yellow-gray color.
+Defensive Actor.
+ No one can mistake a slimm for a 
+humanoid for long, though. A passive predator, like 
+most oozes, a slimm responds to stimuli. It harms prey 
+by exploding in reaction to damage. Then, it slowly 
+reforms, attacking those in the path of its reconstitution.
+salvage
+A defeated slimm’s remains contain semiprecious stones 
+worth 100 gp.
+lore
+DC 15 Intelligence (Nature):
+ This rare, amorphous 
+creature explodes when damaged, splitting into smaller 
+oozes. These small oozes can rejoin into a larger one 
+again, which can then explode again.

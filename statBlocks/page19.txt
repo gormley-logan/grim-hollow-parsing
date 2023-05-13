@@ -1,0 +1,152 @@
+===
+Inquisitor Judge
+Medium humanoid (any race), any lawful alignment
+Armor Class 18 (plate)
+Hit Points 112 (15d8 + 45)
+Speed 30 ft.
+str dex con int wis cha
+	18	(+4)	10	(+0)	16	(+3)	12	(+1)	14	(+2)	16	(+3)
+Skills
+Insight +6, Investigation +5, Perception +6,
+Religion +5
+Senses passive Perception 16
+Languages any two languages
+Challenge 9 (5,000 XP)
+Proficiency Bonus +4
+Aura of Clarity.
+While within 10 feet of a conscious
+inquisitior judge, creatures of the judge’s choice can’t be
+blinded or frightened, and creatures and objects can be
+invisible only if the judge allows it.
+Brand Heretic (Recharges after a Short or Long
+Rest).
+As a bonus action, the inquisitior judge chooses
+one creature the judge can see within 30 feet of it. The
+judge marks the target as a heretic. For 1 minute, the
+judge’s weapon attack rolls against the heretic score a
+critical hit on a roll of 19 or 20. At the start of each of the
+heretic’s turns, the judge can use a reaction to make one
+weapon attack against the heretic.
+Smite.
+When
+the inquisitior judge
+hits with a melee
+weapon attack, it can expend one spell slot to deal extra
+radiant damage. The extra damage is 9 (2d8) for a 1st-
+level spell slot, 13 (3d8) for a 2nd-level one, and 18 (4d8)
+for a 3rd level slot.
+Spellcasting.
+The inquisitior judge is a 12th-level spell-
+caster. Its spellcasting ability is Charisma (spell save DC
+14). The judge has the following paladin spells prepared: 1st level (4 slots): detect magic
+,
+hunter’s mark
+,
+protection
+from evil and good
+2nd level (3 slots): detect thoughts
+,
+lesser restoration
+3rd level (3 slots): dispel magic
+,
+remove curse
+actions
+Multiattack.
+The judge makes two greatsword attacks.
+Greatsword.
+Melee Weapon Attack: +8 to hit, reach 5 ft.,
+one target.
+Hit: 11 (2d6 + 4) slashing damage and 4 (1d8)
+radiant damage.
+===
+Inquisitor Warder
+Medium humanoid (any race), any alignment
+Armor Class 18 (chain mail, shield)
+Hit Points 78 (12d8 + 24)
+Speed 30 ft.
+str dex con int wis cha
+	16	(+3)	10	(+0)	14	(+2)	12	(+1)	18	(+4)	13	(+1)
+Skills
+Insight +7, Investigation +4, Religion +4,
+Perception +7
+Senses passive Perception 17
+Languages any two languages
+Challenge 6 (2,300 XP)
+Proficiency Bonus +3
+Spellcasting.
+The inquisitior warder is a 12th-level
+spellcaster. Its spellcasting ability is Wisdom (spell save
+DC 15, +7 to hit with spell attacks). It has the following
+cleric spells prepared: Cantrips (at will): light
+,
+sacred flame
+,
+spare the dying
+,
+thaumaturgy
+1st level (4 slots): cure wounds
+,
+detect magic
+,
+guiding bolt
+,
+healing word
+,
+identify
+,
+protection from evil and good
+2nd level (3 slots): lesser restoration
+,
+see invisibility
+,
+silence
+,
+spiritual weapon
+,
+zone of truth
+3rd level (3 slots): dispel magic
+,
+remove curse
+4th level (3 slots): arcane eye
+,
+locate creature
+5th level (2 slots): greater restoration
+,
+mass cure wounds
+6th level (1 slot): true seeing
+Ward.
+If the inquisitor warder casts a spell that causes
+creatures to regain hit points, the warder can also
+end the effects of one spell affecting one creature that
+regained hit points. The ended effects must be from a
+spell of a level equal to or lower than the spell slot the
+warder used to cast the healing spell.
+actions
+Multiattack.
+The inquisitor warder makes two
+warhammer attacks.
+Warhammer.
+Melee Weapon Attack: +6 to hit, reach 5 ft.,
+one target.
+Hit: 7 (1d8 + 3) bludgeoning damage and
+9 (2d8) force damage, or 13 (3d8) force damage if the
+target is concentrating on a spell.
+“One rotten arcanist in a community might seem like a
+small threat, but like a similarly rotten apple, within days
+the entire bushel basket is corrupted if the rot is not
+discovered and eliminated quickly. Unlike an apple, however,
+discovering a rotten soul is much more difficult. Fortunately,
+our Inquisition have tools at our disposal that allow us to
+ferret out that rot. Once it’s discovered through our use of
+the will of Empyreus, then more mundane tools are at
+our disposal. Assuming, of course, that you consider
+a very sharp blade applied to a neck as a mundane tool.”
+“Illusions. Enchantments. Necromancy. Conjurations.
+There’s no denying the varied and terrible methods that
+arcanists might use to wreak their corrupted havoc on
+the innocent sheep. The only force standing between
+the population and vile arcanists are us. Striking down
+the users of magic is one step in our plan, but we also
+have to understand how magic affects our charges, and
+how to break the magical bonds that they often find
+themselves shackled by.”

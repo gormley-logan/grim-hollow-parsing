@@ -1,0 +1,69 @@
+362
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+W
+===
+Whelmer
+Medium elemental, neutral evil
+Armor Class 14 (natural armor)
+Hit Points 68 (8d10 + 24)
+Speed 30 ft., swim 90 ft.
+str dex con int wis cha
+ 17 (+3) 16 (+3) 17 (+3) 8 (–1) 10 (+0) 14 (+2)
+Skills
+Stealth +5
+Damage Immunities poison
+Damage Resistances
+acid; bludgeoning, piercing, and
+slashing from nonmagical attacks
+Condition Immunities exhaustion, grappled, paralyzed,
+petrified, poisoned, prone, restrained, unconscious
+Senses darkvision 60 ft., passive Perception 10
+Languages Aquan
+Challenge 1 (200 XP)
+Proficiency Bonus +2
+False Appearance.
+While the whelmer remains
+motionless, it is indistinguishable from a pool of water.
+Freeze.
+If the whelmer takes cold damage, it partially
+freezes, reducing its speed by 20 feet until the end of its
+next turn.
+Undertow.
+The whelmer’s speed is normal when it
+moves a grappled target.
+Water Form.
+The whelmer can enter a hostile
+creature’s space and stop there. It can move through a
+space as narrow as 1 inch wide without squeezing.
+actions
+Slam
+.
+Melee Weapon Attack
+: +5 to hit, reach 5 ft., one target.
+Hit: 10 (2d6 + 3) bludgeoning damage. If the
+target is a Large or smaller creature, it is grappled
+(escape DC 13). Until this grapple ends, the target can’t
+breathe and the whelmer can’t slam another target.
+Illusory Distress (Recharges after a Short
+or Long Rest).
+The whelmer creates an illusion of a
+drowning humanoid in a space it can see within 120
+feet of it. The illusion seems completely real, including
+sounds, smells, and temperature. The whelmer can use
+its action to move the illusion to another spot in range
+and change its sensory aspects. The elemental can change
+minor aspects, such as sounds, without using an action.
+Physical interaction with the image reveals it to be an
+illusion, as creatures and objects can pass through it. A
+creature that uses its action to examine the image can
+determine that it’s an illusion with a successful DC 12
+Intelligence (Investigation) check. If a creature discerns
+the illusion for what it is, the creature can see through
+the image.

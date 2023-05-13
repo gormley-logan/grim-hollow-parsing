@@ -1,0 +1,49 @@
+Gnome Vampire
+“The vampire appeared among the wolves as if it 
+had been one of them moments before. Despite its 
+childlike size, it retained a feral aspect. The wolves 
+treated it like their leader and died to protect it.”
+Vampiric Throwback.
+ Gnome vampires are fierce and 
+feral but still clever, and their fangs and claws are outsized 
+for a small frame. The curse connects them with their 
+ancestral roots, putting them in closer touch with nature 
+and animals. As a gnome vampire ages, their connection 
+with beasts grows stronger. Older vampires might have 
+numerous animal allies, groomed over the ages as loyal 
+minions. But gnome vampire spawn can speak to animals 
+and easily cultivate relationships with them.
+Mental Mettle.
+ Although vampirism causes a kind 
+of regression in a gnome’s ancestral traits, the curse 
+fortifies the mental strength common to gnomes. Gnome 
+vampires are notoriously resistant to anything that 
+forces them to act against their will or subjugates their 
+personality or mental faculties.
+salvage
+Gnome vampires love trinkets and mementos. A gnome 
+vampire has several such personal objects. These objects 
+might not have much real value, but the vampire holds 
+them dear and might bargain to regain or protect them.
+Eating the tongue of a young or older gnome vampire 
+imparts the beast speech benefits normal for the tongues 
+of all adult vampires. The tongue of an adult or ancient 
+gnome vampire allows the eater to cast 
+animal friendship
+(spell save DC 13 for adult, 15 for ancient) at will while 
+the beast speech effect lasts. The effect of an ancient 
+tongue lasts 2 hours.
+lore
+DC 10 Intelligence (History):
+ Gnome vampires 
+display a strong will like that of gnomes, allowing them 
+to resist effects that work on the mind or other mental 
+faculties.
+DC 15 Intelligence (Nature):
+ Vampirism throws a 
+gnome back to some ancient time when gnomes were 
+strongly connected to natural beasts. The vampire can 
+speak to and command animals.
+DC 15 Intelligence (Religion):
+ The resistance to 
+mental effects extends to effects that turn undead.

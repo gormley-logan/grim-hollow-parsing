@@ -1,0 +1,44 @@
+C
+Cadeer
+“Folks say they were once humans. An old forest goddess 
+cursed them for being too greedy for magic. Not sure I believe 
+that, but it explains that glint in their eyes.”
+Magic Seekers.
+ Cadeers look like deer, but they have 
+the tail of a snake and black, featureless eyes. They’re 
+not only sapient, but highly intelligent. Cadeers can also 
+sense and track magic over long distances, and they seek 
+it out with zeal.
+Untrustworthy Partners.
+ A cadeer might partner with 
+other beings to seek and find magic. But they can’t be trusted 
+to share anything that’s found. Cadeers prioritize their 
+desires and goals. And they might even switch sides in a 
+battle if doing so means acquiring the magic they’re after.
+Antler Absorption.
+ Cadeer antlers can’t be harmed 
+by magic, but they can store it. A cadeer can use a spell 
+stored in this way. To keep a spell, a cadeer can also 
+prevent the antlers from absorbing more magic.
+salvage
+Cadeer antlers are valuable, fetching at least 75 gp each. 
+A cadeer antler can be fashioned into a wand suitable as 
+a spellcasting focus for arcane spellcasters and druids. 
+If made into a magic item, this wand has 1 extra charge 
+per day. Also, once per day and at the cost of 1 charge 
+thereafter, a magic wand of cadeer horn grants the 
+wielder a d4 that can be rolled when the wielder makes 
+a spellcasting ability check to see if 
+dispel magic
+ or 
+counterspell
+ works. The wielder adds the number rolled 
+on the d4 to the spellcasting ability check.
+lore
+DC 10 Intelligence (Nature):
+ Cadeers can hunt down 
+magic over long distances.
+DC 15 Intelligence (Arcana):
+ Cadeer antlers counter 
+and absorb low-powered spells, allowing the cadeer to 
+cast that spell later.

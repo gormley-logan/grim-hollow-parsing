@@ -1,0 +1,43 @@
+83
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+D
+salvage
+The fabric of a defeated death cap is very valuable to 
+tailors and creators of magical clothing, fetching 250 gp. 
+Creating a magical cloak, hat, or other clothing using the 
+fabric from a death cap cuts the creation time in half.
+lore
+DC 10 Intelligence (Religion): 
+Placing the death 
+cap on one’s head opens one up to possession by the 
+malignant undead. Once a death cap takes control, it 
+pushes its host to murderous carnage. While one can 
+cut down the host, the easiest way to rid a possessed 
+creature of the cap is to turn undead.
+DC 15 Intelligence (Arcana):
+ The death cap rides 
+roughshod over its host, not only pushing it into battle but 
+also denying it sustenance and sleep. Worst still, it slowly 
+devours those it possesses. The cap can be forced off a 
+host’s body by using 
+dispel evil and good
+ or similar magic.
+Other Slayers
+While a cap appears to be the favored form of these horrid 
+creatures, stories abound about other forms, from cloaks 
+that seem more patient than the cap form to gauntlets or 
+even weapons, more interested in political power than pure 
+slaughter. These different types of death caps keep their 
+host around for extended periods, sometimes even years, 
+which means the death cap either doesn’t feed on the host 
+or keeps them alive with some form of necromancy.
+Some necromancers and priests educated in the dark 
+arts either scoff at such tales or warn that the cap form 
+might be a lesser form of this item-haunting undead. 

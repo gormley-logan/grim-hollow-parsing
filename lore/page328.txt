@@ -1,0 +1,41 @@
+Sunwraith
+“An eclipse can drive the superstitious to 
+extremes. But imagine an eclipse charging at you 
+with murderous intent. That’s a sunwraith.”
+Corrupted Celestials.
+ Powerful fiendish or undead 
+beings seek ways to harness and pervert celestial power. 
+Sunwraiths result when such creatures succeed in corrupt-
+ing a mighty celestial and stripping it of its sense of self.
+Living Eclipse.
+ Sunwraiths are luminous, vaguely 
+humanoid beings of white light with a golden halo. 
+When the pious approach, the sunwraith reveals its 
+shadowy form, like that of an eclipse, with a luminous 
+or prismatic corona.
+salvage
+When a sunwraith dies, it disintegrates, leaving behind a 
+golden gem shot through with obsidian veins. This jewel 
+is a 
+gem of brightness
+ with 2d10 charges. The jewel can be 
+thrown up to 60 feet, where it is destroyed as it releases 
+a 
+flame strike
+ (save DC 15) that has a 50% chance to deal 
+necrotic damage rather than radiant, and it deals 1 extra 
+damage of that type per charge the gem had remaining.
+lore
+DC 15 Intelligence (Religion):
+ Celestials can 
+be corrupted, and a sunwraith is a product of one 
+corrupting process. When the corrupt celestial kills, it 
+can subjugate the victim’s spirit.
+DC 15 Intelligence (Arcana):
+ Sunwraiths are resistant 
+to necrotic and radiant damage, and they deal that damage. 
+Magic weapons are most effective against this monster.
+DC 20 Intelligence (Arcana):
+ A sunwraith’s corona 
+flashes when someone who isn’t next to the sunwraith 
+harms it. This flash can be blinding.

@@ -1,0 +1,83 @@
+===
+Styrkvisnar
+Medium monstrosity, lawful evil
+Armor Class 15 (natural armor)
+Hit Points 110 (13d8 + 52)
+Speed 40 ft.; in hybrid form, 40 ft., fly 40 ft., swim 40 ft.
+str dex con int wis cha
+ 17 (+3) 15 (+2) 16 (+3) 10 (+0) 14 (+2) 11 (+0)
+Saving Throws
+Wis +5
+Skills
+Deception +3, Stealth +5
+Damage Resistances
+bludgeoning, piercing, and
+slashing from nonmagical attacks that aren’t silvered
+Senses darkvision 60 ft., passive Perception 12
+Languages up to three languages (can’t speak in
+hybrid form)
+Challenge 7 (2,900 XP)
+Proficiency Bonus +3
+Adaptable Warrior.
+The styrkvisnar has proficiency
+with improvised, martial, and simple weapons.
+Hold Breath.
+The styrkvisnar can hold its breath for
+30 minutes.
+Keen Hearing, Sight, and Smell.
+The styrkvisnar
+has advantage on Wisdom (Perception) checks that rely
+on hearing, sight, or smell.
+Legendary Resistance (1/Day).
+If the styrkvisnar
+fails a saving throw, it can choose to succeed instead.
+Shapechanger.
+The styrkvisnar can use its action to
+polymorph into the form of a Medium humanoid or
+back into its true form, which is a hybrid of eagle, seal,
+and wolf. Its statistics are the same in each form. Any
+equipment it is wearing or carrying isn’t transformed. It
+reverts to its true form if it dies.
+actions
+Multiattack.
+If in hybrid form, the styrkvisnar makes
+one bite attack, one tail attack, and one attack with its
+talons. In humanoid form, the styrkvisnar makes three
+attacks, either unarmed or with a weapon.
+Bite (Hybrid Form Only).
+Melee Weapon Attack: +6 to
+hit, reach 5 ft., one target.
+Hit: 8 (2d4 + 3) piercing damage.
+Tail (Hybrid Form Only).
+Melee Weapon Attack: +6 to
+hit, reach 5 ft., one target.
+Hit: 7 (1d8 + 3) bludgeoning
+damage. If the target is a creature, it must succeed on a
+DC 14 Strength saving throw or fall prone.
+Talons (Hybrid Form Only).
+Melee Weapon Attack: +6 to
+hit, reach 5 ft., one target.
+Hit: 8 (2d4 + 3) slashing damage.
+Unarmed Strike.
+Melee Weapon Attack: +6 to hit, reach
+5 ft., one target.
+Hit: 7 (1d8 + 3) bludgeoning damage.
+Thunderous Roar (Recharge 6).
+The styrkvisnar
+roars, unleashing thunder in a 30-foot cone. Each
+creature in that area must make a DC 14 Dexterity saving
+throw, taking 27 (6d8) thunder damage on a failed save,
+or half as much damage on a successful one. The roar is
+audible over 1 mile.
+legendary actions
+The styrkvisnar can take 2 legendary actions, choosing
+from the options here. Only one legendary action option
+can be used at a time and only at the end of another
+creature’s turn. The styrkvisnar regains spent legendary
+actions at the start of its turn.
+Attack.
+The styrkvisnar attacks once.
+Move.
+The styrkvisnar can move up to its speed in any
+mode available to it. This movement doesn’t provoke
+opportunity attacks.

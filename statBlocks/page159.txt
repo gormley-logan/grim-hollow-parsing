@@ -1,0 +1,126 @@
+159
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+H
+===
+Hourglass Widow
+Medium undead, neutral evil
+Armor Class 14 (18 with mage armor)
+Hit Points 187 (22d8 + 88)
+Speed 30 ft., fly 60 ft. (hover)
+str dex con int wis cha
+ 16 (+3) 19 (+4) 18 (+4) 19 (+4) 17 (+3) 22 (+6)
+Saving Throws
+Str +9, Con +10, Int +10, Wis +9, Cha +11
+Skills
+Athletics +9, Arcana +10, Insight +9, Investigation
++10, Perception +15
+Damage Resistances
+cold, force, lightning, necrotic
+Damage Immunities poison; bludgeoning, piercing,
+and slashing from nonmagical attacks
+Condition Immunities charmed, exhaustion,
+frightened, paralyzed, poisoned
+Senses truesight 120 ft., passive Perception 25
+Languages the languages it knew in life
+Challenge 20 (25,000 XP)
+Proficiency Bonus +6
+Accelerate Through Time (2/Day).
+The widow
+takes one additional action.
+Master of Time.
+The widow can choose to be unaffected
+by effects that modify time or change its speed. The
+widow can affect others frozen in a
+time stop
+or other
+stasis-like effects.
+Legendary Resistance (3/Day).
+If the widow fails a
+saving throw, it can choose to succeed instead.
+Regeneration.
+The widow regains 25 hit points at the
+start of its turn. If it takes fire or radiant damage, this
+trait doesn’t function at the start of the widow’s next
+turn. The widow’s body is destroyed only if it starts its
+turn with 0 hit points and doesn’t regenerate.
+Turn Resistance.
+The widow has advantage on
+saving throws against any effect that turns undead.
+Innate Spellcasting.
+The widow’s spellcasting ability is
+Charisma (spell save DC 20, +12 to hit with spell attacks).
+It can innately cast the following spells, requiring no
+material components: At will: eldritch blast (four beams)
+,
+expeditious retreat*
+,
+mage armor*
+,
+mage hand
+3/day each: blight
+,
+disintegrate
+,
+haste
+,
+misty step
+,
+shield
+,
+slow
+,
+see invisibility
+1/day each: eyebite
+,
+foresight
+*,
+freedom of movement
+,
+power
+word stun
+,
+teleport
+,
+time stop
+,
+wall of force
+*The widow casts these spells before combat.
+actions
+Multiattack.
+The widow uses disintegrating touch and
+withering gaze.
+Disintegrating Touch.
+Melee Weapon Attack
+: +10 to hit, reach 5 ft., one target.
+Hit
+: 16 (3d6 + 6) force damage and the target must succeed on a DC 20 Constitution
+saving throw or have their speed decreased by 15 feet for
+1 minute. The target can repeat the saving throw at the
+end of each of its turns, ending the effect on itself on a
+success. The effects are culmulative.
+Withering Gaze.
+A creature within 30 feet that the
+widow can see suffers 21 (6d6) necrotic damage.
+legendary actions
+The widow can take 3 legendary actions, choosing from
+the options below. Only one legendary action option can
+be used at a time and only at the end of another creature’s
+turn. The widow regains spent legendary actions at the
+start of its turn.
+Eldritch Blast.
+The widow casts eldritch blast.
+Sudden Rush (2 Actions).
+The widow teleports to a
+space it can see within 30 feet and uses disintegrating
+touch before or after it teleports.
+Frozen in Time (3 Actions).
+All creatures within 20 ft. of
+the widow must succeed on a DC 20 Constitution saving
+throw or be paralyzed until the end of the creature’s next turn.

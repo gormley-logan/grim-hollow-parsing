@@ -1,0 +1,75 @@
+148
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+G
+===
+Grudgel Battlemind
+Medium humanoid (grudgel), any alignment
+Armor Class 20 (plate, shield)
+Hit Points 91 (14d8 + 28)
+Speed 30 ft.
+str dex con int wis cha
+ 17 (+3) 12 (+1) 15 (+2) 18 (+4) 14 (+2) 12 (+1)
+Skills
+Arcana +7, Insight +5, Perception +5
+Senses darkvision 60 ft., passive Perception 15
+Languages Grudgel and three national languages
+Challenge 6 (2,300 XP)
+Proficiency
++3
+Action Surge (Recharges after a Short or Long
+Rest).
+The grudgel battlemind takes one extra action.
+Center (Recharges after a Short or Long Rest).
+The grudgel battlemind can use a bonus action to focus
+before making an attack roll or ability check. If the grudgel
+does so, then it has advantage on the next attack roll or
+ability check it makes before the start of its next turn.
+Spellcasting.
+The grudgel battlemind is a 14th-level
+spellcaster. Its spellcasting ability is Intelligence (spell
+save DC 15, +7 to hit with spell attacks). The grudgel
+battlemind knows the following wizard spells: Cantrips (at will): message
+,
+ray of frost
+,
+shocking grasp
+1st level (4 slots): color spray
+,
+longstrider
+,
+shield
+,
+sleep
+2nd level (3 slots): gust of wind
+,
+misty step
+,
+spider climb
+3rd level (3 slots): fly
+,
+haste
+Weapon Bond.
+The grudgel battlemind can be
+disarmed only if incapacitated or dead.
+actions
+Multiattack.
+The grudgel battlemind makes three
+weapon attacks or casts one cantrip and makes one
+weapon attack.
+Longsword.
+Melee Weapon Attack: +6 to hit, reach 5 ft.,
+one target.
+Hit: 7 (1d8 + 3) slashing damage.
+reactions
+Battlefield Control.
+A creature that willingly
+moves within the grudgel battlemind’s reach, including
+entering that area, provokes an opportunity attack from
+the grudgel.

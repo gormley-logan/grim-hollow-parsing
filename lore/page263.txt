@@ -1,0 +1,35 @@
+Potbelly
+“Our invader does nothing but laugh at our pain. 
+Someone, anyone, save our little town!”
+Cursed Giant.
+ A potbelly is a giant cursed by unseelie 
+fey. What remains is the mockery of a giant filled with 
+the desire to cook and consume other living beings. The 
+giant’s name comes from its new appearance. A cauldron 
+hangs in the giant’s abdomen. It contains a bizarre boiling 
+oil, and the potbelly can use this vessel to cook foes.
+Gleeful Mayhem.
+ A potbelly always smiles and joyfully 
+goes about murdering and cooking other creatures. It 
+happily snacks on fried corpses from its belly pot while 
+crushing other foes. Even at the edge of death, a potbelly 
+keeps up this twisted good cheer.
+salvage
+The cooking fluid in a potbelly’s cauldron cools and 
+evaporates quickly after the potbelly dies. Someone who 
+has proficiency with alchemist’s supplies can preserve 
+some of the fluid within 1 minute of the fey giant’s 
+death. This sample can be used to create a 
+sizzling serum
+(see chapter 4). Brewing this serum takes 4 hours and 
+reagents worth 50 gp, and it requires a successful DC 13 
+Intelligence (Nature) check.
+lore
+DC 13 Intelligence (History):
+ A potbelly is a giant 
+cursed by fey magic. It can grab smaller creatures and 
+cook them in its belly pot.
+DC 15 Intelligence (Arcana):
+ A potbelly receives a 
+supernatural boost from eating those who died in the 
+giant’s stomach cauldron.

@@ -1,0 +1,61 @@
+226
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+M
+===
+Kindled Mouruge
+Medium undead, lawful evil
+Armor Class 15 (natural armor)
+Hit Points 119 (14d8 + 56)
+Speed 30 ft.
+str dex con int wis cha
+ 17 (+3) 11 (+0) 18 (+4) 11 (+0) 14 (+2) 11 (+0)
+Saving Throws
+Wis +5
+Skills
+Athletics +6, Perception +5
+Damage Immunities poison
+Damage Resistances
+necrotic
+Condition Immunities exhaustion, poisoned
+Senses darkvision 60 ft., passive Perception 15
+Languages the languages it knew in life
+Challenge 5 (1,800 XP)
+Proficiency Bonus +3
+Holy Water Vulnerability.
+The kindled mouruge
+takes double damage from holy water.
+Undead Fortitude.
+If damage reduces the kindled
+mouruge to 0 hit points, it must make a Constitution
+saving throw with a DC of 5+ the damage taken, unless
+the damage is radiant or from a critical hit. On a success,
+the kindled mouruge drops to 1 hit point instead.
+actions
+Multiattack.
+The kindled mouruge makes two attacks,
+only one of which can be a bite or soul fire.
+Bite.
+Melee Weapon Attack: +6 to hit, reach 5 ft., one
+target.
+Hit: 6 (1d6 + 3) piercing damage and 5 (2d4)
+necrotic damage.
+Slam.
+Melee Weapon Attack: +6 to hit, reach 5 ft., one
+target.
+Hit: 8 (2d4 + 3) bludgeoning damage and 5 (2d4)
+necrotic damage.
+Soul Fire (Recharge 4–6).
+Melee or Ranged Spell Attack: +5 to hit, reach 5 ft. or ranged 30 ft., one target.
+Hit: 9
+(2d8) fire damage and 7 (2d6) necrotic damage. If the
+target is a creature other than a construct, it ignites. Until
+a creature takes an action to douse the fire, the target
+takes 4 (1d8) fire damage and 3 (1d6) necrotic damage at
+the end of each of its turns.

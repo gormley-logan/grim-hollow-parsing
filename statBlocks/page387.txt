@@ -1,0 +1,136 @@
+===
+Vampire, Downcast (Adult)
+Medium undead
+Armor Class 16 (natural armor)
+Hit Points 154 (17d8 + 85)
+Speed 30 ft.
+str dex con int wis cha
+ 18 (+4) 16 (+3) 20 (+5) 13 (+1) 16 (+3) 15 (+1)
+Saving Throws
+Con +10, Dex +8, Wis +8
+Skills
+Athletics +9, Perception +8, Stealth +8
+Damage Resistances
+bludgeoning, piercing, and
+slashing from nonmagical attacks
+Damage Immunities radiant
+Senses darkvision 120 ft., passive Perception 18
+Languages the languages it knew in life
+Challenge 13 (10,000 XP)
+Proficiency Bonus +5
+Regeneration
+. The vampire regains 15 hit points at
+the start of its turn if it has at least 1 hit point and isn’t in
+magical darkness or running water. If the vampire takes
+necrotic damage, this trait doesn’t function at the start of
+the vampire’s next turn.
+Legendary Resistance (1/Day)
+. If the vampire fails a
+saving throw, it can choose to succeed instead.
+Turn Immunity
+. The downcast vampire is immune to
+effects that turn undead.
+Shapechanger
+. If the vampire isn’t in magical
+darkness or running water, it can use its action to
+polymorph into a Tiny beast (such as a bat or a mouse)
+or a Medium cloud of mist, or back into its true form.
+While in beast form, the vampire can’t speak, its
+walking speed is that of the new form, including any
+flight, climb, or burrow speeds that may be present. Its
+statistics, other than its size and speed, are unchanged.
+Anything it is wearing is transforms with it, but nothing
+it is carrying does. It reverts to its true form if it dies.
+While in mist form, the vampire can’t take any actions,
+speak, or manipulate objects. It is weightless, has a
+flying speed of 20 feet, can hove, and can enter a hostile
+creature’s space and stop there. In addition, if air can
+pass through a space, the mist can do so without squeezing,
+and it can’t pass through water. It has advantage on
+Strength, Dexterity, and Constitution saving throws,
+and it is immune to all nonmagical damage, except the
+damage it takes from running water.
+Misty Escape
+. When it drops to 0 hit points outside
+of its resting place, the vampire transforms into a cloud
+of mist (as in the Shapechanger trait) instead of falling
+unconscious, provided that it isn’t in magical darkness or
+running water. If it can’t transform, it is destroyed.
+While it has 0 hit points in mist form, it can’t revert
+to its vampire form, and it must reach its resting place
+within 2 hours or be destroyed. Once in its resting place,
+it reverts to its vampire form. It is then paralyzed until it
+regains at least 1 hit point. After spending 1 hour in its
+resting place with 0 hit points, it regains 1 hit point.
+Spider Climb
+. The vampire can climb difficult surfaces,
+including upside down on ceilings, without needing to
+make an ability check.
+Vampire Weaknesses
+. The vampire has the
+following flaws: Forbiddance.
+The vampire can’t enter a residence
+without an invitation from one of the occupants.
+Stake to the Heart.
+The vampire is destroyed if a
+piercing weapon made of wood is driven into its heart
+while it is incapacitated in its resting place.
+Magical Darkness Sensitivity.
+The vampire takes
+20 necrotic damage when it starts its turn in magical
+darkness. While in magical darkness, it has disadvantage
+on attack rolls and ability checks.
+Sorrowful Dirge
+. The vampire can use a bonus action
+on its turn to target one creature within 30 feet of it. If the
+target can hear the vampire, the target must succeed on
+a DC 16 Wisdom saving throw or be deeply affected by
+the Celestial-infused tune and be forced to flee the area
+for 1 minute or until it takes any damage.
+A creature so affected must spend its turns trying to
+move as far away from the vampire as it can, and it can’t
+willingly move into a space within 30 feet of you. It also
+can’t take reactions. For its action, it can use only the
+Dash action or try to escape from an effect that prevents
+it from moving. If there’s nowhere to move, the creature
+can use the Dodge action. A creature with 3 or fewer Hit
+Dice that fails this saving throw is immediately reduced
+to 0 hit points and falls unconscious as the latent Celestial
+magic overloads their mind.
+actions
+Multiattack
+. The vampire makes two attacks, only one
+of which can be a bite attack.
+Claws (vampire form only)
+.
+Melee Weapon Attack
+: +9 to hit, reach 5 ft., one creature.
+Hit
+: 8 (1d8 + 4) slashing damage. Instead of dealing damage, the vampire can
+grapple the target (escape DC 18).
+Bite (vampire or beast form only)
+.
+Melee Weapon
+Attack
+: +8 to hit, reach 5 ft., one willing creature, or a creature that is grappled by the vampire or one of its allies,
+incapacitated, or restrained.
+Hit
+: 6 (1d6 + 3) piercing damage plus 10 (3d6) radiant damage. The target’s hit
+point maximum is reduced by an amount equal to the
+radiant damage taken, and the vampire regains hit points
+equal to that amount. The reduction lasts until the target
+finishes a long rest. The target dies if this effect reduces
+its hit point maximum to 0. A humanoid slain in this way
+and then buried in the ground rises the following night
+as a vampire spawn under the vampire’s control.
+legendary action
+The downcast vampire can take 2 legendary actions,
+choosing from the options below. Only one legendary
+action option can be used at a time and only at the end
+of another creature’s turn. The vampire regains spent
+legendary actions at the start of its turn.
+Move.
+The vampire moves up to its speed without
+provoking opportunity attacks.
+Strike.
+The vampire makes one attack with its claws.

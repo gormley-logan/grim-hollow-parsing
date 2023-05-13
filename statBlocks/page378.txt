@@ -1,0 +1,132 @@
+378
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+•
+Thick mist rolls out from the vampire’s position in a
+30-foot-radius sphere. The sphere spreads around corners,
+and its area is heavily obscured for all creatures except
+the vampire. It lasts until the vampire takes another lair
+action, the vampire uses a bonus action to dismiss it, the
+vampire drops to 0 hit points, or a wind of moderate or
+greater speed (at least 10 miles per hour) disperses it.
+regional effects
+The power of an adult or ancient vampire’s curse
+changes the region surrounding the vampire’s lair,
+creating any of the following effects: •
+Biting insects and their larvae increase noticeably in
+population within 1 mile of the lair.
+•
+Unnerving natural sounds—twigs breaking, leaves
+crunching, trees creaking, and so on—are louder
+within 1 mile of the lair.
+•
+Plants within 500 feet of the lair are tougher, twisted,
+and any thorns or thistles they have are longer and
+more painful when they prick.
+•
+The air within 500 feet of the lair is noticeably colder
+and smells faintly of blood. This cooling of the air
+makes mist more likely around the lair.
+If the vampire dies, these effects linger for one week,
+then dissipate over 1d6 days.
+vampire salvage
+Vampires have treasure. How much depends on their
+age and lair. A vampire’s body can also be valuable, also
+depending on age.
+Treasure.
+Vampires keep mementos of their history
+and kills. Some say they do so to maintain a connection
+to life, whether to their past existence or to the lives
+they have extinguished. Others suggest this hoarding is
+practical—a vampire has a harder time engaging in trade
+and wants to keep objects they might later need.
+Younger vampires seldom own more than they can
+carry. If beholden to an older vampire, a younger one
+must often give up a portion of their wealth to the elder.
+Spawn and young vampires retain personal trinkets
+related to their living existence.
+As a vampire ages, their collection grows. Rarer
+items end up among the baubles, coins, and jewels. The
+vampire might also acquire real property and have the
+deed or title to land or buildings.
+Ancient vampires have and might use an array of
+magic items. An ancient might attune to an item and
+bathe it in blood regularly, eventually imparting a
+curse that makes a new owner seek vampirism. Ancient
+vampires are also the most likely to have magical
+contingencies set up, such as an item that stores the
+vampire’s soul if they die or acts as a vessel for an effect
+such as a
+magic jar
+spell.
+Vampire Parts.
+As a vampire ages, their flesh becomes
+tainted with supernatural forces. Someone who prepares
+and uses certain parts of a vampire can gain some ben-
+efits… at a price. Older vampires have the material traits
+of younger vampires. Some of these materials must be
+consumed (they needn’t be consumed fresh or raw), and if
+a humanoid does so and dies within 24 hours, that person
+rises as a vampire spawn the night after being buried.
+Spawn.
+Someone who has proficiency with alchemist’s
+supplies or cook’s utensils can render a vampire spawn
+or older vampire’s flesh in a manner like that done
+to produce candle tallow. Doing so for one vampire
+requires 1 day of work, other materials worth 50 gp, and
+a successful DC 13 Intelligence or Wisdom check. The
+result from a typical vampire is three applications of an
+ointment. Applying the ointment takes 1 minute and
+causes any vampire to have disadvantage on Wisdom
+(Perception) checks to sense the user. Also, the ointment
+repels insects and arachnids, who have disadvantage on
+Wisdom (Perception) checks and attack rolls against the
+user. They usually leave the user alone. The user also has
+advantage on saving throws against magically produced
+insects, such as the
+insect plague
+spell. One application
+lasts 1 hour.
+Someone who has proficiency with alchemist’s
+supplies or an herbalism kit can powder the vampire’s
+claws and mix them with reagents worth 50 gp. Brewing
+takes 3 hours. The result is a
+potion of climbing
+that also
+allows the drinker to climb upside down along ceilings.
+Young.
+A living creature can eat a young or older vampire’s
+eye to gain darkvision in a radius of 60 feet or increase their
+existing darkvision by that distance for 1 hour.
+Adult.
+An adult or older vampire’s tongue can be eaten.
+A non-beast who does so can comprehend and verbally
+communicate with beasts for 1 hour. A beast instead
+gains the ability to speak one language the vampire
+knew for the same duration. The eater must succeed on a
+DC 13 Constitution saving throw or become poisoned for
+the same duration and unable to regain hit points while
+poisoned in this way. Beasts who eat vampire parts often
+reanimate as zombies when they die.
+Ancient.
+Someone who has proficiency with alchemist’s
+supplies or an herbalism kit can powder an ancient vampire’s
+bones with reagents worth 1,000 gp. Doing so requires
+3 days of work and a successful DC 15 Intelligence or
+Wisdom check. If the process is successful, it produces
+four doses of a powder that, if eaten, reduces age by 2d4
+years. It also removes all exhaustion, cures all diseases,
+and neutralizes any poison. For 8 hours, the powder
+maximizes any healing the eater receives, including from
+Hit Dice. For 1 hour, the eater has advantage on Strength
+checks and saving throws, and they deal 1d4 extra
+damage with Strength-based weapon attacks. The eater
+also has resistance to all damage for 1 minute. Eating the
+powder, however, extends the time that a creature might
+rise as a vampire spawn if slain and buried to 13 days.

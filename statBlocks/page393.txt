@@ -1,0 +1,117 @@
+===
+Dwarf Vampire (Adult)
+Medium undead, any evil alignment
+Armor Class 16 (natural armor)
+Hit Points 161 (17d8 + 85)
+Speed 25 ft., burrow 10 ft., climb 25 ft.
+str dex con int wis cha
+ 18 (+4) 16 (+3) 20 (+5) 13 (+1) 14 (+2) 14 (+2)
+Saving Throws
+Dex +8, Wis +7
+Skills
+Athletics +9, History +6, Perception +7, Stealth +8
+Damage Immunities poison
+Damage Resistances
+necrotic; bludgeoning, piercing,
+and slashing from nonmagical attacks that aren’t silvered
+Condition Immunities poisoned
+Senses darkvision 120 ft., passive Perception 17
+Languages the languages known in life
+Challenge 13 (10,000 XP)
+Proficiency Bonus +5
+Earth Glide.
+The vampire can burrow through
+nonmagical, unworked earth and any nonmagical stone.
+While doing so, the vampire doesn’t disturb the material
+it moves through.
+Legendary Resistance (3/Day).
+If the vampire fails a
+saving throw, it can choose to succeed instead.
+Regeneration.
+The vampire regains 20 hit points at
+the start of its turn if it has at least 1 hit point and isn’t in
+sunlight. If the vampire takes radiant damage or damage
+from a silvered weapon, this trait doesn’t function at the
+start of the vampire’s next turn.
+Spider Climb.
+The vampire can climb difficult
+surfaces, including upside down on ceilings, without
+needing to make an ability check.
+Turn Resistance.
+The vampire has advantage on
+saving throws against any effect that turns undead.
+Vampire Weaknesses.
+The vampire has the
+following flaws: Forbiddance.
+The vampire can’t enter a residence
+without an invitation from one of the occupants.
+Silver to the Heart.
+The vampire dies if a piercing
+weapon made of silver is driven into its heart while it is
+incapacitated in its resting place.
+Sunlight Hypersensitivity.
+The vampire takes 10 radiant
+damage when it starts its turn in sunlight. While in sunlight,
+it has disadvantage on attack rolls and ability checks.
+actions
+Multiattack.
+The vampire makes three attacks, only
+one of which can be a bite.
+Claws.
+Melee Weapon Attack: +9 to hit, reach 5 ft., one target.
+Hit: 11 (2d6 + 4) slashing damage. If the target is a creature,
+the vampire can grapple the target (escape DC 17).
+Bite.
+Melee Weapon Attack: +9 to hit, reach 5 ft., one
+creature.
+Hit: 11 (2d6 + 4) piercing damage and 14 (4d6)
+necrotic damage. The target’s hit point maximum is
+reduced by an amount equal to the necrotic damage
+taken, and the vampire regains hit points equal to that
+amount. This reduction lasts until the target finishes a
+long rest. The target dies if this effect reduces its hit point
+maximum to 0. A humanoid slain in this way sinks into
+nonmagical unworked earth. If buried in this or any
+other way, the humanoid rises the following night as a
+vampire spawn under this vampire’s control.
+Beast Form.
+If the vampire isn’t in sunlight, it
+polymorphs into a Small or smaller beast, usually with
+fangs and claws, or back into its true form. While in beast
+form, the vampire can gain a fly or swim speed of 30 feet,
+but its other statistics remain the same. If the new form
+lacks claws, the vampire can make slam attacks that deal
+the same amount of bludgeoning damage. Anything it
+wears transforms with it, but nothing it is carrying does.
+It reverts to its true form if it dies.
+reactions
+Earthen Escape.
+When it drops to 0 hit points, the
+vampire and whatever it’s wearing and carrying sinks
+into nonmagical, unworked earth or any nonmagical
+stone. The substance must be large enough to contain
+the vampire’s body and must be within 50 feet of the
+vampire, or this reaction fails to work. If the vampire
+can’t meld with earth or stone, it dies.
+Once within the earth or stone the vampire is paralyzed
+until it regains at least 1 hit point. The vampire can only
+hear what’s going on beyond the earth or stone it’s within
+and makes Wisdom (Perception) checks to do so with
+disadvantage.
+If damage to the earth or stone or a change in its
+shape makes it too small to accommodate the vampire,
+the vampire dies if still at 0 hit points, and its body and
+gear are expelled from the earth or stone. After spending
+1 hour in the earth or stone with 0 hit points, the vampire
+regains 1 hit point.
+legendary actions
+The vampire can take 3 legendary actions, choosing
+from the options here. Only one legendary action option
+can be used at a time and only at the end of another
+creature’s turn. The vampire regains spent legendary
+actions at the start of its turn.
+Move.
+The vampire moves up to its speed without
+provoking opportunity attacks.
+Claws.
+The vampire attacks once with its claws.

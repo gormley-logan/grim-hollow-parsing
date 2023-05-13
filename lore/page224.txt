@@ -1,0 +1,35 @@
+Mothfolk
+“Many things haunt the night. But what I witnessed after 
+the bridge collapsed...that was horrid. I can still see its red 
+eyes and hear the beating of wings.”
+Flying Terror
+. Those carrying bright torches or lan-
+terns at night risk catching the attention of the mothfolk. 
+These winged 7-foot-tall humanoids with large moth 
+wings fly across the night sky searching for bright lights.
+Disaster Seekers.
+ Mothfolk are often found around 
+disasters, relishing the mayhem.
+Red Glow.
+ The mothfolk have giant red glowing eyes. 
+Creatures that stare too long into them are terrified at 
+what those eyes reveal.
+salvage
+The mothfolk’s eyes glow with arcane potential. Someone 
+collecting 10 mothfolk eyes can craft a 
+mace of terror
+. This 
+requires a proficient weaponsmith to succeed on a DC 
+15 Intelligence (Arcana) check after 5 days of work and 
+using 500 gp of components.
+lore
+DC 10 Intelligence (Nature)
+: The mothfolk are fast 
+fliers, making it impossible to land opportunity attacks 
+on them at times.
+DC 15 Intelligence (History)
+: The mothfolk are 
+drawn to disasters.
+DC 20 Intelligence (Arcana)
+: The mothfolk’s eyes can 
+cause paranoia  in those who look too deeply into them.

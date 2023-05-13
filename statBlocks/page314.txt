@@ -1,0 +1,31 @@
+===
+Young Snarite
+Tiny aberration, neutral evil
+Armor Class 13
+Hit Points 9 (2d4 + 4)
+Speed 5 ft., fly 15 ft.
+str dex con int wis cha
+ 10 (+0) 16 (+3) 15 (+2) 10 (+0) 10 (+0) 8 (-1)
+Skills
+Stealth +5
+Senses passive Perception 10
+Languages --
+Challenge 1/8 (25 XP)
+Proficiency Bonus +2
+Muddled Thoughts
+. Although a young snarite cannot
+control the actions of its host, it can cloud a host’s
+thoughts, inclining the host to make poor or irrational
+decisions. The host also refuses to cut their hair, thus
+saving the young snarite from harm.
+Wisdom Drinker
+. After being infected by a young snarite
+for a year, the host must succeed on a DC 10 Wisdom
+saving throw or permanently lose 2 points of Wisdom.
+actions
+Tail
+.
+Melee Weapon Attack
+: +5 to hit, reach 5 ft., one target.
+Hit
+: 5 (1d4 + 3) slashing damage. 

@@ -1,0 +1,38 @@
+Crimson Stallion
+“This fanged horse with scaly red skin stretched 
+across its frame has cloven hooves dripping with dark 
+oil. Embedded chains hold a black saddle to its back.”
+Infernal Mounts
+. Created in the Netherworld, these 
+steeds come into existence when a contract for a Gift 
+of Liberating Freedom is signed. Like most fiends, the 
+crimson stallion can be summoned by learning its true 
+name. These true names are often revealed in dreams to 
+worthy owners, usually as rewards to fiends or mortals 
+who have sent many souls to hell. Crimson stallions are 
+reluctantly bound into service and fulfill their contracts, 
+but rarely bond with their creators.
+Ritual
+. Once a true name is discovered, a spellcaster 
+with at least one 4th-level spell slot can summon a 
+crimson stallion in a 
+magic circle
+ drawn using the 
+summoner’s blood and materials worth 5,000 gp, which 
+the ritual consumes. The bond is completed when the 
+summoner attaches a bridle made of humanoid sinew 
+and chains to the fiend.
+salvage
+A crimson stallion ignites upon death, burning the body 
+to ash within seconds, leaving only the hooves. Each of 
+these can be ground into a powder and used to create 
+a vial of alchemist’s fire. Doing so requires proficiency 
+with alchemist’s supplies, a successful DC 10 Intelligence 
+check, and 2 hours of work per vial.
+lore
+DC 15 Intelligence (Religion)
+: A crimson stallion is 
+a fiend that has related immunities and resistances.
+DC 20 Intelligence (Arcana):
+ A crimson stallion 
+bite and hoof attacks are fiery.

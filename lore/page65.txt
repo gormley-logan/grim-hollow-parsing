@@ -1,0 +1,30 @@
+Coldfire Ooze
+“Coldfire’s a menace, sure, but at least it doesn’t move around 
+on its own. Why are you staring at me like that?”
+Spreading Corruption.
+ Coldfire oozes spread 
+coldfire throughout the north. Corrupted slurries of 
+ice and snow, coldfire oozes have become a menace to 
+frontier towns among the Valikan Clans.
+Burning Slime.
+ Those who first faced coldfire oozes 
+didn’t realize how the slimes could split. This mistake in 
+the first skirmishes allowed the oozes to further multiply. 
+Now, they can be found all over the northern wilds.
+Ooze Nature.
+ A coldfire ooze doesn’t require sleep.
+salvage
+Someone who has proficiency with alchemist’s supplies 
+can use the remains of one coldfire ooze to make one 
+flammable tincture
+ (see chapter 4). Making the tincture 
+takes 1 day of work, materials worth 50 gp, and a successful 
+DC 13 Intelligence or Wisdom check.
+lore
+DC 10 Intelligence (Nature):
+ Coldfire oozes are rare 
+creatures that spread coldfire.
+DC 15 Intelligence (Arcana):
+ As with coldfire, fire is 
+the best way to deal with a coldfire ooze. Fire is the only 
+way to put the coldfire out.

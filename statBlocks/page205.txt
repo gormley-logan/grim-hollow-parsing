@@ -1,0 +1,55 @@
+===
+Maiden’s Hair, Greater
+Large plant, unaligned
+Armor Class 12 (natural armor)
+Hit Points 45 (6d10 +12)
+Speed 30 ft.
+str dex con int wis cha
+ 18 (+4) 10 (+0) 14 (+2) 1 (-5) 10 (+0) 1 (-5)
+Damage Resistance
+bludgeoning, piercing, psychic
+Condition Immunities blinded, deafened,
+exhaustion, prone
+Senses blindsight 30 ft., passive Perception 10
+Languages -
+Challenge 3 (700 XP)
+Proficiency Bonus +2
+False Appearance.
+While the maiden’s hair remains
+motionless, it is indistinguishable from a normal plant.
+Enamoring Scent.
+Creatures who start their turn
+within 20 feet of maiden’s hair must succeed on a DC
+12 Constitution saving throw. On a failure the creature
+is poisoned for 1 hour. At the end of each minute, the
+poisoned target can repeat the saving throw, ending the
+effect on itself on a success. A target that successfully
+saves is immune to the maiden’s hair enamoring scent
+for the next 24 hours.
+While poisoned by the maiden’s hair, creatures are
+charmed and incapacitated. If the charmed creature is
+more than 5 feet away from the maiden’s hair, the target
+must move on its turn toward the maiden’s hair by the
+most direct route, trying to get within 5 feet. It doesn’t
+avoid opportunity attacks, but before moving into
+damaging terrain, such as lava or a pit, and whenever
+it takes damage from a source other than the maiden’s
+hair, the creature can repeat the saving throw, ending the
+poisoned effect on a success
+A strong breeze, such as that created by the
+gust
+of wind
+spell, can dissipate the enamoring scent,
+suppressing this effect for the duration of the breeze.
+actions
+Multiattack.
+The maiden’s hair makes two tendril attacks.
+Tendril.
+Melee Weapon Attack
+. +6 to hit, reach 10 ft., one
+creature.
+Hit
+: 11 (2d6 + 4) bludgeoning damage, and it is grappled (escape DC 14). Until this grapple ends, the
+target is restrained and takes 11 (2d6 + 4) damage at the
+start of each of its turns. The maiden’s hair can grapple
+only two creatures with its tendril at a time.

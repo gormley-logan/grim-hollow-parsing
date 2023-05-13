@@ -1,0 +1,45 @@
+===
+Wood Weird Trapper
+Small plant, unaligned
+Armor Class 5
+Hit Points 13 (3d6 + 3)
+Speed 0 ft.
+str dex con int wis cha
+  12 (+1) 1 (–5) 13 (+1) 1 (–5) 3 (–4) 1 (–5)
+Damage Vulnerabilities
+fire
+Condition Immunities blinded, deafened, frightened
+Senses blindsight 30 ft. (blind beyond this radius),
+passive Perception 6
+Languages —
+Challenge 1/4 (50 XP)
+Proficiency Bonus +2
+False Appearance
+. While motionless, the wood
+weird trapper is indistinguishable from a clump of
+beautiful wildflowers.
+actions
+Restful Spores.
+The wood weird trapper releases a puff
+of sweet-scented spores at a creature it can sense within
+10 ft. of it. Other wood weirds are immune to these spores.
+The target must succeed on a DC 11 Constitution saving
+throw or become poisoned and incapacitated while
+poisoned in this way. A poisoned creature falls prone.
+The target can repeat the saving throw at the end of
+each of its turns, ending the poisoned condition on itself
+on a success.
+reactions
+Cocoon
+. When a Medium or smaller humanoid falls
+prone within 10 feet of it, the wood weird trapper’s
+runners cocoon the creature. The target is grappled
+(escape DC 11) and restrained while grappled in
+this way. A wood weird trapper can cocoon only one
+creature at a time.
+At the start of each of the wood weird trapper’s turns,
+a creature grappled by the trapper must succeed on a
+DC 11 Constitution saving throw or take 3 (1d6) piercing
+damage and 3 (1d6) poison damage. If a humanoid dies
+while cocooned in this way, its flesh lignifies over 24
+hours, and it then rises as a wood weird seeder.

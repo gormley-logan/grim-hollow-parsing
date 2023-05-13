@@ -1,0 +1,152 @@
+===
+Master Plague Doctor
+Medium humanoid (any race), any alignment
+Armor Class 12
+Hit Points 91 (14d8 + 28)
+Speed 30 ft.
+str dex con int wis cha
+ 9 (–1) 14 (+2) 15 (+2) 18 (+4) 14 (+2) 11 (+0)
+Skills
+Arcana +7, Medicine +5
+Senses passive Perception 11
+Languages any three languages
+Challenge 8 (3,900 XP)
+Proficiency Bonus +3
+Conditioned Immunity.
+The master plague doctor is
+immune to disease and has advantage on saving throws
+against being poisoned.
+Good Medicine.
+The master plague doctor carries a
+concoction that, if consumed as an action, causes the imbiber
+to regain 22 (5d8) hit points and cures any disease.
+Spellcasting.
+The doctor is a 14th-level spellcaster.
+Its spellcasting ability is Intelligence (spell save DC 15,
++7 to hit with spell attacks). It has the following wizard
+spells prepared: Cantrips (at will): acid splash
+,
+light
+,
+mending
+,
+poison spray
+,
+prestidigitation
+1st level (4 slots): detect magic
+,
+grease
+,
+ray of sickness
+,
+sleep
+2nd level (3 slots [1 used for Bad Medicine]): acid arrow
+,
+fiend flesh
+,
+gust of wind
+,
+shatter
+3rd level (3 slots [1 used for Good Medicine]): bestow
+curse
+,
+gaseous form
+,
+stinking cloud
+4th level (3 slots): blight
+,
+confusion
+,
+wall of fire
+5th level (2 slots): cloudkill
+,
+scrying
+6th level (1 slot): globe of invulnerability
+7th level (1 slot): finger of death
+actions
+Dagger.
+Melee or Ranged Weapon Attack: +5 to hit,
+reach 5 ft. or range 20/60 ft., one target.
+Hit: 4 (1d4 + 2)
+piercing damage.
+Bad Medicine.
+The master plague doctor hurls a
+concoction at a point the doctor can see within 30 feet of
+it. Creatures within 10 feet of that point must succeed on
+a DC 15 Constitution saving throw or become poisoned
+for 1 minute. While poisoned in this way, the creature
+takes 5 (1d6 + 2) acid damage at the start of each of its
+turns and 7 (2d6) poison damage each time it takes an
+action. An affected creature can take an action to repeat
+the saving throw, ending the effects early on a success.
+===
+Plague Doctor
+Medium humanoid (any race), any alignment
+Armor Class 11
+Hit Points 39 (6d8 + 12)
+Speed 30 ft.
+str dex con int wis cha
+ 8 (–1) 13 (+1) 15 (+2) 17 (+3) 12 (+1) 11 (+0)
+Skills
+Arcana +5, Medicine +3
+Senses passive Perception 11
+Languages any three languages
+Challenge 3 (700 XP)
+Proficiency Bonus +2
+Good Medicine.
+The plague doctor carries a concoction
+that, if consumed as an action, causes the imbiber to regain
+13 (3d8) hit points and cures any disease.
+Spellcasting.
+The plague doctor is a 6th-level
+spellcaster. Its spellcasting ability is Intelligence (spell
+save DC 13, +5 to hit with spell attacks). It has the
+following wizard spells prepared: Cantrips (at will): acid splash
+,
+light
+,
+poison spray
+,
+prestidigitation
+1st level (4 slots): detect magic
+,
+grease
+,
+ray of sickness
+,
+sleep
+2nd level (3 slots [1 used for Bad Medicine]): acid arrow
+,
+gust of wind
+,
+shatter
+3rd level (3 slots [1 used for Good Medicine]): bestow
+curse
+,
+stinking cloud
+actions
+Dagger.
+Melee or Ranged Weapon Attack: +3 to hit,
+reach 5 ft. or range 20/60 ft., one target.
+Hit: 3 (1d4 + 1)
+piercing damage.
+Bad Medicine.
+The plague doctor hurls a concoction
+at a point the doctor can see within 30 feet of it. Creatures
+within 10 feet of that point must succeed on a DC 13
+Constitution saving throw or become poisoned for 1 minute.
+While poisoned in this way, the creature takes 3 (1d6)
+poison damage each time it takes an action. An affected
+creature can take an action to repeat the saving throw,
+ending the effects early on a success.
+DC 15 Intelligence (Medicine): The repeated
+failures and deaths during the search for a cure for the
+Weeping Pox led to a new epidemic of unhinged magical
+alchemists. Some still seek to ply their trade, curing
+whatever sicknesses they come across. Others now see
+life itself as a disease in need of a cure.
+DC 20 Intelligence (Arcana): Inured to disease
+and suffering, some former physicians turned their
+alchemical concoctions to combat uses. They can heal
+themselves and throw volatile magical grenades that can
+afflict foes with disease symptoms.

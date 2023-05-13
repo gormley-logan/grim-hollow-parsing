@@ -1,0 +1,50 @@
+Withered Steed
+“Against the lightning, a tan horse dripping tattered flesh rears, 
+its antlers and empty skull reflecting the light. Saddleless, it 
+lowers its head to pull its master onto its back.”
+Rider-Bonded.
+ Thought to have originated in Grarjord, 
+the withered steed is a rare sight due to the difficulty of 
+creating one. Withered steeds are the most loyal of all the 
+summoned and created steeds in Etharis, living only as 
+long as their creator.
+Ritual Creation.
+ To create a withered steed, a 
+spellcaster must have at least one 4th-level spell slot 
+and materials worth 5,000 gp, which the ritual consumes. 
+The ritualist must remove and consume a living horse’s 
+heart under a full moon. In its place, a living raven 
+encaged in tree roots must be inserted. The body must 
+be buried with its head removed and a stag skull in its 
+place. The creator pours 1 pint of their own blood over 
+the body and places a rope necklace inscribed with runes 
+of summoning magic placed around the corpse’s throat. 
+The ritual takes 6 hours. By the new moon, the withered 
+steed frees itself from its grave.
+Constructed Nature.
+ A withered steed doesn’t 
+require air, food, drink, or sleep.
+salvage
+When a withered steed dies, it becomes a mass of gore 
+with a deer skull and a cage containing an undead raven. 
+If someone frees the raven and cares for it for 10 days, it 
+becomes bound to that person who can then summon it 
+with a 
+find familiar
+ spell, provided the keeper is able to 
+cast that spell by some means. This undead raven has 
+the Immutable Form trait, and the damage and condition 
+immunities of a withered steed.
+lore
+DC 15 Intelligence (Arcana):
+ A withered steed is a con-
+struct with related immunities and damage resistances.
+DC 20 Intelligence (Arcana):
+ The steed’s form 
+can’t be changed. If its master is slain, the steed is 
+instantly destroyed.
+Steeds of Etharis
+This entry details several special steeds that are found on 
+Etharis. While these mounts are most often encountered 
+being ridden by evil enemies, they might be trained and 
+used by characters if properly trained and treated well.

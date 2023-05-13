@@ -1,0 +1,66 @@
+287
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+R
+Returned
+“Those taken by the fey come back changed. 
+Rarely for the better.”
+Escaped Fey Captives.
+ Powerful fey abduct mortals, 
+dragging them into the fey realm to serve as entertainers, 
+servants, or adopted family. Most mortals taken this way 
+are never heard from again, but a rare few manage to 
+escape the clutches of their fairy kidnappers and find 
+their way back. These changed people, the returned, 
+come back to a life that has moved on without them.
+The returned cope with their trauma in many ways. 
+Some wage a personal war against the fey, while others 
+struggle to take back the life stolen from them. In either 
+case, the returned passionately pursue their goals and 
+recruit others to help.
+Irreversible Changes.
+ Mortals who spend extensive 
+time in the fey realms change irreversibly. The most 
+obvious signs are physical or cosmetic, such as iridescent 
+irises or footsteps that sound like distant thunder, but the 
+alterations run deeper. Magic of the fey realms seeps into 
+the soul of a returned, whether they want it or not. Many 
+returned enjoy these magical powers. Others limit their 
+use of fey magic, afraid they might attract the attention 
+of their abductors. A few turn their eldritch skills to 
+revenge, including imparting a psychic resonance that 
+allows weapons to harm the body and mind.
+Mutable Form.
+ The fear returned have about using 
+magic has some foundation in fact. Each time a returned 
+casts a spell, a cosmetic trait, such as eye color or the 
+sound of the voice, changes randomly and permanently.
+salvage
+The bones, hair, and sinew of a returned retain magic 
+antithetical to the fey. Someone who has proficiency 
+with leatherworker’s tools or tinker’s tools can spend 
+3 days working with these materials, along with reagents 
+an alchemist recommends worth 250 gp. If the artisan 
+succeeds on a DC 15 Intelligence (Arcana) check, they 
+can build 
+dimensional shackles
+ that work only on the fey.
+lore
+DC 10 Intelligence (Arcana):
+ Those abducted by the 
+fey and later escape back to the mortal world are known 
+as the returned. Time in the fey realms makes such people 
+prone to cosmetic changes and able to use fey magic.
+DC 15 Intelligence (History):
+ An old story tells of a 
+prince who was stolen by the fey only to fight his way 
+back to his kingdom. After his return, he went decades 
+without cutting his hair. When he died an old king, his 
+daughter cut his hair and used it to bind the fey who 
+long ago kidnapped her father.

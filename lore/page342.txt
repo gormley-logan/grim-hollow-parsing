@@ -1,0 +1,29 @@
+Trennensel
+“The cattle lows mournfully as the twisted shape, batlike and 
+somehow childlike, drinks deeply of the bovine’s blood. The farmer 
+blanches before dropping his pitchfork and fleeing in terror.”
+Flying Blood Drinkers.
+ Trennensels are batlike and 
+hairless. They come in a variety of skin colors, and they 
+can be mistaken for flying humanoids. They drink blood. 
+Due to their lack of hair, they need to consume more to 
+maintain body heat.
+A trennensel prefers to feed on livestock, making the 
+creatures pests to ranchers. They roost in caves by day 
+and hunt at dusk. Trennensels spread out from their 
+lair to feed, but careless spelunkers could rouse a whole 
+colony of these creatures.
+salvage
+Someone who has proficiency with alchemist’s supplies 
+can mix refined trennensel guano with other reagents 
+worth 25 gp to make one dose of 
+oil of slipperiness
+. 
+Acquiring enough guano to refine, a few pounds, likely 
+involves venturing into a trennensel colony cave. Making 
+the oil requires 4 hours of work and a successful DC 13 
+Intelligence or Wisdom (Arcana) check.
+lore
+DC 15 Intelligence (Nature):
+ A trennensel can’t use 
+its blindsight while deafened.

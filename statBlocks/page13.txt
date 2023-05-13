@@ -1,0 +1,54 @@
+===
+Apparmarole
+Medium construct, unaligned
+Armor Class 12
+Hit Points 14 (4d6)
+Speed 0 ft., fly 40 ft. (hover)
+str dex con int wis cha
+	14	(+2)	15	(+2)	10	(+0)	8	(-1)	4	(-3)	2	(-4)
+Damage Vulnerabilities
+fire
+Damage Immunities poison, psychic
+Condition Immunities blinded, charmed, deafened,
+exhaustion, frightened, paralyzed, petrified, poisoned
+Senses blindsight 60 ft. (blind beyond this radius),
+Passive Perception 7
+Languages –
+Challenge 1/2 (100 XP)
+Proficiency Bonus +2
+Antimagic Susceptibility
+. The apparmarole is inca-
+pacitated while in the area of antimagic field. If targeted
+by
+dispel magic
+, the apparmarole must succeed on a
+Constitution saving throw against the caster’s spell save
+DC or fall unconscious for 1 minute.
+Damage Transfer
+. While grappling a creature, the
+apparmarole is resistant to all damage and the creature
+grappled by the apparmarole takes damage equal to that
+taken by the apparmarole.
+False Appearance
+. While the apparmarole remains
+motionless, it is indistinguishable from normal clothing.
+actions
+Constrict
+.
+Melee Weapon Attack
+: +5 to hit, reach 5 ft., one Medium or smaller creature.
+Hit
+: The creature is grappled (escape DC 12). Until this grapple ends, the target is
+restrained, blinded, and the apparmarole can’t constrict
+another target. In addition, at the start of the target’s turns,
+the target takes 4 (1d4 + 2) bludgeoning damage if the
+target is not charmed.
+Puppeteer
+. A creature grappled by the apparmarole
+must succeed on a DC 13 Wisdom saving throw or be
+charmed for 8 hours. While charmed, a telepathic link
+with the apparmarole is established. The apparmarole can
+issue commands without an action, which the creature
+does its best to obey.
+Each time the target takes damage, it makes a new
+Wisdom saving throw, ending the effect on a success.

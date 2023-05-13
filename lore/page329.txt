@@ -1,0 +1,37 @@
+Suture 
+Golem
+“Just because it’s made to gather corpses 
+doesn’t mean it can’t harm the living.”
+Corpse Seeker.
+ Gathering corpses for necromantic 
+rituals is difficult, dirty work. Powerful arcanists delegate 
+that work to constructs. Suture golems are that sort of 
+construct, made to bring corpses back to their masters. 
+If corpses are hard to find, the golem can make them.
+Wire Body.
+ A suture golem is a hulking mass of flesh 
+and tough wire. The magic imbued in the construct allows 
+it to use its filaments as limbs. These entangling threads 
+work well to grab and hold those the golem intends to 
+return to its master.
+salvage
+Someone who has proficiency with weaver’s tools can 
+use the wire from one suture golem to make a 
+living net
+(see chapter 4). Doing so takes 3 days of work and 
+other materials worth 100 gp. Someone must cast 
+hold 
+person
+ on the net each day of its crafting.
+lore
+DC 10 Intelligence (History):
+ Suture golems are 
+constructed of body parts and wires. Necromancers use 
+them to collect corpses. However, the golem can use its 
+abilities to entangle and restrain living beings.
+DC 15 Intelligence (Arcana):
+ A suture golem is 
+immune to nonmagical weapon attacks. However, ada-
+mantine weapons can harm it, as can slashing weapons, 
+although adamantine or magic slashing weapons are 
+more effective. The golem’s attacks are magical.

@@ -1,0 +1,62 @@
+204
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+M
+===
+Maiden’s Hair, Lesser
+Medium plant, unaligned
+Armor Class 10
+Hit Points 18 (4d6+4)
+Speed 5 ft., climb 5 ft.
+str dex con int wis cha
+ 16 (+3) 10 (+0) 12 (+1) 1 (-5) 10 (+0) 1 (-5)
+Damage Resistance
+bludgeoning, piercing, psychic
+Condition Immunities blinded, deafened,
+exhaustion, prone
+Senses blindsight 30 ft., passive Perception 10
+Languages -
+Challenge 1/2 (100 XP)
+Proficiency Bonus +2
+False Appearance.
+While the maiden’s hair remains
+motionless, it is indistinguishable from a normal plant.
+Enamoring Scent.
+Creatures who start their turn
+within 20 feet of maiden’s hair must succeed on a DC
+11 Constitution saving throw. On a failure the creature
+is poisoned for 1 hour. At the end of each minute, the
+poisoned target can repeat the saving throw, ending the
+effect on itself on a success. A target that successfully
+saves is immune to the maiden’s hair enamoring scent
+for the next 24 hours.
+While poisoned by the maiden’s hair, creatures are
+charmed and incapacitated. If the charmed creature is
+more than 5 feet away from the maiden’s hair, the target
+must move on its turn toward the maiden’s hair by the
+most direct route, trying to get within 5 feet. It doesn’t
+avoid opportunity attacks, but before moving into
+damaging terrain, such as lava or a pit, and whenever it
+takes damage from a source other than the maiden’s
+hair, the creature can repeat the saving throw, ending
+the poisoned effect on a success
+A strong breeze, such as that created by the
+gust
+of wind
+spell, can dissipate the enamoring scent,
+suppressing this effect for the duration of the breeze.
+actions
+Tendril.
+Melee Weapon Attack
+: +5 to hit, reach 5 ft., one creature.
+Hit
+: 6 (1d6 + 3) bludgeoning damage, and it is grappled (escape DC 13). Until this grapple ends, the
+target is restrained and takes 6 (1d6 + 3) damage at the
+start of each of its turns. The maiden’s hair can grapple
+only one creature with its tendril at a time.

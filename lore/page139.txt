@@ -1,0 +1,41 @@
+Grief Eater
+“Cities are meant to be hubs of prosperity and culture. But all 
+I see are the sad, poverty-stricken slums. Little did we know, 
+when you spend enough time in those places you’ll learn of 
+creatures with a taste for broken hearts.”
+Despair Devourers.
+ Grief eaters are fey predators 
+attracted to the essence of concentrated despair. They hide 
+in a city’s alleys and crumbling buildings, seeking hopeless 
+people to feed on. These victims usually perish, causing a 
+string of disappearances that can cause a serial-killer rumor 
+to flare up, along with a rising population of grief eaters.
+Downcast Decoy.
+ A grief eater appears to be a cloaked 
+person, down on their luck. These “people” hunch over, 
+crying and babbling. Observant viewers notice the cloak 
+is really a grey membrane. Legs “clutched” to the chest 
+are part of a warped torso. The creature travels on its 
+long, spindly arms.
+salvage
+A grief eater’s “hood” is a sensitive membrane that 
+allows the creature to detect despair and other grief 
+eaters. Someone who has proficiency in the Arcana and 
+Medicine skills can remove this membrane intact with a 
+successful DC 13 Wisdom (Medicine) check. Somebody 
+who has proficiency with leatherworker’s or weaver’s 
+tools can use six of these membranes to create a 
+morose 
+monocle
+ (see chapter 4). Creating this monocle takes  
+5 days and other materials worth 100 gp.
+lore
+DC 10 Intelligence (Arcana):
+ Grief eaters are fey that 
+feed on fear and sorrow. They prefer the shadows and 
+are sensitive to bright light.
+DC 15 Intelligence (Nature):
+ A grief eater can sense 
+people who are full of despair, fear, or sorrow, as well 
+as other grief eaters. Such creatures can’t hide from a 
+grief eater

@@ -1,0 +1,57 @@
+Grudgels
+“Fairy tales describing orcs as monsters who 
+disappeared turned out to be just that. Orcs didn’t 
+disappear, and they’re not monsters.”
+Living Legends.
+ Even the longest-lived people of Etharis 
+don’t remember grudgels, but they remember their elders 
+speaking of these dreaded creatures: humanoid monsters 
+who used their ferocity and martial prowess to lay waste to 
+towns before disappearing. These myths lingered, but the 
+grudgels have returned. These beings, unlike those of the 
+terrible tales, are measured and wise. They don’t speak of 
+their communal past, but they seem to carry an otherworldly 
+knowledge with them. Grudgels look to the stars as if those 
+far-flung orbs are memories rather than mysteries.
+Skillful Warriors.
+ Grudgels, now wandering in from 
+the wilderness in small groups, are proving to be valuable 
+members of the communities they join, assuming they’re 
+not killed on sight out of misguided fear. The grudgels 
+employ advanced building and crafting techniques, and 
+they share this knowledge, alongside a willingness to 
+work. These traits help others overcome initial hesitation 
+at the sudden appearance of an unusual stranger.
+Grudgels are often peaceful and helpful, but they know 
+how to fight. They’re as skilled at battle as they are at other 
+trades. Some have training in advanced magic, which they 
+use, as with their weapons, mostly to maintain peace.
+salvage
+Most grudgels carry a piece of glassy material called 
+stryllum, which isn’t from Etharis. This substance is 
+handed down from parent to child. The more powerful 
+a grudgel is, the larger the piece of stryllum they carry. 
+Small pieces of stryllum can be sold for 10 gp, while 
+bigger pieces fetch 100 gp in large markets.
+Someone who has proficiency with jeweler’s tools can 
+work stryllum into a piece of jewelry. Doing so requires 
+1 hour per 10 gp the stryllum is worth and materials worth 
+as much as the stryllum. The jeweler must succeed on a 
+DC 13 Intelligence or Wisdom check to configure the jewel-
+ry properly—failure indicates the jewelry is attractive and 
+valuable but nonmagical. Success results in a charm that 
+can absorb 1 psychic damage per gp the stryllum in the 
+piece is worth. The stryllum dulls as it absorbs damage, and 
+the jewelry becomes brittle and worthless after absorbing 
+as much psychic damage as it can.
+lore
+DC 10 Intelligence (History):
+ Grudgels were known 
+to be fierce and dangerous warriors before disappearing 
+from Etharis. The grudgels that now live throughout the 
+land behave nothing like those legends, although their 
+appearance hasn’t changed.
+DC 13 Intelligence (History):
+ Every grudgel carries 
+with them a piece of glass they call stryllum, which they 
+guard jealously. Many believe it contains innate magic.

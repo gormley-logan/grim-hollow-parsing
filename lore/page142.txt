@@ -1,0 +1,45 @@
+142
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+G
+salvage
+Grinstagger wears a 
+ring of mind shielding
+, which he keeps 
+invisible. It becomes visible if he dies. When that happens, 
+his soul enters the ring. While his soul is in the ring, he can 
+telepathically communicate with any creature wearing it. 
+A wearer can’t prevent this communication.
+lore
+DC 10 Intelligence (History):
+ Grinstagger is a mighty 
+oni cursed for breaking his pact with an archfey.
+DC 15 Intelligence (History):
+ The curse twisted 
+Grinstagger’s flesh when he used his arcane powers. He 
+escaped the curse, but its previous effects remain, giving 
+Grinstagger his unique appearance.
+DC 20 Intelligence (Arcana):
+ Grinstagger retains the 
+power he stole from his patron. He can curse others with 
+his attacks.
+GM Advice:
+ Grinstagger is a powerful being, and his goals 
+are always power and survival. When it becomes clear that 
+a foe is more powerful than he is, he’ll make every effort to 
+promise wealth and power in exchange for his life. Whether 
+he can deliver on those promises is another story altogether.
+Grinstagger generally travels and lairs with minions who 
+serve him until he no longer has a use for him. With the fey 
+powers pursuing Grinstagger relentlessly, his minions are 
+generally kept around as a buffer between the oni and his 
+pursuers, and don’t last long.
+If the characters make a deal with Grinstagger to gain his 
+knowledge or assistance, they quickly come to learn that 
+Grinstagger has many powerful enemies who attack frequently.

@@ -1,0 +1,124 @@
+===
+White Quoxxarie
+Large fiend, chaotic evil
+Armor Class 15 (natural armor)
+Hit Points 95 (10d10 + 40)
+Speed 40 ft.
+str dex con int wis cha
+ 17 (+3) 14 (+2) 18 (+4) 7 (–2) 12 (+1) 5 (–3)
+Saving Throws
+Int +1, Wis +4, Cha +0
+Skills
+Acrobatics +5, Athletics +6
+Damage Immunities poison
+Damage Resistances
+cold, fire, lightning
+Condition Immunities poisoned
+Senses darkvision 120 ft., passive Perception 11
+Languages Infernal
+Challenge 5 (1,800 XP)
+Proficiency Bonus +3
+Aura of Sickness.
+Provided the white quoxxarie isn’t
+incapacitated, any creature hostile to the quoxxarie that starts
+its turn within 30 feet of one or more white quoxxaries
+must succeed on a DC 15 Constitution saving throw or
+be poisoned until the start of its next turn.
+Charge.
+If the white quoxxarie moves at least 20 feet
+straight toward a target and then hits it with a ram
+attack on the same turn, the target takes an extra 9 (2d8)
+bludgeoning damage. If the target is a creature, it must
+succeed on a DC 14 Strength saving throw or fall prone.
+Disease Carrier.
+The white quoxxaries is immune to
+the effects of diseases, but it can carry and spread them.
+Magic Resistance.
+The white quoxxarie has
+advantage on saving throws against spells and other
+magical effects.
+actions
+Multiattack.
+The white quoxxarie makes one ram
+attack and one attack with its hooves.
+Ram.
+Melee Weapon Attack: +6 to hit, reach 5 ft., one
+target.
+Hit: 12 (2d8 + 3) bludgeoning damage.
+Hooves.
+Melee Weapon Attack: +6 to hit, reach 5 ft., one
+target.
+Hit: 13 (3d6 + 3) bludgeoning damage and 7 (2d6)
+poison damage.
+reactions
+Get the Horns.
+If the white quoxxarie takes 25 or more
+damage from one creature out of the quoxxarie’s reach,
+the quoxxarie can take the Disengage action and move
+up to half its speed toward that creature. If the creature is
+then within reach, the quoxxarie can make a ram attack
+against it with advantage on the attack roll.
+===
+Black Quoxxarie
+Medium fiend, chaotic evil
+Armor Class 15 (natural armor)
+Hit Points 90 (12d8 + 36)
+Speed 40 ft.
+str dex con int wis cha
+ 16 (+3) 16 (+3) 17 (+3) 7 (–2) 12 (+1) 7 (–2)
+Saving Throws
+Int +1, Wis +4, Cha +1
+Skills
+Acrobatics +6, Athletics +6
+Damage Immunities poison
+Damage Resistances
+cold, fire, lightning
+Condition Immunities poisoned
+Senses darkvision 120 ft., passive Perception 11
+Languages Infernal
+Challenge 5 (1,800 XP)
+Proficiency Bonus +3
+Aura of Withering.
+Provided the black quoxxarie isn’t
+incapacitated, any creature hostile to the quoxxarie within
+30 feet of one or more black quoxxaries withers. If the
+creature takes damage, it takes an extra 3 (1d6) necrotic
+damage. Plant creatures take an extra 5 (2d4) necrotic
+damage instead. The first time an affected creature takes
+damage in the aura while at half its hit points or fewer,
+the creature feels horrid thirst and hunger and gains one
+level of exhaustion. If such a creature drops to 0 hit points
+in the aura, it gains another level of exhaustion. A creature
+can gain only two levels of exhaustion from any Aura of
+Withering in 24 hours. This aura also kills tiny inanimate,
+nonmagical plants in its area and damages larger plants,
+eventually killing them.
+Charge.
+If the black quoxxarie moves at least 20 feet
+straight toward a target and then hits it with a ram
+attack on the same turn, the target takes an extra 7 (2d6)
+bludgeoning damage. If the target is a creature, it must
+succeed on a DC 14 Strength saving throw or fall prone.
+Magic Resistance.
+The black quoxxarie has advantage
+on saving throws against spells and other magical effects.
+actions
+Multiattack.
+The black quoxxarie makes one ram
+attack and one attack with its hooves.
+Ram.
+Melee Weapon Attack: +6 to hit, reach 5 ft., one
+target.
+Hit: 10 (2d6 + 3) bludgeoning damage.
+Hooves.
+Melee Weapon Attack: +6 to hit, reach 5 ft., one
+target.
+Hit: 13 (3d6 + 3) bludgeoning damage.
+reactions
+Get the Horns.
+If the black quoxxarie takes 20 or more
+damage from one creature out of the quoxxarie’s reach,
+the quoxxarie can take the Disengage action and move
+up to half its speed toward that creature. If the creature is
+then within reach, the quoxxarie can make a ram attack
+against it with advantage on the attack roll.

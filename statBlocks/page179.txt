@@ -1,0 +1,133 @@
+179
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+K
+===
+Knifetooth Slayer
+Medium humanoid, chaotic evil
+Armor Class 13 (ragged clothing)
+Hit Points 75 (10d8 + 30)
+Speed 40 ft.
+str dex con int wis cha
+ 17 (+3) 14 (+2) 16 (+3) 5 (–3) 13 (+1) 5 (–3)
+Saving Throws
+Wis +3
+Skills
+Athletics +5, Survival +3
+Senses passive Perception 11
+Languages —
+Challenge 3 (700 XP)
+Proficiency Bonus +2
+Brutal Attacks.
+When the Knifetooth slayer scores a
+critical hit with a melee weapon attack, it can roll one of
+the weapon’s damage dice one additional time and add
+it to the extra damage of the critical hit.
+Reckless.
+At the start of its turn, the Knifetooth slayer
+can gain advantage on melee weapon attack rolls until
+the start of its next turn, but attack rolls against it have
+advantage until then.
+actions
+Multiattack.
+The Knifetooth slayer makes two
+greatsword attacks
+Bite.
+Melee Weapon Attack
+: +5 to hit, reach 5 ft., one target.
+Hit
+: 5 (1d4 + 3) piercing damage. Greatsword.
+Melee Weapon Attack
+: +5 to hit, reach 5 ft., one target.
+Hit
+: 10 (2d6 + 3) slashing damage. ===
+Knifetooth Hunter
+Medium humanoid, chaotic evil
+Armor Class 15 (studded leather)
+Hit Points 33 (6d8 + 6)
+Speed 30 ft.
+str dex con int wis cha
+13 (+1) 16 (+3) 12 (+1) 5 (–3) 12 (+1) 5 (–3)
+Skills
+Acrobatics +5, Perception +3, Stealth +5, Survival +3
+Senses passive Perception 13
+Languages —
+Challenge 1 (200 XP)
+Proficiency Bonus +2
+Devious Warrior.
+The Knifetooth hunter can use
+a bonus action to make an extra handaxe attack or to
+take the Dash, Disengage, or Hide action. To make the
+extra attack, the hunter must have a handaxe in each
+hand. The hunter carries several axes for this use and
+for throwing.
+Sneak Attack (1/Turn).
+The Knifetooth hunter deals
+an extra 7 (2d6) damage when it hits a target with a
+weapon attack and has advantage on the attack roll, or
+when the target is within 5 feet of an ally of the hunter
+that isn’t incapacitated, and the hunter doesn’t have
+disadvantage on the attack roll.
+actions
+Handaxe.
+Melee Weapon Attack
+: +5 to hit, reach 5 ft. or range 20/60 ft., one target.
+Hit
+: 6 (1d6 + 3) slashing damage, or 3 (1d6) slashing damage if the attack was
+made using a bonus action.
+===
+Knifetooth Firebrand
+Medium humanoid, chaotic evil
+Armor Class 13 (studded leather armor, 14 with aura)
+Hit Points 84 (13d8 + 26)
+Speed 30 ft.
+str dex con int wis cha
+ 11 (+0) 13 (+1) 15 (+2) 7 (–2) 13 (+1) 16 (+3)
+Skills
+Arcana +0, Perception +3, Survival +3
+Damage Resistances
+fire
+Senses passive Perception 13
+Languages one national language
+Challenge 4 (1,100 XP)
+Proficiency Bonus +2
+actions
+Fiery Grasp
+.
+Melee Spell Attack
+: +5 to hit, reach 5 ft., one target.
+Hit: 16 (3d8 + 3) fire damage, and the Knifetooth fire-
+brand can make the flames leap from the target to another
+target up to 20 feet away, dealing that target 3 fire damage.
+Fire Bolt.
+Ranged Spell Attack
+: +5 to hit, range 120 ft., one target.
+Hit
+: 19 (3d10 + 3) fire damage. Firebrand Aura (Recharges after a Short or
+Long Rest)
+. The Knifetooth firebrand surrounds itself
+with an aura of violet flame, shedding bright light in a
+10-foot radius and dim light for an additional 10 feet.
+These flames increase the firebrand’s AC by 1. Whenever
+a creature within 10 feet of the firebrand hits it with an
+attack, the flames leap to the attacker, dealing that attacker
+5 (2d4) fire damage. Violet flame outlines a creature struck
+by this fire, so the creature gains no benefit from being
+invisible until it leaves the aura. This aura lasts for 10
+minutes, until the firebrand uses this action again, until
+the firebrand is incapacitated or dies, or until the firebrand
+uses a bonus action to end it.
+reactions
+Terrifying Flames.
+When the Knifetooth firebrand
+deals a creature fire damage, the firebrand can force that
+creature to make a DC 13 Wisdom saving throw. On a
+failure, the creature becomes frightened of the firebrand
+until the end of the creature’s or the firebrand’s next
+turn, whichever comes later.

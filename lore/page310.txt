@@ -1,0 +1,38 @@
+Sleep Gulper
+“Like everything in the unnatural realms, the evil fey try to 
+take everything from you. Whether it’s your money, or all your 
+insides, even the smallest of creatures will be greedy.”
+Greedy Monsters
+. Sleep gulpers hide in the sewers 
+and middens of populated areas, waiting to find a lone 
+creature to attack or sneaking into bedrooms to plague 
+sleeping victims.
+Sleep Tight
+. The sleep gulpers use the long thin stinger 
+on their back end to stab prey. A paralytic magic hinders 
+the victim, making it easier for the sleep gulper to latch 
+onto the nearest foe. They settle for pets and other animals, 
+but they savor the sweet taste of humanoid essence.
+Agile and Adaptive
+. Thanks to the sleep gulper’s leech-
+like body, spider legs, and bat wings, the sleep gulper has 
+many ways to travel. Whether climbing, swimming, or 
+flying—they can go anywhere at any time.
+salvage
+A sleep gulper’s stinger has magic in its poke. If someone 
+collects 30 sleep gulper stingers, they can craft a 
+wand of 
+paralysis
+. This requires a proficient arcanist to succeed on 
+a DC 20 Intelligence (Arcana), crafting the wand in 
+10 days and using 2000 gp of components.
+lore
+DC 10 Intelligence (Arcana)
+: The sleep gulper can 
+magically paralyze a target with the touch of its stinger.
+DC 15 Intelligence (Nature)
+: Sleep gulpers can see in 
+darkness thanks to their blindsight.
+DC 20 Intelligence (History)
+: Sleep gulpers can 
+breathe underwater and ambush from the water.

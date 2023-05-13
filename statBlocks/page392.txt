@@ -1,0 +1,32 @@
+392
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+dwarf vampire customization
+Vampirism connects a dwarf to the element of earth
+more closely. A dwarf vampire has the speed of a dwarf
+(25 feet) but can burrow and glide through some types of
+earth and stone without disturbing it, gaining a burrow
+speed and Earth Glide trait. The vampire retains much
+dwarven resilience in the form of high Constitution,
+immunity to poison, and resistance to effects that turn
+undead. The vampire’s darkvision is also better than
+normal for a vampire of that age.
+A dwarf vampire is slower on their feet (lower
+Dexterity and AC). However, their toughness is legend
+(higher Constitution and hit points).
+Young and older dwarf vampires cannot turn to mist
+as other vampires do. Instead, these vampires sink into
+the earth or stone when near death—see the Earthen
+Escape trait. Those a dwarf vampire slays with a bite also
+sink into the earth. This burial is enough to assure rebirth
+as a vampire spawn.
+Dwarf vampires have a vulnerability to silver unusual
+for vampires and ironic for dwarves. It’s an odd reversal
+of an affinity for valuable metals dwarves have in life
+and the elemental expressions of a dwarf vampire

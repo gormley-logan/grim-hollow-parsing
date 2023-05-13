@@ -1,0 +1,105 @@
+===
+Jespaith
+Gargantuan undead, chaotic evil
+Armor Class 17 (natural armor)
+Hit Points 279 (18d20 + 90)
+Speed 30 ft., burrow 30 ft.
+str dex con int wis cha
+	25	(+7)	10	(+0)	20	(+5)	6	(–2)	12	(+1)	4	(−3)
+Damage Vulnerabilities
+radiant
+Damage Immunities acid, necrotic, poison
+Condition
+Immunities
+charmed, exhaustion,
+frightened, paralyzed, petrified, poisoned
+Senses darkvision 120 ft., passive Perception 11
+Languages —
+Challenge 15 (13,000 XP)
+Proficiency Bonus +5
+Corruption Aura
+. The jespaith corrupts the area
+around it, poisoning the air, filling it with biting undead
+insects, and sundering the ground. Any creature that
+starts its turn within 20 feet of the jespaith takes 5 (2d4)
+piercing damage and 5 (2d4) poison damage. The creature
+must succeed on a DC 18 Constitution saving throw or
+become poisoned until the start of its next turn. On the
+ground, this area is difficult terrain and remains so when
+the jespaith moves on.
+Rock Breaker
+. The jespaith can burrow through solid
+rock at half its burrow speed, but it leaves behind rubble
+rather than a tunnel.
+Siege Monster
+. The jespaith deals double damage to
+objects and structures.
+Turn Immunity.
+The jespaith is immune to effects
+that turn undead.
+actions
+Multiattack
+. The jespaith makes two slam attacks. It
+can replace any attack with engulf.
+Slam
+.
+Melee Weapon Attack
+: +12 to hit, reach 10 ft., one target.
+Hit
+: 23 (3d10 + 7) bludgeoning damage and 10 (3d6) poison damage. If the target is a creature, it is
+grappled (escape DC 20). The jespaith can grapple up to
+four creatures at a time.
+Engulf.
+Each Huge or smaller creature grappled by the
+jespaith must succeed on a DC 20 Strength saving throw
+or be pulled into the jespaith’s body. An engulfed target
+is blinded, restrained, unable to breathe, and has total
+cover from effects that originate outside the jespaith. At
+the start of each of the jespaith’s turns, each engulfed
+creature takes 23 (3d10 +7) bludgeoning damage and 10
+(3d6) acid damage. The jespaith can hold only one Huge
+creature, two Large creatures, or up to eight Medium or
+smaller creatures inside it at a time.
+An engulfed creature can try to escape by taking an
+action to make its choice of a DC 20 Strength (Athletics)
+or Dexterity (Acrobatics) check. On a success, the
+creature escapes and uses 10 feet of movement to enter
+a space of its choice within 5 feet of the jespaith.
+If the jespaith dies, an engulfed creature is no longer
+restrained by it and can escape from the remains by
+using 10 feet of movement.
+If a creature dies inside the jespaith, the creature’s
+body breaks up inside the jespaith. The jespaith keeps
+inside it anything the dead creature wore or carried.
+Spit (Recharge 5–6)
+. The jespaith spits poison and acid
+in a 90-foot line that is 10 feet wide. Each creature in that
+line must make a DC 18 Dexterity saving throw, taking 18
+(4d8) acid damage and 18 (4d8) poison damage on a failed
+save, or half as much damage on a successful one.
+Scarred Landscape
+. As the jespaith moves across the
+land, it damages all in its path. Burrowing in and out of
+the soil, it scars the landscape. Rocks and boulders lurch
+up from unknown depths, foliage turns dry and black,
+and the jespaith ploughs the ground, transforming it into
+a jumble of dirt, rock, and devastation.
+Vicious Destroyer
+. It’s believed that the jespaith is
+the strange incarnation of a fouled stretch of land. It’s
+an embodiment of poison, hate, and maybe infernal
+reagents given a semblance of life to despoil the earth
+further. Once it has risen, a jespaith doesn’t end its
+destruction until brave heroes put it down.
+Cloying Poison
+. While physically powerful, the
+jespaith is also a creature of poison and decay. A sickly
+haze clings to the creature in an effluvium of poison and
+corrupted, biting insect corpses. A jespaith can spew a jet
+of the congealed vapors as a concentrated acidic poison.
+Other times, this horror engulfs creatures within its
+body, gnashing them apart with its stone skeleton while
+allowing its poison to work.
+Undead Nature
+. A jespaith doesn’t require air, food,
+drink, or sleep.

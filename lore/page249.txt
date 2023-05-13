@@ -1,0 +1,60 @@
+249
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+P
+Tireless Trackers.
+ Pactbreakers have an instinctive 
+sense, instantly recognizing those who make infernal, 
+evil fey, or aberrant bargains. Those bound by such rules 
+set off the construct’s enhanced senses. A pactbreaker 
+uses this ability to relentlessly pursue any warlock or 
+fiendish thrall.
+Constructed Nature.
+ A pactbreaker doesn’t require 
+air, food, drink, or sleep.
+salvage
+The closest creature within 30 feet of a pactbreaker 
+when it is destroyed absorbs a portion of the construct’s 
+chaotic energy. If more than one creature is that close, 
+each creature rolls a d20. The creature that rolls the highest 
+or each creature that ties for highest gains the effects of a 
+potion of heroism
+.
+lore
+DC 10 Intelligence (History):
+ Pactbreakers are 
+constructs that hunt down mortal allies of fiends, evil 
+fey, and aberrations. They can sense beings bound by 
+bargains with such entities. Pactbreakers are resilient, 
+resistant to normal weapons that aren’t adamantine, 
+and resistant to magic.
+DC 15 Intelligence (Arcana
+)
+:
+ A pactbreaker can shift 
+its shape and weapon. This magic weapon disrupts 
+magic gained from supernatural contracts and pacts.
+DC 20 Intelligence (Religion):
+ A pactbreaker’s 
+weapon can adjust to exploit some of a foe’s weaknesses. 
+The construct can also fire a beam of force that grounds 
+flying creatures.
+GM Advice:
+ In the world of Grim Hollow, characters are going to 
+face powerful temptation to gain power through contracts with evil 
+or unscrupulous powers. Not only are there typical warlock pacts, 
+but there are some transformations granted through dealings with 
+unholy forces. The pactbreaker is a wonderful tool for the GM to 
+use to provide suitable consequences for those deals.
+Introducing a pactbreaker at lower levels, before the characters 
+are powerful enough to simply kill it, can make for a fun, recurring 
+threat that the characters must first escape from, and then later 
+deal with. The more toward evil the characters shift in their 
+behaviors with the campaign, the more frequently the pactbreakers 
+find and challenge them.

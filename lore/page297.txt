@@ -1,0 +1,38 @@
+297
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+S
+salvage
+Someone who has proficiency with alchemist’s supplies 
+can treat a seraph’s feather to create a charm against 
+falling. Creating the charm takes one celestial feather, 
+2 hours of work, and reagents worth 50 gp. When a 
+creature that carries or wears the charm falls more than 
+15 feet, the charm triggers, slowing the rate of descent to 
+60 feet per round. Provided the creature touches ground 
+again in 1 minute, the creature takes no falling damage 
+and can land on its feet. Once one charm triggers, no 
+other charm carried by the same creature triggers until 
+the magic from the first charm ends. After a charm 
+provides its magic for 1 minute or the user ceases 
+falling, the charm crumbles to inert dust.
+lore
+DC 10 Intelligence (Religion):
+ After the gods’ 
+disappearance, the Arch Seraphs descended upon 
+Etharis, seeking to impose their will and combat evil 
+in person. Angels and lesser celestials have come to 
+be a more common sight since then.
+DC 15 Intelligence (Religion):
+ An Arch Seraph can 
+gift a worthy mortal with the might of a lesser celestial. 
+These lesser celestials boast potent defenses and powers, 
+allowing them to rush headlong to battle those they view 
+as evil. Most lesser celestials are as uncompromising as 
+their Arch Seraph leaders.

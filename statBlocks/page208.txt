@@ -1,0 +1,86 @@
+208
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+M
+===
+Malefic Broker
+Medium fiend (devil), lawful evil
+Armor Class 15 (natural armor)
+Hit Points 135 (18d8 + 54)
+Speed 30 ft., fly 30 ft.
+str dex con int wis cha
+ 12 (+1) 16 (+3) 17 (+3) 16 (+3) 14 (+2) 19 (+4)
+Saving Throws
+Wis +5, Cha +7
+Skills
+Deception +7, Insight +5, Perception+5, Persuasion +7
+Damage Immunities fire, poison
+Damage Resistances
+cold; bludgeoning, piercing, and
+slashing from nonmagical attacks that aren’t silvered
+Condition Immunities charmed, poisoned
+Senses darkvision 120 ft. passive Perception 15
+Languages all, telepathy 120 ft.
+Challenge 8 (3,900 XP)
+Proficiency Bonus +3
+Devil’s Sight.
+Magical darkness doesn’t impede the
+malefic broker’s darkvision.
+Innate Spellcasting.
+The malefic broker’s spellcasting
+ability is Charisma (spell save DC 15). The malefic broker
+can innately cast the following spells, requiring no
+material components: At will: creeping touch, detect magic
+1/day each: charm person
+(1st),
+command
+(1st),
+dominate
+person
+(5th),
+invisibility
+(2nd, self only),
+shield
+(1st)
+Magic Resistance.
+The malefic broker has advantage
+on saving throws against spells and other magical effects.
+Soul Shards.
+The malefic broker has six soul shards.
+It can use soul shards to cast an innate spell it can’t
+normally cast again on a given day by spending soul
+shards equal to the level of the spell, as noted in the
+Innate Spellcasting trait.
+actions
+Multiattack.
+The malefic broker uses mindfire twice
+and puppeteer once.
+Mindfire.
+Melee or Ranged Spell Attack: +6 to hit, reach
+5 ft. or range 30/60 ft., one creature.
+Hit: 13 (3d8) fire
+damage and 13 (3d8) psychic damage, and the target
+ignites. Until a creature takes an action to douse the fire,
+the target takes 4 (1d8) fire damage and 4 (1d8) psychic
+damage at the start of each of its turns.
+Puppeteer.
+The malefic broker chooses one creature it
+can see within 120 feet of it. The target benefits from any
+protection it has against being charmed. The target must
+succeed on a DC 15 Wisdom saving throw or the malefic
+broker can immediately force the target to use its reaction
+to make an attack or use a cantrip against a target of the
+broker’s choice. If the target is ignited by Mindfire, and
+the attack or cantrip deals damage, the target takes that
+effect’s normal damage plus 4 (1d8) fire damage and 4
+(1d8) psychic damage.
+reactions
+Soul Siphon.
+If a living creature dies within 30 feet of
+the malefic broker, the fiend gains one soul shard.

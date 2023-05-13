@@ -1,0 +1,37 @@
+Skywailer
+“These things float silently at night. If you hear their 
+wail, it means someone you know is being eaten.”
+Floating Horrors.
+ Skywailers are aberrations like giant, 
+airborne jelly fish, sporting long tentacles. Covered in 
+bloated air sacs and humanoid faces, they emit a horrific 
+wailing noise when they manage to entrap prey. A sky-
+wailer usually drifts aimlessly, looking for food. If 
+it spots a likely morsel, it can jet forward rapidly.
+Psionic Manifestations.
+ Skywailers can also spit 
+psychically toxic ectoplasm. Useful at longer range than 
+the skywailer’s tentacles, the ectoplasm tendrils still 
+allow the skywailer to reel prey in. Once the monster 
+has one or more victims in its grasp, it emits a psionic 
+keening that can kill.
+salvage
+An airtight bladder can be used to collect the gas trapped 
+within a skywailer’s sacs, provided the creature capturing 
+the gas succeeds on a DC 15 Dexterity (Sleight of Hand) 
+check. One dose of this gas can be consumed, acting as a 
+potion of flying
+ that lasts for 1 minute. One skywailer has 
+enough gas for someone to collect 2d6 doses.
+lore
+DC 10 Intelligence (Nature):
+ Skywailers are floating, 
+multifaced monsters with tentacles to capture prey.
+DC 13 Intelligence (Arcana):
+ Skywailers can spit 
+ectoplasmic goo from their many mouths. The sticky 
+stuff addles the mind and grapples the body.
+DC 15 Intelligence (Arcana):
+ A skywailer’s wail is 
+a psionic shriek that blasts the mind of any creature the 
+skywailer holds grappled.

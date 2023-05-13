@@ -1,0 +1,33 @@
+===
+Tangle Weed
+Large plant, unaligned
+Armor Class 9
+Hit Points 51 (6d10 + 18)
+Speed 15 ft., swim 30 ft.
+str dex con int wis cha
+ 18 (+4) 9 (-1) 16 (+3) 1 (–5) 10 (+0) 1 (–5)
+Condition Immunities blinded, deafened,
+exhaustion, prone
+Senses blindsight 30 ft., passive Perception 10
+Languages –
+Challenge 1 (200 XP)
+Proficiency Bonus +2
+False Appearance
+. While the tangle weed remains
+motionless, it is indistinguishable from a normal plant.
+actions
+Constrict
+.
+Melee Weapon Attack
+: +6 to hit, reach 15 ft., one target.
+Hit
+: The target takes 8 (1d8 + 4) bludgeoning damage, and it is grappled (escape DC 14). Until this
+grapple ends, the target is restrained, and at the end of
+the tangle weed’s turn it pulls each creature grappled by
+it 5 feet toward its roots.
+reactions
+Whipping Strand
+. When a creature being grappled
+by the tangle weed is subject to an effect that moves it,
+the tangle weed can use its reaction to make another
+constrict attack against the creature.

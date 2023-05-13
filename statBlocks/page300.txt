@@ -1,0 +1,45 @@
+===
+the Bloodied
+Medium celestial, neutral good
+Armor Class 10 (natural armor)
+Hit Points 55 (10d8 + 10)
+Speed 20 ft.
+str dex con int wis cha
+ 8 (-1) 6 (-2) 13 (+1) 12 (+1) 19 (+4) 18 (+4)
+Saving Throws
+Wis +6, Cha +6
+Skills
+Insight +6, Perception +6
+Damage Vulnerabilities
+bludgeoning, piercing, slashing
+Damage Immunities radiant
+Condition Immunities charmed, exhaustion, frightened
+Senses blindsight 60 ft. (blind beyond this radius),
+passive Perception 16
+Languages Celestial, telepathy 120 ft.
+Challenge 4 (1,100 XP)
+Proficiency Bonus +2
+actions
+Peacemaking
+. The bloodied targets up to four hostile
+creatures it can see. Each must succeed on a DC 14 Charisma
+saving throw or be charmed by the bloodied for one
+minute. A creature charmed in this way is incapacitated
+and begins weeping uncontrollably until another creature
+uses its action to shake the creature out of it.
+Shared Sacrifice
+. The bloodied chooses an allied
+creature within 30 feet of it. Until the end of the bloodied’s
+next turn, the bloodied has resistance to all damage, and
+whenever the bloodied takes damage, the target creature
+takes damage equal to the damage dealt to the bloodied.
+reactions
+Ultimate End
+. The bloodied targets a single creature
+within 60 ft. that just attacked it. The target must succeed
+a DC 16 Wisdom saving throw or immediately take force
+damage equal to the bloodied’s current hit point total
+as the bloodied removes its chains. The bloodied dies
+instantly. On a success, the target takes half as much
+damage, and that damage cannot lower the target to less
+than 1 hp.

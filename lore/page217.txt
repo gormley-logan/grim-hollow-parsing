@@ -1,0 +1,39 @@
+Meyana
+“Some people eat only plants. A few plants 
+are happy to return the favor.”
+Hunting Plants.
+ Meyanas are bipedal plant creatures 
+that walk on leglike roots, and they can use tools they hold 
+in appendages resembling arms. These appendages end in 
+pincers that can hold and utilize tools.
+A meyana can be up to 7 feet tall. Its torso is most of 
+that, with a long, grasping frond that resembles a clam 
+shell. This torso frond is big enough to “swallow” an 
+adult human. Inside these fronds, meyanas digest flesh 
+into a nutrient goo the creature can absorb. A meyana 
+uses leftover bones as tools, weapons, or decorations.
+Several stalks grow out of a meyana’s body, and 
+the meyana uses these to sense the environment. (A 
+meyana has no head.) Holes in these stalks allow the 
+meyana to communicate with vocalizations. Most 
+meyanas speak Sylvan.
+Meyanas reproduce by shedding one mature “hand.” 
+This pod then grows into a new meyana. An infant starts 
+at about a foot long, but after feasting on meat, the baby 
+can grow to full size in 6 months.
+salvage
+Someone who has proficiency with alchemist’s supplies 
+can use the leaves of one adult meyana to brew a 
+potion 
+of greater healing
+. Doing so takes 4 hours of work and a 
+successful DC 13 Intelligence or Wisdom check.
+lore
+DC 10 Intelligence (Nature):
+ The woody, plantlike 
+structure of a meyana makes the creature resistant to 
+piercing damage. Anyone trapped in the plant’s central 
+body risks being quickly digested.
+DC 15 Intelligence (Nature):
+ Meyanas can sense the 
+footfalls of those moving on the ground.

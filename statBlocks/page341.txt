@@ -1,0 +1,91 @@
+341
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+T
+===
+Marie O’nett
+Small construct, chaotic evil
+Armor Class 13
+Hit Points 45 (10d6 + 10)
+Speed 30 ft.
+str dex con int wis cha
+10 (+0) 17 (+3) 12 (+1) 5 (–3) 10 (+0) 5 (–3)
+Skills
+Acrobatics +5
+Damage Immunities poison
+Condition Immunities charmed, exhaustion,
+frightened, paralyzed, petrified, poisoned
+Senses darkvision 60 ft., passive Perception 10
+Languages understands Sylvan but can’t speak
+Challenge 2 (450 XP)
+Proficiency Bonus +2
+Immutable Form.
+No effect can alter Marie
+O’Nett’s form.
+On Strings.
+Marie O’Nett can high jump up to 30 feet. It
+takes no falling damage when descending from this jump.
+Spellbinding Movement.
+When Marie O’Nett moves,
+it can choose one creature within 30 feet of and able to
+see it. That creature must succeed on a DC 11 Wisdom
+saving throw or take 3 (1d6) psychic damage and become
+charmed by Marie O’Nett until the end of Marie’s next
+turn or the target takes more damage. While charmed in
+this way, the creature’s speed is halved.
+actions
+Multiattack.
+Marie O’Nett makes two whip attacks.
+Whip.
+Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 5 (1d4 + 3) slashing damage. reactions
+Hoisted Escape.
+When Marie O’Nett ceases being
+grappled or restrained, such as when released from the
+toymaker’s bag, Marie high jumps up to 30 feet, evoking
+spellbinding movement.
+===
+Bloody Teddy
+Small construct, chaotic evil
+Armor Class 11 (natural armor)
+Hit Points 55 (10d6 + 20)
+Speed 30 ft.
+str dex con int wis cha
+ 15 (+2) 10 (+0) 14 (+2) 5 (–3) 10 (+0) 5 (–3)
+Skills
+Athletics +6
+Damage Immunities poison
+Condition Immunities charmed, exhaustion,
+frightened, paralyzed, petrified, poisoned
+Senses darkvision 60 ft., passive Perception 10
+Languages understands Sylvan but can’t speak
+Challenge 2 (450 XP)
+Proficiency Bonus +2
+Charge.
+If Bloody Teddy moves at least 20 feet straight
+toward a target and then hits it with a slam attack on the
+same turn, the target takes an extra 5 (2d4) bludgeoning
+damage. If the target is a creature, it must succeed on a
+DC 12 Strength saving throw or fall prone.
+Immutable Form.
+No effect can alter Bloody
+Teddy’s form.
+actions
+Multiattack
+. Bloody Teddy makes one bite attack and
+one slam attack.
+Bite.
+Melee Weapon Attack
+: +4 to hit, reach 5 ft., one target. Hit
+: 7 (2d4 + 2) piercing damage. Slam.
+Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) bludgeoning damage. reactions
+Released Rush.
+When Bloody Teddy ceases being
+grappled or restrained, such as when released from the
+toymaker’s bag, Bloody Teddy can move 20 feet and
+make one slam attack, using charge if able.

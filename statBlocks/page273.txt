@@ -1,0 +1,65 @@
+273
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+P
+===
+Putrid Giant
+Huge giant, chaotic evil
+Armor Class 13 (natural armor)
+Hit Points 161 (14d12 + 70)
+Speed 40 ft.
+str dex con int wis cha
+ 22 (+6) 8 (–1) 20 (+5) 5 (–3) 9 (–1) 5 (–3)
+Skills
+Perception +2
+Senses passive Perception 12
+Languages Giant
+Challenge 7 (2,900 XP)
+Proficiency Bonus +3
+Giant Brute.
+A melee or thrown weapon deals one
+extra die of its damage when the putrid giant hits with it
+(included in the attacks).
+Pox Euphoria.
+With its ability checks other than
+Intelligence checks and saving throws other than
+Constitution saves, the putrid giant rolls 1d4 and adds
+the number rolled to the result.
+Weeping Pox.
+A humanoid that comes within 5 feet
+of the putrid giant or anything it has recently held
+must succeed on a DC 15 Constitution saving throw or
+contract Weeping Pox. If a humanoid succeeds on the
+saving throw, it’s immune to the disease for 24 hours.
+A humanoid infected with the disease must repeat the
+saving throw every 24 hours, increasing its exhaustion
+level by one on a failure. This exhaustion can’t be
+reduced until the disease is cured. The disease can be
+cured only with magic.
+Until the first level of exhaustion sets in, however,
+the humanoid has sharpened senses and a sense of
+wellbeing. Whenever this humanoid makes an ability
+check or saving throw against anything other than the
+disease, they can roll a d4 and add the number rolled
+to the ability check or saving throw. A slight fever and
+overexcitement are the only signs this condition comes
+from Weeping Pox.
+actions
+Multiattack.
+The giant makes two greatclub attacks.
+Greatclub.
+Melee Weapon Attack: +9 to hit, reach 10 ft.,
+one target.
+Hit: 24 (4d8 + 6) bludgeoning damage and
+Weeping Pox.
+Rock.
+Ranged Weapon Attack: +9 to hit, range 60/120 ft.,
+one target.
+Hit: 28 (4d10 + 6) bludgeoning damage and
+Weeping Pox.

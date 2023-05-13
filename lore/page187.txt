@@ -1,0 +1,42 @@
+187
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+L
+salvage
+A leeching willow is potent and powerful while inside 
+of its protective tree form, but when severed from it 
+and extracted, it’s as weak and feeble as newborn lamb. 
+The greatest treasure one can get from the aberration 
+is the incredible font of knowledge it possesses about 
+humanoids it has fed from. 
+A book made from the pulp of the tree containing 
+the aberration can be made into a 
+tome of clear thought
+. 
+This process requires a successful DC 20 Intelligence 
+(Arcana) check from a proficient bookmaker or sage, as 
+well as 5000 gp of ink and other rare components used 
+over 15 days.
+lore
+DC 10 Wisdom (Perception)
+: The air around you is 
+sweet and delectable, it feels fresh as if you were high 
+on a mountain. It’s not a fragrance you recognize, and it 
+doesn’t smell like any food you have experience before, 
+but it smells delicious all the same.
+DC 15 Wisdom (Medicine)
+: The villager you see looks 
+sickly and tired, as if they haven’t got a good night’s rest 
+in over a week. Their muscles have deteriorated from 
+lack of use, and they show no motivation for life or work.
+DC 20 Intelligence (Arcana)
+: The spores in the air are 
+magical in nature, and they give a psychic connection 
+between those infected by the spores and the tree that 
+emits the spores.

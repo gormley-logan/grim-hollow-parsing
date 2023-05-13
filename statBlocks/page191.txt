@@ -1,0 +1,96 @@
+===
+Lich Troll
+Large undead, chaotic evil
+Armor Class 16 (natural armor)
+Hit Points 133 (14d10 + 56)
+Speed 30 ft.
+str dex con int wis cha
+ 18 (+4) 14 (+2) 18 (+4) 15 (+2) 13 (+1) 12 (+1)
+Saving Throws
+Con +9, Int +7, Wis +6
+Skills
+Arcana +7, History +7, Insight +6, Perception +6
+Damage Immunities fire, poison
+Damage Resistances
+cold, necrotic
+Condition Immunities charmed,
+exhaustion, poisoned
+Senses truesight 60 ft., passive Perception 16
+Languages the languages it knew in life and Giant
+Challenge 14 (11,500 XP)
+Proficiency Bonus +5
+Legendary Resistance (2/Day).
+If the lich troll fails a
+saving throw, it can choose to succeed instead.
+Regeneration.
+The lich troll regains 15 hit points at
+the start of its turn. If the lich troll takes acid or radiant
+damage, this trait doesn’t function until the start of the
+lich troll’s next turn. The lich troll dies only if it starts its
+turn with 0 hit points and doesn’t regenerate.
+Spellcasting
+. The lich troll is an 11th-level spellcaster.
+Its spellcasting ability is Intelligence (spell save DC 15,
++7 to hit with spell attacks). The lich troll has the following
+wizard spells prepared: Cantrips (at will): chill touch, mage hand, prestidigitation,
+ray of frost
+1st level (4 slots): detect magic, magic missile, shield, thunderwave
+2nd level (3 slots): detect thoughts, invisibility,
+mirror image, misty step
+3rd level (3 slots): animate dead, counterspell, dispel magic
+,
+haste
+4th level (3 slots): blight, dimension door
+5th level (2 slots): cloudkill, scrying
+6th level (1 slot): create undead
+actions
+Multiattack.
+The lich troll makes two claw attacks.
+Alternately, the lich troll can cast chill touch or ray of
+frost twice.
+Claw.
+Melee Weapon Attack
+: +9 to hit, reach 5 ft., one target. Hit
+: 11 (2d6 + 4) slashing damage plus 7 (2d6) cold damage. legendary actions
+The lich troll can take 2 legendary actions, choosing from
+the options here. Only one legendary action can be used
+at a time and only at the end of another creature’s turn.
+The lich troll regains spent legendary actions at the start
+of its turn.
+Cantrip.
+The lich troll casts a cantrip.
+Claw.
+The lich troll makes a claw attack.
+===
+Zombie Troll
+Large undead, neutral evil
+Armor Class 14 (natural armour, shield)
+Hit Points 85 (9d10+36)
+Speed 30 ft.
+str dex con int wis cha
+ 19 (+4) 6 (-2) 18 (+4) 3 (-4) 6 (-2) 5 (-3)
+Damage Immunities poison
+Damage Resistances
+cold, necrotic
+Condition Immunities poisoned
+Senses darkvision 60ft, passive Perception 8
+Languages understands Giant but can’t speak
+Challenge 4 (1,100 XP)
+Proficiency Bonus +2
+Regeneration.
+The zombie troll regains 10 hit points
+at the start of its turn. If the zombie troll takes acid or
+radiant damage, this trait doesn’t function at the start of
+the zombie troll’s next turn. The zombie troll dies only if
+it starts its turn with 0 hit points and doesn’t regenerate.
+actions
+Multiattack.
+The zombie troll makes two attacks.
+Morningstar.
+Melee Weapon Attack: +6 to hit, reach 5 ft.,
+one target.
+Hit: 13 (2d8 + 4) bludgeoning damage.
+Unrelenting Brute.
+If a creature is hit by both
+morningstar attacks, the creature must take a DC 14
+Strength saving throw or be knocked prone.

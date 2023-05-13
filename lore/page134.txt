@@ -1,0 +1,89 @@
+134
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+G
+Gnolls
+“I never believed the rumors about the Beast and how it could 
+change people. Then I saw how everyone at the logging camp had 
+been transformed. It had to be a power even greater than a god’s.”
+Beast Cursed.
+ Gnolls aren’t a naturally occurring 
+species. Instead, they’re other humanoids mutated due 
+to the influence of the Beast. This power transforms its 
+victims into raving monsters bent on destruction. Gnolls 
+keep their humanoid shape, but the head becomes like 
+that of a jackal, and they grow fur, fangs, and claws. The 
+brain changes, as well, allowing gnolls to communicate 
+in their own twisted language.
+Roving Warbands.
+ Gnolls have become incapable of 
+civilized behavior; their driving instinct is wanton de-
+struction. They join other “children” of the Beast, forming 
+warbands that swarm across the countryside, killing 
+and eating every living creature in their path. Within the 
+warband is a loose social structure based on strength and 
+an instinctual recognition of other Beast-bound creatures.
+Continual Transformation.
+ A gnoll is the first stage 
+in a continuing mutation process. Gnolls that eat enough 
+raw flesh and drink enough blood can mutate into other 
+forms. A gnoll might grow spikes from their spinal 
+column, and these spikes can be removed and thrown 
+like darts. Other gnolls ooze poison from these spikes 
+and might gain other abilities. Rare gnolls even grow 
+batlike wings.
+salvage
+The spine spikes of a venomous gnoll can be fashioned into 
+four arrows, bolts, or darts. Someone who has proficiency 
+with smith’s tools or tinker’s tools can make these projectiles 
+in 4 hours. Each time one of these projectiles hits a target, 
+the target takes an extra 1d4 poison damage, but if the 
+d20 on the attack roll is a 1 or an even number other than 
+20, the projectile ceases to be poisonous.
+Someone who has proficiency with alchemist’s supplies 
+can use the saliva glands from two gnoll brutes or one 
+rampage gnoll to create a 
+potion of growth
+. The glands 
+must be harvested by someone who has proficiency in 
+the Medicine skill, and doing so requires a successful DC 
+13 Wisdom (Medicine) check. These glands must be used 
+within 3 days or they go bad, although a 
+gentle repose
+spell cast on the glands makes them last for that spell’s 
+duration. Making the potion requires 1 day of work and 
+reagents worth 25 gp.
+The wings of a rampage gnoll can be used to fashion 
+bat 
+wings of flying
+. Someone who has proficiency in 
+leatherworker’s tools can make this cloak in 5 days, 
+using reagents worth 500 gp. Somebody must cast 
+fly
+on the cloak on three out of the five days of its making. 
+These wings give you a fly speed of only 40 feet, but 
+they can be used once every 1d8 hours.
+lore
+DC 10 Intelligence (Arcana):
+ Gnolls were once 
+normal humanoids, but they have been mutated by the 
+power of the Beast.
+DC 10 Intelligence (Nature):
+ Some gnolls use spikes 
+that grow from their bones, usually the spine, as projectiles. 
+Different gnolls have different mutations, though, and 
+some of these spikes are poisonous. The strongest mutants 
+develop wings and infect the minds of those nearby with 
+bloodthirsty fury.
+DC 15 Intelligence (History):
+ Gnolls form bands 
+along with other mutated creatures to rampage across 
+their region. The gnolls eat the flesh and drink the blood 
+of any living things they kill. They speak to each other in 
+their own language of howls, snarls, and grunts.

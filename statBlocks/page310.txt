@@ -1,0 +1,53 @@
+310
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+S
+===
+Sleep Gulper
+Tiny fey, chaotic evil
+Armor Class 12
+Hit Points 35 (10d4 + 10)
+Speed 20 ft., climb 15 ft., fly 30 ft., swim 20 ft.
+str dex con int wis cha
+ 12 (+1) 15 (+2) 14 (+2) 2 (–4) 14 (+2) 1 (–5)
+Skills
+Perception +4
+Damage Resistances
+bludgeoning, piercing, and
+slashing from nonmagical attacks not made with
+silvered weapons
+Damage Immunities poison
+Condition Immunities poisoned
+Senses blindsight 30 ft., passive Perception 14
+Languages understands Sylvan but can’t speak
+Challenge 1 (200 XP)
+Proficiency Bonus +2
+Amphibious
+. The sleep gulper can breathe both air
+and water.
+Spider Climb
+. The sleep gulper can climb difficult
+surfaces, including upside down on ceilings, without
+needing to make an ability check.
+actions
+Stinger
+.
+Melee Weapon Attack
+: +4 to hit, reach 5 ft., one target.
+Hit
+: 4 (1d4+2) piercing damage, and the target must succeed on a DC 12 Constitution saving throw
+or be paralyzed for 1 minute. At the end of each turn,
+the target can repeat the Constitution save, ending the
+paralyzed condition on a success.
+Drain Essence
+.
+Melee Weapon Attack
+: +4 to hit, reach 5 ft., one paralyzed target.
+Hit
+: 4 (1d4+2) piercing damage, and this creature heals half the amount of damage dealt.

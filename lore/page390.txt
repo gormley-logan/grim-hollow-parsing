@@ -1,0 +1,55 @@
+390
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+Dreamer Vampire
+“It moved in an eerie pattern, stumbling with some steps, as 
+graceful as a dancer with others. It called to mind my mother, before 
+and after she fell ill. Then, I realized I was alone in the dark.”
+Nightmare Feaster.
+ Dreamer vampires take their 
+sustenance from nightmares, visiting sleeping mortals and 
+inflicting night terrors. When close to a sapient creature, a 
+dreamer vampire can plunge that victim into an illusory 
+nightmare world and feast upon the victim’s terror.
+Dream Voices.
+ A young or older dreamer vampire com-
+municates and moves in enigmatic ways. Their mind taps 
+the dream world regularly, and the vampire filters useful 
+information that often comes in a cryptic form. Dreamer 
+vampires have been known to accurately predict coming 
+events, especially catastrophes, despite possessing no skill 
+in divination magic.
+salvage
+The brain of a young or older dreamer vampire has a 
+connection to nightmares and bizarre prescience. Someone 
+who has proficiency with alchemist’s supplies or cook’s 
+utensils can prepare the brain according to a fabled recipe. 
+Doing so requires other ingredients worth 250 gp, and the 
+preparer must succeed on a DC 13 Intelligence or Wisdom 
+check. If the process is successful, the brain produces four 
+portions, and each portion makes the eater impossible to 
+surprise for 24 hours. An improperly prepared brain has 
+only the deleterious effect of eating a vampire body part.
+A spellcaster can eat the whole properly prepared 
+brain of an adult or older dreamer vampire as part of 
+casting the 
+foresight
+ spell. Doing so extends the spell’s 
+casting time to 10 minutes but increases the spell’s 
+duration to 24 hours.
+lore
+DC 15 Intelligence (Religion):
+ A dreamer vampire 
+is as connected to dreams as a living dreamer, but the 
+vampire prefers nightmares.
+DC 20 Intelligence (History):
+ Dreamer vampires 
+damage the mind more than the body when they feed. 
+They can create a nightmare dreamscape to drain victims 
+of psychic energy.

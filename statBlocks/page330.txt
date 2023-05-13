@@ -1,0 +1,40 @@
+330
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+S
+===
+Svangras
+Tiny plant, unaligned
+Armor Class 10
+Hit Points 5 (2d4)
+Speed 10 ft.
+str dex con int wis cha
+ 1 (–5) 10 (+0) 10 (+0) 1 (–5) 6 (–2) 1 (–5)
+Condition Immunities blinded, deafened, frightened
+Senses blindsight 30 ft. (blind beyond this radius),
+passive Perception 8
+Languages —
+Challenge 0 (10 XP)
+Proficiency Bonus +2
+False Appearance.
+While the svangras remains
+motionless, it is indistinguishable from an ordinary
+wild onion.
+actions
+Tendril.
+Melee Weapon Attack: +2 to hit, reach 5 ft., one
+target.
+Hit: 2 (1d4) necrotic damage.
+Sapping Grass (1/Day).
+Each nonplant creature on
+the ground within 20 feet of the svangras must succeed
+on a DC 10 Constitution saving throw or take 5 (2d4)
+necrotic damage. Those who fail by 5 or more also gain
+one level of exhaustion. If the svangras uses this action
+while motionless, it doesn’t give up its false appearance.

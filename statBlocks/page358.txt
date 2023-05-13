@@ -1,0 +1,120 @@
+===
+Wechselkind Glamourist
+Small humanoid (wechselkind), any alignment
+Armor Class 15 (studded leather)
+Hit Points 45 (10d6 + 10)
+Speed 25 ft.
+str dex con int wis cha
+ 8 (–1) 17 (+3) 13 (+1) 15 (+2) 10 (+0) 14 (+2)
+Skills
+Acrobatics +5, Arcana +4, Deception +4,
+Perception +2, Sleight of Hand +5, Stealth +5
+Damage Resistances
+poison
+Senses passive Perception 12
+Languages Sylvan and one other language
+Challenge 3 (700 XP)
+Proficiency Bonus +2
+Artificial Form.
+The wechselkind glamourist has
+advantage on saving throws against poison and is
+immune to disease. It doesn’t need to eat, drink, or breathe.
+Childish Agility.
+The wechselkind glamourist can
+move through the space of any creature larger than it is.
+Cunning Action.
+The wechselkind glamourist can use a
+bonus action to take the Dash, Disengage, or Hide action.
+Faerie Glamour.
+The wechselkind glamourist can cast
+disguise self
+at will. Charisma is its spellcasting ability
+(spell save DC 12). When it does so, it can disguise itself
+only as the humanoid child it was created to replace.
+Sneak Attack (1/Turn).
+The wechselkind glamourist
+deals an extra 17 (5d6) damage when it hits a target with
+a weapon attack and has advantage on the attack roll, or
+when the target is within 5 feet of an ally of the wechsel-
+kind that isn’t incapacitated and the wechselkind doesn’t
+have disadvantage on the attack roll.
+Spellcasting.
+The wechselkind glamourist is a 10th-
+level spellcaster. Its spellcasting ability is Intelligence
+(spell save DC 13, +5 to hit with spell attacks). The
+glamourist knows the following wizard spells: Cantrips (at will): mage hand
+(invisible),
+minor illusion
+,
+prestidigitation
+,
+ray of frost
+1st level (4 slots): charm
+person
+,
+color spray
+,
+disguise self
+,
+silent image
+2nd level (3 slots): blur
+,
+invisibility
+,
+suggestion
+actions
+Rapier.
+Melee Weapon Attack: +5 to hit, reach 5 ft.,
+one target.
+Hit: 7 (1d8 + 3) piercing damage.
+===
+Wechselkind Cutpurse
+Small humanoid (wechselkind), any alignment
+Armor Class 13
+Hit Points 18 (4d6 + 4)
+Speed 25 ft.
+str dex con int wis cha
+ 9 (–1) 17 (+3) 12 (+1) 10 (+0) 12 (+1) 13 (+1)
+Skills
+Acrobatics +5, Perception +3, Sleight of Hand +5
+Damage Resistances
+poison
+Senses passive Perception 13
+Languages Sylvan and one other language
+Challenge 1/2 (100 XP)
+Proficiency Bonus +2
+Artificial Form.
+The wechselkind cutpurse has advan-
+tage on saving throws against poison and is immune to
+disease. It doesn’t need to eat, drink, or breathe.
+Childish Agility.
+The wechselkind cutpurse can move
+through the space of any creature larger than it is.
+Cunning Action.
+The wechselkind cutpurse can use a
+bonus action to take the Dash, Disengage, or Hide action.
+Faerie Glamour.
+The wechselkind cutpurse can cast
+disguise self
+at will. Charisma is its spellcasting ability
+(spell save DC 11). When it does so, it can disguise itself
+only as the humanoid child it was created to replace.
+Sneak Attack (1/Turn).
+The wechselkind cutpurse
+deals an extra 3 (1d6) damage when it hits a target with
+a weapon attack and has advantage on the attack roll, or
+when the target is within 5 feet of an ally of the wechsel-
+kind that isn’t incapacitated and the wechselkind doesn’t
+have disadvantage on the attack roll.
+actions
+Dagger.
+Melee or Ranged Weapon Attack: +5 to hit,
+reach 5 ft. or range 20/60 ft., one target.
+Hit: 5 (1d4 + 3)
+piercing damage.
+artisans must succeed on a DC 10 Intelligence or Wisdom
+check. The result is a compass needle that points to the
+nearest path to fey realms within 10 miles. The compass
+needle loses this magical ability after 1 year and 1 day.
+The charge can be renewed by treating the needle again
+with alchemical reagents worth 50 gp.

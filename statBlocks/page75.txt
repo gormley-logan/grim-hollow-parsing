@@ -1,0 +1,112 @@
+===
+Tormach Cultist
+Medium humanoid (any race), chaotic evil
+Armor Class 13 (studded leather armor)
+Hit Points 16 (3d8 + 3)
+Speed 30 ft.
+str dex con int wis cha
+	13	(+1)	12	(+1)	13	(+1)	10	(+0)	11	(+0)	10	(+0)
+Skills
+Intimidation +2
+Senses passive Perception 10
+Languages one national language
+Challenge 1/2 (100 XP)
+Proficiency Bonus +2
+Rampage.
+When the Tormach cultist reduces a creature
+to 0 hit points with a melee attack on its turn, the cultist
+can take a bonus action to move up to half its speed and
+make a melee attack.
+actions
+Multiattack.
+The Tormach cultist uses frightening
+scream and makes two handaxe attacks.
+Handaxe.
+Melee or Ranged Weapon Attack: +4 to hit,
+reach 5 ft. or range 20/60 ft., one target.
+Hit: 4 (1d6 + 1)
+slashing damage.
+Frightening Scream.
+Each creature of the Tormach
+cultist’s choice within 20 feet of and able to hear the
+cultist must succeed on a DC 10 Wisdom saving throw or
+become frightened until the end of the cultist’s next turn.
+If a creature’s saving throw is successful, the creature
+is immune to the Frightening Scream of all Tormach
+cultists for the next 24 hours.
+===
+Tormach Zealot
+Medium humanoid (any race), chaotic evil
+Armor Class 16 (scale mail)
+Hit Points 44 (8d8 + 8)
+Speed 30 ft.
+str dex con int wis cha
+	11	(+0)	14	(+2)	13	(+1)	13	(+1)	12	(+1)	15	(+2)
+Skills
+Deception +4, Insight +3, Intimidation +4,
+Performance +4, Persuasion +4, Religion +3
+Senses passive Perception 11
+Languages two national languages
+Challenge 3 (700 XP)
+Proficiency Bonus +2
+Blood-Soaked Inspiration.
+When the Tormach
+zealot deals damage on its turn, it can use a bonus action
+to choose one creature within 60 feet of it. Provided that
+creature can see or hear the zealot, the creature adds 1d6
+to one ability check, attack roll, or saving throw it makes
+before the end of its next turn.
+Spellcasting.
+The Tormach zealot is a 4th-level
+spellcaster. Its spellcasting ability is Charisma (spell
+save DC 12). The Tormach zealot knows the following
+bard spells: Cantrips (at will): true strike, vicious mockery
+1st level (4 slots): bane, faerie fire, heroism, thunderwave
+2nd level (3 slots): enhance ability, heat metal, shatter
+actions
+Whip.
+Melee Weapon Attack: +4 to hit, reach 10 ft., one
+target.
+Hit: 4 (1d4 + 2) slashing damage. If the target
+is a creature, it must succeed on a DC 12 Strength or
+Dexterity saving throw (target’s choice) or move back
+5 feet or fall prone (zealot choice).
+championof tormach
+Large humanoid (any race), chaotic evil
+Armor Class 17 (splint)
+Hit Points 65 (10d8 + 20)
+Speed 30 ft.
+str dex con int wis cha
+	17	(+3)	10	(+0)	14	(+2)	10	(+0)	13	(+1)	15	(+2)
+Skills
+Athletics +5, Insight +3, Intimidation +4,
+Perception +3
+Senses passive Perception 13
+Languages two national languages
+Challenge 4 (1,100 XP)
+Proficiency Bonus +2
+Protection Aura.
+Creatures of the champion of Tor-
+mach’s choice within 10 ft. of the champion, including the
+champion, gain a +2 bonus to saving throws. The champion
+must be conscious to grant this bonus. A creature can
+benefit from only one such aura at a time.
+Smite.
+When the champion of Tormach hits with a melee
+weapon attack, it can expend one spell slot to deal extra
+necrotic damage. The extra damage is 9 (2d8) for a 1st-level
+spell slot and 13 (3d8) for a 2nd-level one.
+Spellcasting.
+The champion of Tormach is a 5th-lev-
+el spellcaster. Its spellcasting ability is Charisma (spell
+save DC 12). The champion has the following paladin
+spells prepared: 1st level (4 slots): bane, hunter’s mark
+2nd level (2 slots): magic weapon, misty step
+actions
+Multiattack.
+The champion of Tormach makes two
+battleaxe attacks.
+Battleaxe.
+Melee Weapon Attack: +5 to hit, reach 5 ft.,
+one target.
+Hit: 12 (2d8 + 3) slashing damage.

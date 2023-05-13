@@ -1,0 +1,41 @@
+===
+Tallow Toad
+Tiny construct, unaligned
+Armor Class 12
+Hit Points 17 (5d4 + 5)
+Speed 25 ft.
+str dex con int wis cha
+	8	(–1)	14	(+2)	12	(+1)	2	(–4)	9	(–1)	5	(–3)
+Damage Immunities poison
+Damage Resistances
+cold
+Condition Immunities charmed, exhaustion, poisoned
+Senses darkvision 60 ft., passive Perception 9
+Languages —
+Challenge 1/4 (50 XP)
+Proficiency Bonus +2
+Death Burst
+. When the tallow toad dies, it explodes in
+a shower of hot wax. Each creature within 5 feet of the
+toad must succeed on a DC 11 Dexterity saving throw or
+take 3 (1d6) fire damage.
+Illumination.
+The tallow toad sheds dim light in a
+10-foot radius.
+Water Weakness
+. If the tallow toad is doused in water
+or ends its turn submerged in water, the toad takes 3 (1d6)
+acid damage. Maximize this damage if the water is soapy.
+actions
+Fire Tongue
+.
+Melee Weapon Attack
+: +4 to hit, reach 5 ft., one target.
+Hit
+: 7 (2d4 + 2) fire damage. Spit.
+Ranged Weapon Attack
+: +4 to hit, range 20/60 ft., one target.
+Hit
+: 7 (2d4 + 2) fire damage. The target takes half the original damage again at the end of its next turn.
+Any creature can use an action to remove the hot wax,
+preventing the extra damage.

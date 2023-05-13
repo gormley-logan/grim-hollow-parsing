@@ -1,0 +1,122 @@
+370
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+W
+===
+Wretched Driver
+Medium undead, chaotic neutral
+Armor Class 13
+Hit Points 65 (10d8 + 20)
+Speed 30 ft.
+str dex con int wis cha
+ 14 (+2) 16 (+3) 14 (+2) 10 (+0) 12 (+1) 14 (+2)
+Skills
+Acrobatics +5, Athletics +4
+Damage Immunities poison
+Condition Immunities exhaustion, poisoned
+Senses darkvision 60 ft., passive Perception 11
+Languages the languages it knew in life
+Challenge 3 (700 XP)
+Proficiency Bonus +2
+Angry Driving.
+The wretched driver can use a bonus
+action to control a vehicle. When the driver does so, it
+can drive recklessly, forcing other creatures on the same
+vehicle to succeed on a DC 13 Dexterity saving throw or
+fall prone.
+actions
+Multiattack.
+The wretched driver makes two rapier
+attacks. It can replace either attack with a cursed shout.
+Rapier.
+Melee Weapon Attack: +5 to hit, reach 5 ft., one
+target.
+Hit: 7 (1d8 + 3) piercing damage and 5 (2d4)
+necrotic damage.
+Cursed Shout.
+One creature of the wretched driver’s
+choice within 30 feet of and able to hear the driver must
+succeed on a DC 12 Charisma saving throw or take 10
+(3d6) psychic damage and become frightened until the
+start of the driver’s next turn.
+wretched masterof ceremonies
+Medium undead, chaotic neutral
+Armor Class 14 (natural armor)
+Hit Points 97 (15d8 + 30)
+Speed 30 ft.
+str dex con int wis cha
+ 11 (+0) 17 (+3) 14 (+2) 12 (+1) 15 (+2) 18 (+4)
+Skills
+Deception +7, Insight +5, Perception +5,
+Persuasion +7
+Damage Immunities poison
+Condition Immunities exhaustion, poisoned
+Senses darkvision 60 ft., passive Perception 15
+Languages the languages it knew in life
+Challenge 5 (1,800 XP)
+Proficiency Bonus +3
+Innate Spellcasting.
+The wretched master of
+ceremonies’ innate spellcasting ability is Charisma (spell
+save DC 15). It can innately cast the following spells,
+requiring no material components: At will: disguise self
+,
+misty step
+Jubilant Thralls (Recharges after a Short or
+Long Rest).
+Humanoids of the
+wretched master of
+ceremonies’ choice able to hear and within 30 feet of
+the master must make a DC 15 Charisma saving throw
+or become charmed. A creature fighting the master has
+advantage on this saving throw. A charmed target is
+incapacitated, has a speed of 0, and has disadvantage
+on Wisdom (Perception) checks made to perceive any
+creature other than the master for 1 minute, or until the
+target takes damage or can no longer hear the master.
+The effect ends if the master is incapacitated or can no
+longer speak. Those who remain charmed for 1 minute
+are no longer incapacitated and return to their normal
+speed. However, they remain charmed and regard the
+master as someone to be heeded and protected, taking
+the master’s requests and actions in the most favorable
+way possible. Charmed targets protect the master and
+interfere with those trying to harm the master, but they
+take great risks only if such bravery or foolishness is part
+of their normal nature.
+Each time anything harmful happens to a target, it can
+repeat the saving throw, ending the effect on itself on
+a success. Otherwise, the effect lasts 1 hour or until the
+master is destroyed, is on a different plane of existence
+than the target, or takes a bonus action to end the effect
+on one or more targets.
+Turning Defiance.
+The wretched master of ceremonies
+and any undead within 30 feet of it have advantage on
+saving throws against effects that turn undead.
+actions
+Multiattack.
+The wretched master of ceremonies
+makes two whip attacks. It can replace either attack with
+macabre direction.
+Whip.
+Melee Weapon Attack: +6 to hit, reach 10 ft., one
+target.
+Hit: 5 (1d4 + 3) slashing damage and 10 (3d6)
+psychic damage. If the target is a creature, the wretched
+master of ceremonies moves it up to 10 feet to another
+unoccupied space within the master’s reach.
+Macabre Direction.
+One creature of the wretched
+master of ceremonies’ choice within 30 feet of and able to
+hear the master must succeed on a DC 15 Charisma saving
+throw or become charmed until the start of the master’s
+next turn. The master can use the target’s reaction to
+force it to make one weapon attack or cast one cantrip it
+knows at a target of the master’s choice.

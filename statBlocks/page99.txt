@@ -1,0 +1,103 @@
+99
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+D
+===
+Living Nightmare
+Medium undead, neutral evil
+Armor Class 13
+Hit Points 55 (10d8 + 10)
+Speed 0 ft., fly 50 ft. (hover)
+str dex con int wis cha
+	8	(–1)	16	(+3)	12	(+1)	10	(+0)	14	(+2)	16	(+3)
+Damage Immunities poison
+Damage Resistances
+acid, cold, fire, lightning,
+necrotic, thunder; bludgeoning, piercing, and slashing
+from nonmagical attacks
+Condition Immunities exhaustion, frightened, grappled,
+paralyzed, petrified, poisoned, prone, restrained
+Senses darkvision 60 ft., passive Perception 12
+Languages understands all languages but can’t speak
+Challenge 4 (1,100 XP)
+Proficiency Bonus +2
+Incorporeal Movement.
+The living nightmare can
+move through other creatures and objects as if they were
+difficult terrain. It takes 5 (1d10) force damage if it ends
+its turn inside an object.
+Nimble Escape.
+The living nightmare can use a bonus
+action to take the Disengage or Hide action.
+Innate Spellcasting.
+The living nightmare’s innate
+spellcasting ability is Charisma (spell save DC 13). It can
+innately cast the following spells, requiring no components: At will: minor illusion
+,
+silent image
+3/day each: major image
+,
+phantasmal force
+1/day each: confusion
+,
+phantasmal killer
+actions
+Multiattack.
+The living nightmare makes two
+nightmare strikes.
+Nightmare Strike.
+Melee or Ranged Spell Attack
+: +5 to hit, reach 5 ft. or range 60 ft., one creature.
+Hit: 12 (2d8 + 3) psychic damage, and the target is
+frightened of the living nightmare until the end of
+the living nightmare’s next turn.
+===
+Katoche
+Huge undead, chaotic neutral
+Armor Class 14
+Hit Points 127 (15d12 + 30)
+Speed 0 ft., fly 60 ft. (hover)
+str dex con int wis cha
+	10	(+0)	18	(+4)	14	(+2)	10	(+0)	14	(+2)	18	(+4)
+Saving Throws
+Wis +5
+Damage Immunities poison
+Damage Resistances
+acid, cold, fire, lightning,
+necrotic, thunder; bludgeoning, piercing, and slashing
+from nonmagical attacks
+Condition Immunities charmed, exhaustion, frightened,
+grappled, paralyzed, petrified, poisoned, prone, restrained
+Senses darkvision 60 ft., passive Perception 12
+Languages understands all languages but can’t speak
+Challenge 8 (3,900 XP)
+Proficiency Bonus +3
+Incorporeal Movement.
+The katoche can move
+through other creatures and objects as if they were
+difficult terrain. It takes 5 (1d10) force damage if it
+ends its turn inside an object.
+actions
+Multiattack.
+The katoche makes three
+bewildering strikes.
+Bewildering Strike.
+Melee or Ranged Spell Attack
+: +7 to hit, reach 5 ft. or range 60 ft., one creature.
+Hit: 17
+(3d8 + 4) psychic damage, and the target is affected as
+if by a
+confusion
+spell during its next turn.
+reactions
+Separate.
+When a katoche falls to 60 or fewer hit points,
+it splits into one living dream and one living nightmare.
+Each new creature has hit points equal to half the kato-
+che’s, rounded down.

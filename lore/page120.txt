@@ -1,0 +1,35 @@
+Fiendish Contractors
+“I knew when she pulled out a gold pen reeking of 
+brimstone that I was making a mistake.”
+Dark Deals.
+ The denizens of the Netherworld have 
+been vying for influence over the mortal world for an 
+eternity. With the disappearance of the gods, the Arch 
+Daemons saw their opportunity. Recent years have seen 
+an explosion of fiendish activity in Etharis, a large part 
+of which involves the forging of fiendish pacts and the 
+recruitment of agents.
+Devil in the Details.
+ The primary way for fiends to gain 
+power and progress through the infernal hierarchy is by 
+contracts. Mortals sign these contracts in return for fame, 
+fortune, or some other benefit. In return, the fiend gains the 
+ability to draw upon that contract as a source of power.
+salvage
+Aspiring fiends often possess special materials used in 
+the drafting of infernal contracts. These include special 
+inks and parchment worth up to 200 gp. These materials 
+can also be used for scribing new spells into a spell book 
+or crafting magic scrolls. Any existing contracts on the 
+fiend’s person burst into flames upon its death, which 
+might damage other items.
+lore
+DC 10 Intelligence (History):
+ Fiends, or mortals 
+taking on fiendish traits, can be found in every corner of 
+Etharis, working their wiles on those foolish enough to 
+sign one of their contracts. They are clever, deceitful, and 
+evil to the core.
+DC 15 Intelligence (Religion):
+ A fiend’s power 
+and status are directly tied to the number and quality 

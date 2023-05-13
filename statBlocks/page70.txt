@@ -1,0 +1,64 @@
+===
+Corpse Walker
+Medium undead, neutral evil
+Armor Class 14 (natural armor)
+Hit Points 82 (11d8 + 33)
+Speed 30 ft.
+str dex con int wis cha
+	16	(+3)	13	(+1)	17	(+3)	6	(–2)	10	(+0)	6	(–2)
+Saving Throws
+Con +6, Wis +3
+Damage Immunities necrotic, poison
+Damage Resistances
+bludgeoning, piercing, and
+slashing from nonmagical attacks that aren’t silvered
+Condition Immunities exhaustion, poisoned
+Senses darkvision 60 ft., passive Perception 10
+Languages understands languages it knew in life but
+can’t speak
+Challenge 6 (2,300 XP)
+Proficiency Bonus +3
+Cursed Gaze.
+A humanoid that starts its turn within 30 ft.
+of and able to see the corpse walker must succeed on a DC
+14 Charisma saving throw, provided the corpse walker
+isn’t incapacitated. On a failure, the humanoid is frightened
+for 1 minute. A frightened target can repeat the saving
+throw at the end of each of its turns, with disadvantage if not
+averting its eyes from the corpse walker, ending the effect
+on itself on a success. A creature failing two of these saving
+throws becomes cursed with disturbing thoughts. Such a
+creature can’t benefit from a short or long rest until the curse
+is removed. On a successful save, the target is immune to
+any corpse walker’s Cursed Gaze for the next 24 hours.
+Unless surprised, a creature can avert its eyes to avoid
+the saving throw. If the creature does so, it can’t see the
+corpse walker until the start of its next turn. A creature
+that looks at the corpse walker in the meantime must
+immediately make the save.
+Sunlight Hypersensitivity.
+The corpse walker takes
+20 radiant damage when it starts its turn in sunlight.
+While in sunlight, it has disadvantage on attack rolls and
+ability checks.
+Undead Fortitude.
+If damage reduces the corpse walker
+to 0 hit points, it must make a Constitution saving throw
+with a DC of 5 + the damage taken, unless the damage
+is radiant or from a critical hit. On a success, the corpse
+walker drops to 1 hit point instead.
+actions
+Multiattack.
+The corpse walker makes two slam attacks.
+Slam.
+Melee Weapon Attack: +6 to hit, reach 5 ft., one
+target.
+Hit: 7 (1d6 + 4) bludgeoning damage and 5 (2d4)
+necrotic damage. If the target is a creature, it must succeed
+on a DC 14 Constitution saving throw, or its hit point
+maximum is reduced by an amount equal to the necrotic
+damage taken, and the corpse walker regains hit points
+equal to that amount. This reduction lasts until the target
+finishes a long rest. The target dies if this effect reduces its
+hit point maximum to 0. An evil humanoid slain this
+way rises 24 hours later as a corpse walker.

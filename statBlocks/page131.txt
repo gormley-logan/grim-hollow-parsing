@@ -1,0 +1,106 @@
+===
+Gegazol
+Gargantuan undead, chaotic evil
+Armor Class 22 (natural armor)
+Hit Points 462 (25d20 + 200)
+Speed 40 ft., burrow 40 ft., fly 80 ft., swim 40 ft.
+str dex con int wis cha
+ 27 (+8) 14 (+2) 26 (+8) 16 (+3) 15 (+2) 23 (+6)
+Saving Throws
+Dex +9, Int +10, Wis +9
+Skills
+Perception +9
+Damage Immunities cold, necrotic, poison
+Condition Immunities charmed, exhaustion,
+frightened, paralyzed, poisoned
+Senses blindsight 60 ft., darkvision 120 ft., passive Perception 19
+Languages Draconic
+Challenge 24 (62,000 XP)
+Proficiency Bonus +7
+Ice Walk.
+Gegazol can move across and climb icy
+surfaces without needing to make an ability check.
+Additionally, difficult terrain composed of ice or
+snow doesn’t cost her extra movement.
+Legendary Resistance (3/day).
+If Gegazol fails a
+saving throw, she can choose to succeed instead.
+Magic Resistance.
+Gegazol has advantage on saving
+throws against spells and other magical effects.
+Rejuvenation.
+If destroyed while her soul vessel
+remains intact, Gegazol’s unconscious body rejuvenates
+within 5 feet of the soul vessel, where she regains 78
+(12d12) hit points each day. When she has regained
+half her hit points, she regains consciousness.
+Stench.
+Any creature not immune to the poisoned
+condition that starts its turn within 30 feet of Gegazol
+must succeed on a DC 23 Constitution saving throw
+or become poisoned until the start of that creature’s
+next turn. On a successful saving throw, the creature is
+immune to Gegazol’s stench for 1 hour.
+Turning Defiance.
+Gegazol and undead within 120 feet
+of her have advantage on saving throws against effects
+that turn undead.
+actions
+Multiattack
+. Gegazol can use her frightful presence.
+She then makes three attacks: one with her bite and two with her claws.
+Bite.
+Melee Weapon Attack: +15 to hit, reach 15 ft., one
+target.
+Hit: 21 (2d12 + 8) piercing damage, 9 (2d8) cold
+damage and 9 (2d8) necrotic damage.
+Claw.
+Melee Weapon Attack: +15 to hit, reach 10 ft., one
+target.
+Hit: 19 (2d10 + 8) piercing damage.
+Tail.
+Melee Weapon Attack: +15 to hit, reach 20 ft., one
+target.
+Hit: 19 (2d10 + 8) bludgeoning damage. If the
+target is a creature, it must succeed on a DC 23 Strength
+saving throw or fall prone.
+Frightful Presence.
+Each creature of Gegazol’s choice
+within 120 feet of and aware of her must succeed on a
+DC 21 Wisdom saving throw or become frightened for
+1 minute. A creature can repeat the saving throw at the
+end of each of its turns, ending the effect on itself on a
+success. If a creature’s saving throw is successful or the
+effect ends for it, the creature is immune to Gegazol’s
+Frightful Presence for the next 24 hours.
+Breath of Long Night (Recharge 5–6).
+===
+Gegazol
+exhales frozen material and rot in a 90-foot cone. Each
+creature in that area must make a DC 23 Constitution
+saving throw, taking 45 (10d8) cold damage and 45
+(10d8) necrotic damage on a failed save, or half as
+much damage on a successful one. Those who fail the
+save also gain two levels of exhaustion until the end of
+Gegazol’s next turn, and those who fail by 5 or more are
+also blinded for 1 minute. A blinded creature can repeat
+the saving throw at the end of each of its turns, ending
+the effect on itself on a success.
+legendary actions
+Gegazol can take 3 legendary actions, choosing from
+the options below. Only one legendary action option
+can be used at a time and only at the end of another
+creature’s turn. Gegazol regains spent legendary
+actions at the start of her turn.
+Daemon Sight.
+Gegazol gains truesight out to 120 feet
+until the end of her next turn and can make a Wisdom
+(Perception) check.
+Tail.
+Gegazol makes a tail attack.
+Wings of Winter (Costs 2 Actions).
+Gegazol beats her
+wings. Each creature within 30 feet of her must succeed on
+a DC 23 Dexterity saving throw or take 17 (2d8 + 8) bludg-
+eoning damage and 9 (2d8) cold damage, and then fall
+prone. Gegazol can then fly up to half her flying speed.

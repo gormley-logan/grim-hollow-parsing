@@ -1,0 +1,144 @@
+51
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+C
+===
+Caprathorn
+Huge fiend, chaotic evil
+Armor Class 19 (natural armor)
+Hit Points 250 (20d12 + 120)
+Speed 40 ft. fly 40 ft. (hover)
+str dex con int wis cha
+	25	(+7)	14	(+2)	23	(+6)	14	(+2)	17	(+3)	10	(+0)
+Saving Throws
+Int +9, Wis +10, Cha +7
+Skills
+Perception +10
+Damage Resistances
+cold, fire, lightning
+Damage Immunities poison; bludgeoning, piercing,
+and slashing from nonmagical attacks
+Condition Immunities charmed, exhaustion,
+frightened, poisoned
+Senses truesight 120 ft., passive Perception 20
+Languages all, telepathy 120 ft.
+Challenge 21 (33,000 XP)
+Proficiency Bonus +7
+Charge.
+If the caprathorn moves at least 20 feet straight
+toward a target, and then hits it with a gore attack on the
+same turn, the target takes an extra 18 (4d8) bludgeoning
+damage. If the target is a creature, it must succeed on a
+DC 22 Strength saving throw or be pushed up to 10 feet
+away and knocked prone.
+Implosion.
+The caprathorn implodes when it dies,
+leaving behind a
+sphere of annihilation
+. Each creature
+within 60 feet of the caprathorn when this implosion
+occurs must succeed on a DC 21 Strength saving throw
+or be pulled 10 feet toward the sphere.
+Legendary Resistance (3/Day).
+If the caprathorn
+fails a saving throw, it can choose to succeed instead.
+Magic Resistance.
+The caprathorn has advantage on
+saving throws against spells and other magical effects.
+Magic Weapons.
+The caprathorn’s weapon attacks
+are magical.
+Thornlamms.
+A caprathorn typically has three
+inanimate thornlamms (see that stat block) attached to
+its horns with vines. Attached thornlamms don’t take
+damage separately, but whenever the caprathorn takes
+50 or more damage in a single turn, one of the attached
+thornlamms dies.
+While it has at least one thornlamm attached to its
+vines, the caprathorn can use a bonus action to consume
+or detach a thornlamm. If the caprathorn consumes a
+thornlamm, the caprathorn regains 21 hit points. When
+the caprathorn detaches a thornlamm, that thornlamm
+lands in a space within 10 feet of the caprathorn and takes
+a turn immediately after the caprathorn. The thornlamm
+obeys the caprathorn’s verbal or telepathic commands
+(no action for the caprathorn). If issued no commands, the
+thornlamm acts independently, often attacking a creature
+that isn’t its ally. A thornlamm can survive indefinitely
+detached from a caprathorn.
+actions
+Multiattack.
+The caprathorn makes three attacks, one
+with its gore, one with its stomp, and one with its thorns.
+Gore.
+Melee Weapon Attack: +14 to hit, reach 10 ft.,
+one target.
+Hit: 25 (4d8 + 7) bludgeoning damage.
+Stomp.
+Melee Weapon Attack: +14 to hit, reach 10 ft.,
+one target.
+Hit: 25 (4d8 + 7) bludgeoning damage.
+Thorns.
+Melee or Ranged Weapon Attack: +14 to hit, reach
+10 ft. or range 30/120 ft., one target.
+Hit: 21 (4d6 + 7)
+piercing damage. Being within 5 feet of a hostile creature
+doesn’t cause the caprathorn to have disadvantage on the
+ranged attack roll.
+legendary actions
+A caprathorn can take 3 legendary actions, choosing
+from the options here. Only one legendary action option
+can be used at a time, and only at the end of another
+creature’s turn. The caprathorn regains spent legendary
+actions at the start of its turn.
+Attack.
+The caprathorn makes one attack with its gore,
+stomp, or thorns.
+Detach Thornlamm.
+The caprathorn detaches a
+thornlamm as per the Thornlamms trait.
+Grow Thornlamm.
+Provided it has taken no damage
+from a silvered weapon this round, the caprathorn grows
+one thornlamm as per the Thornlamms trait. A caprathorn
+can have up to six attached thornlamms at a time.
+Consume Thornlamm (Costs 2 Actions).
+The
+caprathorn consumes an attached thornlamm, regaining
+21 hit points.
+Entomb (Costs 2 Actions).
+The caprathorn chooses a
+creature that has 0 hit points that the caprathorn can see
+within 30 feet of it. The target must make a DC 18 Wisdom
+saving throw. On a success, the target is immune to this
+effect for 24 hours. If the save fails, the target is entombed
+deep within the earth in a sphere of magical force that is
+just large enough to contain the target. Nothing can pass
+through the sphere, nor can any creature teleport or use
+planar travel to get into or out of it. A caprathorn can
+entomb only one target at a time. This effect ends, returning
+the target to where it was before being entombed, if the
+target regains any hit points or the caprathorn dies.
+Annihilation Field (Costs 3 Actions; Recharges if
+an Entombed Creature Dies or after a Long Rest).
+A sphere of energy ripples out in a 30-foot-radius from
+the caprathorn. Each creature in that area must make a
+DC 18 Constitution saving throw, taking 38 (7d10) force
+damage on a failed save, or half as much damage on a
+successful one. For objects that aren’t worn or carried, this
+emanation destroys Small and smaller ones and damages
+larger ones. The circle destroys a
+wall of force
+or similar
+structures of force in the area instantly. A creature or
+object is disintegrated if it drops to 0 hit points due to this
+magic. A disintegrated creature or object turns to fine ash,
+and nonmagical objects a disintegrated creature wears or
+carries disintegrate with it.

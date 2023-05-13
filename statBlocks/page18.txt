@@ -1,0 +1,117 @@
+===
+Inquisitor Knight
+Medium humanoid (any race), any alignment
+Armor Class 18 (chain mail, shield)
+Hit Points 65 (10d8 + 20)
+Speed 30 ft.
+str dex con int wis cha
+	16	(+3)	11	(+0)	14	(+2)	12	(+1)	15	(+2)	13	(+1)
+Skills
+Insight +4, Investigation +3, Perception +4
+Senses passive Perception 14
+Languages any two languages
+Challenge 3 (700 XP)
+Proficiency Bonus +2
+Brave.
+The inquisitor knight has advantage on saving
+throws against being frightened.
+Discerning.
+The inquisitor knight has advantage on
+saving throws against illusions.
+Mark.
+When the inquisitor knight hits a creature with
+a melee weapon attack, the knight marks that creature
+until the end of the knight’s next turn. The mark ends
+early if the knight becomes incapacitated or dies, or
+someone else marks the same creature. While the marked
+creature is within the knight’s reach, it has disadvantage
+on attack rolls against creatures other than the knight.
+actions
+Multiattack.
+The inquisitor knight makes two attacks.
+Longsword.
+Melee Weapon Attack: +5 to hit, reach 5 ft.,
+one target.
+Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10
++ 3) slashing damage if used with two hands to make a
+melee attack, and Mark.
+Javelin.
+Melee or Ranged Weapon Attack: +5 to hit, reach
+5 ft. or range 30/120 ft., one target.
+Hit: 6 (1d6 + 3) piercing
+damage and, if used to make a melee attack, and Mark.
+reactions
+Marked Control.
+If a creature subjected to the in-
+quisitor knight’s Mark moves while within 5 feet of the
+knight, the knight can make a melee attack against that
+creature. On a hit, the creature’s speed drops to 0 until
+the end of their current turn.
+===
+Inquisitor Priest
+Medium humanoid (any race), any alignment
+Armor Class 16 (ring mail, shield)
+Hit Points 39 (6d8 + 12)
+Speed 30 ft.
+str dex con int wis cha
+	12	(+1)	11	(+0)	14	(+2)	13	(+1)	16	(+3)	12	(+1)
+Skills
+Insight +5, Investigation +3, Perception +5,
+Religion +3
+Senses passive Perception 15
+Languages any two languages
+Challenge 2 (450 XP)
+Proficiency Bonus +2
+Spellcasting.
+The inquisitor priest is a 6th-level
+spellcaster. Its spellcasting ability is Wisdom (spell save
+DC 13, +5 to hit with spell attacks). It has the following
+cleric spells prepared: Cantrips (at will): light
+,
+sacred flame
+,
+spare the dying
+,
+thaumaturgy
+1st level (4 slots): cure wounds
+,
+detect magic
+,
+guiding bolt
+,
+healing word
+,
+protection from evil and good
+2nd level (3 slots): lesser restoration
+,
+see invisibility
+,
+silence
+,
+spiritual weapon
+3rd level (3 slots): dispel magic
+,
+remove curse
+Ward.
+If the inquisitor priest casts a spell that causes
+creatures to regain hit points, the priest can also end the
+effects of one spell affecting one creature that regained
+hit points. The ended effects must be from a spell of a
+level equal to or lower than the spell slot the priest used
+to cast the healing spell.
+actions
+Warhammer.
+Melee Weapon Attack: +3 to hit, reach 5 ft.,
+one target.
+Hit: 5 (1d8 + 1) bludgeoning damage and
+4 (1d8) force damage, or 9 (2d8) force damage if the
+target is concentrating on a spell.
+“The blight of arcane magic is the single greatest threat
+to the welfare of the common citizenry of Etharis. Until
+we take our fight to the farthest corners of the world,
+where the ruling powers have yet to be taught the dangers
+of arcane magic, the insidious spread of magic cannot
+be properly stemmed. Once the local threat is eliminated,
+I look forward to traveling and educating folks on
+our mission. And where education doesn’t succeed,
+a sharp sword will.”

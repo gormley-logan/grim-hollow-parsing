@@ -1,0 +1,39 @@
+322
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+S
+===
+Withered Steed
+Large construct, neutral
+Armor Class 13 (natural armor)
+Hit Points 75 (10d10 + 20)
+Speed 60 ft.
+str dex con int wis cha
+ 18 (+4) 12 (+1) 15 (+2) 5 (–3) 13 (+1) 5 (–3)
+Damage Immunities necrotic, poison
+Damage Resistances
+bludgeoning, piercing, and
+slashing from nonmagical attacks that aren’t adamantine
+Condition Immunities charmed, exhaustion,
+frightened, paralyzed, petrified, poisoned
+Senses darkvision 60 ft., passive Perception 11
+Languages understands one language its creator speaks
+but can’t speak
+Challenge 3 (700 XP)
+Proficiency Bonus +2
+Immutable Form
+. No effect can alter a withered
+steed’s form.
+actions
+Hooves
+.
+Melee Weapon Attack
+: +6 to hit, reach 5 ft., one target.
+Hit
+: 9 (2d4 + 4) bludgeoning damage and 10 (3d6) cold damage.

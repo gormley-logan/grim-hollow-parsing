@@ -1,0 +1,39 @@
+===
+Lupilisk
+Large fiend, neutral evil
+Armor Class 13
+Hit Points 60 (8d10 + 16)
+Speed 40 ft.
+str dex con int wis cha
+ 16 (+3) 17 (+3) 14 (+2) 5 (–3) 13 (+1) 7 (–2)
+Skills
+Perception +3, Stealth +5
+Damage Immunities poison
+Damage Resistances
+cold, fire
+Condition Immunities poisoned
+Senses darkvision 120 ft., passive Perception 13
+Languages can learn languages but can’t speak
+Challenge 3 (700 XP)
+Proficiency Bonus +2
+Keen Hearing and Smell.
+The lupilisk has
+advantage on Wisdom (Perception) checks that rely on
+hearing or smell.
+Pack Tactics.
+The lupilisk has advantage on an
+attack roll against a creature if at least one of the
+lupilisk’s allies is within 5 feet of the creature and
+the ally isn’t incapacitated.
+actions
+Bite.
+Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+Hit: 10 (2d6 + 3) piercing damage and 7 (2d6) poison damage.
+If the target is a creature, it must succeed on a DC 12
+Constitution saving throw or become poisoned and
+restrained while poisoned in this way. The creature must
+repeat the saving throw at the end of its next turn. On
+a success, the effect ends. If the save fails again, the
+creature is petrified for 24 hours. At that time, it can
+repeat the saving throw, becoming permanently petrified
+on a failure or ending the effect on a success.

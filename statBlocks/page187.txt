@@ -1,0 +1,92 @@
+===
+Leeching Willow
+Huge aberration, chaotic evil
+Armor Class 15 (natural armor)
+Hit Points 232 (15d12 +135)
+Speed 5 ft.
+str dex con int wis cha
+ 23 (+6) 4 (-3) 28 (+9) 22 (+6) 12 (+1) 12 (+1)
+Skills
+Arcana +10, History +10, Insight +5, Nature +10
+Damage Vulnerabilities
+fire
+Damage Resistances
+bludgeoning, piercing, psychic
+Condition Immunities charmed, exhaustion
+Senses passive Perception 11
+Languages understands Deep Speech and all languages
+those infected by it knew but it cannot speak
+Challenge 12 (8,400 XP)
+Proficiency Bonus +4
+Bell Weakness
+. The leeching willow cannot maintain
+its camouflage when bells are ringing. A bell rung close
+to the tree forces it to uproot and disrups the functioning
+of its psychic spores. A strong bell rung kills the spores.
+False Appearance
+. While the leeching willow remains
+motionless, it is indistinguishable from a normal tree.
+Innate Spells
+. The leeching willow’s spellcasting ability
+is Intelligence (spell save DC 18) The willow can cast the
+following spells, requiring no material components: At will: blur, confusion, modify memory
+3/day: dream
+Leeching Spores
+. The leeching willow naturally
+releases spores from its body that infect the air within
+1,000 feet of it. Creatures that breathe in this polluted air
+must succeed on a DC 18 Charisma saving throw or be
+infected with Memory Feeder.
+Memory Feeder
+. The leeching willow releases spores
+that changes memories of those infected. It then adds in
+memories beneficial to the leeching willow.
+The leeching willow can feed off of the vigor from those
+infected by its spores, gaining sustenance and succor from
+them. Those infected by the spores gain minimal rest from
+sleep, and obtain a point of exhaustion every week until the
+individual reaches 4 points of exhaustion. These points of
+exhaustion will not go away from long rests for as long as
+the spores are within the body.
+Siege Monster
+. The leeching willow deals double
+damage to objects and structures.
+actions
+Multiattack
+. The leeching willow can make 3 attacks
+between any combination of slam, rock or psychic spike. The
+Willow cannot use psychic spike more than once per turn.
+Slam
+.
+Melee Weapon Attack
+: +10 to hit, reach 5 ft., one target.
+Hit
+: 16 (3d6 +6) bludgeoning damage Rock
+.
+Ranged Weapon Attack
+: +10 to hit, range 60/180 ft., one target.
+Hit
+: 28 (4d10 +6) bludgeoning damage Psychic Spike
+. The leeching willow can target a single
+creature with leeching spores inside of it. That creature
+must succeed on a DC 18 Intelligence saving throw or take
+27 (5d10) psychic damage, and it can’t take a reaction until
+the end of its next turn. Moreover, on its next turn, it must
+choose whether it gets a move, an action, or a bonus action;
+it only gets one of the three. On a successful save, the
+target takes half damage and suffers none of the spell’s
+other effects.
+Psychic Slam (1/Day)
+. The leeching willow can ignite
+all of its spores inside of creatures within 1000 feet of
+it. The creatures must succeed on a DC 18 Intelligence
+saving throw or take 45 (13d6) psychic damage and can’t
+take a reaction until the end of its next turn. Moreover,
+on its next turn, it must choose whether it gets a move,
+an action, or a bonus action; it only gets one of the three.
+On a successful save, the target takes half damage and
+suffers none of the spell’s other effects.
+After the psychic slam, all the spores within 1,000 feet
+of the leeching willow die. Any creature who dies as a
+result of the psychic slam have their heads (if they have
+one) explode.

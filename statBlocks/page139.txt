@@ -1,0 +1,61 @@
+139
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+G
+===
+Grief Eater
+Small fey, neutral evil
+Armor Class 12
+Hit Points 35 (10d6)
+Speed 30 ft.
+str dex con int wis cha
+ 10 (+0) 15 (+2) 11 (+0) 5 (–3) 10 (+0) 14 (+2)
+Skills
+Stealth +4
+Senses darkvision 60 ft., passive Perception 10
+Languages understands Sylvan but can’t speak
+Challenge 1 (200 XP)
+Proficiency Bonus +2
+False Appearance.
+While the grief eater remains
+motionless, it is indistinguishable from a person cloaked
+in grey, sitting and clutching their legs.
+Grief Sense.
+The grief eater can sense a frightened or
+despairing humanoid or another grief eater within 60 ft.
+of it. A grief eater using this sense knows the target’s
+location and direction of movement.
+Light Sensitivity.
+While in bright light, the grief eater
+has disadvantage on attack rolls, as well as on Wisdom
+(Perception) checks that rely on sight.
+actions
+Bite.
+Melee Weapon Attack: +4 to hit, reach 5 ft., one
+target.
+Hit: 4 (1d4 + 2) piercing damage. If the target is
+frightened, or full of sorrow or despair, it also takes
+4 (1d4 + 2) psychic damage. The target’s hit point maximum
+is reduced by an amount equal to the psychic damage
+taken, and the grief eater regains hit points equal to that
+amount. The reduction lasts until the target finishes a
+long rest. The target dies if this effect reduces its hit point
+maximum to 0. If a humanoid is slain in this way and left
+unburied, a grief eater emerges from the corpse 24 hours
+later, provided the body is in darkness.
+Wail.
+With a heartrending cry, the grief eater evokes
+despair in one creature it can sense within 30 feet of it. The
+target must succeed on a DC 12 Charisma saving throw or
+become frightened for 1 minute. A creature already full of
+sorrow has disadvantage on the save. The target can repeat
+the saving throw at the end of each of its turns, ending the
+effect on itself on a success. If a creature’s saving throw is
+successful or the effect ends for it, the creature is immune to
+the Wail of any grief eater for the next 24 hours.

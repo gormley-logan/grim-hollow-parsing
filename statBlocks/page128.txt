@@ -1,0 +1,53 @@
+128
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+G
+===
+Giant Gasdra
+Large monstrosity, neutral evil
+Armor Class 15 (natural armor)
+Hit Points 102 (12d10 + 36)
+Speed 30 ft., fly 60 ft.
+str dex con int wis cha
+ 13 (+1) 16 (+3) 17 (+3) 6 (–2) 10 (+0) 10 (+0)
+Skills
+Intimidate +3, Perception +3
+Senses darkvision 60 ft., passive Perception 13
+Languages understands Sylvan but can’t speak
+Challenge 5 (1,800 XP)
+Proficiency Bonus +3
+Seven Heads.
+The giant gasdra has advantage on
+Wisdom (Perception) checks and on saving throws
+against being blinded, charmed, deafened, frightened,
+stunned, or knocked unconscious. The giant gasdra
+has one reaction for each head. The extra reactions can
+be used only for opportunity attacks.
+Wakeful
+. While the giant gasdra sleeps, at least one of
+its heads is awake.
+actions
+Multiattack.
+The giant gasdra makes seven beak attacks
+or makes one beak attack and uses honk of doom.
+Beak.
+Melee Weapon Attack
+: +6 to hit, reach 10 ft., one target.
+Hit
+: 8 (1d10 + 3) bludgeoning damage. If the creature hit by this attack is frightened, it takes an
+additional 2 (1d4) psychic damage.
+Honk of Doom.
+Each creature of the giant gasdra’s
+choice within 60 feet of it and can hear it must succeed
+on a DC 14 Wisdom saving throw or become frightened
+for 1 minute. A creature can repeat the saving throw at
+the end of each of its turns, ending the effect on itself on
+a success. If a creature’s saving throw is successful or
+the effect ends for it, the creature is immune to the giant
+gasdra’s Honk of Doom for the next 24 hours.

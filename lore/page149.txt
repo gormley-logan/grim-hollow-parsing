@@ -1,0 +1,55 @@
+H
+149
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+Hag-Blighted
+“We warned Marta she was tempting the fates by 
+seeking out Old Zsuzsa Blackwart. You never know 
+what might anger a hag.”
+Hag Victim.
+ Deceiving and manipulative, hags are 
+prone to cursing mortals for anything from breaking a 
+bargain to mere amusement. Hag-blighted beings are 
+unfortunate souls who’ve angered a hag. Instead of 
+slaying the person, the hag chooses a crueler fate and 
+uses a hag-blight curse.
+Cursed Form.
+ Under a hag-blight curse, a victim’s 
+form becomes monstrous. The person’s face becomes 
+a permanent scowl and grows warts and pustules, 
+and their teeth become fangs. Their body bloats, and 
+the limbs twist. Despite these changes, the body is 
+powerful and enduring.
+Social Pariah.
+ Most people shun the hag-blighted for 
+fear of the hag’s ire. Only the brave or foolish dare seek 
+out the hag to remove this affliction.
+salvage
+The blood of a dead hag-blighted person can be used to 
+make a potion that ends any effect that changes a creature’s 
+shape. Someone who has proficiency with alchemist’s 
+supplies can distill the blood from one hag-blighted, along 
+with reagents worth 50 gp, to make three doses of this potion 
+in 4 hours. Doing so requires a successful DC 13 Intelligence 
+or Wisdom check. This potion can be consumed, or it can 
+be thrown as an improvised weapon, making a ranged 
+attack against a creature. A creature exposed to this potion 
+can’t change shape for 10 minutes, while a creature who 
+drinks the potion can’t change shape for 1 hour.
+lore
+DC 10 Intelligence (History):
+ Hag-blighted are 
+mortals who have been cursed by a hag.
+DC 15 Intelligence (Nature):
+ The hag-blight curse 
+twists the body and diminishes the mind, but it increases 
+strength and endurance and gives the person sharp teeth.
+DC 15 Intelligence (Arcana):
+ A hag-blighted person 
+can vomit corrosive bile.

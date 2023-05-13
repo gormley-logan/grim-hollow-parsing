@@ -1,0 +1,97 @@
+346
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+U
+===
+Goldmane Boar
+Staple of Etharis
+. Boars are a central part of everyday
+life in Etharis. Domesticated or hunted in the wild, they
+are a centerpiece in feasts. A wise adventurer keeps an
+eye out for particularly aggressive boars, acknowledging
+their danger and the potential of a filling meal.
+Rare Beast.
+Occasionally, a hunter glimpses a
+goldmane boar. These animals avoid humanoid contact.
+Cleverer than a regular boar, a goldmane boar can be
+detected easier at night when its mane glows softly in the
+dark. Killing a goldmane boar is considered bad luck.
+===
+Goldmane Boar
+Medium beast, unaligned
+Armor Class 12 (natural armor)
+Hit Points 32 (5d8 + 10)
+Speed 40 ft.
+str dex con int wis cha
+ 15 (+2) 11 (+0) 14 (+2) 3 (–4) 11 (+0) 7 (–2)
+Skills
+Perception +2
+Senses passive Perception 12
+Languages —
+Challenge 1 (200 XP)
+Proficiency Bonus +2
+Charge.
+If the goldmane boar moves at least 20 feet
+straight toward a target and then hits it with a tusk
+attack on the same turn, the target takes an extra 4 (1d8)
+slashing damage. If the target is a creature, it must
+succeed on a DC 12 Strength saving throw or fall prone.
+Glowing Mane.
+The goldmane boar sheds dim light in
+a 10-foot radius.
+Opportunistic Gore.
+If the goldmane boar hits with
+a tusk attack while it has advantage on the attack roll, it
+deals an extra 4 (1d8) slashing damage.
+Relentless (Recharges after a Short or Long
+Rest).
+If the goldmane boar takes 11 damage or less
+that would reduce it to 0 hit points, it is reduced to 1 hit
+point instead.
+actions
+Tusk.
+Melee Weapon Attack: +4 to hit, reach 5 ft., one
+target.
+Hit: 6 (1d8 + 2) slashing damage.
+===
+Frostbite Fox
+Rare Hunter.
+Wild frostbite foxes live in packs in
+Grarjord. They change with the seasons, fur turning
+white in the winter and brown in the spring. What
+doesn’t change is the fox’s weird ability to deliver a jolt
+of cold with its bite.
+Clan Culture.
+These foxes are an important part of the
+Valikan clan culture. Their furs help the people of the
+North survive harsh winters, and the clans are careful
+not to overhunt the species.
+===
+Frostbite Fox
+Tiny beast, unaligned
+Armor Class 13
+Hit Points 3 (1d4 + 1)
+Speed 30 ft.
+str dex con int wis cha
+ 3 (–4) 16 (+3) 12 (+1) 3 (–4) 12 (+1) 8 (–1)
+Skills
+Perception +3, Stealth +5
+Senses darkvision 60 ft., passive Perception 13
+Languages —
+Challenge 0 (10 XP)
+Proficiency Bonus +2
+Keen Smell.
+The frostbite fox has advantage on
+Wisdom (Perception) checks that rely on smell.
+actions
+Bite.
+Melee Weapon Attack: +5 to hit, reach 5 ft., one target.
+Hit: 1 piercing damage and 1 cold damage. If the target is
+a creature and takes the cold damage, the creature can’t
+take reactions until the start of its next turn.

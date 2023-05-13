@@ -1,0 +1,487 @@
+418
+Grim Hollow monster Grimoire
+Chapter 5: Monsters as PCs
+T
+he world of Etharis, home to the Grim Hollow 
+Campaign Setting, is steeped in darkness and 
+danger. The grim truth, known but unspoken by 
+every citizen of the land, is that death—or worse—lurks 
+in every unlit corner, every city sewer, every cold cavern, 
+and every shadow-filled forest. The vast scope and depth 
+of the panoply of monsters in Etharis dooms everyone, 
+regardless of species, station, location, or ethos.
+And then there’s the heroes….
+MOnstrOus herOes
+The heroes walking the risk-laden paths of Etharis are 
+awash in the most vile, dangerous, horrifying evils 
+that anyone could imagine. While fighting those evil 
+opponents with all their might, the heroes of Etharis 
+find more than their bodies getting damaged. Evil wears 
+on the soul as well, and heroes are not immune to its 
+seductive powers.
+In a Grim Hollow campaign, characters have access 
+to rules that represent the pull of evil power on them. 
+Sangromancy magic offers great power, at a great price. 
+Curses fly as readily as arrows or bolts. Most impactful 
+are the transformations, changing the characters in 
+dramatic and dark ways.
+If the campaign is accepting of characters that turn 
+into monsters as play progresses, then there’s no reason 
+to think that creatures considered monsters can’t get in 
+on the fun!
+MaKing MOnsters wOrK
+Monsters and monstrous species can undoubtedly be 
+fun to play as characters. They offer not only new and 
+different game mechanics, but players can tell unique 
+and dramatic stories with them.
+For these types of characters to work, however, 
+communication among the gamemaster and players is 
+vital. Bugbears, gnolls, or morbus kobolds walking into a 
+rural village—or even a major city—might be a cause of 
+great concern for many. If expectations are not set ahead 
+of time, this could cause problems in a campaign.
+Having monstrous characters confronted once or twice 
+might be a fun roleplaying session. Having such a 
+conflict occur every session gets repetitive and tedious. 
+So how does a group handle this?
+If there is just one monstrous character in a party, the 
+rest of the party can vouch for the untrusted member 
+of their group. Even better, provide a home base for 
+the party where such characters are not just accepted, 
+but they are welcomed. A town like this, set on the 
+dangerous edge of civilization, can be a great setting for 
+a campaign.
+Bugbear
+Most bugbears interacting with the populace of Etharis 
+are those infected with the cursed disease known as 
+Tormach’s Rage. This makes the sight of a bugbear 
+terrifying to anyone beholding them in their terrible 
+frenzied attacks.
+Powerful magic, divine intervention, and other unusual 
+circumstances, however, might cure a bugbear of the affliction. 
+These cured individuals, cognizant of their previous situations 
+and the toll it took on them physically and mentally, have 
+a new outlook on life. What they choose to do with their 
+freedom from the grasp of the disease, of course, changes 
+from bugbear to bugbear.
+Some might seek their own kind, hoping to find groups 
+of bugbears who have not fallen to the disease. These, 
+however, are extremely rare. It’s more likely that these 
+bugbears, having been changed by their experience, attempt 
+to join society to achieve their goals. 
+bugbear traits
+Bugbears healed from the scourge of Tormach’s Rage 
+retain some of the ferocity but have also been changed 
+from the experience.
+Ability Score Increase. Your Strength score 
+increases by 2 and your Wisdom score increases by 1.
+Age. The toll that Tormach’s Rage takes on you 
+shortens your life span. You reach maturity at 16 years 
+old and tend to fade away by the age of 40.
+Alignment. The perspective gained through the curse, 
+and shedding it, makes you tend toward neutrality.
+Size. You typically grow to 7 feet tall, reaching 
+300 pounds. Your size is Medium.
+Speed. Your base walking speed is 30 feet.
+Darkvision. You can see in dim light within 60 feet 
+of you as if it were bright light, and in darkness as if it 
+were dim light. You can’t discern color in darkness, only 
+shades of gray.
+Battle-tested. You have advantage on saving 
+throws that would cause you to become charmed or 
+frightened. You also have advantage on Charisma 
+(Intimidation) checks.
+Controlled Frenzy. You can enter a state of con-
+trolled rage a number of times equal to your proficiency 
+bonus. It is no action to enter the state, which lasts until 
+the start of your next turn. While in this state, you add 
+1d6 to your weapon damage. This extra damage increas-
+es to 1d10 at 7th level and 1d12 at 14th level. The uses of 
+your controlled frenzy refresh after finishing a long rest.
+Hardy. You have advantage on Constitution 
+saving throws.
+Languages. You speak Goblin and one 
+national language.
+419
+Chapter 5: NpC’s
+Faevlin
+Escaping the fey realm have given you a sense that noth-
+ing can keep you from achieving all your goals. Especial-
+ly if those goals involve guile, subterfuge, or chicanery.
+You look at the world much differently than other 
+creatures, mostly because your head is upside-down. 
+Keeping your chin up has never been a problem!
+You’re always looking over your shoulder, as the fey 
+powers that you tricked might be seeking vengeance 
+against you. Gaining power makes it harder for that to 
+take place.
+FaevLin traits
+Faevlin combine the sneakiness of their mortal-world 
+cousins with the magic that seeped into your being from 
+the land of fey.
+Ability Score Increase. Your Dexterity score 
+increases by 2 and your Wisdom score increases by 1.
+Age. As a creature that has a connection to the land of 
+the fey, you’re longer-lived than your goblin cousins. You 
+reach adulthood at the age of 20 and live to 160 years.
+Alignment. Your capricious and whimsical nature 
+indicates a trend toward chaotic behavior.
+Size. You are generally shorter and slighter than 
+your goblin cousins, averaging about 3 feet tall and 
+60 pounds. Your size is Small.
+Speed. Your base walking speed is 30 feet.
+Darkvision. You can see in dim light within 60 feet 
+of you as if it were bright light, and in darkness as if it 
+were dim light. You can’t discern color in darkness, only 
+shades of gray.
+Fey Fade. When an attack misses you, you can 
+teleport up to 30 feet in a random direction, arriving in a 
+safe, unoccupied space. You cannot use this ability again 
+until you finish a short rest.
+Fey Touched. Magic can’t put you to sleep, and you 
+can only be charmed by the magic of a fey creature.
+Sneaky. You can use a bonus action to take the 
+Hide action.
+Languages. You speak Goblin, Sylvan, and one 
+national language.
+Gnoll
+You were once a different humanoid creature of 
+Etharis, going about your life like everyone else. Then 
+the Great Beast paid a visit to your home area. The 
+corrupting magic of the Beast didn’t just change your 
+life, it changed your very essence. You became a raving 
+monster, a hyena-headed killer whose mind crackled 
+with a presence that drove you further and further into 
+an insatiable bloodlust.
+Then, one day, out of nowhere, the crackling ceased. 
+Your body remained in its corrupted form, a furry and 
+scary-looking beast, but your mind returned to its pre-
+vious state. You couldn’t remember what happened to 
+you since the mutation of the Great Beast overpowered 
+you, but you remember your life before. With your new, 
+monstrous form but your previous consciousness, life 
+will certainly take you to interesting places.
+gnOLL traits
+Gnolls who’ve escaped the bonds of the Great Beast 
+retain some of their bestial abilities but regain their 
+memories and original personality.
+Ability Score Increase. One ability score of your 
+choice increases by 2, reflecting who you were before 
+you became a gnoll. Also, your Constitution score 
+increases by 1.
+Age. You became mature when you transformed into 
+a gnoll, if you weren’t already. You’re unsure of how 
+long you will live in this new form. Most gnolls don’t die 
+of old age.
+Alignment. You have the same alignment tendencies 
+as before you were transformed, although your 
+experience may have changed your outlook now.
+Size. You are slighting taller than an average human, 
+although you tend to be stooped and you’re the same 
+girth. Your size is Medium.
+Speed. Your base walking speed is 30 feet.
+Darkvision. You can see in dim light within 60 feet 
+of you as if it were bright light, and in darkness as if it 
+were dim light. You can’t discern color in darkness, only 
+shades of gray.
+Instinctive. If you are not surprised, your supernat-
+ural danger acuity allows you to roll with advantage on 
+your first initiative roll after completing a long rest.
+Spine Spike. You have spikes that grow from your 
+spine that can be expelled toward a target as a bonus 
+action. You are proficient with these spikes, which are 
+considered natural ranged weapons and can use either 
+Strength or Dexterity for attack and damage rolls. The 
+range on your spikes are 20/60 ft, and they do 1d6 
+piercing damage. At level 11, the damage increases to 
+1d12. You can use your spine spikes a number of times 
+per long rest equal to your proficiency bonus.
+Languages. You speak Gnoll and one 
+national language.
+Monsters, Ability Scores 
+and Alignment
+Individuals are unique, and the characters in your game 
+take that uniqueness to a whole new level. The traits 
+presented in this chapter reflect the average characters of 
+this monster’s type. Aspects of the character—specifically 
+ability score increases and alignment—should be flexible 
+during character creation. Players and DMs should talk 
+before a campaign starts to agree on the best choices for 
+the story they’re hoping to tell.
+420
+Grim Hollow monster Grimoire
+Grudgel
+Although it’s disorienting to not remember your life 
+before waking up one morning in a fog, your people are 
+incredibly resourceful and clear-headed. Your early days 
+on Etharis were not easy, as your physical form struck 
+fear into the hearts of Etharis’s less fierce inhabitants. 
+Some heard tales from their ancestors about creatures 
+like you being evil and cruel.
+But you are neither, and your helpfulness and peaceful 
+demeanor helped those around you find a place in the 
+world. Still, in regions where few grudgels have migrated, 
+fear is still the first reaction you see from others
+.
+grudgeL traits
+Grudgels bring both brains and brawn to their endeavors.
+Ability Score Increase. Your Dexterity score 
+increases by 2 and your Strength score increases by 1.
+Age. While your people have not been on Etharis long 
+enough to get precise life-span measurements, it appears 
+that most of your kind mature by age 15 and live to 
+about 75 years.
+Alignment. You have a tendency toward order over 
+chaos, of cooperation over selfishness.
+Size. You are generally larger than humans, 
+averaging well over 6 feet tall and 250 pounds. Your size 
+is Medium.
+Speed. Your base walking speed is 30 feet.
+Darkvision. You can see in dim light within 60 feet 
+of you as if it were bright light, and in darkness as if it 
+were dim light. You can’t discern color in darkness, only 
+shades of gray.
+Center. You can use a bonus action to focus before 
+making an attack roll or ability check. If you do so, you 
+have advantage on your next attack roll or ability check 
+before the end of your turn. You can use this ability 
+again after completing a short or long rest.
+Warrior. You have proficiency with simple weap-
+ons, light armor, shields, and one martial weapon of 
+your choice.
+Languages. You speak Grudgel and one 
+national language.
+Morbus Kobold
+Your people evolved separately from your kobold 
+cousins, spurred on by the dangerous practice of 
+manipulating diseases and the compounds that spread 
+them. Your webbed hands and feet make you a strong 
+swimmer, but it’s your knowledge that sets you apart.
+Your culture taught you much about diseases and 
+rare ingredients that might spread or cure those diseases. 
+Though your disease-spreading kin have a clear and 
+grotesque idea of what they want the world to look like, 
+you have other notions. These thoughts may have driven 
+you from your clan, pushing you into a world that found 
+you strange at first. But your knowledge of the diseases 
+that plague the world left you in a unique position to help.
+MOrbus KObOLd traits
+Morbus kobolds take the knowledge of diseases and 
+natural substances, and they can use it for good as much 
+as evil.
+Ability Score Increase. Your Dexterity score 
+increases by 2 and your Constitution score increases by 1.
+Age. You reach adulthood by age 10, living to 
+approximately 100 years.
+Alignment. While your kin revel in the chaos and 
+pain that disease spreads, you have learned the value 
+of life.
+Size. You are similar in size to regular kobolds, aver-
+aging about 3 feet tall and 30 pounds. Your size is Small.
+Speed. Your base walking speed is 30 feet, and you 
+have a swim speed of 30 feet as well.
+Darkvision. You can see in dim light within 60 feet 
+of you as if it were bright light, and in darkness as if it 
+were dim light. You can’t discern color in darkness, only 
+shades of gray.
+Disease Resistant. You gain advantage on saving 
+throws to resist disease. In addition, once per long 
+rest, you can use a reaction to provide an adjacent ally 
+advantage on a saving throw to resist diseases.
+Medical Knowledge. Your interactions with disease 
+and medicines provide you with superior knowledge. 
+You make Intelligence (Nature) and Wisdom (Medicine) 
+checks with advantage, and you are proficient with 
+alchemist’s supplies.
+In addition, at the end of a short rest, you can choose 
+yourself or one ally who spends hit dice to regain hit 
+points. The chosen creature rolls each hit die spent twice, 
+taking the higher of the two rolls.
+Natural Alchemist. At the end of a long rest, if 
+you have access to alchemist’s supplies, you can create 
+a substance that maintains a magical property until the 
+start of your next long rest. This substance can act as a 
+potion of healing, a vial of acid, or alchemist’s fire.
+Languages. You speak Draconic and one 
+national language.
+Monsters as PCs 
+Trinket Table
+Just as playing a monstrous character comes with different 
+narrative possibilities and mechanical expressions, so too 
+should it come with different trinkets. The trinket table 
+on this page is meant to supplement the trinket table in 
+the Grim Hollow Players Guide.
+This table can also be used to add some flavorful 
+(and disturbing items) to decorate a monster’s lair, or 
+to add something unique to a monster’s equipment or 
+treasure hoard.
+421
+Chapter 5: NpC’s
+D100
+Trinket
+01-02
+A mummified troll’s hand that constantly twitches and 
+occasionally makes a rude gesture
+03-04
+A red-tinted hag’s eye with the optic nerve still attached, with 
+the pupil expanding and contracting based on the light
+05-06
+A framed piece of skin, tattooed with a heart and the word 
+“Mother” written in Ostoyan
+07-08
+A straw-filled fabric beagle with tiny onyx eyes and an agate 
+nose, punctured by hundreds of needle pricks
+09-10
+A chipped porcelain cup decorated with a pattern of angelic 
+wings and rainbows. The inside of the cup is stained with a 
+blood-red liquid
+11-12
+A large brass bell with a wooden handle forged in the shape 
+of a dragon, with the clapper missing and the dragon’s head 
+defaced by a sharp blade
+13-14
+A wooden block with each face representing one of the letters 
+of the Bürach alphabet, marred by innumerable gnaw marks
+15-16
+A blood-soaked silk handkerchief, embroidered with fancy 
+designs in silver thread. The blood remains on the kerchief 
+regardless of the laundering methods used to remove it
+17-18
+A silver coin from an unknown realm, bearing the regal head 
+of a human woman wearing a tiara. The coin is bent and 
+bears a single tooth mark
+19-20
+An oval piece of granite with eyes, a nose, and a mouth added 
+to it in green chalk, and hair made of seaweed stuck to the 
+top with mud
+21-22
+A moldy and smelly strip of dried and cured elk jerky, 
+attached to a leather thong to be worn around the neck
+23-24
+A small pine box fitted with rudimentary brass hinges and a 
+copper latch. The box is empty, but ink drawings of gems and 
+jewelry decorate the interior surfaces
+25-26
+An intact human lower jawbone with two of the teeth still 
+intact, etched with strange symbols that glow when a drop of 
+blood is placed on the jaw
+27-28
+A pair of sturdy, mud-covered leather boots with holes in the 
+toe end where sharp and pointy toe claws could comfortably 
+fit through
+29-30
+An unlucky sawdust-stuffed rabbit, with grey and brown 
+spotted fur, missing all of its lucky feet
+31-32
+A pen made from the severed claw of a hag, with the blood 
+vessels feeding the blood-red ink into the pen’s tip
+33-34
+Fine pink sand held in a pouch created from the cured and 
+stitched stomach of a hurrock, fringed with hair from a 
+dwarf’s beard
+35-36
+A kite made from the skin of an ogresh, with a tail made from 
+elven hair and the string tied around the tibia of a dreamer
+37-38
+An eating utensil carved from the tusk of an ogre swine, with 
+one side acting as a knife and the other shape like a fork.
+39-40
+A mummified goblin hand, the stiffened fingers clutching a 
+loaded die carved from the skull of a human
+41-42
+A blood-stained paper fan decorated with three images 
+depicting locations in the city of Grabenstein
+43-44
+The tongue of a shadowsteel ghast, flecked with tiny shards 
+of shadowsteel that crackle with blue lightning when a spell 
+is cast nearby
+45-46
+Fronds from the tips of a meyana’s pincer, chopped into a 
+fine powder to be used as tobacco in a pipe
+47-48
+The body of a rat encased in wax, with the name Rupert 
+etched into the wax in Infernal
+49-50
+A miniature pitchfork forged from silver, with the five tines 
+shaped to appear as slender pucks
+51-52
+A mosquito encased in clear amber, but under scrutiny 
+revealing that the insect has a human face behind 
+the proboscis
+53-54
+The horn of a daemon, polished to a sheen and fitted with an 
+ivory handle to act as a dagger
+55-56
+A necklace made of colorful shells, held together with a string 
+of gold filament, with tiny screams emitting from the shells 
+every few minutes
+57-58
+A plague mask with the carved face smiling widely, with the 
+nose of its last wearing still in the mask
+59-60
+A jump rope fashioned from the tied-together antennae of 
+several hivewolves
+61-62
+A rough clay sculpture of a young laneshi screaming. 
+Droplets of water occasionally spurt from its mouth
+63-64
+A small glass jar filled with a preserving agent, holding the 
+head of a hungerer snake with mouth open and fangs exposed
+65-66
+Silver earrings on long chains, with the severed nose of a 
+blood tracker hanging from the end of each
+67-68
+A burlap sack with eye holes cut out on each side, with one 
+side painted as a broad grinning face and the other as a 
+terrible snarl
+69-70
+A ball of twine the size of a human head, which at its center is 
+the head of a screaming wechselkind
+71-72
+A small earthen jug of vinegary red wine, with the word 
+“mouthwash” etched into the jug in Giant
+73-74
+A leathery belt weaved together from strips of the poxed hide 
+of several morbus kobolds, studded with brown, rotten teeth
+75-76
+A colorful bound journal sporting a unicorn on the cover, 
+although the pages contain gibberish and crude, violent 
+drawings written in blood
+77-78
+The desiccated heart of a giant, filled with straw and stitched 
+with ligaments for use as a kickball
+79-80
+A tin whistle decorated with colorful but worthless stones, 
+bent nearly in half. Blowing into the whistle causes a high-
+pitched shriek
+81-82
+A long-stemmed pipe made from polished mahogany, with 
+the bowl of the pipe clogged with a half-orc’s eyeball
+83-84
+A covered tin plate containing a moldy and smashed piece of 
+cake, covered in blood-matted hair
+85-86
+The obsidian hilt of a broken dagger, carved in symbols used 
+by the Knifetooth clan
+87-88
+Tattered silk scarves embroidered with the names of minor 
+nobles who were executed for terrible crimes against 
+their subjects
+89-90
+An ivory scroll tube holding the ashes of an arcanist burned 
+by the Arcanist Inquisition. If they spill from the tube, a 
+localized zephyr blows them back in
+91-92
+A stone carving of the Great Beast, caked with blood and gore 
+that cannot be removed with normal cleaning methods
+93-94
+The bill from the head of a giant gasdra, hinged to claps 
+together to make a percussion instrument
+95-96
+A multicolored scale from a drake, polished to act like a 
+mirror that distorts the viewer to appear as a mutant monster
+97-98
+Pink ribbon from one of the dolls of a toymaker, which tends 
+to bind and squeeze fingers tightly if handled
+99-100
+Roll twice, ignoring this result if rolled again

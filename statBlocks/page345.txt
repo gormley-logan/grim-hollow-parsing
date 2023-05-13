@@ -1,0 +1,79 @@
+345
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+===
+Eye Crow
+Popular Birds.
+Eye crows are big corvids plentiful
+throughout Etharis. They mimic sounds and voices, and
+they’re extremely clever, remembering faces, locations,
+and how other creatures treat them. People keep eye
+crows as pets and often use their iridescent black feathers,
+which have a deep-green sheen, to decorate.
+Eye Eaters.
+Eye crows have a strong inclination to eat
+eyes, especially those of humanoids. A murder of these
+birds is bold enough to attack a person directly. They
+coordinate and communicate noisily as they chase prey.
+===
+Eye Crow
+Tiny beast, unaligned
+Armor Class 12
+Hit Points 2 (1d4)
+Speed 10 ft., fly 50 ft.
+str dex con int wis cha
+ 2 (–4) 14 (+2) 10 (+0) 3 (–4) 12 (+1) 7 (–2)
+Skills
+Perception +3
+Senses passive Perception 13
+Languages —
+Challenge 0 (10 XP)
+Proficiency Bonus +2
+Mimicry.
+The eye crow can mimic simple sounds it has
+heard, such as a person whispering, a baby crying, or an
+animal chittering. A creature that hears the sounds can
+tell they are imitations with a successful DC 10 Wisdom
+(Insight) check.
+Pack Tactics.
+The eye crow has advantage on an attack
+roll against a creature if at least one of the crow’s allies is
+within 5 feet of the creature and the ally isn’t incapacitated.
+actions
+Beak.
+Melee Weapon Attack: +4 to hit, reach 5 ft., one
+target.
+Hit: 1 piercing damage. If the eye crow scores a
+critical hit on a creature, the target is blinded until the
+end of the crow’s next turn.
+===
+Flatback Beetle
+Huge beast, unaligned
+Armor Class 16 (natural armor)
+Hit Points 68 (8d12 + 16)
+Speed 30 ft.
+str dex con int wis cha
+ 19 (+4) 9 (–1) 15 (+2) 1 (–5) 10 (+0) 3 (–4)
+Senses blindsight 30 ft., darkvision 60 ft., passive Perception 10
+Languages —
+Challenge 1 (200 XP)
+Proficiency Bonus +2
+Siege Monster.
+The beetle deals double damage to
+objects and structures.
+actions
+Bite.
+Melee Weapon Attack: +6 to hit, reach 5 ft.,
+one target.
+Hit: 11 (2d6 + 4) slashing damage.
+===
+Flatback Beetle
+Massive grazing beetles, flatbacks have thick armor. A
+flatback beetle’s dorsal side can accommodate several
+creatures and can support a howdah.

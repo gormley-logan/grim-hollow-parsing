@@ -1,0 +1,31 @@
+Mud Zombie
+“Never go into a fight with a mud zombie alone. 
+It’s full of surprises you won’t enjoy.”
+Fused Gore.
+ Any muddy or swampy area could hide 
+a grotesque surprise. Mud zombies form from piles of 
+gore. At rest, they look like mounds of remains, but 
+when roused, each becomes a writhing mass of muck-
+covered limbs. These limbs can split from the mass and 
+continue fighting.
+Undead Nature.
+A mud zombie doesn’t require air, 
+food, drink, or sleep.
+salvage
+Mud zombies often contain or still wear equipment and 
+jewelry left on the zombie’s constituent parts.
+lore
+DC 10 Intelligence (Nature):
+ Mud zombies look like 
+large piles of gore.
+DC 13 Intelligence (Religion):
+ Stories tell of 
+these writhing masses breaking into smaller 
+monsters when attacked.
+GM Advice:
+ For some added fun and challenge, add a ranged 
+attack for the mud zombie, where it throws grasping hands at 
+enemies. These hands attack at +5, doing 6 (1d6 + 3) damage 
+on a successful attack. A hand continues to claw at the targeted 
+creature for that damage each round until the target escapes 
+the claw (escape DC 13).

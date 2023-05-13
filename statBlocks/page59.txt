@@ -1,0 +1,108 @@
+===
+Blightwalker
+Medium humanoid (any race), any nongood alignment
+Armor Class 20 (plate, shield)
+Hit Points 165 (22d8 + 66)
+Speed 30 ft.
+str dex con int wis cha
+	20	(+5)	11	(+0)	16	(+3)	10	(+0)	12	(+1)	16	(+3)
+Saving Throws
+Wis +5
+Skills
+Intimidation +7
+Senses passive Perception 11
+Languages any two languages
+Challenge 11 (7,200 XP)
+Proficiency Bonus +4
+Blighted Aura.
+When a creature within 30 feet of the
+blightwalker makes an attack roll, ability check, or saving
+throw, the creature rolls 1d4 and subtracts the number
+rolled from the attack roll, ability check, or saving throw.
+A creature can be affected by only one Blighted Aura at
+a time, and the effect doesn’t stack with
+bane
+.
+Blighted Contact.
+A creature that takes necrotic
+damage from the blightwalker must succeed on a DC 15
+Constitution saving throw or be afflicted with a rotting
+disease for 1 minute. At the start of each of its turns, the
+target takes 9 (2d8) necrotic damage. The target can repeat
+the saving throw at the end of each of its turns, ending
+the effect on itself on a success.
+Divine Health.
+The blightwalker is immune to disease.
+Spellcasting.
+The blightwalker is a 14th level spellcaster.
+Its spellcasting ability is Charisma (spell save DC 15, +7
+to hit with spell attacks). It has the following paladin
+spells prepared: 1st level (4 slots): detect poison and disease
+,
+ray of enfeeblement
+2nd level (3 slots): blindness/deafness
+,
+hold person
+3rd level (3 slots): bestow curse
+,
+stinking cloud
+4th level (1 slot): blight
+actions
+Multiattack.
+The blightwalker makes two
+longsword attacks.
+Longsword.
+Melee Weapon Attack: +9 to hit, reach 5 ft.,
+one target.
+Hit: 14 (2d8 + 5) slashing damage, 13 (3d8)
+necrotic damage, and Blighted Contact.
+championof filth
+Medium humanoid (any race), any nongood alignment
+Armor Class 18 (splint, shield)
+Hit Points 91 (14d8 + 28)
+Speed 30 ft.
+str dex con int wis cha
+16	(+3)	10	(+0)	14	(+2)	10	(+0)	11	(+0)	15	(+2)
+Saving Throws
+Wis +3
+Skills
+Intimidation +5
+Senses passive Perception 10
+Languages any two languages
+Challenge 5 (1,800 XP)
+Proficiency Bonus +3
+Blighted Aura.
+When a creature within 10 feet of the
+champion of filth makes an attack roll, ability check, or
+saving throw, the creature rolls 1d4 and subtracts the
+number rolled from the attack roll, ability check, or saving
+throw. A creature can be affected by only one Blighted
+Aura at a time, and the effect doesn’t stack with
+bane
+.
+Divine Health.
+The champion of filth is immune
+to disease.
+Spellcasting.
+The champion of filth is a 7th level
+spellcaster. Its spellcasting ability is Charisma (spell
+save DC 13, +5 to hit with spell attacks). It has the
+following paladin spells prepared: 1st level (4 slots): detect poison
+and disease
+,
+ray of enfeeblement
+2nd level (3 slots): blindness/deafness
+,
+hold person
+actions
+Multiattack.
+The champion of filth makes two
+longsword attacks.
+Longsword.
+Melee Weapon Attack: +6 to hit, reach 5 ft.,
+one target.
+Hit: 7 (1d8 + 3) slashing damage and 9 (2d8)
+necrotic damage.
+as a 4th-level spell with a saving throw DC of 15. Once
+the heart casts the spell, it and the chain binding it
+crumble to dust.

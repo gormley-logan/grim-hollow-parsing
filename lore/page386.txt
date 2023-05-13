@@ -1,0 +1,62 @@
+386
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+Downcast Vampire
+“I heard the mournful song as I rounded the corner of the 
+crumbling church. By the time I realized the creature singing 
+had been feasting on a family visiting the graveyard, it was 
+nearly too late for me.”
+Sorrowful Singers.
+ A downcast vampire is a sad, 
+broken creature. Stripped of divinity and further shack-
+led by the curse of vampirism, they spend their days in 
+sorrow, distracting themselves by killing and singing. 
+Creatures hearing a downcast vampire’s dirge can be 
+driven to extremes, and some lose consciousness.
+Creature of the Light.
+ Although the curse of vampirism 
+changes the downcast, celestial ancestry makes the vampire 
+less susceptible to turning. The undead state insulates the 
+celestial form completely against necrotic damage. But the 
+vampire’s form is less mutable.
+salvage
+The flesh of a downcast vampire, reduced to ash, can be 
+a potent healing agent if activated properly. (Using the 
+flesh in this way precludes rendering it into ointment but 
+doesn’t prevent the use of the vampire’s claws, tongue, 
+or bones.) Someone who has proficiency with alchemist’s 
+supplies or the Arcana skill and brewer’s supplies can 
+take the ash from one adult or older downcast vampire’s 
+remains and brew it for 1 day with a 
+potion of healing
+. If 
+the brewer succeeds on a DC 15 Intelligence or Wisdom 
+check, the brew becomes a 
+potion of heal
+ (see chapter 4). 
+Failing the check results in a 
+potion of harm
+ (see chapter 
+4), although it appears no different from its counterpart 
+until consumed.
+lore
+DC 10 Intelligence (History):
+ Downcast were 
+anchored to the world when their lords perished. The 
+curse of vampirism bars them from returning to celestial 
+realms. Mentioning this fact might cause debilitating 
+sadness, but it could also lead to reckless rage.
+DC 15 Intelligence (Arcana):
+ A downcast vampire’s 
+mournful dirge sends all but the bravest who hear it 
+running in terror. Some are so overwhelmed, they pass out.
+DC 20 Intelligence (Religion):
+ A downcast vampire 
+is immune to radiant damage and the creature is 
+extremely hard to turn.

@@ -1,0 +1,123 @@
+===
+Celestial Campaigner
+Medium humanoid (celestial), any alignment
+Armor Class 20 (plate, shield)
+Hit Points 91 (14d8 + 42)
+Speed 30 ft., fly 30 ft.
+str dex con int wis cha
+ 17 (+3) 10 (+0) 15 (+2) 11 (+0) 16 (+3) 12 (+1)
+Skills
+Intimidation +4, Perception +6, Religion +3
+Senses passive Perception 16
+Languages Celestial and one other language
+Challenge 6 (2,300 XP)
+Proficiency Bonus +3
+Spellcasting.
+The celestial campaigner is an 8th-level
+spellcaster. Its spellcasting ability is Wisdom (spell save
+DC 14, +6 to hit with spell attacks). It has the following
+cleric spells prepared: Cantrips (at will): guidance
+,
+light
+,
+sacred flame
+,
+thaumaturgy
+1st level (4 slots): bless
+,
+divine favor
+,
+guiding bolt
+,
+shield of faith
+2nd level (3 slots): hold person
+,
+magic weapon
+,
+spiritual weapon
+3rd level (3 slots): daylight
+,
+dispel magic
+4th level (2 slots): freedom of movement
+,
+stoneskin
+War Blessing.
+A weapon deals two extra dice of
+its damage when the celestial campaigner hits with it
+(included in the attack).
+actions
+Multiattack.
+The celestial campaigner makes two
+longsword attacks.
+Longsword.
+Melee Weapon Attack: +6 to hit, reach 5 ft.,
+one target.
+Hit: 16 (3d8 + 3) slashing damage, or 19 (3d10
++ 3) slashing damage if used with two hands to make a
+melee attack.
+reactions
+Protection.
+When a creature the celestial campaigner
+can see within 5 feet of it makes an attack against a
+creature other than the campaigner, the campaigner can
+use its shield to impose disadvantage on that attack roll.
+===
+Celestial Celebrant
+Medium humanoid (celestial), any alignment
+Armor Class 16 (chain mail)
+Hit Points 52 (8d8 + 16)
+Speed 30 ft., fly 30 ft.
+str dex con int wis cha
+ 15 (+2) 10 (+0) 14 (+2) 11 (+0) 17 (+3) 13 (+1)
+Skills
+Religion +2
+Senses passive Perception 13
+Languages Celestial and one other language
+Challenge 4 (1,100 XP)
+Proficiency Bonus +2
+Spellcasting.
+The celestial celebrant is an 8th-level
+spellcaster. Its spellcasting ability is Wisdom (spell save
+DC 13, +5 to hit with spell attacks). It has the following
+cleric spells prepared: Cantrips (at will): light
+,
+sacred flame
+,
+spare the dying
+,
+thaumaturgy
+1st level (4 slots): bless
+,
+cure wounds
+,
+detect evil and good
+,
+healing word
+,
+sanctuary
+2nd level (3 slots): calm emotions
+,
+lesser restoration
+,
+silence
+,
+spiritual weapon
+3rd level (3 slots): beacon of hope
+,
+revivify
+,
+spirit guardians
+4th level (2 slots): death ward
+,
+guardian of faith
+actions
+Mace.
+Melee Weapon Attack: +4 to hit, reach 5 ft., one
+target.
+Hit: 5 (1d6 + 2) bludgeoning damage and 4 (1d8)
+radiant damage.
+reactions
+Succor (Recharges after a Short or Long Rest).
+When the celestial celebrant or a creature it can see within
+60 feet of it takes damage, the celebrant can cast a spell
+that causes the damaged creature to regain hit points.

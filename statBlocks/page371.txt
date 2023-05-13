@@ -1,0 +1,42 @@
+===
+Xakalonus
+Medium monstrosity, neutral evil
+Armor Class 16 (natural armor)
+Hit Points 75 (10d8 + 30)
+Speed 30 ft.
+str dex con int wis cha
+ 18 (+4) 15 (+2) 17 (+3) 9 (–1) 12 (+1) 9 (–1)
+Skills
+Perception +4
+Senses darkvision 120 ft., passive Perception 14
+Languages understands Draconic but can’t speak
+Challenge 8 (3,900 XP)
+Proficiency Bonus +3
+Magic Absorption.
+If a xakalonus succeeds on a saving
+throw against a magical effect that would damage it,
+but it takes no damage instead, the xakalonus regains 11
+(2d10) hit points instead. Alternatively, if the xakalonus is
+at full hit points, the next successful melee attack by the
+xakalonus deals an additional 11 (2d10) force damage.
+Magic Resistance.
+The xakalonus has advantage on
+saving throws against spells and other magical effects.
+actions
+Multiattack.
+The xakalonus makes one bite and one
+claws attack.
+Bite.
+Melee Weapon Attack: +7 to hit, reach 5 ft., one
+target.
+Hit: 13 (2d8 + 4) piercing damage.
+Claws.
+Melee Weapon Attack: +7 to hit, reach 5 ft., one
+target.
+Hit: 15 (2d10 + 4) slashing damage.
+Sonic Bark (Recharge 5-6)
+. All creatures within 30 ft.
+who can hear the xakalonus must succeed on a DC 14
+Constitution saving throw or take 14 (4d6) thunder
+damage and be stunned until the end of their next turn.
+Other xakalonus and the hraptnon are immune to this.

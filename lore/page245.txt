@@ -1,0 +1,30 @@
+Ordeal Tree
+“In the primeval wood rises the ordeal tree. Should 
+you hang from this hoary pillar of begone time for 
+seven moons, you will gain power of the ancients.”
+Hidden Danger.
+ Much like a treant, an ordeal tree 
+is capable of movement or even speech, but it rarely 
+does so, preferring to tempt victims into believing it’s a 
+magical tree.
+The Worst Are Best.
+ An ordeal tree only grants power 
+to those with the capacity to do great evil. Those with 
+pure hearts are simply murdered.
+Power with Cost.
+ The ordeal tree’s blessing, if granted 
+at all, comes with a curse.
+salvage
+The heartwood of an ordeal tree can be turned into an 
+incense that, when inhaled, acts as a cure for removing 
+powerful curses. Obtaining the wood requires a 
+successful DC 15 Dexterity (Sleight of Hand) check 
+by someone proficient with woodcarver’s tools. 
+Recovering and preparing this incense takes 15 days 
+and costs 1000 gp, also requiring a successful DC 20 
+Intelligence (Religion) check.
+lore
+DC 10 Intelligence (Nature)
+: Lashing yourself to an 
+ordeal tree for 7 days can grant a petitioner power based 
+on their heart’s desire.

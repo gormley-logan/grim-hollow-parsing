@@ -1,0 +1,116 @@
+===
+Incorporeal Cauchemange
+Medium aberration, neutral evil
+Armor Class 13
+Hit Points 77 (14d8 + 14)
+Speed 0 ft., fly 40 ft. (hover)
+str dex con int wis cha
+	6	(–2)	16	(+3)	12	(+1)	13	(+1)	15	(+2)	17	(+3)
+Skills
+Intimidation+6, Perception+5
+Damage Immunities poison
+Damage Resistances
+acid, cold, fire, thunder; bludg-
+eoning, piercing, and slashing from nonmagical attacks
+Condition Immunities charmed, deafened,
+frightened, grappled, paralyzed, petrified, poisoned,
+prone, restrained
+Senses darkvision 120 ft., passive Perception 15
+Languages the languages of its host, telepathy 60 ft.
+Challenge 5 (1,800 XP)
+Proficiency Bonus +3
+Happiness Susceptibility.
+If a creature within 30 feet
+of the incorporeal cauchemange uses an action to make
+a DC 14 Charisma (Performance) check and succeeds,
+creating a presentation that inspires happiness or hope,
+the cauchemange has disadvantage on attack rolls until
+the end of the performing creature’s next turn.
+Implant Larva.
+If a humanoid dies due to damage the
+incorporeal cauchemange deals, a cauchemange larva
+emerges from the corpse 8 hours later.
+Incorporeal Movement
+. The cauchemange can move
+through other creatures and objects as if they were
+difficult terrain. It takes 5 (1d10) force damage if it ends
+its turn inside an object.
+Nightmare Aura.
+Each creature of the incorporeal
+cauchemange’s choice that starts its turn within 60 feet
+of the cauchemange must succeed on a DC 14 Wisdom
+saving throw or sense the cauchemange as something
+to be feared, becoming frightened until the start of the
+creature’s next turn. On a successful saving throw,
+the creature is immune to the Nightmare Aura of all
+cauchemanges for 1 hour.
+Psychic Teleport (Recharge 4–6).
+As its movement,
+the cauchemange can teleport to an unoccupied space
+within 40 ft. of it, provided that the space is within 10 ft.
+of a creature with an Intelligence score of 3 or higher.
+The cauchemange doesn’t need to see the destination.
+Thought Location.
+The incorporeal cauchemange can
+detect creatures within 60 feet that have an Intelligence
+of 2 or higher, provided they aren’t constructs or undead.
+Effects that prevent divination from working on a creature
+thwart this sense. This sense penetrates barriers, but 2 ft.
+of rock, 2 inches of any metal other than lead, or a thin
+sheet of lead blocks it. The cauchemange can’t be surprised
+by a creature it can sense.
+actions
+Touch.
+Melee Weapon Attack: +6 to hit, reach 5 ft., one
+target.
+Hit: 16 (3d8 + 3) psychic damage. The target
+must succeed on a DC 14 Charisma saving throw or its
+hit point maximum is reduced by an amount equal to
+the damage taken. This reduction lasts until the target
+finishes a long rest. The target dies if this effect reduces
+its hit point maximum to 0.
+Killing Nightmare (Recharges after a Short or
+Long Rest).
+The incorporeal cauchemange releases a
+telepathic wave of amplified horror. Each frightened
+creature of the cauchemange’s choice within 30 feet of
+the cauchemange must make a DC 14 Charisma saving
+throw. On a failure by 5 or more, a creature drops to 0 hit
+points. If the save fails, the creature takes 25 (4d10 + 3)
+psychic damage.
+===
+Cauchemange Larva
+Tiny aberration, neutral evil
+Armor Class 13
+Hit Points 10 (4d4)
+Speed 20 ft.
+str dex con int wis cha
+	2	(–4)	16	(+3)	10	(+0)	3	(–4)	7	(–2)	3	(–4)
+Skills
+Stealth +5
+Damage Resistances
+poison, psychic
+Senses blindsight 30 ft. (blind beyond this radius),
+passive Perception 8
+Languages —
+Challenge 1/4 (50 XP)
+Proficiency Bonus +2
+Magic Resistance.
+A cauchemange larva has
+advantage on saving throws against spells and other
+magical effects.
+actions
+Bite.
+Melee Weapon Attack: +4 to hit, reach 5 ft, one target.
+Hit: 2 (1d4) piercing damage. If the cauchemange larva
+scores a critical hit against a creature not infected by
+another cauchemange larva, the larva burrows into the
+target. Once inside a target, the larva is a disease. For
+seven days, each time the host finishes a long rest, the
+host must make a DC 10 Wisdom saving throw.
+On a failure, the host gains no benefit from
+that rest. After seven days, the cauchemange
+erupts from its host’s body as an adult
+cauchemange that is either corporeal
+or incorporeal. This exit deals the host
+20 (4d8 + 2) slashing damage.

@@ -1,0 +1,68 @@
+151
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+H
+===
+Hedron
+Medium elemental, lawful neutral
+Armor Class 17 (natural armor)
+Hit Points 110 (13d8 + 52)
+Speed 0 ft., fly 30 ft. (hover)
+str dex con int wis cha
+ 11 (+0) 11 (+0) 19 (+4) 13 (+1) 13 (+1) 17 (+3)
+Skills
+Perception +4
+Damage Immunities poison
+Damage Resistances
+psychic; bludgeoning, piercing,
+and slashing from nonmagical attacks
+Condition Immunities blinded, deafened, exhaustion,
+paralyzed, petrified, poisoned, prone, unconscious
+Senses truesight 60 ft., passive Perception 14
+Languages understands all languages but can’t speak,
+telepathy 120 ft.
+Challenge 8 (3,900 XP)
+Proficiency Bonus +3
+Aura of Pure Order.
+The hedron exudes a 30-foot sphere
+of pure order, which influences randomness and makes the
+area conform to a rigid ideal. The aura penetrates objects
+and barriers, but a barrier more than 2 feet thick blocks it,
+as does any barrier of force. Objects harmlessly become
+perfectly geometric if they remain in the aura for 1 minute.
+Difficult terrain in the area becomes normal terrain until
+subjected to something that makes it difficult terrain again.
+Objects removed from the aura before they transform revert
+to normal.
+A creature other than a hedron that enters the area
+for the first time on a turn or starts its turn there takes
+5 (2d4) force damage. While in the aura, a creature can’t
+change shape or have advantage or disadvantage.
+Immutable Form.
+The hedron is immune to any spell
+or effect that would alter its form.
+actions
+Multiattack.
+The hedron uses telekinesis twice.
+Telekinesis.
+Melee Spell Attack
+: +6 to hit, reach 60 ft., one target.
+Hit
+: 21 (6d6) force damage, although the hedron can choose to deal half or no damage. If the target is a
+Large or smaller creature, it is grappled (escape DC 14).
+Until this grapple ends, if the hedron wishes, the target
+is restrained. The hedron can move a grappled creature
+or held object up to 30 feet in any direction, provided the
+target remains within the hedron’s reach. If the hedron
+tries to move an object another creature wears or carries,
+that creature can prevent the movement with a successful
+DC 14 Strength saving throw. The hedron can hold
+(grapple) up to two creatures or objects at a time. It can
+also exert fine control while choosing to deal no damage,
+such as manipulating a tool or opening a door.

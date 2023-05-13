@@ -1,0 +1,13 @@
+salvage
+Someone who has proficiency with alchemist’s supplies 
+can use the skin and gizzard of one ormwurm, along 
+with other reagents worth 25 gp, to create a 
+potion of 
+acid resistance
+. Doing so requires 4 hours of work and a 
+successful DC 13 Intelligence or Wisdom check.
+lore
+DC 10 Intelligence (History):
+ Some stories 
+say that Gormadraug was an ormwurm that never 
+stopped growing.

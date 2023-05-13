@@ -1,0 +1,122 @@
+===
+Runa Banasár
+Medium undead, lawful evil
+Armor Class 19 (shield)
+Hit Points 285 (30d8 + 150)
+Speed 40 ft., fly 40 ft.
+str dex con int wis cha
+ 21 (+5) 14 (+2) 20 (+5) 12 (+1) 16 (+3) 16 (+3)
+Saving Throws
+Dex +9, Con +12, Wis +10, Cha +10
+Skills
+Arcana +8, Athletics +12, Intimidation +10,
+Perception +10
+Damage Immunities necrotic, poison
+Damage Resistances
+bludgeoning, piercing, and
+slashing from nonmagical attacks
+Condition Immunities charmed, exhaustion,
+frightened, paralyzed, poisoned
+Senses darkvision 120 ft., passive Perception 20
+Languages Valikan
+Challenge 23 (50,000 XP)
+Proficiency Bonus +7
+Brute.
+A weapon deals two extra dice of its damage
+when Runa hits with it (included in her attack).
+Immutable.
+No effect can alter Runa’s form.
+Legendary Resistance (3/Day).
+If Runa fails a saving
+throw, she can choose to succeed instead.
+Rampage.
+When Runa reduces a creature to 0 hit points
+with a melee attack on her turn, she can take a bonus action
+to move up to half her speed and make a melee attack.
+Rejuvenation.
+If destroyed while her memento skull
+remains intact, Runa gains a new body in 2d4 days,
+regaining all her hit points and becoming active again.
+Her new body appears within 5 feet of the memento skull.
+Turn Resistance.
+Runa has advantage on saving
+throws against any effect that turns undead.
+Unarmored Defense.
+When not wearing armor,
+Runa’s Armor Class equals 10 + her Dexterity modifier
++ her Constitution modifier. She can use a shield while
+gaining this benefit.
+actions
+Multiattack.
+Runa uses frightful presence and makes
+four attacks with
+Coldrazor
+. She can use wall of fire in
+place of one attacks.
+Coldrazor, +3 Handaxe.
+Melee or Ranged Weapon
+Attack: +15 to hit, reach 5 ft. or range 20/60 ft., one target.
+Hit: 18 (3d6 + 8) slashing damage and 14 (4d6) cold
+damage.
+Coldrazor
+returns to Runa’s hand immediately
+after it’s thrown. When Runa scores a critical hit using
+Coldrazor
+to make a melee attack, the damage is 32 (7d6 + 8)
+slashing damage and 24 (8d6) cold damage.
+Stunning Presence.
+Each creature of Runa’s choice
+within 120 feet of and aware of her must succeed on a
+DC 18 Wisdom saving throw or become stunned for
+1 minute. A creature can repeat the saving throw at the
+end of each of its turns, ending the effect on itself on
+a success. If a creature’s saving throw is successful or
+the effect ends for it, the creature is immune to Runa’s
+Stunning Presence for the next 24 hours.
+Wall of Fire (Recharge 5–6).
+Runa creates a wall of
+fire on a solid surface within 120 feet of her. The wall can
+be up to 60 feet long, 20 feet high, and 1 foot thick, or a
+ringed wall up to 20 feet in diameter, 20 feet high, and
+1 foot thick. The wall is opaque and lasts until the start of
+Runa’s next turn. When the wall appears, each creature
+in its area must make a DC 18 Dexterity saving throw,
+taking 45 (10d8) fire damage on a failed save, or half as
+much damage on a successful one. A creature takes 22
+(5d8) fire damage when it enters the wall for the first
+time on a turn or ends its turn there.
+reactions
+Retaliate.
+When Runa takes damage from a creature
+within 5 feet of her, she can make a melee weapon attack
+against that creature.
+legendary actions
+Runa can take 3 legendary actions, choosing from the
+options here. Only one legendary action option can be
+used at a time and only at the end of another creature’s
+turn. Runa regains spent legendary actions at the start of
+her turn.
+Attack.
+Runa attacks with
+Coldrazor
+.
+Move.
+Runa moves up to her speed.
+Curse of Cowardice (Costs 2 Actions).
+Runa targets
+one stunned creature she can see within 30 feet of her. The
+target must succeed on a DC 18 Wisdom saving throw or
+be magically cursed. Until the curse ends, the target has
+disadvantage on saving throws and takes 10 (3d6) extra
+necrotic damage if hit with Runa’s attacks using
+Coldrazor
+.
+The target can repeat the saving throw at the end of each
+of its turns, ending the effect on itself on a success.
+Siphon Vitality (Costs 3 Actions, Recharge 6).
+This action has no effect on undead or constructs, but
+plants have disadvantage on the saving throw. Each
+creature within 20 feet of Runa must make a DC 18
+Constitution saving throw, taking 38 (6d12) necrotic
+damage on a failed save, or half as much damage on
+a successful one.

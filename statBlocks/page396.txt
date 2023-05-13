@@ -1,0 +1,25 @@
+396
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+gnome vampire customization
+Gnome vampires are Small, with a speed of 25 feet, and
+often weaker than other vampires (lower Strength). But
+they’re just as agile and vicious—their attacks are just as
+accurate and damaging—and they can have more cunning
+(higher Intelligence). When converting the Hit Dice to
+d6s for a Small creature, keep the hit point maximum
+as close to the same as possible. A gnome vampire has
+enhanced darkvision (add 30 feet) and retains the resilient
+mind of a gnome, having Turn Resistance and proficiency
+in Intelligence, Wisdom, and Charisma saving throws.
+Gnome vampires also have the Speak with Beasts trait,
+and those young and older gnome vampires that can
+speak with beasts have the Command Beast action. An-
+cient gnome vampires can command five or more beasts
+with one action.

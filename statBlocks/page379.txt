@@ -1,0 +1,110 @@
+379
+C
+hapter
+2: V ampires
+vampire lore
+Vampires are known throughout Etharis, but many
+prefer to believe the dire creatures are stories meant to
+scare children into going to bed on time and to come
+home before sunset. That said, a few details are common
+among the tales: DC 10 Intelligence (Religion): A vampire’s hunger
+is their focus, and if presented with large amounts of
+food—blood, fresh meat, and marrow—the creature
+might be distracted.
+Vampires heal quickly, but they have notable weaknesses.
+They share a weakness to sunlight and running water, and
+vampires can enter a home only if invited.
+DC 15 Intelligence (History): Religious folk carry
+tales of vampires from region to region, but there are
+whispers that ancient vampires have infiltrated the
+upper echelons of some churches.
+DC 20 Intelligence (History): Few know that a
+vampire’s weaknesses lessen as the vampire ages.
+Some vulnerabilities disappear completely, while the
+vampire’s body regenerates faster and faster. An ancient
+vampire even becomes inured to sunlight; pride might
+be an ancient’s greatest weakness.
+The vampire also gains power with age. Older
+vampires can turn to mist, transform into animals, and
+move and attack with frightening alacrity.
+It is said that a vampire isn’t truly dead until their
+heart has been destroyed. Folklore maintains that some
+vampires can regenerate even after being reduced to ash.
+DC 20 Intelligence (History): Historical accounts tell
+of ancient vampires who have their claws in everything
+from politics and the economy to cultural activities. They
+have been known to have “friends” in high places.
+DC 20 Intelligence (Religion): A vampire can sense
+if their vampiric kin come to harm. The blood bond they
+share is powerful, but this sense lacks precision. How
+a vampire reacts to the destruction of one of their kin
+depends on the vampire’s personality.
+Curing a vampire is a tricky business, requiring a
+vampire spawn’s progenitor to be slain and
+remove curse
+to be cast upon the spawn quickly. Thereafter, specific
+cures must be applied, and these remedies vary from
+vampire to vampire according to the tales.
+The body parts of a vampire can be used in various
+ways. Some can be made into magic items. Others can be
+used or consumed for various benefits. The downside is
+that consuming any part of a vampire exposes one to the
+curse for a time.
+buildinga vampire
+Vampires vary. This chapter provides several ways to
+customize them. But the basic process for building a
+vampire is as follows: •
+Start with the stat block from the Vampire Statistics
+section labeled with the age you prefer.
+•
+Add capabilities you like from the vampire’s original
+ancestry. Some samples can be found following the
+Vampire Ancestry section. Most of these capabilities
+manifest once the vampire is young or older, but it’s
+up to you whether to add them to your vampires.
+•
+Give the vampire other equipment, proficiencies, actions,
+and traits fitting for the NPC you mean to create.
+•
+Apply effects from equipment and spells you’ve given
+your unique vampire.
+•
+Evaluate whether you’ve added anything that
+increases the vampire’s Challenge.
+vampire encounters
+Vampires group into loose packs of like-blooded
+companions. These packs commonly contain three to
+eight (1d6 + 2) vampires, with one member at a higher
+age than the others—the pack’s leader and, likely,
+progenitor. Each vampire could have a couple (1d3 – 1)
+spawn. The pack might share a lair, but they aren’t
+always together. When building a vampire encounter,
+consider the following elements: •
+Who leads the pack?
+•
+Where does the pack live?
+•
+Is there enough food for the pack?
+•
+What is the pack’s motivation?
+leaders
+The eldest member of a pack is the default leader, regardless
+of the prowess of other pack members. This drive is innate
+and has few exceptions. Tales of packs mixing speak of
+discord handled quickly and violently, with one vampire
+rising to dominate the others through might.
+A pack leader is the primary defender of the pack.
+They often have the most potent abilities, which they
+use with fervor and skill. Vampires are canny hunters.
+But a powerful and cunning leader hones the pack into
+a terrifying force.
+A vampire who feels the pack leader is unworthy
+rarely confronts the leader directly. Instead, they
+sabotage the leader, even going so far as to tip off
+enemies where and when the leader is vulnerable.
+A pack leader’s position is seldom stable.
+If a vampire advances to the same age category
+as their pack leader, only other loyalties can prevent
+conflict. Such tensions can range from simmering hostility
+to outright combat. Eventually, one of the elders must
+leave and create their own pack elsewhere.

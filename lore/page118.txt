@@ -1,0 +1,54 @@
+118
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+F
+Faevlin
+“Never make a deal with the fey. Never make a deal with a 
+goblin. And if you ever meet a faevlin, you’ll know why.”
+Fey Goblin.
+ Faevlins are what happen when a group of 
+goblins makes deals with the fey that they can’t keep. In poor 
+lighting, a faevlin can be mistaken for a goblin. However, 
+faevlins are unmistakable in the light. They have teal skin, 
+and a faevlin’s head is upside down. Faevlins work for 
+stronger fey or guard places where the veil between the 
+mortal world and the land of fairies is weak.
+Broken Promises.
+ As the story goes, in ancient times, 
+a clan of goblins made a deal with a fey lady to gain 
+power. The goblins thought they could break the rules 
+of the deal if no fey were watching. They were wrong. 
+Fey magic swept the clan away. When they returned, 
+they were faevlins.  Some say these faevlins escaped, and 
+others claim the fey sent them back to the mortal world 
+to cause trouble. Still others say their servitude ended 
+because they were more trouble than they were worth.
+Uncharmed Life.
+ Faevlins willingly work with other 
+creatures, often for mischief and crime, and can be bullied 
+by stronger, wicked beings. They can’t be charmed by 
+creatures other than fey. But a faevlin might pretend to be 
+charmed to get the drop on an enemy.
+salvage
+Faevlins love to collect objects that increase their 
+personal prestige and power. Every faevlin is likely 
+to have a few personal trinkets like this, along with the 
+occasional item of real worth.
+lore
+DC 10 Intelligence (Nature): 
+A faevlin can teleport 
+away from attackers but does so in a manner even the 
+faevlin can’t predict.
+DC 15 Intelligence (History):
+ Faevlins are goblins 
+cursed by powerful fey magic
+DC 20 Intelligence (Nature):
+ A faevlin can’t be 
+charmed by nonfey, but they have been known to 
+pretend to be charmed to trick the enchanter.

@@ -1,0 +1,33 @@
+243
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+0
+salvage
+Defeated ogresh might carry currency from far-flung 
+kingdoms, unusual herbs or spices, or letters from 
+friends. Despite their wanderlust, ogresh rarely become 
+adventurers, so magic items they possess are more likely 
+to facilitate travel or comfort, such as a 
+bag of holding
+, 
+helm of comprehending languages
+, or 
+ring of animal influence
+.
+lore
+DC 10 Intelligence (History):
+ Ogresh are big people 
+known for their equally big hearts.
+GM Advice:
+ Though most ogresh are good-hearted 
+creatures, little is worse than an evil one. They use their 
+influence to corrupt whole communities. These communities 
+tend to do the bidding of their ogresh leader, and often they 
+are tricked into not even realizing their actions are vile. 
+Such ogresh are as duplicitous others are kind.

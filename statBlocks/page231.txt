@@ -1,0 +1,74 @@
+231
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+M
+===
+Mukad Progenitor
+Large aberration, lawful evil
+Armor Class 15 (natural armor)
+Hit Points 110 (13d10 + 39)
+Speed 20 ft., burrow 10 ft., climb 20 ft.
+str dex con int wis cha
+ 17 (+3) 11 (+0) 16 (+3) 10 (+0) 15 (+2) 14 (+2)
+Skills
+Perception +5
+Senses blindsight 60 ft., darkvision 120 ft., passive Perception 15
+Languages Mukad, telepathy 60 ft.
+Challenge 5 (1,800 XP)
+Proficiency Bonus +3
+Magic Resistance.
+The mukad has advantage on
+saving throws against spells and other magical effects.
+Spider Climb.
+The mukad can climb difficult surfaces,
+including upside down on ceilings, without needing to
+make an ability check.
+Tunneler.
+The mukad can burrow through solid rock
+at half its burrowing speed. When it burrows, it leaves a
+10-foot-diameter tunnel in its wake.
+actions
+Multiattack.
+The mukad makes two attacks: one with its bite and one with its claws.
+Bite.
+Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
+Hit: 12 (2d8 + 3) piercing damage and 9 (2d8) poison
+damage. If the target is a creature, it must succeed on a
+DC 14 Constitution saving throw or become poisoned
+for 1 minute. The target can repeat the saving throw at
+the end of each of its turns, ending the effect on itself
+on a success. If the creature drops to 0 hit points while
+poisoned in this way, it becomes stable, but it is poisoned
+for 1 hour and paralyzed while poisoned in this way.
+Claws.
+Melee Weapon Attack: +6 to hit, reach 5 ft.,
+one target.
+Hit
+: 12 (2d8 + 3) slashing damage. Aetheric Blast (Recharge 6).
+The mukad unleashes a
+burst of psionic dissonance in a 60-foot cone. The effect goes
+around corners. Each non-aberration in the area must make
+a DC 13 Intelligence saving throw. On a failure, a creature
+takes 18 (3d10 + 2) psychic damage and is incapacitated for
+1 minute. A creature can repeat the saving throw at the end
+of each of its turns, ending the effect on itself on a success.
+If the save succeeds, the creature takes half as much psychic
+damage and isn’t incapacitated.
+Aetheric Incubation.
+The mukad injects a paralyzed
+creature with a powerful psychic substance. The target
+must succeed on a DC 14 Intelligence saving throw
+or become paralyzed for 24 hours. Over this time, an
+ectoplasmic substance harmlessly encases the creature.
+Removing the ectoplasm takes 1 minute, and “escaping”
+from it takes no effort. If the ectoplasm remains for
+13 (3d8) hours, 1d4 + the creature’s Intelligence bonus
+mukad larvae appear on the creature, absorbing the
+ectoplasm “cocoon.” These larvae attack the paralyzed
+creature, feeding on it.

@@ -1,0 +1,48 @@
+225
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+M
+===
+Mouruge
+Medium undead, lawful evil
+Armor Class 13 (natural armor)
+Hit Points 60 (8d8 + 24)
+Speed 30 ft.
+str dex con int wis cha
+ 16 (+3) 10 (+0) 17 (+3) 7 (–2) 13 (+1) 5 (–3)
+Skills
+Athletics +5, Perception +3
+Damage Immunities poison
+Damage Resistances
+necrotic
+Condition Immunities exhaustion, poisoned
+Senses darkvision 60 ft., passive Perception 13
+Languages the languages it knew in life
+Challenge 2 (450 XP)
+Proficiency Bonus +2
+Undead Fortitude.
+If damage reduces the mouruge
+to 0 hit points, it must make a Constitution saving throw
+with a DC of 5 + the damage taken, unless the damage is
+radiant or from a critical hit. On a success, the mouruge
+drops to 1 hit point instead.
+actions
+Multiattack.
+The mouruge attacks once with its bite
+and once with its slam.
+Bite.
+Melee Weapon Attack: +5 to hit, reach 5 ft., one
+target.
+Hit: 5 (1d4 + 3) piercing damage and 3 (1d6)
+necrotic damage.
+Slam.
+Melee Weapon Attack: +5 to hit, reach 5 ft., one
+target.
+Hit: 6 (1d6 + 3) bludgeoning damage and 3 (1d6)
+necrotic damage.

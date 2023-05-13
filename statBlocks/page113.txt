@@ -1,0 +1,86 @@
+===
+Clockwork Horror
+Medium humanoid, unaligned
+Armor Class 15 (natural armor)
+Hit Points 90 (12d8 + 36)
+Speed 35 ft.
+str dex con int wis cha
+ 17 (+3) 15 (+2) 16 (+3) 10 (+0) 13 (+1) 9 (–1)
+Saving Throws
+Str +6, Con +6
+Skills
+Athletics +9, Perception +4
+Damage Resistances
+acid, bludgeoning, cold, fire,
+force, lightning, necrotic, piercing, poison, radiant,
+slashing, thunder
+Condition Immunities charmed, frightened
+Senses passive Perception 14
+Languages Elvish, Lower Bürach, Sylvan
+Challenge 5 (1,800 XP)
+Proficiency Bonus +3
+Artificial Form.
+The clockwork horror has advantages
+on saving throws against being poisoned and is immune
+to disease. It does not need to eat, drink, sleep, or breathe.
+Chain the Beast
+. When the clockwork horror is
+reduced to 0 hit points, it transforms back into Llanna
+Deyern with the same current hit points she had when
+she last transformed into the clockwork horror.
+actions
+Multiattack
+. The clockwork horror makes two slam
+attacks and a gore attack.
+Gore
+.
+Melee Weapon Attack: +6 to hit, reach 10 ft.,
+one target.
+Hit: 8 (1d10 + 3) piercing damage.
+Slam
+.
+Melee Weapon Attack: +6 to hit, reach 10 ft.,
+one target.
+Hit: 7 (1d8 + 3) bludgeoning damage.
+===
+Llanna Deyern
+Small humanoid (wechselkind), chaotic good
+Armor Class 12
+Hit Points 16 (3d6 + 6)
+Speed 25 ft.
+str dex con int wis cha
+ 8 (-1) 14 (+2) 15 (+2) 14 (+2) 11 (+0) 13 (+1)
+Saving Throws
+Dex +4
+Skills
+Acrobatics +4, Arcana +4, Perception +2
+Damage Resistances
+poison, psychic
+Senses passive Perception 12
+Languages Lower Bürach, Elvish, Sylvan
+Challenge 1/4 (50 XP)
+Proficiency Bonus +2
+Artificial Form
+. Llanna has advantages on saving
+throws against being poisoned and is immune to disease.
+She does not need to eat, drink, sleep, or breathe.
+Faerie Glamour
+. Llanna can cast the
+disguise self
+spell
+to appear as a flesh and blood half-elf child.
+Unchain the Beast
+. Llanna can use a bonus action
+to transform into the clockwork horror for 1 minute.
+If Llanna’s hit points are reduced to 0, she immediately
+transforms into the clockwork horror for 1 minute,
+falling unconscious at the end of that time. Once Llanna
+transforms into the clockwork horror, she can’t do so
+again until she finishes a short or long rest.
+actions
+Dagger
+.
+Melee or Ranged Weapon Attack: +4 to hit, reach
+5 ft. or range 20/60 ft., one creature.
+Hit: 4 (1d4 + 2)
+piercing damage.

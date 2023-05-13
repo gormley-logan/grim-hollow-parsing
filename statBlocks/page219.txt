@@ -1,0 +1,64 @@
+219
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+M
+===
+Mjork Charger
+Large elemental, chaotic neutral
+Armor Class 13 (natural armor)
+Hit Points 104 (11d10 + 44)
+Speed 40 ft.
+str dex con int wis cha
+ 18 (+4) 11 (+0) 18 (+4) 6 (–2) 10 (+0) 6 (–2)
+Damage Vulnerabilities
+thunder
+Damage Immunities fire, poison
+Damage Resistances
+bludgeoning, piercing, and
+slashing from nonmagical attacks
+Condition Immunities exhaustion, paralyzed,
+petrified, poisoned, unconscious
+Senses darkvision 60 ft., passive Perception 10
+Languages Ignan, Terran
+Challenge 7 (2,900 XP)
+Proficiency Bonus +3
+Charge.
+If the mjork charger moves at least 20 feet
+straight toward a target and then hits it with a slam
+attack on the same turn, the target takes an extra 4 (1d8)
+bludgeoning damage and 3 (1d6) fire damage. If the
+target is a creature, it must succeed on a DC 15 Strength
+saving throw or fall prone.
+Fiery Body.
+A creature that touches the mjork charger
+or hits it with a melee attack while within 5 feet of it
+takes 7 (2d6) fire damage.
+Illumination.
+The mjork charger sheds dim light in a
+10-foot radius.
+Momentum.
+If the mjork charger moves on its turn
+before attacking, creatures have disadvantage on attack
+rolls for opportunity attacks against it.
+Smoke Sense.
+A mjork charger in contact with smoke
+has blindsight in that smoke’s area in a radius of up to
+120 feet.
+Water Susceptibility.
+For every 5 feet the mjork
+charger moves in water, or for every gallon of water
+splashed on it, it takes 1 cold damage.
+actions
+Multiattack.
+The mjork makes two slam attacks.
+Slam.
+Melee Weapon Attack: +7 to hit, reach 5 ft., one
+target.
+Hit: 13 (2d8 + 4) bludgeoning damage and 7 (2d6)
+fire damage.

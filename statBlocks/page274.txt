@@ -1,0 +1,46 @@
+===
+Quake Drake
+Large dragon, neutral
+Armor Class 16 (natural armor)
+Hit Points 153 (18d10 + 54)
+Speed 30 ft., burrow 30 ft.
+str dex con int wis cha
+ 18 (+4) 14 (+2) 16 (+3) 4 (-3) 14 (+2) 6 (-2)
+Skills
+Athletics +8, Perception +6, Stealth +6
+Senses darkvision 60 ft., tremorsense 60 ft.,
+passive Perception 16
+Languages understands Draconic but can’t speak
+Challenge 9 (5,000 XP)
+Proficiency Bonus +4
+Tremor Aura
+. As a bonus action, the quake drake can
+activate an aura that shakes the earth within 20 feet of
+itself. A creature in the aura standing on the ground at
+the start of its turn must succeed on a DC 16 Dexterity
+saving throw or fall prone. Quake drakes are immune to
+this affect.
+Charging Furrow
+. If the quake drake burrows at least
+10 feet in a straight line toward a target and hits with
+a bite attack, the attack does an extra 14 (4d6) thunder
+damage. The target is caught in rubble in their current
+location and considered restrained until it uses as action to
+succeed on a DC 16 Strength (Athletics) check to free itself.
+actions
+Multiattack
+. The quake drake makes one bite and one
+tail attack.
+Bite
+.
+Melee Weapon Attack
+: +8 to hit, reach 5 ft., one target.
+Hit
+: 13 (2d8 + 4) piercing damage. Tail
+.
+Melee Weapon Attack
+: +8 to hit, reach 10 ft., one target.
+Hit
+: 13 (2d8 + 4) bludgeoning damage, and the target must succeed on a DC 16 Constitution saving
+throw or be stunned until the start of the quake drake’s
+next turn.

@@ -1,0 +1,42 @@
+Night Serpent
+“Stories say that Malikir sends night serpents to poison 
+heroes that they might fail to act in a critical moment. 
+I think they just like biting everyone.”
+Abyssal Snakes
+. Night serpents are violet-scaled 
+snakes native to the infernal realms, who’s poisonous 
+bite temporarily paralyzes its victims.
+Untrustworthy Followers
+. Night serpents are attracted 
+to fiends or mortals who wield great power. They frequently 
+sneak into the lairs of those who oppose the ones they 
+serve to kill them when they are unprepared. Eventually 
+the night serpents grow bored of those they follow and 
+turn on them as well.
+Light’s Enemy
+. Night serpents are creatures of 
+darkness. They are less effective in the light and are 
+vulnerable to radiant effects.
+salvage
+The night serpent’s hollowed teeth are perfect for 
+crossbow bolt heads. Someone who collects the fangs of 
+a night serpent can create a 
+paralyzing bolt
+ (see Chapter 
+4) with a successful DC 10 Intelligence (Nature) check 
+by someone proficient with woodcarver’s tools. Crafting 
+this item takes 1 hour and costs 20 gp per bolt.
+lore
+DC 10 Intelligence (Religion)
+: Night serpents are 
+a poisonous wildlife from the depths of the infernal 
+planes. Bright lights put them at a disadvantage and 
+radiant damage is effective against them.
+DC 15 Intelligence (Arcana)
+: Night serpents are 
+resistant to nonmagical weapons and cannot be 
+harmed by necrotic or poison damage.
+DC 20 Intelligence (Arcana)
+: A 
+night serpents bite paralyzes its 
+victim for a short time.

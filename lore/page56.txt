@@ -1,0 +1,50 @@
+56
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+C
+salvage
+Someone who has proficiency with an herbalism kit can 
+prepare a treatment for cauchemange larva infestation 
+by pulverizing another larva’s corpse with herbs worth 
+25 gp. Creating the concoction takes 1 hour of work and 
+a successful DC 10 Wisdom (Medicine) check. If someone 
+infected by a cauchemange larva takes the treatment, they 
+throw off the infection with a successful DC 10 Constitution 
+saving throw. This cure kills the larva.
+Someone who has proficiency with alchemist’s 
+supplies can use powder from the corpse of one corporeal 
+cauchemange with other materials worth 100 gp to produce 
+a divination drug. Doing so takes 4 hours of work and 
+requires a successful DC 13 Intelligence (Arcana) check. 
+Inhaled while naming a subject before a long rest, the drug 
+induces a nightmare-filled sleep that imparts the effect of 
+the 
+legend lore
+ spell on the named subject. The user wakes 
+with desired information but one level of exhaustion.
+lore
+DC 10
+Wisdom (Medicine):
+ The larval form of a 
+cauchemange can burrow into you and pupate within 
+your body, bursting out after a few days as an adult that 
+resembles your worst nightmare. This infection can be 
+treated much like a disease.
+DC 15 Intelligence (Arcana):
+ An adult cauchemange 
+can cause magical fear, and a corporeal cauchemange 
+can appear as someone or something you desire. They 
+have a peculiar weakness to expressions of happiness. 
+Singing songs or reciting stories of hope can debilitate 
+the creatures.
+GM Advice:
+ An enemy to the heroes might implant 
+a cauchemange larva into a character or NPC at an 
+opportune moment. They could then use the psychic data 
+gained by the larva to forward their own evils plans.

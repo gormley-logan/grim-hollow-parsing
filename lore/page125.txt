@@ -1,0 +1,34 @@
+salvage
+Someone who has proficiency with alchemist’s supplies 
+can use 1 pint of blood from a fzeg and mix it with silver 
+and other reagents worth 50 gp to create a 
+lycanthropy 
+antidote
+ (see chapter 4). A slain fzeg has 10 (1d4 + 2) 
+usable pints of blood. The blood of a fzeglaich can be 
+used, but it takes five times as much blood and twice as 
+long to brew. Creating the antidote takes 4 hours of work 
+and a successful DC 15 Intelligence (Religion) check.
+lore
+DC 10 Intelligence (Arcana):
+ A fzeg is a mix of 
+werewolf and vampire but has fewer weaknesses. 
+The creature is resistant to nonmagical attacks.
+DC 15 Intelligence (Nature):
+ With its bite, a fzeg 
+can drain life force and curse a person with werewolf 
+lycanthropy. Someone who dies from a fzeg’s bite 
+becomes a fzeglaich, a creature like the fzeg and loyal to it.
+DC 20 Intelligence (Arcana):
+ A fzeg can transform 
+into humanoid form. It’s natural form, however, is that 
+of a wolf-human hybrid. This vampiric monster isn’t 
+vulnerable to sunlight, but radiant damage prevents it 
+from regenerating.
+GM Advice:
+ An ambitious DM could imagine a fzeg at the 
+lead of a force including other werewolf-undead hybrids. 
+Combined with a ghoul or ghast, the creature would paralyze, 
+or combined with a wight, it would drain the life and lower 
+the maximum hit points of a target. Similarly, other kinds of 
+lycanthropes could become undead and wield hybrid powers.

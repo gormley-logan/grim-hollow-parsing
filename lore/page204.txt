@@ -1,0 +1,40 @@
+Maiden’s Hair
+Beware the woods, Beware the night,
+Beware the hair of golden light
+--Excerpt from a Bürach nursery rhyme
+Forest Blight
+. Maiden’s hair is a deadly plant found in 
+remote forests. They resemble long flowing tufts of golden 
+grass or moss, frequently hanging from tree limbs.
+Delusional Scent
+. The maiden’s hair releases a 
+poisonous scent, barely noticeable by most humanoids. 
+However, intelligent creatures affected by this poison 
+become enamored with the plant. Poisoned victims 
+who survive encounters with maiden’s hair describe 
+visions of an attractive individual with long flowing 
+hair calling them forward.
+Hag’s Favorite
+. Hags often cultivate these plants 
+to protect their dismal lairs, leaving skeletons of past 
+victims beneath the deadly plants to warn potential 
+intruders of the danger.
+salvage
+Individuals proficient with weaver’s tools can use the 
+fibrous remains of one maiden’s hair to craft exceptionally 
+resilient nets. An individual spending 8 hours and 
+succeeding on a DC 10 Dexterity (Sleight of Hand) 
+check can craft a 
+net of maiden’s hair
+ (see Chapter 4).
+lore
+DC 10 Intelligence (Nature)
+: The subtle scent released 
+by maiden’s hair is poisonous and can induce delirium 
+in its victims.
+DC 15 Intelligence (Arcana)
+: These plants are 
+resistant to bludgeoning, piercing, and psychic damage.
+DC 20 Intelligence (Nature)
+: A powerful wind can dis-
+perse the maiden’s hair’s poisonous scent for a short time.

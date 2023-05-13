@@ -1,0 +1,78 @@
+228
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+M
+Mukad
+“The Aether Kindred slumber, but mukads writhe 
+and work, preparing for their masters’ return. We 
+must eradicate every infestation before it’s too late.”
+Aether Kindred Agents.
+ Mukads are big, sapient 
+insectile creatures that scrabble feverishly in the darkness 
+beneath towns and cities. They serve the Aether Kindred 
+and prepare for the return of their extraplanar masters. 
+A gathering of mukads is known as an infestation.
+Communal Mind.
+ Many sages believe the mental 
+powers of mukads come from a connection to 
+Pharazorthok. Some have suggested individual mukads 
+are physical manifestations of a fragment of an Aether 
+Kindred’s mind.
+Grotesque Forms.
+ Mukads are bizarre humanoid-sized 
+centipedes with tough greenish-black carapaces. A mukad 
+walks on hundreds of thin legs, providing rapid movement 
+across walls and ceilings. Also, each mukad has two clawed 
+hands and a pair of venom-filled mandibles.
+Mukads come in sizes and shapes based on their place in 
+the infestation hierarchy and their stage of growth. Larvae, 
+each about the size of a house cat, are voracious. They form 
+swarms to devour whatever they can and grow quickly. 
+Most larvae grow into workers, about as large as a human 
+child. These workers can specialize in colony defense, 
+growing a little larger and becoming droners or warriors.
+All these mukads issue from progenitors. Mukad 
+progenitors are central to a mukad infestation. These 
+massive leaders direct the infestation’s activities and 
+implant prey with a reproductive substance from which 
+larvae emerge to expand the infestation.
+salvage
+Someone who has proficiency in the Arcana or Medicine 
+skill can extract the venom sacs from an adult mukad 
+with a successful DC 13 Intelligence (Arcana) or Wisdom 
+(Medicine) check. Somebody who has proficiency with 
+alchemist’s supplies or a poisoner’s kit must refine and 
+preserve the toxin with reagents worth 5 gp. Success in 
+this process yields one dose of mukad venom, or two 
+doses from a progenitor mukad.
+Mukad Venom (Ingested or Injury).
+ A creature 
+subjected to this poison takes 1d6 poison damage. The 
+creature must succeed on a DC 12 Constitution saving 
+throw or become poisoned for 1 minute. The target can 
+repeat the saving throw at the end of each of its turns, 
+ending the effect on itself on a success. If the creature 
+drops to 0 hit points while poisoned in this way, it becomes 
+stable, but it is poisoned for 1 hour and paralyzed while 
+poisoned in this way.
+lore
+DC 10 Intelligence (Nature):
+ The mandibles of these 
+sapient centipedal aberrations contain a paralytic poison.
+DC 15 Intelligence (Arcana):
+ Mukads are telepathic, 
+and some have psychic powers to enthrall, distract, and 
+cause pain.
+DC 20 Intelligence (Arcana):
+ Progenitor mukads 
+can inject already paralyzed creatures with a strange 
+“poison” that causes a creature to be paralyzed for a 
+day. The substance creates an ectoplasmic “cocoon” 
+from which mukad larvae eventually emerge to feed 
+on the paralyzed victim.

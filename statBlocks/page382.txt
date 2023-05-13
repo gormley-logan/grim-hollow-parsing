@@ -1,0 +1,132 @@
+382
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+===
+Adult Vampire
+Medium undead, any evil alignment
+Armor Class 17 (natural armor)
+Hit Points 144 (17d8 + 68)
+Speed 30 ft., climb 30 ft.
+str dex con int wis cha
+ 18 (+4) 18 (+4) 18 (+4) 13 (+1) 14 (+2) 14 (+2)
+Saving Throws
+Dex +9, Wis +7
+Skills
+Athletics +9, Perception +7, Stealth +9
+Damage Resistances
+necrotic, poison; bludgeoning,
+piercing, and slashing from nonmagical attacks
+Senses darkvision 90 ft., passive Perception 17
+Languages the languages known in life
+Challenge 13 (10,000 XP)
+Proficiency Bonus +5
+Legendary Resistance (3/Day).
+If the vampire fails a
+saving throw, it can choose to succeed instead.
+Regeneration.
+The vampire regains 20 hit points at
+the start of its turn if it has at least 1 hit point and isn’t in
+sunlight. If the vampire takes radiant damage, this trait
+doesn’t function at the start of the vampire’s next turn.
+Spider Climb.
+The vampire can climb difficult surfaces,
+including upside down on ceilings, without needing to
+make an ability check.
+Vampire Weaknesses.
+The vampire has the
+following flaws: Forbiddance.
+The vampire can’t enter a residence
+without an invitation from one of the occupants.
+Stake to the Heart.
+The vampire dies if a piercing
+weapon made of wood is driven into its heart while it is
+incapacitated in its resting place.
+Sunlight Hypersensitivity.
+The vampire takes 10 radiant
+damage when it starts its turn in sunlight. While in sunlight,
+it has disadvantage on attack rolls and ability checks.
+actions
+Multiattack.
+The vampire makes three attacks, only
+one of which can be a bite.
+Claws.
+Melee Weapon Attack: +9 to hit, reach 5 ft., one target.
+Hit: 11 (2d6 + 4) slashing damage. If the target is a creature,
+the vampire can grapple the target (escape DC 17).
+Bite.
+Melee Weapon Attack: +9 to hit, reach 5 ft., one
+creature.
+Hit: 11 (2d6 + 4) piercing damage and 14 (4d6)
+necrotic damage. The target’s hit point maximum is
+reduced by an amount equal to the necrotic damage
+taken, and the vampire regains hit points equal to that
+amount. This reduction lasts until the target finishes a
+long rest. The target dies if this effect reduces its hit point
+maximum to 0. A humanoid slain in this way and then
+buried rises the following night as a vampire spawn
+under this vampire’s control.
+Beast Form.
+If the vampire isn’t in sunlight, it
+polymorphs into a Small or smaller beast, usually with
+fangs and claws, or back into its true form. While in beast
+form, the vampire can gain a fly or swim speed of 30 feet,
+but its other statistics remain the same. If the new form
+lacks claws, the vampire can make slam attacks that deal
+the same amount of bludgeoning damage. Anything it
+wears transforms with it, but nothing it is carrying does.
+It reverts to its true form if it dies.
+Mist Form.
+If the vampire isn’t in sunlight, it
+polymorphs into a Medium cloud of mist, or back into
+its true form. Anything it wears or carries transforms
+with it. While in mist form, the vampire can’t take any
+actions, speak, or manipulate objects. It is weightless,
+has a flying speed of 30 feet, can hover, and can enter
+a hostile creature’s space and stop there. In addition,
+if air can pass through a space, the mist can do so
+without squeezing, but it can’t pass through water. It
+has advantage on Strength, Dexterity, and Constitution
+saving throws. A vampire in mist form is immune to
+nonmagical damage, except damage from sunlight,
+and has resistance to damage other than radiant. The
+vampire reverts to its true form if it dies.
+reactions
+Misty Escape.
+When it drops to 0 hit points outside
+its resting place, the vampire transforms into its Mist
+Form instead of falling unconscious. If the vampire can’t
+transform, it dies.
+While it has 0 hit points in mist form, the vampire
+dies if it takes damage three times or radiant damage
+once. It can’t willingly revert to its vampire form, and it
+must reach its resting place within 2 hours or die. Once
+in its resting place, it reverts to its vampire form. It is
+then paralyzed until it regains at least 1 hit point. After
+spending 1 hour in its resting place with 0 hit points, it
+regains 1 hit point.
+legendary actions
+The vampire can take 3 legendary actions, choosing
+from the options here. Only one legendary action option
+can be used at a time and only at the end of another
+creature’s turn. The vampire regains spent legendary
+actions at the start of its turn.
+Move.
+The vampire moves up to its speed without
+provoking opportunity attacks.
+Claws.
+The vampire attacks once with its claws.
+gm advice: By the time a vampire gains enough power and
+prestige to become an adult, they should be well-versed in not
+only their own powers, but they should have a good grasp of
+the political and social situation in the area surrounding their
+lair, whether it’s a villa within a city or a cave complex in the
+far reaches of a wilderness. The need for living creatures to
+feed their terrible appetites directs their actions, but they’ll
+have worked hard and used their resources to make sure that
+need is met, and met well.

@@ -1,0 +1,52 @@
+===
+Scream Thief
+Medium undead, chaotic evil
+Armor Class 12
+Hit Points 52 (8d8+16)
+Speed 0 ft., fly 60 ft (hover)
+str dex con int wis cha
+ 6 (-2) 15 (+2) 14 (+2) 10 (+0) 12 (+1) 12 (+1)
+Damage Resistances
+acid, cold, fire; bludgeoning,
+piercing, and slashing from nonmagical attacks
+Damage Immunities necrotic, poison
+Condition Immunities charmed, exhaustion,
+grappled, paralyzed, petrified, poisoned, prone,
+restrained, unconscious
+Senses darkvision 60 ft., passive Perception 11
+Languages languages it knew in life
+Challenge 3 (700 XP)
+Incorporeal Movement.
+The scream thief can move
+through other creatures and objects as if they were difficult
+terrain. It takes 5 (1d10) force damage if it ends its turn
+inside an object.
+actions
+Life Drain
+.
+Melee Weapon Attack
+: +4 to hit, reach 5 ft., one target.
+Hit
+: 18 (4d8) necrotic damage The target must succeed on a DC 12 Constitution saving throw or its
+hit point maximum is reduced by an amount equal to
+the damage taken. This reduction lasts until the target
+finishes a long rest. The target dies if this effect reduces
+its hit point maximum to 0.
+Silence the Living (Recharge 5-6)
+. The scream thief
+forces a humanoid within 30 feet of it to make a DC13
+Wisdom saving throw. On a failure, the target takes 19
+(3d12) psychic damage, is frightened, and is unable to
+vocalize a sound of any kind. The target may repeat the
+saving throw at the end of its turns to end these effects.
+On a success the creature takes half as much damage
+and is not frightened or silenced.
+reactions
+Fragment the Spirit
+. The scream thief targets a
+creature that died from one of its attacks. The target’s
+spirit rises as 3 (1d6)
+psychic fragments
+in the space
+of its corpse or in the nearest unoccupied space. The
+psychic fragments are under the scream thief’s control.

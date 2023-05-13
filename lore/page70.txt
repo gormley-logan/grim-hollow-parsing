@@ -1,0 +1,74 @@
+70
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+C
+Corpse Walker
+“They rose from their graves, some by force of magic, others 
+cursed through their life’s misdeeds. Whatever the reason, 
+we can’t let them walk among the living.”
+Grim Awakening
+. When the soul of a deceased can’t 
+leave the body because of induced death or for misconduct, 
+it might rise as a corpse walker. The reanimated corpse 
+moves about with its arms outstretched. With its attacks, a 
+corpse walker siphons a victim’s life force and kills living 
+creatures for sustenance.
+Night Walkers
+. Corpse walkers rise at night. By 
+day, they hide in dark places such as coffins and caves. 
+Whether newly deceased or buried for a longer time, the 
+skin of a corpse walker is greenish white with bizarre 
+mold growing on it. The sun burns this flesh and fungus 
+away. As they age, corpse walkers become attached to 
+their resting places and flee there when hard pressed.
+salvage
+Someone who has proficiency with alchemist’s supplies 
+can mix the mold from a corpse walker’s skin with other 
+materials worth 500 gp to produce a potion that grants all 
+the corpse walker’s damage resistances for 10 minutes. 
+The skin from an ancient corpse walker can produce two 
+doses of this potion. A humanoid that dies while under 
+the effects of this potion rises as a corpse walker 24 hours 
+later. Creating this rare potion requires a successful DC 
+15 Intelligence (Religion) check and 8 hours of brewing.
+Someone who has proficiency with smith’s tools can 
+fashion the femur of an ancient corpse walker into a 
+one-handed melee weapon. Both femurs can make a 
+two-handed weapon. Creating the weapon takes 10 days 
+and extra materials worth 500 gp, and it’s a magic weapon 
+when complete. Someone you hit with an attack using 
+the weapon can’t regain hit points until the start of your 
+next turn. If someone casts 
+vampiric touch
+ and 
+inflict 
+wounds
+ on the weapon once per day while it’s being 
+made, and materials worth 1,000 more gp are added to 
+the process, the weapon also takes on the properties of a 
+sword of life stealing
+ but need not be a sword.
+lore
+DC 10 Intelligence (History):
+ It’s bad luck for the living 
+to set eyes upon a corpse walker. The returned gaze 
+imparts a curse. Like a zombie, a corpse walker can take 
+significant wounds and remain standing.
+DC 15 Intelligence (Religion):
+ The corpse walker 
+has a severe vulnerability to sunlight, which burns and 
+distracts it. Radiant damage is a sure way to ensure the 
+corpse walker stays down when slain.
+DC 20 Intelligence (Arcana):
+ An ancient corpse walker 
+can release spores that call loyal undead to it, although 
+wind can disperse these spores. The ancient walker can also 
+become a cloud of deadly spores that can animate corpses. 
+If terribly wounded, the ancient corpse walker turns into this 
+mist and has 2 hours to return to its lair or perish forever.

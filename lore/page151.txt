@@ -1,0 +1,41 @@
+Hedron
+“It was surreal and beautiful, like a painting. A forest of 
+perfectly spaced, identical trees, a circular lake, and ground as 
+smooth and even as a road. Floating in the middle was a cube, 
+polished to a mirror finish.”
+Order Incarnate.
+ Hedrons are elementals of pure 
+order. They see the world as a chaotic place that must be 
+tamed. This view puts them at odds with reality.
+Forced Conformity.
+ As the purified essence of order, 
+a hedron wants to impose perfection on its surroundings. 
+Terrain smooths, objects refine, and animals warp into 
+identical copies. This process is painful, often lethal, 
+to creatures.
+Amoral Imperative.
+ Hedrons are sapient beings, rigid 
+in their terraforming efforts. The well-being of other entities 
+is of no consequence to a hedron. An orderly corpse is just 
+as good as a living clone.
+Elemental Nature.
+ A hedron doesn’t require air, food, 
+drink, or sleep.
+salvage
+The matter composing a hedron resolves into perfect 
+geometric solids when the elemental collapses. These 
+polyhedrons can be used to make fifty dice that land on 
+a number the roller wants, provided the roller knows 
+the dice work this way. These dice are worth 5 to 10 gp 
+each to the right buyers.
+lore
+DC 10 Intelligence (History): 
+A hedron is an 
+elemental aligned with law rather than traditional 
+elements. It can manipulate and harm creatures 
+and objects with invisible force.
+DC 15 Intelligence (Arcana):
+ Hedrons exude an 
+aura that transforms creatures and objects into “orderly” 
+forms. For creatures, the body resists, and the process is 
+painful and potentially lethal.

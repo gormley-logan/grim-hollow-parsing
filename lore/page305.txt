@@ -1,0 +1,34 @@
+305
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+S
+Shrieking Mandrake
+“The farmer sighed as he saw yet another corpse in his 
+mandrake field. Would foolish thieves never learn?”
+Lethal Deterrent.
+ Some enterprising farmers grow 
+ordinary mandrakes, valuable to alchemists and mages. 
+Shrieking mandrakes usually grow in the wild, but they 
+can be cultivated to protect a crop of normal mandrakes. 
+When a shrieking mandrake is plucked from the ground, 
+it releases a deadly sound.
+salvage
+When casting a spell that deals psychic damage, a spell-
+caster can include powder from one shrieking mandrake. 
+The spell consumes the powder, but the caster can roll 
+one extra damage die, then eliminate the lowest die 
+before calculating the damage.
+lore
+DC 10 Intelligence (Nature) or Wisdom (Survival):
+Shrieking mandrakes can easily be mistaken for ordinary 
+mandrakes, but it emits a potentially lethal shriek when 
+it comes out of the ground.
+DC 15 Intelligence (Arcana):
+ A shrieking mandrake is 
+immune to being blinded, deafened, and frightened.

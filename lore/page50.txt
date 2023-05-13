@@ -1,0 +1,47 @@
+50
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+C
+Caprathorn
+“The temptation to aid a lost lamb should be tamped 
+down when a thornlamm appears. Where there is one, 
+there are many. And all lead back to a creature far more 
+terrifying than any big, bad wolf.”
+Malevolent Caprid.
+ The caprathorn is a fiendish creature, 
+born out of corruption by the Great Beast. Though gangly, 
+a caprathorn is a legendary foe.
+Runic Horns.
+ The caprathorn’s head is topped with four 
+twisted horns. These horns are covered with arcane sigils 
+and are the source of its legendary powers. Attached to 
+these horns, growing from vines, are thornlamms, miniature 
+versions of the caprathorn. These creatures serve the fiend 
+as minions and food.
+salvage
+The 
+sphere of annihilation
+ a caprathorn leaves behind can 
+be controlled and taken. At the start of each day there is 
+a 2% chance the sphere disappears forever.
+lore
+DC 10 Intelligence (Arcana):
+ A caprathorn can detach 
+a thornlamm to fight as its ally or consume one to heal.
+DC 15 Intelligence (Arcana):
+ The caprathorn can 
+entomb a fallen foe and unleash a field of disintegrating 
+force. This annihilation field recharges if a creature the 
+caprathorn has entombed dies.
+DC 20 Intelligence (Arcana):
+ When a caprathorn dies, 
+it implodes into a 
+sphere of annihilation
+, which pulls nearby 
+creatures toward it.

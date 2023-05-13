@@ -1,0 +1,41 @@
+===
+Knifetooth Warlord
+Medium humanoid, chaotic evil
+Armor Class 16 (studded leather, shield)
+Hit Points 97 (15d8 + 30)
+Speed 30 ft.
+str dex con int wis cha
+ 16 (+3) 14 (+2) 15 (+2) 7 (–2) 13 (+1) 14 (+2)
+Skills
+Athletics +6, Intimidation +5, Perception +4
+Condition Immunities charmed, frightened
+Senses passive Perception 14
+Languages one national language
+Challenge 5 (1,800 XP)
+Proficiency Bonus +3
+Brutal Inspiration.
+The Knifetooth warlord can use a bo-
+nus action to let out a battle cry. Knifetooth Horde members
+who can see or hear the warlord gain advantage on saving
+throws until the start of the warlord’s next turn. Effects of the
+cry end if the warlord becomes incapacitated or dies.
+Lunge (1/Turn).
+As part of one melee attack, the
+Knifetooth warlord extends its reach by 5 feet.
+actions
+Multiattack
+. The Knifetooth warlord makes three
+spear attacks.
+Spear
+.
+Melee Weapon Attack
+: +6 to hit, reach 5 ft. or range 20/60 ft., one target.
+Hit
+: 10 (2d6 + 3) piercing damage. Warlord Strike (Recharge 5–6).
+The Knifetooth
+warlord makes two spear attacks. The warlord can use
+a bonus action to direct another Knifetooth Horde
+member who can see or hear the warlord to attack a target
+the warlord attacked this turn. That Knifetooth Horde
+member can use a reaction to make the attack, adding
+the warlord’s proficiency bonus to the damage roll.

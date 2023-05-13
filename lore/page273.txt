@@ -1,0 +1,56 @@
+Putrid Giant
+“Beware a giant with pustules and sloughing skin. 
+Hill giants respond differently to the pox. It rots 
+their flesh and instills them with deadly mania.”
+Infected, Unrestrained.
+ Weeping Pox is deadly to 
+most creatures, but it can manifest differently. When a 
+hill giant becomes infected, the fever sharpens the senses 
+and creates a manic euphoria that never dissipates. 
+Pustules form, and the flesh necrotizes, some sloughing 
+off in strips and patches, but the disease doesn’t kill the 
+giant. Accompanying exhilaration pushes the sick giant 
+to greater violence and depravity.
+The new flurry of mental activity impedes what little logic 
+the giant had. This state makes the giant more arrogant. It 
+believes no one can best it, physically or intellectually. Only 
+death can convince the giant it’s mistaken.
+Disease Seekers.
+ Putrid giants believe the Weeping 
+Pox is a boon. They seek out those who have the pox 
+or died from it. The giants consume infected flesh, 
+believing doing so bolsters their power. No evidence 
+supports this view, but reasoning with a healthy hill 
+giant would be a challenge.
+Putrid giants kill and eat most other creatures. But their 
+laziness competes with their depravity. A putrid giant 
+might attract a following of morbus kobolds, who see the 
+giant as a living representative of the Filth Grazer. This 
+misbegotten clan serves the giant as further spreaders of 
+its ailment, and the giant allows this service, likely eating 
+only enough kobolds to keep the others servile.
+salvage
+A putrid giant is such a haven for the Weeping Pox that 
+its gear and trinkets pose risk of exposure to the disease. 
+It’s best to burn the body and flee the area the giant 
+inhabited with care and haste. However, the possessions 
+of those the giant killed are scattered about its lair.
+A successful DC 20 Wisdom (Medicine) check allows 
+one to carefully remove the brain of a putrid giant. This 
+brain, if treated with 200 gp worth of magical components, 
+can be turned into a meal for 4 people. For 8 hours after 
+eating the brain, a creature gains 4d6 temporary hit points.
+lore
+DC 10 Intelligence (Nature):
+ A putrid giant looks 
+like it’s undead, but it’s still living and under the strange 
+power of the Weeping Pox. Contact with the giant can 
+infect other creatures, as can touching objects the giant 
+has recently handled.
+GM Advice:
+ The strange effect the Weeping Pox has on 
+hill giants might mutate them even further, including 
+giving them a high enough Intelligence to allow them to 
+start casting spells and reasoning much better than normal. 
+Imagine a hill giant chieftain who figures this out: they 
+would seek out the Weeping Pox for all of their followers!

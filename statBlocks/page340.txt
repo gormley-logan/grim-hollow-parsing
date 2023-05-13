@@ -1,0 +1,89 @@
+===
+Box-Bound Jack
+Small construct, chaotic evil
+Armor Class 13
+Hit Points 45 (10d6 + 10)
+Speed 40 ft.
+str dex con int wis cha
+ 13 (+1) 17 (+3) 12 (+1) 5 (–3) 10 (+0) 5 (–3)
+Skills
+Athletics +5, Acrobatics +5
+Damage Immunities poison
+Condition Immunities charmed, exhaustion,
+frightened, paralyzed, petrified, poisoned
+Senses darkvision 60 ft., passive Perception 10
+Languages understands Sylvan but can’t speak
+Challenge 2 (450 XP)
+Proficiency Bonus +2
+Box Jumper.
+As a bonus action, Box-Bound Jack can
+jump without provoking an opportunity attack. Box-
+Bound Jack can long jump up to 20 feet and high jump
+up to 10 feet, with or without a running start.
+Immutable Form.
+No effect can alter Box-Bound
+Jack’s form.
+actions
+Multiattack.
+Box-Bound Jack makes two cymbal attacks.
+Cymbal.
+Melee Weapon Attack
+: +5 to hit, reach 5 ft., one target.
+Hit
+: 5 (1d4 + 3) bludgeoning damage plus 2 (1d4) thunder damage.
+Dissonant Clash (Recharge 5–6).
+===
+Box-Bound Jack
+bangs its cymbals, creating a thunderous cacophony in a
+15-foot sphere originating from Jack. All creatures in the
+area must succeed on a DC 11 Constitution saving throw,
+taking 9 (2d8) thunder damage on a failed save, or half
+as much damage on a successful one.
+reactions
+Bouncing Escape.
+When Box-Bound Jack ceases being
+grappled or restrained, such as when released from the
+toymaker’s bag, Box-Bound Jack can jump up to 20 feet
+and make one cymbal attack.
+===
+Dolly
+Small construct, chaotic evil
+Armor Class 12
+Hit Points 45 (10d6 + 10)
+Speed 40 ft.
+str dex con int wis cha
+ 10 (+0) 14 (+2) 12 (+1) 5 (–3) 10 (+0) 5 (–3)
+Skills
+Stealth +6
+Damage Immunities poison
+Condition Immunities charmed, exhaustion,
+frightened, paralyzed, petrified, poisoned
+Senses darkvision 60 ft., passive Perception 10
+Languages Sylvan
+Challenge 2 (450 XP)
+Proficiency Bonus +2
+Immutable Form.
+No effect can alter Dolly’s form.
+actions
+Multiattack.
+Dolly uses creepy voice and makes one
+touch attack.
+Touch.
+Melee Weapon Attack
+: +4 to hit, reach 5 ft., one creature.
+Hit
+: 5 (2d4) psychic damage, and the target must succeed on a DC 11 Constitution saving throw or
+become restrained until the end of Dolly’s next turn.
+Creepy Voice.
+Each creature within 15 feet of and able
+to hear Dolly must make a DC 11 Wisdom saving throw.
+On a failure, a creature takes 5 (2d4) psychic damage and
+becomes frightened of Dolly until the end of Dolly’s next
+turn. On a successful saving throw, a creature can’t be
+frightened of Dolly’s voice for 1 hour but can still take
+the damage.
+reactions
+Crying Escape.
+When Dolly ceases being grappled or
+restrained, such as when released from the toymaker’s bag,
+Dolly crawls 15 feet, stands up, and uses creepy voice.

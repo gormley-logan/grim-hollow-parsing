@@ -1,0 +1,42 @@
+B
+Beast Blights
+Disease is no stranger to the people of Etharis. The vir-
+ulent Weeping Pox has devastated towns and families, 
+and the Tears of the Hungerer is rumored to be a poison 
+designed by necromancers. Other afflictions, such as 
+the Seven Shades of Sitri and the Faith Cough, are not 
+deadly but can impede even the strongest body. These 
+diseases can be carried by animals, breaking their normal 
+method of transmission. A twist of nature or foul magic 
+has created carriers, some intentionally and some aggres-
+sively, that spread sickness quickly.
+Faith Finch.
+ Seeing a silver faith finch is considered 
+a sign of good luck. If one of these friendly birds lands 
+on a shoulder or hand, it can be thought of as a blessing 
+from the Divine Arch Seraphs. But some of these birds 
+carry and spread the Faith Cough.
+Pox Dog.
+ Oozing lesions cover a pox dog’s body, matting 
+its fur. Pus runs from its eyes. Lack of hydration has 
+receded its gums. Pox dogs attack other creatures on sight 
+and form packs, seeking blood to slake their thirst. They 
+are harder to kill than appearances might make it seem.
+Sitri Cat.
+ If a cat is hardier and more aggressive than 
+a regular cat, it might carry the disease called Seven 
+Shades of Sitri. Such cats otherwise show no signs of 
+illness. A rub against the leg, a pet on the head, or a claw 
+can all transmit the sickness.
+salvage
+Someone who has proficiency with leatherworker’s tools 
+can fashion the hides of ten pox dogs into leather armor, 
+studded leather armor, or hide armor. Leather and hide 
+require 8 days of work and extra materials worth 50 gp, 
+while studded leather requires 10 days and 100 gp. 
+Somebody must cast lesser restoration on the armor at 
+least once during the process. A creature wearing the 
+armor has advantage on saving throws against disease.
+Additionally, the beautiful silver feathers of a faith 
+finch can fetch 5 gp per finch from a costume maker or 
+other clothier.

@@ -1,0 +1,168 @@
+===
+Downcast Mercenary
+Medium humanoid, any alignment
+Armor Class 17 (half plate)
+Hit Points 82 (11d8 + 33)
+Speed 30 ft.
+str dex con int wis cha
+	17	(+3)	15	(+2)	16	(+3)	12	(+1)	13	(+1)	14	(+2)
+Saving Throws
+Wis +4
+Skills
+Athletics +6, Perception +4, Religion +4
+Damage Resistances
+necrotic
+Senses passive Perception 14
+Languages Celestial and two other languages
+Challenge 5 (1,800 XP)
+Proficiency Bonus +3
+Action Surge (Recharges after a Short or Long
+Rest).
+The downcast mercenary takes one extra action.
+Indomitable (2/Day).
+If the downcast mercenary fails
+a saving throw, it can reroll the saving throw and use the
+new roll.
+Thaumaturge.
+The downcast mercenary can cast
+thaumaturgy
+at will.
+actions
+Multiattack.
+The downcast mercenary makes
+three attacks.
+Greatsword.
+Melee Weapon Attack: +6 to hit, reach 5 ft.,
+one target.
+Hit: 10 (2d6 + 3) slashing damage.
+===
+Downcast Apostate
+Medium humanoid (downcast), any alignment
+Armor Class 12 (15 with
+mage armor
+)
+Hit Points 150 (20d8 + 60)
+Speed 30 ft.
+str dex con int wis cha
+	15	(+2)	14	(+2)	17	(+3)	13	(+1)	12	(+1)	18	(+4)
+Saving Throws
+Wis +5, Cha +8
+Skills
+Deception +8, Intimidation +8, Perception +5,
+Persuasion +8, Religion +5, Stealth +6
+Damage Resistances
+necrotic
+Senses truesight 30 ft., darkvision 120 ft., passive Perception 15
+Languages Celestial and two other languages
+Challenge 11 (7,200 XP)
+Proficiency Bonus +4
+Apostate’s Weapons.
+The downcast apostate’s
+weapon attacks are magical.
+Innate Spellcasting.
+The downcast apostate’s
+spellcasting ability is Charisma. The apostate can innately
+cast the following spells, requiring no material components: At will: alter self
+,
+detect magic
+,
+invisibility
+,
+jump
+,
+mage
+armor
+,
+thaumaturgy
+Spellcasting.
+The downcast apostate is an 18th-level
+spellcaster. Its spellcasting ability is Charisma (spell
+save DC 16, +8 to hit with spell attacks). It regains its
+expended spell slots when it finishes a short or long rest.
+It knows the following warlock spells: Cantrips (at will): chill touch
+,
+light
+,
+mage hand
+,
+minor
+illusion
+,
+sacred flame
+1st-5th level (4 5th-level slots): counterspell
+,
+cure wounds
+,
+dimension door
+,
+dispel magic
+,
+flame strike
+,
+fly
+,
+greater
+restoration
+,
+guiding bolt
+,
+insect plague
+,
+lesser restoration
+,
+suggestion
+,
+tongues
+,
+vampiric touch
+,
+wall of fire
+1/day each: glibness
+,
+mass suggestion
+,
+plane shift
+,
+power word kill
+actions
+Morningstar.
+Melee Weapon Attack
+: +6 to hit, reach 5 ft., one target.
+Hit
+: 6 (1d8 + 2) bludgeoning damage and 18 (4d8) necrotic or radiant damage (downcast
+apostate’s choice).
+incense, silver, and other reagents worth 2,000 gp.
+Upon completion of this ritual, the downcast’s body
+disintegrates, and the ritualist can choose one benefit.
+Life Force: The ritualist’s maximum hit points increase
+by 2 per level (or Hit Die) the ritualist has. Each time the
+ritualist gains a level (or Hit Die), the ritualist’s hit point
+maximum increases by 2. Also, the ritualist’s natural
+lifespan increases by 250 years.
+Magic Power: The ritualist learns the
+thaumaturgy
+cantrip and gains additional benefits based on the type of
+downcast sacrificed, as follows.
+Aurelian: The ritualist’s Charisma score increases by 1,
+to a maximum of 20. Once per day, the ritualist can cast
+cure wounds
+as a 1st level spell.
+Galiant: The ritualist’s Constitution score increases by
+1, to a maximum of 20. Once per day, the ritualist can
+cast
+shield of faith
+as a 1st level spell.
+Maliganti: The ritualist’s Strength score increases by 1,
+to a maximum of 20. Once per day, the ritualist can cast
+branding smite
+as a 1st level spell.
+Ulmyrite: The ritualist’s Intelligence score increases
+by 1, to a maximum of 20. Once per day, the ritualist can
+cast
+detect magic
+.
+Resurrection: Upon finishing the ritual, the ritualist
+can cast
+resurrection
+without expending a spell slot or
+providing any other components.

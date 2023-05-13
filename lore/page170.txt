@@ -1,0 +1,41 @@
+I
+Inkwalker
+“Along your journeys, you may encounter creatures 
+that seem quite familiar, and may beckon you towards 
+them. Always be weary however, as sometimes, the 
+one’s beckoning you are more than they seem.”
+Mimic Heritage
+. These creatures are cousins to mimics, 
+with shapeshifting abilities that allow them to counterfeit 
+animals. They can’t get it quite right, however, as they 
+appear to be covered in an inky substance. This normally 
+leads them to hunt from a distance, hide in plain sight as 
+other objects, and take more animalistic forms. Most can 
+only take the form of Small or smaller creatures, ranging 
+from cats to rats to dogs.
+Voices of the Prey
+. The inkwalker can copy the 
+sounds it hears and those of the prey it consumes to 
+lure its prey into its den. With this, it normally stalks 
+from afar, as its silhouette is convincing, yet its form’s 
+details are not. It is also able to speak brief phrases, 
+mimicking people it has heard.
+salvage
+Using the ink collected from 5 inkwalkers, a creature 
+proficient in calligrapher’s supplies can craft a 
+scroll of 
+polymorph
+ with a successful DC 15 Intelligence (Arcana) 
+check. Crafting this item takes 8 hours and costs 100 gp.
+lore
+DC 10 Intelligence (Nature)
+: The area around the lair 
+of an inkwalker is full of small animal bones bleached 
+white and stripped of all flesh.
+DC 15 Intelligence (History)
+: The inkwalker, being 
+an advanced form of mimic, can take the form of small 
+animals, although they appear to be covered in tar or oil.
+DC 20 Intelligence (Arcana)
+: The inkwalker is skilled in 
+its art of deception, and as a result, can ambush prey easily.

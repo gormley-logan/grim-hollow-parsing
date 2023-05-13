@@ -1,0 +1,67 @@
+GM Advice:
+Adventures or encounters highlighting 
+vitebriates hinge on a successful deception on your part. 
+The trick is to describe the situation that makes the creature 
+seem like a helpless innocent in the center of a mysterious 
+situation, and then slowly drop clues that reveal the truth.
+V
+Vitebriate
+“I swear I’ve seen that kid before, years ago, when 
+I was just a kid myself! But she hasn’t aged a day.”
+Life Drinkers
+. Vitebriates, sometimes called “life 
+drinkers,” are the result of horrible experiments or 
+prayers answered by dark powers. When a mother loses 
+a child to needless accident or horrible malice, or when 
+a powerful mage seeks to bless an apprentice or servant 
+with a longer life, a vitebriate is sometimes the result.
+Immortal Parasites
+. A vitebriate looks like a humanoid 
+—often a child—but that is merely an appearance. These 
+monstrosities feed on the life force of other humanoids, 
+masquerading as an innocent while dominating and 
+feeding off the unsuspecting. They retain their look of 
+youth and vigor, and they manifest the power to continue 
+harvesting humanoids.
+Magical Control
+. Vitebriates are capable of magically 
+dominating humanoids. Often, these dominated people 
+are forced to pose as a caretaker or invalid.The vitebri-
+ate uses it’s thrall to interact with adults or blend into 
+the fabric of a community.
+Memory and Forgetfulness
+. Curiously, vitebriates 
+have memories of their prior lives, except for any magical 
+or martial skills. A talented wizard or powerful squire 
+transformed into a vitebriate must start such pursuits 
+anew if they wish to master such arts. On the other hand, 
+musicians, conversationalists, acrobats—even doctors—
+all seem to be able to recall and use their prior skills 
+without diminution.
+Haunted and Obsessed
+. Vitebriates are haunted by 
+their past lives and obsessed with reliving some small 
+part of it. For example, a child who died of drowning 
+and awoke as a vitebriate may be compelled to drown 
+others or might simply feel drawn to live by water. 
+Regardless, the greatest obsession of every vitebriate 
+is always to feed and to control.
+salvage
+When a vitebriate dies, it crumbles into a swarm of 
+harmless crawling roaches.
+If these roaches are mixed with seawater, a 
+potion of false 
+life 
+results. The creation of this potion can be completed 
+with a successful DC 10 Intelligence (Arcana) check by 
+someone proficient with an herbalism kit. This process 
+takes 1 hour.
+lore
+DC 10 Intelligence (History)
+: A vitebriate can only 
+have a single thrall at a time and can transfer some of its 
+damage to its thrall.
+DC 15 Intelligence (Arcana)
+: Vitebriates are im-
+mune to poison and disease, and they require a thrall 
+to stay alive.

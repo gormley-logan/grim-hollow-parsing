@@ -1,0 +1,61 @@
+Puck
+“I’ve heard pixie dust is beautiful, magical stuff. The dust I 
+saw was definitely magical, but it wasn’t beautiful.”
+Crushed Spirit.
+ A puck is a pixie whose hopes and 
+dreams, loves and playfulness, have been erased by 
+mistreatment, betrayal, or loss. Once a beautiful and 
+merry being, a puck is now a sad, twisted monster. Once 
+the transformation happens, the pixie’s dust dissipates. 
+Without pixie dust, a pixie can’t fly, can’t use its magic, 
+and can’t turn invisible. They lose their ability to 
+commune with nature.
+Puck Dust.
+ Taking the place of pixie dust, puck dust 
+allows the puck to retain magical powers that resemble 
+those of a pixie. The substance corrupts soil, vegetation, 
+and beast, and it enthralls plants and trees to do the 
+puck’s bidding. Plants under the dust’s influence become 
+telepathically and emotionally bonded to the puck. Despair 
+drives these plants. Each feels the harm done to one.
+Corpse Gardener.
+ Pucks farm their glittering soil, 
+using animals and other living creatures to produce 
+fertilizer. The puck force feeds the grove’s dead material 
+and soil to animals and humanoids. After a ripening 
+time, the puck opens these unfortunates up to take 
+refined soil from their innards. The puck keeps the 
+creatures alive until this grisly harvest, earning the 
+terrible epithet “corpse gardener.”
+salvage
+A slain puck produces up to six pinches of puck dust, 
+which are magical but less effective in the hands of a 
+nonpuck. Each dose can be used in one of two ways. 
+Puck dust dispersed on a plant creature within reach 
+of the disperser forces the plant to succeed on a DC 
+13 Wisdom saving throw as if 
+charm monster
+ were cast 
+upon it by the disperser. If the dust is dispersed on an 
+inanimate shrub, it becomes an evil awakened shrub 
+with an Intelligence and Charisma score of 3. Three 
+doses scattered on a tree make it an evil awakened tree 
+with an Intelligence and Charisma score of 3. Either use 
+of puck dust animates the plant for only 1 hour.
+lore
+DC 10 Intelligence (Nature):
+ The veil between the 
+world and the fey world is thin here. A dark fey spirit 
+has corrupted this place.
+DC 15 Intelligence (Nature):
+ The trees themselves 
+are hindering your steps. They are in cahoots with a fey 
+spirit. Anything you say or do is probably sensed by the 
+spirit. Your senses might become targeted by the spirit. 
+Do not trust anything you see.
+DC 20 Intelligence (Nature):
+ You are within the 
+domain of a puck, pitiful creatures who scorn humanity 
+and dominate nature. It uses plants as its weapons and 
+concealment as its defense. Finding it may prove difficult, 
+as the forest will protect it, but once found, it is frail.

@@ -1,0 +1,102 @@
+===
+Amorphous Horror
+Medium aberration, any alignment
+Armor Class 14 (natural armor)
+Hit Points 127 (15d8 + 60)
+Speed 30 ft., climb 30ft.
+str dex con int wis cha
+	16	(+3)	10	(+0)	19	(+4)	10	(+0)	11	(+0)	7	(−2)
+Saving Throws
+Wis +3
+Skills
+Perception +3
+Damage Immunities acid
+Condition Immunities prone
+Senses blindsight 30 ft., passive Perception 13
+Languages any two languages
+Challenge 5 (1,800 XP)
+Proficiency Bonus +3
+Amorphous.
+The amorphous horror can move through
+a space as narrow as 1 inch wide without squeezing.
+Shapechanger.
+The amorphous horror can use an
+action or a bonus action to polymorph into a form that
+resembles its Small or Medium humanoid appearance
+before it became a horror. Its statistics are the same in
+each form. Any equipment it is wearing or carrying isn’t
+transformed. It reverts to its true Medium form if it dies.
+actions
+Multiattack.
+The amorphous horror makes two
+slam attacks.
+Slam.
+Melee Weapon Attack: +6 to hit, reach 5 ft., one
+target.
+Hit: 7 (1d8 + 3) bludgeoning damage and 9 (2d8)
+acid damage.
+reactions
+Split.
+When an amorphous horror that is Medium or
+larger drops below half its hit points but has at least
+10 hit points, it splits into two new horrors. Each new
+horror has hit points equal to half the original horror’s,
+rounded down. New horrors are one size smaller than
+the original horror.
+===
+Whipskein Horror
+Medium aberration, any alignment
+Armor Class 14 (studded leather)
+Hit Points 97 (15d8 + 30)
+Speed 30 ft.
+str dex con int wis cha
+15	(+2)	14	(+2)	15	(+2)	10	(+0)	11	(+0)	8	(−1)
+Saving Throws
+Dex +4
+Skills
+Perception +2
+Senses darkvision 60 ft., passive Perception 12
+Languages any two languages
+Challenge 4 (1,100 XP)
+Proficiency Bonus +2
+False Appearance. While the whipskein horror hides its
+tendrils from sight, such as under clothing, it is indistin-
+guishable from the ordinary humanoid it once was.
+actions
+Multiattack.
+The whipskein horror makes four attacks.
+Tendril.
+Melee Weapon Attack: +4 to hit, reach 10 ft., one
+target.
+Hit: 6 (1d8 + 2) bludgeoning damage. If the target
+is a Medium or smaller creature, it is grappled (escape
+DC 14). Until this grapple ends, the target is restrained,
+and the whipskein horror can’t use that tendril against
+another target. The horror has four tendrils.
+Spit.
+Ranged Weapon Attack: +4 to hit, range 30 ft., one
+target.
+Hit: 6 (1d8 + 2) poison damage, and the target
+must succeed on a DC 12 Constitution saving throw or
+become poisoned until the end of the whipskein horror’s
+next turn. Being within 5 feet of a hostile creature doesn’t
+impose disadvantage on the horror’s ranged attack rolls
+with its spit.
+Tendril Dance (Recharge 5–6).
+The whipskein
+horror extends and wriggles its tendrils, releasing any
+creatures it has grappled. Each creature within 30 feet
+of and able to see the horror must succeed on a DC 12
+Wisdom saving throw or become charmed by the horror.
+While charmed in this way, a creature is incapacitated
+and has a speed of 0. The effect ends for a creature if it
+takes damage, if another creature uses an action to shake
+the creature out of its stupor, or the horror fails to take a
+bonus action on its turn to continue the effect. The horror
+can’t take that bonus action while using a tendril to
+grapple another creature.
+components for arcane necromancy or transmutation
+spells equal to half the horror’s challenge challenge rating.
+Each component is consumed when used to cast, but
+the spell is cast as if the caster used a spell slot one level
+higher, up to a maximum of a 5th-level slot.

@@ -1,0 +1,67 @@
+Malikirian Imp
+“I can give you anything, mortal. Riches? Accolades? To be 
+important, for once? Whisper your secrets to me. I will tell 
+you the secrets of your rivals. They all dance with me.”
+Prideful Purpose
+. A minor daemon of Malikir, Arch 
+Daemon of Pride, the Malikirian imp was created to 
+tempt mortals into acting on their base desires and 
+soothe their guilty consciouses with rapturous feelings 
+of entitlement and certainty. It is said the Angel of 
+Empyreus keeps one chained to elicit confessions and 
+goad mortals into the very acts of sin the Angel of 
+Empyreus seeks to punish.
+A Decrepit Devil
+. The imp is a wretched, bruised, 
+shriveled creature that would almost inspire pity, 
+were it not unmistakably fiendish. Its diminutive head 
+resembles the skull of a bighorn sheep, and its sinuous 
+body is covered in cracked and haggard scales.
+Infernal Intelligence
+. Before the Godswar, these imps 
+would be exchanged as gifts and familiars by agents of 
+Malikir to influential mages or court advisors to inspire 
+selfishness, war, and hunger for power. They are spies 
+experts at gaining secrets and revealing them for 
+maximum damage.
+salvage
+If caught alone with a hostile foe, the imp pleads for its 
+life and pledges to serve its new master. It gives its name, 
+which a caster can use when casting 
+find familiar
+ to summon 
+and bind the imp as their familiar.
+An imp’s scales and bones can be used to create a 
+potion 
+of fire resistance
+ with a DC 15 Intelligence (Arcana) ability 
+check from a character proficient in alchemist’s supplies. 
+This takes 2 hours and 10 gp of materials. However, there’s 
+a 10% chance that the person taking the potion will be 
+vulnerable to all other damage.
+Eating the Malikirian imp’s heart grants the ability to 
+cast 
+suggestion
+ once without using a spell slot. The DC to 
+resist this spell is 10.
+lore
+DC 10 Intelligence (Religion)
+: Beware the 
+multitudinous throngs of Malikir’s progeny, for they 
+can corrupt even the most pure-hearted and spur them 
+to acts of sin and moral decay.
+DC 15 Intelligence (History)
+: Many a foolish warlock 
+thought they had the upper hand when they received 
+such a pathetic creature as their familiar, but they 
+underestimated the imp at their peril.
+DC 20 Intelligence (Arcana)
+: Despite archmages’ 
+divinations, no one quite knows how the Angel of 
+Empyreus came to hold the chains of a Malikirian imp. 
+This cannot be good news.
+GM Advice:
+ Play the Malikirian imp as the master manipulator it 
+is. Its main weapon is its enemy’s greed, so dig deep into whatever 
+might tempt a character, and keep digging until you find a weakness. 
+Often even if a character isn’t greedy, the player is.

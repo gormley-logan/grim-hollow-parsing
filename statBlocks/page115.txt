@@ -1,0 +1,71 @@
+115
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+E
+===
+Claunt Mamona
+Small humanoid, lawful evil
+Armor Class 15 (breastplate)
+Hit Points 38 (7d6 + 14)
+Speed 25 ft.
+str dex con int wis cha
+ 14 (+2) 13 (+1) 14 (+2) 14 (+2) 12 (+1) 15 (+2)
+Saving Throws
+Con +4, Cha +4
+Skills
+Deception +4, History +4, Perception +3,
+Persuasion +4, Sleight of Hand +3
+Condition Immunities charmed
+Senses passive Perception 13
+Languages Charneault, Castellan, Ostoy, Higher Bürach
+Challenge 2 (450 XP)
+Proficiency Bonus +2
+Enlightened Self-Interest.
+Claunt can consume a
+potion or take the Dash or Disengage action as a bonus
+action on each of his turns.
+Lasting Curse.
+If Claunt is ever restored to his original
+form, such as by the
+remove curse
+spell, he returns to his
+porcine form the next time he finishes a long rest. Only
+the
+wish
+spell, or slaying the spellcaster who cursed him,
+can permanently remove his curse.
+Satchel of Sorcerous Sales.
+Claunt can use an action
+to reach into his satchel and drop any number of gold
+pieces to withdraw a nonmagical item with a value equal
+to or less than the deposited sum. Gold deposited into the
+satchel goes directly into Gorodyn’s infernal treasury. In
+addition to nonmagical items, Claunt can also purchase the
+following potions from his satchel: potion of climbing
+(50 gp),
+potion of healing
+(25 gp),
+potion of greater healing
+(100 gp),
+potion
+of resistance
+(200 gp), and
+potion of waterbreathing
+(200 gp).
+Only Claunt can attune to this item.
+actions
+Blackpowder Pistol.
+Ranged Weapon Attack: +3 to
+hit, range 25/100 ft., one target.
+Hit: 6 (2d4 + 1) piercing
+damage plus 4 (1d8) fire damage.
+Shortsword.
+Melee Weapon Attack: +4 to hit, reach 5 ft.,
+one target.
+Hit: 5 (1d6 + 2) slashing damage.

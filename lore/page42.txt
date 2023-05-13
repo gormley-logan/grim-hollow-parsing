@@ -1,0 +1,38 @@
+Bolejack
+“The logger stands before the tree, a look of 
+infatuation in his eyes. He grips his axe tighter as 
+he turns to face the rest of his logging crew.”
+Dryad Thralls.
+ Monster hunters and sages know that 
+some fey spirits who fall in love with mortals are bound 
+to trees and changed into dryads, remaining forever 
+young while their tree is kept safe. This bound state 
+doesn’t rob the dryad of power. Every so often, a dryad 
+becomes interested in a person moving through her 
+territory. She uses her charms and fey magic to make 
+them into her thrall.
+Woodcutter’s Peril.
+ Since a dryad lives within 
+a forested grove, a significant number of those she 
+encounters are woodcutters. A bolejack is a woodcutter 
+who has won the trust of a dryad. If what they share is 
+not love, the infatuation is strong enough for her to grant 
+the bolejack some of her fey power.
+Varied Devotion.
+ A bolejack protects the dryad when 
+her charms fail. Bolejacks are varied in their devotion to 
+the dryad when her enchantment is removed. A bolejack 
+is as likely to attack as to thank those who slay or subdue 
+the dryad, breaking the bond between the two.
+salvage
+A bolejack’s axes remain magical for 24 hours after the 
+bolejack is freed or killed. Someone attuned to the axe 
+who succeeds on a DC 10 Charisma check can maintain 
+that magic for another 24 hours. Once the check fails, 
+the magic dissipates forever.
+lore
+DC 10 Intelligence (Nature):
+ A bolejack is a woodcutter 
+a dryad charmed to protect the forest. Magic bolsters the 
+bolejack so they can make better attacks and better resist 
+other magic.

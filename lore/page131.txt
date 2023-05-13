@@ -1,0 +1,27 @@
+131
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+G
+Daemon Skull Soul Vessel
+The ancient daemon skull that serves as Gegazol’s soul 
+vessel possesses infernal power, giving it the means for 
+mischief and self-preservation. It has AC 6, but it’s immune 
+to bludgeoning, piercing, and slashing damage from non-
+magical attacks, as well as cold, fire, necrotic, and psychic 
+damage. It’s immune to all conditions, and it has a +7 
+bonus to all saving throws, making saves against spells and 
+magical effects with advantage. The skull has 200 hit points.
+When harmed, the skull sends out a psychic alarm. 
+Gegazol and her Immortals can sense this alarm, provided 
+they are on the same plane of existence. Also, when a 
+creature deals the skull damage, that creature must succeed 
+on a DC 21 Wisdom saving throw or take psychic damage 
+equal to half the damage the creature dealt.
+If her soul vessel is destroyed, Gegazol can’t rejuvenate. 
+When her body is destroyed again, she dies.

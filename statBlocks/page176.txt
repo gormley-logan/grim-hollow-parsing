@@ -1,0 +1,34 @@
+===
+Keppmir
+Medium humanoid (keppmir), lawful evil
+Armor Class 11 (leather armor)
+Hit Points 27 (5d8 + 5)
+Speed 20 ft., swim 40 ft.
+str dex con int wis cha
+ 13 (+1) 11 (+0) 12 (+1) 10 (+0) 11 (+0) 10 (+0)
+Skills
+Athletics +3, Perception +2, Stealth +2
+Damage Resistances
+cold
+Senses darkvision 120 ft., passive Perception 12
+Languages Valikan
+Challenge 1/4 (50 XP)
+Proficiency Bonus +2
+Heated Body.
+A creature other than a keppmir that
+ends its turn grappling or grappled by the keppmir
+takes 1 fire damage.
+Water Breathing.
+The keppmir can breathe only
+underwater. In air, it can hold its breath for 10 minutes.
+actions
+Gore.
+Melee Weapon Attack: +3 to hit, reach 5 ft., one
+target.
+Hit: 3 (1d4 + 1) piercing damage.
+Spear.
+Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft.
+or range 20/60 ft., one target.
+Hit: 4 (1d6 + 1) piercing
+damage, or 5 (1d8 + 1) piercing damage if used with
+two hands to make a melee attack.

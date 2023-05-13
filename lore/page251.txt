@@ -1,0 +1,32 @@
+251
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+P
+lore
+DC 13 Intelligence (Religion):
+ Panjaians first appeared 
+near the end of the Primordial’s war with the gods. Some 
+scholars believe if panjaians had been created earlier, it 
+might have changed the conflict’s outcome.
+DC 13 Intelligence (Nature):
+ Every panjaian has an 
+affinity for the element of their Primordial patron. This 
+affinity manifests in resistances, control over the element, 
+and the ability to wield that element as a weapon.
+GM Advice:
+ Since a panjaian can be created from any type 
+of humanoid creature, the stats shown here can be used as a 
+template for adding powers to other creatures. For example, 
+there’s nothing stopping you from creating an ogre ilharan. 
+Creatures within the 4-8 CR range won’t become too powerful 
+if given some of the traits of the panjaian. Creatures lower 
+than CR 4 would become a CR 6 monster and should just use 
+the regular panjaian stat block. Creatures of CR 9 or higher 
+don’t gain much by adding the traits, but it could be a great 
+mystery for the characters to unravel

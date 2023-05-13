@@ -1,0 +1,41 @@
+===
+Rime Hunger
+Medium undead, neutral evil
+Armor Class 12 (natural armor)
+Hit Points 45 (6d8 + 18)
+Speed 20 ft.
+str dex con int wis cha
+	14	(+2)	8	(−1)	16	(+3)	3	(−4)	6	(−2)	5	(−3)
+Saving Throws
+Wis +0
+Damage Vulnerabilities
+fire
+Damage Immunities cold, poison
+Condition Immunities poisoned
+Senses darkvision 60 ft., passive Perception 8
+Languages understands the languages it knew in life
+but can’t speak
+Challenge 1 (200 XP)
+Proficiency Bonus +2
+Fed Fortitude.
+For 1 minute after a rime hunger regains
+hit points, when damage reduces the rime hunger to 0
+hit points, it can make a Constitution saving throw with
+a DC of 5 + the damage taken, unless the damage is fire,
+radiant, or from a critical hit. On a success, the rime
+hunger drops to 1 hit point instead.
+actions
+Slam.
+Melee Weapon Attack: +4 to hit, reach 5 ft., one
+creature.
+Hit: 9 (2d6 + 2) bludgeoning damage, and if
+the target is a Medium or smaller creature, it is grappled
+(escape DC 12). A rime hunger can have only one creature
+grappled at a time.
+Sapping Grasp.
+A creature grappled by the rime
+hunger must make a DC 13 Constitution saving throw,
+taking 9 (2d8) cold damage on a failed save, or half as
+much damage on a successful one. If the target fails,
+the rime hunger also regains hit points equal to half the
+damage the target took.

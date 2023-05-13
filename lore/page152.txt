@@ -1,0 +1,27 @@
+Hell’s Reach
+“When the imps start to fight in the full moon’s light
+The wise witch knows soon the hell’s reach grows.”
+Although no larger than a sizable mushroom, a hell’s reach 
+has a touch of infernal origin. Six red tentacles remain 
+hidden in a fungal dome until a passerby disrupts the 
+mushroom’s slumber. Then, the tentacles erupt from 
+the mushroom to attack, reeking of rotting flesh. Each 
+tentacle contains juices that react with air to ignite. When 
+the mushroom is damaged, this liquid squirts from it.
+Ring of Fire.
+ A cluster of hell’s reaches is called a ring 
+of fire. It’s best avoided, much like a fairy circle.
+salvage
+Someone who has proficiency with alchemist’s supplies or 
+an herbalism kit can use the remains of one ring of fire (or 
+about a dozen hell’s reaches) and reagents worth 25 gp to 
+brew an oil that can be applied to armor in 10 minutes. One 
+dose of this oil conveys resistance to fire damage to the armor 
+and to the wearer while the armor is worn for 24 hours after 
+the oil is applied. Brewing the oil requires 4 hours of work 
+and a successful DC 13 Intelligence or Wisdom check.
+lore
+DC 10 Intelligence (Nature):
+ Hell’s reach is immune 
+to fire. The liquid within the mushroom is flammable 
+and bursts forth when the mushrooms take damage.

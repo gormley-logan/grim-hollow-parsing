@@ -1,0 +1,96 @@
+===
+Fractured Noble
+Medium humanoid (any race), any alignment
+Armor Class 15 (chain shirt)
+Hit Points 93 (11d8 + 44)
+Speed 30 ft. (40 ft. in Fractured Rage)
+str dex con int wis cha
+ 16 (+3) 14 (+2) 19 (+4) 12 (+1) 13 (+1) 15 (+2)
+Skills
+Athletics +6, Deception +5, Intimidation +5
+Senses passive Perception 11
+Languages any two languages
+Challenge 5 (1,800 XP)
+Proficiency Bonus +3
+Brutal Attacks (in Fractured Rage Only).
+When
+the fractured noble scores a critical hit with a melee
+weapon attack, it can roll one of the weapon’s damage
+dice one additional time and add it to the extra damage
+of the critical hit.
+Fractured Rage (Recharges after a Short or Long
+Rest).
+As a bonus action, the fractured noble becomes
+enraged, swelling in size and distorting facial features
+to an unrecognizable state. This transformation lasts for
+1 minute or until the noble is incapacitated. While enraged,
+the noble gains 31 temporary hit points. Also, when the
+noble makes a Strength check, Strength saving throw, or
+damage roll with a Strength-based attack, the noble can
+roll 2d4 and add the total rolled to the result.
+Instinctive.
+The fractured noble has advantage on
+initiative checks. If surprised, unless incapacitated, the
+fractured noble can act normally during its first turn
+even if surprised but must enter Fractured Rage to
+start that turn.
+Reckless (in Fractured Rage Only).
+At the start of
+its turn, the fractured noble can gain advantage on melee
+weapon attack rolls until the start of its next turn, but
+attack rolls against it have advantage until then.
+actions
+Multiattack.
+The fractured noble makes two melee
+attacks. In Fractured Rage, it can make three melee
+attacks instead.
+Longsword.
+Melee Weapon Attack: +6 to hit, reach 5 ft.,
+one target.
+Hit: 7 (1d8 + 3) slashing damage.
+Unarmed Strike.
+Melee Weapon Attack: +6 to hit,
+reach 5 ft., one target.
+Hit: 4 bludgeoning damage.
+===
+Fractured Socialite
+Medium humanoid (any race), any alignment
+Armor Class 13 (studded leather)
+Hit Points 30 (4d8 + 12)
+Speed 30 ft.
+str dex con int wis cha
+ 13 (+1) 12 (+1) 16 (+3) 10 (+0) 11 (+0) 13 (+1)
+Skills
+Athletics +3, Intimidation +3
+Senses passive Perception 10
+Languages any two languages
+Challenge 1 (200 XP)
+Proficiency Bonus +2
+Fractured Rage (Recharges after a Short or
+Long Rest).
+As a bonus action, the fractured socialite
+becomes enraged, swelling in size and distorting facial
+features to an unrecognizable state. This transformation
+lasts for 1 minute or until the socialite is incapacitated.
+While enraged, the socialite gains 10 temporary hit
+points. Also, when the socialite makes a Strength check,
+Strength saving throw, or damage roll with a Strength-
+based attack, the socialite can roll 1d4 and add the
+number rolled to the result.
+Reckless (in Fractured Rage Only).
+At the start of
+its turn, the fractured socialite can gain advantage on
+melee weapon attack rolls until the start of its next turn,
+but attack rolls against it have advantage until then.
+actions
+Multiattack (in Fractured Rage Only).
+
+The fractured socialite makes two melee attacks.
+Cane.
+Melee Weapon Attack: +3 to hit, reach 5 ft., one
+target.
+Hit: 3 (1d4 + 1) bludgeoning damage.
+Unarmed Strike.
+Melee Weapon Attack: +3 to hit, reach
+5 ft., one target.
+Hit: 2 bludgeoning damage.

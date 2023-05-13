@@ -1,0 +1,38 @@
+189
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+L
+salvage
+The severed head of a lenchtahg is a potent magic object. 
+To the right buyer—a necromancer, a daemon cultist, an 
+evil alchemist, and the like—a lenchtahg head is worth 
+750 gp. The servants of the Arch Daemon Malikir guard 
+the secrets of binding a lenchtahg, but hags and other 
+wicked creatures with magical skills possess knowledge 
+to convert a lenchtahg head into a construct with similar 
+unholy power.
+lore
+DC 10 Intelligence (Religion):
+ Radiant damage heals 
+a lenchtahg, which still has the flesh of a Seraph.
+DC 15 Intelligence (Religion):
+ Dowsing a Lenchtahg 
+with a lot of water or any holy water can temporarily 
+weaken it.
+DC 20 Intelligence (Arcana):
+ The lenchtahg’s head 
+must be consecrated in a holy ceremony or otherwise 
+rid of its evil to avoid the lenchtahg’s rejuvenation. But 
+those with the right knowledge can use the head to craft 
+a magical servitor.
+GM Advice:
+ Those who use lenchtahg as troops in battle 
+will use radiant magic to damage foes while at the same 
+time healing the lenchtahg. This greatly heightens the 
+strength of these monsters.

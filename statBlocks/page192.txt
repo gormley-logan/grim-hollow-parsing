@@ -1,0 +1,89 @@
+192
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+L
+===
+Lindwyrm
+Gargantuan dragon, chaotic neutral
+Armor Class 16 (natural armor)
+Hit Points 186 (12d20 + 60)
+Speed 40 ft., burrow 30 ft.
+str dex con int wis cha
+ 23 (+6) 15 (+2) 21 (+5) 8 (–1) 14 (+2) 12 (+1)
+Saving Throws
+Str +11, Dex +7, Con +10
+Skills
+Perception +7, Stealth +7
+Damage Resistances
+bludgeoning, piercing, and
+slashing damage from nonmagical weapons
+Damage Immunities poison
+Condition Immunities poisoned
+Senses tremorsense 120 ft., darkvision 120 ft., passive Perception 17
+Languages Draconic
+Challenge 14 (11,500 XP)
+Proficiency Bonus +5
+Disease Immunity
+. The lindwyrm is immune to all
+nonmagical diseases.
+Legendary Resistance (3/Day)
+. If the lindwyrm fails
+a saving throw, it can choose to succeed instead.
+actions
+Multiattack
+. The lindwyrm makes three attacks: one with its bite and two with its claws. The lindwyrm can
+substitute a swallow attack for one of its claw attacks.
+Bite
+.
+Melee Weapon Attack
+: +11 to hit, reach 15 ft., one target.
+Hit
+: 22 (3d10 + 6) piercing damage and the target must make a DC 18 Constitution saving throw, taking
+18 (4d8) poison damage on a failed save, or half as
+much damage on a successful one. On a hit, the target is
+also grappled (escape DC 18). Until this grapple ends,
+the target is restrained, and the lindwyrm can’t bite
+another target.
+Claw
+.
+Melee Weapon Attack
+: +11 to hit, reach 10 ft., one target.
+Hit
+: 15 (2d8 + 6) slashing damage. Swallow
+.
+Melee Weapon Attack
+: +11 to hit, reach 5 ft., one Huge or smaller creature the lindwyrm is grappling.
+Hit
+: 22 (3d10 + 6) piercing damage, the target is swallowed,
+and the grapple ends. The swallowed target is blinded
+and restrained, it has total cover against attacks and other
+effects outside the lindwyrm, and it takes 27 (6d8) acid
+damage at the start of each of the lindwyrm’s turns. The
+lindwyrm can have only one target swallowed at a time.
+If the lindwyrm takes 40 damage or more on a single
+turn from the swallowed creature, the lindwyrm must
+succeed on a DC 18 Constitution saving throw at the
+end of that turn or regurgitate the creature, which falls
+prone in a space within 10 feet of the lindwyrm. If
+the lindwyrm dies, a swallowed creature is no longer
+restrained by it and can escape from the corpse using
+5 feet of movement, exiting prone.
+legendary actions
+The lindwyrm can take 2 legendary actions, choosing
+from the options below. Only one legendary action
+option can be used at a time and only at the end of
+another creature’s turn. The lindwyrm regains spent
+legendary actions at the start of its turn. This movement
+does not provoke opportunity attacks.
+Claw Attack.
+The lindwyrm makes a claw attack.
+Burrowing Rush (Costs 2 Actions).
+The lindwyrm
+burrows its speed and comes up beneath a target
+touching the ground, making a bite attack.

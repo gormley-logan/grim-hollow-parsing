@@ -1,0 +1,53 @@
+13
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+A
+Apparmarole
+“Be properly attired, lest ye be mistaken 
+for a thrall of the apparmarole.”
+Dominating Clothes
+. No one knows who constructed 
+the first apparmarole, but now they are a plague on the 
+world. The apparmarole looks to be a set of clothing that 
+flies into the air and wraps around a humanoid victim, 
+taking control of their actions.
+Driven to Replicate
+. Once in control of a host and 
+not threatened, the apparmarole directs it to create more 
+apparmaroles, a process that takes 100 days and requires 
+500 gp of rare threads and textiles. If the host does not 
+have the funds or materials, the apparmarole attempts to 
+steal them.
+Mine or No One Else’s
+. The apparmarole can constrict 
+any creature it grapples; a slow crushing death is the fate 
+of any humanoid that resists the apparmarole’s charm.
+salvage
+The threads of an apparmarole contain trace amounts of 
+magic and are valuable as components for the construction 
+of several magical items. They can be sold for 50 gp if 
+the apparmarole was not consumed by flame.
+Someone who collects the remains of ten apparmaroles 
+can craft a 
+cloak of protection
+ with a successful DC 15 Intelli-
+gence (Arcana) check by someone proficient with weaver’s 
+tools. Crafting this item takes 5 days and costs 200 gp.
+lore
+DC 10 Intelligence (History)
+: Some foolish arcanist 
+created a set of killer clothes, and now whole towns suffer.
+DC 15 Intelligence (Arcana)
+: Apparmaroles can 
+dominate victims to construct more apparmaroles: a 
+self-replicating plague.
+DC 20 Intelligence (Arcana)
+: As cloth constructs, 
+apparmaroles are immune to poison and psychic 
+damage but vulnerable to fire.

@@ -1,0 +1,44 @@
+===
+Quiet One
+Medium aberration, chaotic evil
+Armor Class 16 (natural armor)
+Hit Points 97 (15d8 + 30)
+Speed 30 ft.
+str dex con int wis cha
+ 17 (+3) 14 (+2) 15 (+2) 11 (+0) 13 (+1) 17 (+3)
+Damage Immunities psychic, thunder
+Senses darkvision 60 ft., passive Perception 11
+Languages Deep Speech; telepathy 120 ft.
+Challenge 7 (2,900 XP)
+Proficiency Bonus +3
+Innate Spellcasting
+. The quiet one’s innate spellcasting
+ability is Charisma (spell save DC 14). The quiet one
+can innately cast the following spells, requiring no
+components: 3/day: fear
+Silent
+. A quiet one generates a permanent 20-ft. radius
+aura with the same effect as a
+silence
+spell. It does not
+require concentration and if dispelled, the quiet one can
+renew it with a bonus action.
+actions
+Multiattack
+. The quiet can makes two attacks with its
+claw and one attack with its bite.
+Claw
+.
+Melee Weapon Attack
+: +6 to hit, reach 5 ft., one target.
+Hit
+: 7 (1d8 + 3) slashing damage and 9 (2d8) psychic damage.
+Bite
+.
+Melee Weapon Attack
+: +6 to hit, reach 5 ft., one target.
+Hit
+: 6 (1d6 + 3) ) piercing damage and 13 (3d8) psychic damage. If the target suffers from the frightened
+condition, the attack does an additional 9 (2d8) psychic
+damage and the quiet one gains temporary hit points
+equal to the extra psychic damage dealt.

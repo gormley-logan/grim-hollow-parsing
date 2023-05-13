@@ -1,0 +1,43 @@
+127
+G
+rim
+H
+ollow
+m
+onster
+G
+rimoire
+G
+===
+Gasdra
+Small monstrosity, neutral evil
+Armor Class 13 (natural armor)
+Hit Points 22 (4d6 + 8)
+Speed 30 ft., fly 40 ft.
+str dex con int wis cha
+ 8 (-1) 15 (+2) 15 (+2) 6 (–2) 10 (+0) 7 (–2)
+Skills
+Perception +2
+Senses darkvision 60 ft., passive Perception 12
+Languages understands Sylvan but can’t speak
+Challenge 1 (200 XP)
+Proficiency Bonus +2
+Three Heads.
+The gasdra has advantage on Wisdom
+(Perception) checks and on saving throws against being
+blinded, charmed, deafened, frightened, stunned, or
+knocked unconscious. That gasdra has one reaction
+for each head. The extra reactions can be used only for
+opportunity attacks.
+Wakeful.
+While the gasdra sleeps, at least one of its
+heads is awake.
+actions
+Multiattack.
+The gasdra makes three beak attacks.
+Beak
+.
+Melee Weapon Attack
+: +4 to hit, reach 5 ft., one target.
+Hit
+: 5 (1d6 + 2) bludgeoning damage. 

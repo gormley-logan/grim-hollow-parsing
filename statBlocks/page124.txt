@@ -1,0 +1,49 @@
+===
+Fzeglaich
+Medium monstrosity, chaotic evil
+Armor Class 15 (natural armor)
+Hit Points 90 (12d8 + 36)
+Speed 40 ft.
+str dex con int wis cha
+16 (+3) 16 (+3) 16 (+3) 11 (+0) 11 (+0) 12 (+1)
+Saving Throws
+Dex +6, Wis +3
+Skills
+Perception +3, Stealth +6
+Damage Resistances
+bludgeoning, piercing, and
+slashing from nonmagical attacks
+Senses darkvision 60 ft., passive Perception 13
+Languages one language
+Challenge 7 (2,900 XP)
+Proficiency Bonus +3
+Keen Hearing and Smell.
+The fzeglaich has
+advantage on Wisdom (Perception) checks that rely
+on hearing or smell.
+Rampage.
+When the fzeglaich reduces a creature to 0
+hit points with a melee attack on its turn, the fzeglaich
+can take a bonus action to move up to half its speed and
+make a bite attack.
+Regeneration.
+The fzeglaich regains 10 hit points
+at the start of its turn if it has at least 1 hit point. If
+the fzeglaich takes radiant damage, this trait doesn’t
+function at the start of the fzeglaich’s next turn.
+actions
+Multiattack.
+The fzeglaich makes two attacks, only
+one of which can be a bite.
+Bite.
+Melee Weapon Attack: +6 to hit, reach 5 ft., one
+creature.
+Hit: 7 (1d8 + 3) piercing damage plus 7 (2d6)
+necrotic damage, and the target must succeed on a DC 14
+Constitution saving throw or be incapacitated until the
+end of its next turn. The fzeglaich regains hit points equal
+to the amount of necrotic damage dealt.
+Claws.
+Melee Weapon Attack: +6 to hit, reach 5 ft., one
+creature.
+Hit: 8 (2d4 + 3) slashing damage.

@@ -1,0 +1,51 @@
+creatures mutatedbythe beast
+Simply being in the proximity of the Great Beast causes
+gruesome and dangerous mutations in creatures. Some
+creatures—such as hurrocks, gnolls, and caprathorns, for
+example—are specifically spawned, changed, or created
+by interactions with the Beast.
+For other creatures, however, their mutations are more
+random. Use the following table to create unique creatures
+that have fallen prey to the Beast’s mutative powers. Also
+feel free to create your own using these as guides: beast mutations
+1d12
+Mutation
+1
+The creature grows a second head, which seeks to kill all
+living things and gains a bite attack.
+2
+The creature’s shadow can detach and attack as a shadow or
+a specter.
+3
+The creature grows three extra eyes on stalks that provide
+truesight to 60 feet.
+4
+Slashing or piercing damage to the creature spurts green bile
+onto any adjacent creatures, dealing 1d6 acid damage per
+proficiency bonus.
+5
+The creature grows a long tongue that can knock an adjacent
+creature prone as a bonus action unless it succeeds on a DC 10
+Strength saving throw.
+6
+Once injured, the creature goes berserk and has advantage on all
+melee attacks, but also grants advantage against melee attacks.
+7
+The creature gains immunity to one damage type, while
+gaining vulnerability to another.
+8
+The creature grows bloody wings and gains a fly speed equal
+to its walking speed.
+9
+The creature’s natural weapons automatically score a critical
+hit on a hit, but also deal half the damage dealt from these
+attack to the creature itself.
+10
+The creature grows hard scales that add 2 to its AC, but it
+suffers disadvantage on all saving throws.
+11
+Upon reaching 0 hit points, the creature explodes in a shower
+of gore, blinding all creatures with 20 feet for one round unless
+they succeed on a DC 15 Dexterity saving throw.
+12
+Roll twice, ignoring duplicates.

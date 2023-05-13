@@ -1,0 +1,26 @@
+18
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+A
+GM Advice:
+ In campaigns where humanoid beings like 
+humans are a main foe, GMs may often find that there is a 
+lack of diverse humanoid foes. In cases when this happens, 
+reskinning monsters is a valuable tool. Reskinning simply 
+means taking an existing monster, keeping the statistics 
+exactly the same, but describing the creature and its 
+abilities in a different way to match the needed foe. 
+Any of the arcanists here, or any of the other humanoid 
+monsters in this book, are easy to reskin.
+An inquisitor hunter can be used to represent any hunter-type 
+NPC. Inquisitor priests can be a stand-in for any creature 
+or humanoid that uses both weapons and magic. Knights 
+can be altered to represent any powerful armored foe. 
+The underlying math works, regardless of how you describe 
+the attacks or the spells that the enemy uses.

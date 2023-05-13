@@ -1,0 +1,88 @@
+14
+G
+rim
+ H
+ollow
+m
+onster
+ G
+rimoire
+A
+Arcane Anomalies
+“The disheveled interior of the wizard’s workshop hints 
+at arcane experiments gone wrong. Remnants of arcane 
+components litter the room. And now they’re moving!”
+Careless Magic
+. The Arcanist Inquisition contends that 
+all magic is dangerous, not just that wielded by demons 
+and nefarious sorcerers. Their blanket denunciation of all 
+mages might be harsh, but their zealous belief in the perils 
+of magic isn’t unfounded. Even a well-meaning mage can 
+invite catastrophe with a slip of the tongue, a misaligned 
+gesture, or momentary lapse in concentration.
+Arcane anomalies, as some mages euphemistically 
+call them, are one such product of careless magic. Ritual 
+objects used in particularly powerful spells, when not 
+disposed of properly, can gain a malevolent sentience. 
+Many an apprentice has learned the hard way that “Go 
+wash up!” is not only a chore, but an essential safety 
+practice. As one might imagine, water is a particular 
+weakness of all arcane anomalies.
+Tallow Toad
+. Candles for ritual purposes are often 
+made of strange waxes mixed with rare oils and herbs. 
+Once a ritual is complete, unless ground up or melted 
+down, these candles can transform into toad-like 
+lumps of wax that wield tongues of flame and have an 
+unquenchable desire to burn.
+Chalk Chatterling
+. Chalk pentagrams and runes must 
+be scrubbed after use, for even faint traces can birth a 
+chalk chatterling, a tiny whirlwind of colored chalk dust 
+that incessantly squeals the sounds its original markings 
+were meant to signify.
+Inkfester
+. Woe to any wizard who fails to pay attention 
+to the expiration of their magical inks. If left untreated, 
+old ink coalesces into bizarre two-dimensional creatures 
+that masquerade as graffiti and psychically hurt victims 
+through disturbing glyphs and imagery. These creatures 
+can detach from walls, transforming into clouds of liquid 
+ink to dissolve and drown unwary victims.
+salvage
+The arcane components that birthed an anomaly are 
+irrevocably ruined. However, a defeated anomaly might 
+yield a small quantity of useful material.
+A tallow toad leaves behind a lump of warming wax. 
+One lump can be rubbed onto a single small or medium 
+creature’s skin to provide cold resistance for 1 hour.
+Dust collected from a chalk chatterling can be 
+incorporated into a ritual spell to halve its casting time. 
+The caster uses some of the magic imbued in the chalk.
+The residue an inkfester leaves behind can be turned 
+into a tarry liquid that mimics the effect of a 
+darkness
+ spell 
+but requires no concentration. The brewer of this substance 
+must have proficiency with alchemist’s supplies and 
+succeed on a DC 15 Intelligence check with 1 hour of 
+brewing. Success produces a vial of the tar, which acti-
+vates upon exposure to air. Failure by 5 or more causes an 
+effect mimicking an inkfester’s 
+death burst
+ ability.
+lore
+DC 10 Intelligence (Arcana)
+: Arcane anomalies are 
+constructs immune to poison and being charmed.
+DC 15 Intelligence (Arcana)
+: The tallow toad can spit 
+hot wax that must be removed, or it continues to blister 
+skin. Coming too close to a chalk chatterling can make 
+spellcasting difficult. An inkfester can psychically assault 
+the mind in one form or, in another, surround and consume 
+victims. All these anomalies explode when destroyed.
+DC 20 Intelligence (Arcana)
+: Immersing any arcane 
+anomaly in water hurts it. Wizards frequently scrub their 
+laboratories clean to prevent these beings from emerging.

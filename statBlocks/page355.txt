@@ -1,0 +1,65 @@
+===
+Vooran
+Tiny fey, chaotic neutral
+Armor Class 13
+Hit Points 2 (1d4)
+Speed 0 ft., fly 40 ft. (hover)
+str dex con int wis cha
+ 5 (-3) 16 (+3) 10 (+0) 8 (–1) 12 (+1) 11 (+0)
+Skills
+Perception +1, Stealth +5
+Damage Resistances
+acid, fire, lightning, thunder; bludg-
+eoning, piercing, and slashing from nonmagical attacks
+Damage Immunities cold, necrotic, poison
+Condition Immunities charmed, exhaustion,
+frightened, grappled, paralyzed, petrified, poisoned,
+prone, restrained
+Senses darkvision 60 ft., passive Perception 11
+Languages understands Sylvan but can’t speak
+Challenge 1/8 (25 XP)
+Proficiency Bonus +2
+Ethereal Sight
+. The vooran can see 60 feet into the
+Ethereal Plane when on other planes, and vice versa.
+Etherealness
+. The vooran lives entirely on the Ethereal
+Plane and can only enter other planes by possessing an
+animal. It is not visible outside of the Ethereal Plane.
+Incorporeal Movement
+. The vooran can move
+through other creatures and objects as if they were
+difficult terrain. It takes 5 (1d10) force damage if it ends
+its turn inside an object.
+Familiar
+. A vooran can connect with another creature
+to serve as a familiar, forming a telepathic bond with its
+willing master. While the two are bonded, the master can
+sense what the vooran senses if they are within 1 mile of
+each other. When bonded, the master can see the vooran
+as a ghostly form.
+actions
+Animal Possession (1/Day)
+. One beast of CR 1/8
+or less that the vooran can see within 5 feet of it must
+succeed on a DC 12 Charisma saving throw or be pos-
+sessed by the vooran. The vooran disappears, and the
+target is incapacitated and loses control of its body. The
+vooran now controls the body but doesn’t deprive the
+target of awareness. The vooran can’t be targeted by any
+attack, spell, or other effect, and it retains its alignment,
+Intelligence, Wisdom, Charisma, and immunity to being
+charmed and frightened. It otherwise uses the possessed
+target’s statistics, but doesn’t gain access to the target’s
+knowledge, mental features, or proficiencies.
+The possession lasts until the body drops to 0 hit
+points, the vooran ends it as a bonus action, 1 hour
+passes, or the vooran is forced out by an effect. When
+the possession ends, the vooran is forced back into the
+Ethereal Plane. The target is immune to this vooran’s
+Animal Possession for 24 hours after succeeding on the
+saving throw or after the possession ends. If an animal
+is killed while the vooran possesses it, the vooran
+must succeed on a DC 10 Charisma saving throw or it is
+permanently destroyed instead of being forced into the
+Ethereal Plane.

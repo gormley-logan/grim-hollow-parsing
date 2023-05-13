@@ -1,0 +1,125 @@
+===
+Windborn Troll Infiltrator
+Large giant, neutral evil
+Armor Class 16 (natural armor)
+Hit Points 136 (13d10 + 65)
+Speed 40 ft.
+str dex con int wis cha
+ 19 (+4) 18 (+4) 20 (+5) 12 (+1) 14 (+2) 9 (–1)
+Skills
+Perception +5, Stealth +7
+Damage Resistances
+lightning, thunder
+Senses darkvision 60 ft., passive Perception 15
+Languages Giant
+Challenge 8 (3,900 XP)
+Proficiency Bonus +3
+Cunning Action.
+The troll can use a bonus action to
+take the Dash, Disengage, or Hide action.
+Flexible.
+The troll can enter a space large enough for a
+Medium creature without squeezing.
+Keen Smell.
+The troll has advantage on Wisdom
+(Perception) checks that rely on smell.
+Magic Weapons
+.
+The troll’s weapon attacks are magical.
+Regeneration.
+The troll regains 10 hit points at the
+start of its turn. If the troll takes fire or acid damage, this
+trait doesn’t function at the start of the troll’s next turn.
+The troll dies only if it starts its turn with 0 hit points
+and doesn’t regenerate.
+Sneak Attack (1/Turn).
+The troll deals an extra
+10 (3d6) damage when it hits a target with a weapon
+attack and has advantage on the attack roll, or when the
+target is within 5 feet of an ally of the troll’s that isn’t
+incapacitated and the troll doesn’t have disadvantage on
+the attack roll.
+Windborn Step.
+As a bonus action, the troll can
+teleport up to 40 feet to an unoccupied space, provided
+its starting space and destination space are obscured by
+mist or similar airborne particles, dim light, or darkness.
+actions
+Multiattack
+.
+The troll makes three attacks.
+Bite.
+Melee Weapon Attack: +7 to hit, reach 5 ft., one
+target.
+Hit: 8 (1d8 + 4) piercing damage and 5 (2d4)
+lightning damage.
+Claw.
+Melee Weapon Attack: +7 to hit, reach 5 ft., one
+target.
+Hit: 13 (2d8 + 4) slashing damage.
+Hurl Lightning.
+Ranged Spell Attack
+: +5 to hit, range 40/120 ft., one target.
+Hit
+: 11 (2d10) lightning damage. Invisibility (Recharges after a Short or Long
+Rest).
+The troll magically turns invisible until it attacks
+or until its concentration ends (as if concentrating on
+a spell). Any equipment the troll wears or carries is
+invisible with it.
+Shadow Play (2/Day).
+The troll creates an illusion
+like those created with a
+minor illusion, silent image,
+or
+major image
+spell. The DC to discern these illusions for
+what they are is 13.
+===
+Windborn Troll
+Large giant, neutral evil
+Armor Class 15 (natural armor)
+Hit Points 105 (10d10 + 50)
+Speed 40 ft.
+str dex con int wis cha
+ 18 (+4) 16 (+3) 20 (+5) 11 (+0) 10 (+0) 9 (–1)
+Skills
+Perception +3, Stealth +6
+Damage Resistances
+lightning, thunder
+Senses darkvision 60 ft., passive Perception 13
+Languages Giant
+Challenge 6 (2,300 XP)
+Proficiency Bonus +3
+Flexible.
+The troll can enter a space large enough for a
+Medium creature without squeezing.
+Keen Smell.
+The troll has advantage on Wisdom
+(Perception) checks that rely on smell.
+Lightfooted.
+The troll can use a bonus action to take
+the Dash or Disengage action.
+Regeneration.
+The troll regains 10 hit points at the
+start of its turn. If the troll takes fire or acid damage, this
+trait doesn’t function at the start of the troll’s next turn.
+The troll dies only if it starts its turn with 0 hit points and
+doesn’t regenerate.
+Standing Leap.
+The troll’s long jump is up to 40 feet
+and its high jump is up to 20 feet, with or without a
+running start.
+actions
+Multiattack
+.
+The troll makes three attacks: one with its bite and two with its claws.
+Bite.
+Melee Weapon Attack: +7 to hit, reach 5 ft., one
+target.
+Hit: 8 (1d8 + 4) piercing damage and 5 (2d4)
+lightning damage.
+Claw.
+Melee Weapon Attack: +7 to hit, reach 5 ft., one
+target.
+Hit: 13 (2d8 + 4) slashing damage.

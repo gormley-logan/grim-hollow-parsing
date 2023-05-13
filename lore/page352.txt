@@ -1,0 +1,62 @@
+V
+Vessel Shard
+This ornate vessel gives off cold menace as it 
+hovers in the air among shambling corpses.
+Failed Lichdom
+. Many necromancers dream of tran-
+scending death and entering lichdom, but only a handful 
+attempt the process. Fewer still succeed. Of the failures, a tiny 
+percentage become vessel shards, incomplete, damaged 
+souls trapped within a lich’s soul vessel.
+No Body, Many Bodies
+. Unlike a complete lich, a 
+vessel shard does not retain control of its original body. 
+The entirety of its being is housed within the failure of a 
+soul vessel. The vessel shard can see, hear, and smell out 
+of this vessel, and it can fly for movement. But it has no 
+corporeality beyond the confines of this vessel.
+However, a vessel shard remains a fearsome commander 
+of lesser undead, able to summon and bend them to its 
+will. A vessel shard is rarely found without a small 
+detachment of zombies, skeletons, ghouls, or the like 
+serving it. A poetic student of undeath might consider 
+these creatures to be the vessel shard’s bodies, in a 
+certain regard.
+A Hungry Soul
+. Most people would agree that anyone 
+who wishes to enter lichdom must be maladjusted That 
+said, magical mishaps that tear the would-be lich’s soul 
+into pieces and imprisons them in a damaged soul vessel 
+create a form of obsession. Unlike liches, who can exist 
+in relative peace and isolation for centuries, vessel 
+shards are driven to kill and then consume the souls of 
+living things.
+Undead Nature
+. The vessel shard is undead; it 
+requires no air, sleep, food, or drink.
+salvage
+If the essence of a defeated vessel shard is dissolved in a 
+vial of holy water, the water transforms into an elixir that 
+can be poured into a corpse’s mouth, acting as a 
+speak 
+with dead
+ spell that requires no other components. The 
+corpse understands anything asked of it in any language, 
+and the corpse’s responses can be understood by any 
+who can hear it.
+Also, a vessel shard usually contains a jewel that is 
+flawed but still worth at least 50 gp.
+lore
+DC 10 Intelligence (Religion or Arcana)
+: A vessel 
+shard bolsters undead near it, making them better at 
+fighting and more resistant.
+DC 15 Intelligence (Religion or Arcana)
+: A vessel 
+shard can expel fragments of spirits to possess nearby 
+victims. (Those who know this fact also know how to 
+treat the cursed possession.)
+DC 20 Intelligence (Religion or Arcana)
+: A vessel 
+shard can raise undead by various means. It can also 
+consume the power of death to regain vitality.
